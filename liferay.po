@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-09 15:14+0100\n"
+"PO-Revision-Date: 2007-08-09 17:03+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -285,7 +285,7 @@ msgstr "Wiadomości"
 
 #. Loan Calculator
 msgid "javax.portlet.title.61"
-msgstr "Loan Calculator"
+msgstr "Kalkulator pożyczek"
 
 #. Journal Articles
 msgid "javax.portlet.title.62"
@@ -301,15 +301,15 @@ msgstr "Zegar analogowy"
 
 #. Web Proxy
 msgid "javax.portlet.title.66"
-msgstr "Web Proxy"
+msgstr "Proxy WWW"
 
 #. Amazon Rankings
 msgid "javax.portlet.title.67"
-msgstr "Amazon Rankings"
+msgstr "Rankingi Amazona"
 
 #. WSRP Proxy
 msgid "javax.portlet.title.68"
-msgstr "WSRP Proxy"
+msgstr "Proxy WSRP"
 
 #. Hello Laszlo
 msgid "javax.portlet.title.69"
@@ -337,7 +337,7 @@ msgstr "Przeszukiwanie zawartości żurnala"
 
 #. Comic
 msgid "javax.portlet.title.78"
-msgstr "Comic"
+msgstr "Komiks"
 
 #. Enterprise Admin
 msgid "javax.portlet.title.79"
@@ -353,7 +353,7 @@ msgstr "Administracja organizacją"
 
 #. Countdown
 msgid "javax.portlet.title.81"
-msgstr "Countdown"
+msgstr "Odliczanie"
 
 #. Language
 msgid "javax.portlet.title.82"
@@ -389,7 +389,7 @@ msgstr "Portal"
 
 #. Alfresco Content
 msgid "javax.portlet.title.91"
-msgstr "Alfresco Content"
+msgstr "Zawartość Alfresco"
 
 #. Workflow
 msgid "javax.portlet.title.93"
@@ -563,11 +563,11 @@ msgstr "Grupa użytkowników"
 
 #. Blogs Category
 msgid "model.resource.com.liferay.portlet.blogs.model.BlogsCategory"
-msgstr "Kategoria blogu"
+msgstr "Kategoria bloga"
 
 #. Blogs Entry
 msgid "model.resource.com.liferay.portlet.blogs.model.BlogsEntry"
-msgstr "Wpis blogu"
+msgstr "Wpis bloga"
 
 #. Bookmarks Entry
 msgid "model.resource.com.liferay.portlet.bookmarks.model.BookmarksEntry"
@@ -822,7 +822,7 @@ msgstr "Zarządzaj"
 
 #. Approve Article
 msgid "action.APPROVE_ARTICLE"
-msgstr "Zatwierd artykuł"
+msgstr "Zatwierdź artykuł"
 
 #. Assign Users
 msgid "action.ASSIGN_USERS"
@@ -906,7 +906,7 @@ msgstr "Drukuj"
 
 #. Signal
 msgid "action.SIGNAL"
-msgstr "Signal"
+msgstr "Sygnał"
 
 #. Subscribe
 msgid "action.SUBSCRIBE"
@@ -1005,7 +1005,7 @@ msgstr "800 na 600 pikseli"
 # Inbox
 #. Inbox
 msgid "INBOX"
-msgstr "Inbox"
+msgstr "Skrzynka odbiorcza"
 
 #. A map could not be found for the address:
 msgid "a-map-could-not-be-found-for-the-address"
@@ -1033,7 +1033,7 @@ msgstr "Odmowa dostępu"
 
 #. Accessed URLs
 msgid "accessed-urls"
-msgstr "Accessed URLs"
+msgstr "Odwiedzane adresy URL"
 
 #. Account Created Notification
 msgid "account-created-notification"
@@ -1056,6 +1056,7 @@ msgid "action"
 msgstr "Akcja"
 
 #. Activate Staging
+#, fuzzy
 msgid "activate-staging"
 msgstr "Aktywuj Staging"
 
@@ -1213,7 +1214,7 @@ msgstr "Dodaj wersję frameworku"
 
 #. Add hangman words separated by commas.
 msgid "add-hangman-words-separated-by-commas"
-msgstr "Add hangman words separated by commas."
+msgstr "Dodaj wyrazy dla gry \"Wisielec\" oddzielone przecinkami."
 
 #. Add Image
 msgid "add-image"
@@ -1521,7 +1522,7 @@ msgstr "Wszystkie zamówienia"
 
 #. All pages will use the exported theme.
 msgid "all-pages-will-use-the-exported-theme"
-msgstr "Wszystkie strony będą używac wyeksportowany motyw."
+msgstr "Wszystkie strony będą używać wyeksportowanego motywu."
 
 #. All Pages
 msgid "all-pages"
@@ -1621,19 +1622,19 @@ msgstr "Podczas inicjalizacji konsumenta Open ID wystąpił błąd."
 
 #. An error occurred while parsing your XML. Please check the syntax of your XML.
 msgid "an-error-occurred-while-parsing-your-xml-please-check-the-syntax-of-your-xml"
-msgstr "Podczas parsowania XMLa wystąpił błąd. Sprawd poprawność jego składni."
+msgstr "Podczas parsowania XML-a wystąpił błąd. Sprawdź poprawność jego składni."
 
 #. An error occurred while processing your XML and XSL.
 msgid "an-error-occurred-while-processing-your-xml-and-xsl"
-msgstr "Podczas przetwarzania twoje XMLa i XSLa wystąpił błąd."
+msgstr "Podczas przetwarzania twojego XML-a i XSL-a wystąpił błąd."
 
 #. An unexpected database error occurred while querying the given city and state.
 msgid "an-unexpected-database-error-occurred-while-querying-the-given-city-and-state"
-msgstr "Podczas wyszykiwania podanego miasta i stanu występił niespodziewany błąd bazy danych."
+msgstr "Podczas wyszykiwania podanego miasta i stanu wystąpił niespodziewany błąd bazy danych."
 
 #. An unexpected database error occurred while querying the given street, city, and state.
 msgid "an-unexpected-database-error-occurred-while-querying-the-given-street-city-and-state"
-msgstr "Podczas wyszykiwania podanej ulicy, miasta i stanu występił niespodziewany błąd bazy danych."
+msgstr "Podczas wyszykiwania podanej ulicy, miasta i stanu wystąpił niespodziewany błąd bazy danych."
 
 #. An unexpected database error occurred while querying the given zip.
 msgid "an-unexpected-database-error-occurred-while-querying-the-given-zip"
@@ -1745,7 +1746,7 @@ msgstr "E-mail z prośbą o zatwierdzenie"
 
 #. Approve
 msgid "approve"
-msgstr "Zatwierd"
+msgstr "Zatwierdź"
 
 #. Approved
 msgid "approved"
@@ -2120,6 +2121,7 @@ msgid "author"
 msgstr "Autor"
 
 #. Auto Deploy
+#, fuzzy
 msgid "auto-deploy"
 msgstr "Auto Deploy"
 
@@ -2165,7 +2167,7 @@ msgstr "Średnia"
 
 #. Back to Top
 msgid "back-to-top"
-msgstr "Przejd na górę"
+msgstr "Przejdź na górę"
 
 #. Back to Vote
 msgid "back-to-vote"
@@ -2229,7 +2231,7 @@ msgstr "BCC"
 
 #. Be sure to {0}browse{1} our guestbook for the latest entries!
 msgid "be-sure-to-browse-our-guestbook-for-the-latest-entries"
-msgstr "Be sure to {0}browse{1} our guestbook for the latest entries!"
+msgstr "Pamiętaj, by {0}przejrzeć{1} najnowsze wpisy w naszej księdze gości!"
 
 #. before, and again
 msgid "before-and-again"
@@ -2309,7 +2311,7 @@ msgstr "Książka"
 
 #. Boolean Flag
 msgid "boolean-flag"
-msgstr "Flaga boolowska"
+msgstr "Flaga logiczna"
 
 #. Border Color
 msgid "border-color"
@@ -2418,7 +2420,7 @@ msgstr "Bajtów"
 
 #. Cached
 msgid "cached"
-msgstr "Zcache'owane"
+msgstr "W pamięci podręcznek"
 
 #. Calculate a flat insurance amount based on the total amount of the purchase.
 msgid "calculate-a-flat-insurance-amount-based-on-the-total-amount-of-the-purchase"
@@ -2454,7 +2456,7 @@ msgstr "Anuluj"
 
 #. {0} cannot be found.
 msgid "cannot-be-found"
-msgstr "Nie można znaleć {0}."
+msgstr "Nie można znaleźć {0}."
 
 #. Cart
 msgid "cart"
@@ -2582,15 +2584,15 @@ msgstr "Czat"
 
 #. Check All
 msgid "check-all"
-msgstr "Sprawd wszystko"
+msgstr "Sprawdź wszystko"
 
 #. Check Every
 msgid "check-every"
-msgstr "Sprawd każdy"
+msgstr "Sprawdź każdy"
 
 #. Check Mail
 msgid "check-mail"
-msgstr "Sprawd pocztę"
+msgstr "Sprawdź pocztę"
 
 #. Checkout Latest
 msgid "checkout-latest"
@@ -2702,7 +2704,7 @@ msgstr "Wyczyść wszystko"
 
 #. Clear Cache
 msgid "clear-cache"
-msgstr "Clear Cache"
+msgstr "Wyczyść pamięć podręczną"
 
 #. Clear content cached across the cluster.
 msgid "clear-content-cached-across-the-cluster"
@@ -2714,7 +2716,7 @@ msgstr "Wyczyść zawartość zcacheowaną przez tą Maszynę Wirtualną."
 
 #. Clear the database cache.
 msgid "clear-the-database-cache"
-msgstr "Wyczyść cache bazy danych."
+msgstr "Wyczyść pamięć podręczną bazy danych."
 
 #. Click {0}here{1} to be yourself again.
 msgid "click-here-to-be-yourself-again"
@@ -2898,7 +2900,7 @@ msgstr "Konfiguruj"
 
 #. Confirm Password
 msgid "confirm-password"
-msgstr "Potwierd hasło"
+msgstr "Potwierdź hasło"
 
 #. Confirmation Email
 msgid "confirmation-email"
@@ -3074,7 +3076,7 @@ msgstr "Własny portlet.xml"
 
 #. Custom
 msgid "custom"
-msgstr "Custom"
+msgstr "Własny"
 
 #. Customer Service
 msgid "customer-service"
@@ -3310,7 +3312,7 @@ msgstr "Adres docelowy"
 
 #. Destination Input Enabled
 msgid "destination-input-enabled"
-msgstr "Destination Input Enabled"
+msgstr "Wejście docelowe włączone"
 
 #. Details
 msgid "details"
@@ -3350,7 +3352,7 @@ msgstr "Katalog"
 
 #. Disable Forwarding
 msgid "disable-forwarding"
-msgstr "Disable Forwarding"
+msgstr "Wyłącz przekazywanie"
 
 #. Disable
 msgid "disable"
@@ -3428,7 +3430,7 @@ msgstr "Wyświetlanie zawartości"
 
 #. DNS Lookup
 msgid "dns-lookup"
-msgstr "DNS Lookup"
+msgstr "Odpytywanie DNS"
 
 #. Do not repeat this event.
 msgid "do-not-repeat-this-event"
@@ -3645,7 +3647,7 @@ msgstr "Edytuj wiadomość"
 
 #. Edit Node
 msgid "edit-node"
-msgstr "Edytuje node"
+msgstr "Edytuj węzeł"
 
 #. Edit Organization
 msgid "edit-organization"
@@ -3782,7 +3784,7 @@ msgstr "Edytuj WIKI dla grupy:"
 
 #. Edit Wikis
 msgid "edit-wikis"
-msgstr "Edytuj WIKI"
+msgstr "Edytuj Wiki"
 
 #. Edit Local Preferences
 msgid "edit-wsrp-local-preferences"
@@ -3863,7 +3865,7 @@ msgstr "Osadzona"
 
 #. Employee ID
 msgid "employee-id"
-msgstr "Employee ID"
+msgstr "ID pracownika"
 
 #. Empty Cart
 msgid "empty-cart"
@@ -3936,7 +3938,7 @@ msgstr "Rodzaj szyfrowania"
 
 #. End At
 msgid "end-at"
-msgstr "End At"
+msgstr "Koniec o"
 
 #. End by
 msgid "end-by"
@@ -4102,11 +4104,11 @@ msgstr "Hiszpański na angielski"
 
 #. Estimated Duration
 msgid "estimated-duration"
-msgstr "Estimated Duration"
+msgstr "Szacowany czas trwania"
 
 #. Estimated End Date
 msgid "estimated-end-date"
-msgstr "Estimated End Date"
+msgstr "Szacowana data zakończenia"
 
 #. Event Information
 msgid "event-information"
@@ -4378,7 +4380,7 @@ msgstr "Find"
 
 #. Finished
 msgid "finished"
-msgstr "Zatwierd"
+msgstr "Zakończono"
 
 #. Firm Name
 msgid "firm-name"
@@ -4634,7 +4636,7 @@ msgstr "Get Quote"
 
 #. Gifts
 msgid "gifts"
-msgstr "Gifts"
+msgstr "Prezenty"
 
 #. Global tags are injected to all pages that you visit. They are used to personalize content so that tagged content you care about is automatically retrieved for you.
 #, fuzzy
@@ -4651,7 +4653,7 @@ msgstr "Go"
 
 #. Google&#39;s spelling suggestion for {0} is {1}.
 msgid "googles-spelling-suggestion-for"
-msgstr "Google&#39;s spelling suggestion for {0} is {1}."
+msgstr "Sugerowana przez Google&#39; pisownia {0} to {1}."
 
 #. Government
 msgid "government"
@@ -4711,11 +4713,11 @@ msgstr "Handbreath"
 
 #. Hangman Word List
 msgid "hangman-word-list"
-msgstr "Hangman Word List"
+msgstr "Lista słów Wisielca"
 
 #. Hangman
 msgid "hangman"
-msgstr "Hangman"
+msgstr "Wisielec"
 
 #. Happy Hour
 msgid "happy-hour"
@@ -4751,7 +4753,7 @@ msgstr "Witaj, {0}. Wcieliłeś się w użytkownika gość (guest)."
 
 #. Hi {0}. You are impersonating {1}.
 msgid "hi-x-you-are-impersonating-x"
-msgstr "Witaj, {0}. Wcieliłeś sie w użytkownika {1}."
+msgstr "Witaj, {0}. Wcieliłeś się w użytkownika {1}."
 
 #. Hidden Variables
 msgid "hidden-variables"
@@ -4814,7 +4816,7 @@ msgstr "Święto"
 
 #. Home Address
 msgid "home-address"
-msgstr "Home Address"
+msgstr "Adres domowy"
 
 #. Home
 msgid "home"
@@ -4822,11 +4824,11 @@ msgstr "Strona główna"
 
 #. Horizontal Bar
 msgid "horizontal-bar"
-msgstr "Horizontal Bar"
+msgstr "Pasek poziomy"
 
 #. Horizontal Separator
 msgid "horizontal-separator"
-msgstr "Horizontal Separator"
+msgstr "Separator poziomy"
 
 #. Hot Deploy
 msgid "hot-deploy"
@@ -4858,7 +4860,7 @@ msgstr "W jaki sposób użytkownicy są uwierzytelniani?"
 
 #. HTML Attributes
 msgid "html-attributes"
-msgstr "HTML Attributes"
+msgstr "Atrybuty HTML"
 
 #. HTML Title
 msgid "html-title"
@@ -5166,7 +5168,7 @@ msgstr "Is this article template driven?"
 
 #. Is this template attached to a structure?
 msgid "is-this-template-attached-to-a-structure"
-msgstr "Is this template attached to a structure?"
+msgstr "Czy ten szablon jest przypisany do struktury?"
 
 #. ISBN
 msgid "isbn"
@@ -5178,7 +5180,7 @@ msgstr "Italian to English"
 
 #. Italian
 msgid "italian"
-msgstr "Italian"
+msgstr "Włoski"
 
 #. Italic
 msgid "italic"
@@ -5302,19 +5304,19 @@ msgstr "Język"
 
 #. Large Image URL
 msgid "large-image-url"
-msgstr "Large Image URL"
+msgstr "Adres URL dużego obrazka"
 
 #. Large Image
 msgid "large-image"
-msgstr "Large Image"
+msgstr "Duży obrazek"
 
 #. Large Rectangle
 msgid "large-rectangle"
-msgstr "Large Rectangle"
+msgstr "Duży prostokąt"
 
 #. Larger
 msgid "larger"
-msgstr "Larger"
+msgstr "Większy"
 
 #. Laser
 msgid "laser"
@@ -5322,11 +5324,11 @@ msgstr "Laser"
 
 #. Last Checked
 msgid "last-checked"
-msgstr "Last Checked"
+msgstr "Ostatnio sprawdzone"
 
 #. Last login:
 msgid "last-login"
-msgstr "Last login:"
+msgstr "Ostatnie logowanie:"
 
 #. Last Message
 msgid "last-message"
@@ -5362,7 +5364,7 @@ msgstr "Last Trade"
 
 #. Last Update Date
 msgid "last-update-date"
-msgstr "Last Update Date"
+msgstr "Data ostatniej aktualizacji"
 
 #. Last Vote Date
 msgid "last-vote-date"
@@ -5470,7 +5472,7 @@ msgstr "Typ prawny"
 
 #. Legend
 msgid "legend"
-msgstr "Legend"
+msgstr "Legenda"
 
 #. Length
 msgid "length"
@@ -5518,11 +5520,11 @@ msgstr "Odnośnik do strony"
 
 #. Link
 msgid "link"
-msgstr "Link"
+msgstr "Odnośnik"
 
 #. Links
 msgid "links"
-msgstr "Links"
+msgstr "Odnośniki"
 
 #. List All
 msgid "list-all"
@@ -5572,11 +5574,11 @@ msgstr "Location Profile"
 
 #. Location
 msgid "location"
-msgstr "Lokalizacja"
+msgstr "Położenie"
 
 #. Locations
 msgid "locations"
-msgstr "Lokalizacje"
+msgstr "Położenia"
 
 #. Lock
 msgid "lock"
@@ -5639,7 +5641,7 @@ msgstr "Długi opis"
 
 #. Long Text
 msgid "long-text"
-msgstr "Long Text"
+msgstr "Długi tekst"
 
 #. Look and Feel
 msgid "look-and-feel"
@@ -5659,7 +5661,7 @@ msgstr "Lunch"
 
 #. Mail Display Settings
 msgid "mail-display-settings"
-msgstr "Mail Display Settings"
+msgstr "Ustawienia wyświetlania poczty"
 
 #. Mail Domain
 msgid "mail-domain"
@@ -5793,7 +5795,7 @@ msgstr "Maksymalna ilość pamięci"
 
 #. Maximum
 msgid "maximum"
-msgstr "Maximum"
+msgstr "Maksimum"
 
 #. Me
 msgid "me"
@@ -5801,15 +5803,15 @@ msgstr "Me"
 
 #. Medium Image URL
 msgid "medium-image-url"
-msgstr "Medium Image URL"
+msgstr "Adres URL średniego obrazka"
 
 #. Medium Image
 msgid "medium-image"
-msgstr "Medium Image"
+msgstr "Średni obrazek"
 
 #. Medium Rectangle
 msgid "medium-rectangle"
-msgstr "Medium Rectangle"
+msgstr "Średni prostokąt"
 
 #. Meeting
 msgid "meeting"
@@ -5833,27 +5835,27 @@ msgstr "Scal z nadrzędnym folderem"
 
 #. Message Added Email
 msgid "message-added-email"
-msgstr "Message Added Email"
+msgstr "E-mail o dodaniu wiadomości"
 
 #. Message Headers
 msgid "message-headers"
-msgstr "Message Headers"
+msgstr "Nagłówki wiadomości"
 
 #. Message List
 msgid "message-list"
-msgstr "Message List"
+msgstr "Lista wiadomości"
 
 #. Message Recipients Limit
 msgid "message-recipients-limit"
-msgstr "Message Recipients Limit"
+msgstr "Limit odbiorców wiadomości"
 
 #. Message Thread
 msgid "message-thread"
-msgstr "Message Thread"
+msgstr "Wątek wiadomości"
 
 #. Message Updated Email
 msgid "message-updated-email"
-msgstr "Message Updated Email"
+msgstr "E-mail o zaktualizowaniu wiadomości"
 
 #. Message
 msgid "message"
@@ -5865,11 +5867,11 @@ msgstr "Messages Per Inbox Preview"
 
 #. Messages Per Page
 msgid "messages-per-page"
-msgstr "Messages Per Page"
+msgstr "Liczba wiadomości na stronie"
 
 #. Messages
 msgid "messages"
-msgstr "Messages"
+msgstr "Wiadomości"
 
 #. Meta Description
 msgid "meta-description"
@@ -5889,15 +5891,15 @@ msgstr "Meta Tags"
 
 #. Meter
 msgid "meter"
-msgstr "Meter"
+msgstr "Metr"
 
 #. Method
 msgid "method"
-msgstr "Method"
+msgstr "Metoda"
 
 #. Microsoft Outlook (.CSV file)
 msgid "microsoft-outlook-csv-file"
-msgstr "Microsoft Outlook (.CSV file)"
+msgstr "Microsoft Outlook (plik .CSV)"
 
 #. Microsoft Outlook:
 msgid "microsoft-outlook"
@@ -5909,11 +5911,11 @@ msgstr "Drugie imię"
 
 #. Mile
 msgid "mile"
-msgstr "Mile"
+msgstr "Mila"
 
 #. Millimeter
 msgid "millimeter"
-msgstr "Millimeter"
+msgstr "Millimetr"
 
 #. Min Qty
 msgid "min-qty"
@@ -6017,7 +6019,7 @@ msgstr "Miesiąc"
 
 #. Monthly Payment
 msgid "monthly-payment"
-msgstr "Monthly Payment"
+msgstr "Płatność miesięczna"
 
 #. Monthly
 msgid "monthly"
@@ -6261,11 +6263,11 @@ msgstr "Nie znaleziono żadnych społeczności."
 
 #. No coupons were found.
 msgid "no-coupons-were-found"
-msgstr "No coupons were found."
+msgstr "Nie znaleziono kuponów."
 
 #. No definitions were found.
 msgid "no-definitions-were-found"
-msgstr "No definitions were found."
+msgstr "Nie znaleziono definicji."
 
 #. No documents were found that matched the keywords: {0}.
 msgid "no-documents-were-found-that-matched-the-keywords-x"
@@ -6289,11 +6291,11 @@ msgstr "Brak daty zakończenia"
 
 #. No entries were found that matched the keywords: {0}.
 msgid "no-entries-were-found-that-matched-the-keywords-x"
-msgstr "No entries were found that matched the keywords: {0}."
+msgstr "Nie znaleziono wpisów pasujących do słów kluczowych: {0}."
 
 #. No entries were found that matched the keywords:
 msgid "no-entries-were-found-that-matched-the-keywords"
-msgstr "No entries were found that matched the keywords:"
+msgstr "Nie znaleziono wpisów pasujących do słów kluczowych: "
 
 #. No groups were found.
 msgid "no-groups-were-found"
@@ -6301,15 +6303,15 @@ msgstr "Nie znaleziono grup."
 
 #. No information was found associated with the symbol <b>{0}</b>.
 msgid "no-information-was-found-associated-with-the-symbol-x"
-msgstr "No information was found associated with the symbol <b>{0}</b>."
+msgstr "Nie znaleziono informacji powiązanych z symbolem <b>{0}</b>."
 
 #. No instances were found.
 msgid "no-instances-were-found"
-msgstr "No instances were found."
+msgstr "Nie znaleziono instancji."
 
 #. No items were found that matched the keywords:
 msgid "no-items-were-found-that-matched-the-keywords"
-msgstr "No items were found that matched the keywords:"
+msgstr "Nie znaleziono elementów pasujących do słów kluczowych:"
 
 #. No locations were found.
 msgid "no-locations-were-found"
@@ -6325,7 +6327,7 @@ msgstr "Nie znaleziono wiadomości odpowiadających: {0}."
 
 #. No orders were found.
 msgid "no-orders-were-found"
-msgstr "No orders were found."
+msgstr "Nie znaleziono zamówień."
 
 #. No organizations were found.
 msgid "no-organizations-were-found"
@@ -6400,23 +6402,23 @@ msgstr "Nie"
 
 #. Node ID
 msgid "node-id"
-msgstr "Node ID"
+msgstr "ID węzła"
 
 #. Node
 msgid "node"
-msgstr "Node"
+msgstr "Węzeł"
 
 #. Nodes require at least one read role.
 msgid "nodes-require-at-least-one-read-role"
-msgstr "Nodes require at least one read role."
+msgstr "Węzły wymagają przynajmniej jednej roli odczytu."
 
 #. Nodes require at least one write role.
 msgid "nodes-require-at-least-one-write-role"
-msgstr "Nodes require at least one write role."
+msgstr "Węzły wymagają przynajmniej jednej roli zapisu."
 
 #. Nodes
 msgid "nodes"
-msgstr "Nodes"
+msgstr "Węzły"
 
 #. None
 msgid "none"
@@ -6449,7 +6451,7 @@ msgstr "Nie zainstalowany"
 
 #. Notes
 msgid "notes"
-msgstr "Notes"
+msgstr "Notatki"
 
 #. Notify By
 msgid "notify-by"
@@ -6461,7 +6463,7 @@ msgstr "Powiadom nowych użytkowników"
 
 #. Notify
 msgid "notify"
-msgstr "Notify"
+msgstr "Powiadom"
 
 #. NTLM Enabled
 msgid "ntlm-enabled"
@@ -6505,11 +6507,11 @@ msgstr "Liczba obrazków"
 
 #. #. of Items Per Channel
 msgid "num-of-items-per-channel"
-msgstr "# of Items Per Channel"
+msgstr "Liczba elementów w kanale"
 
 #. #. of Items
 msgid "num-of-items"
-msgstr "# of Items"
+msgstr "Liczba elementów"
 
 #. #. of Pages
 msgid "num-of-pages"
@@ -6565,7 +6567,7 @@ msgstr "Numery"
 
 #. Objects to Export
 msgid "objects-to-export"
-msgstr "Objects to Export"
+msgstr "Obiekty do wyeksportowania"
 
 #. of every
 msgid "of-every"
@@ -6585,7 +6587,7 @@ msgstr "Stara nazwa grupy jest wymaganą grupą systemową."
 
 #. Old Name
 msgid "old-name"
-msgstr "Old Name"
+msgstr "Stara nazwa"
 
 #. Old role name is a required system role.
 msgid "old-role-name-is-a-required-system-role"
@@ -6605,7 +6607,7 @@ msgstr "data"
 
 #. One Column
 msgid "one-column"
-msgstr "One Column"
+msgstr "Jedna kolumna"
 
 #. Online Now
 msgid "online-now"
@@ -6649,7 +6651,7 @@ msgstr "Otwarta"
 
 #. Optional
 msgid "optional"
-msgstr "Optional"
+msgstr "Opcjonalne"
 
 #. Options
 msgid "options"
@@ -6673,7 +6675,7 @@ msgstr "Rodzaj sortowania"
 
 #. Order Date
 msgid "order-date"
-msgstr "Order Date"
+msgstr "Data zamówienia"
 
 #. Order Email
 msgid "order-email"
@@ -6681,11 +6683,11 @@ msgstr "Order Email"
 
 #. Order
 msgid "order"
-msgstr "Order"
+msgstr "Zamówienie"
 
 #. Orders
 msgid "orders"
-msgstr "Orders"
+msgstr "Zamówienia"
 
 #. Organization Profile
 msgid "organization-profile"
@@ -6701,11 +6703,11 @@ msgstr "Organizacje"
 
 #. Original Text Indicator
 msgid "original-text-indicator"
-msgstr "Original Text Indicator"
+msgstr "Wskaznik tekstu oryginalnego"
 
 #. Orphan Pages
 msgid "orphan-pages"
-msgstr "Orphan Pages"
+msgstr "Strony osierocone"
 
 #. Other Information
 msgid "other-information"
@@ -6717,7 +6719,7 @@ msgstr "Pozostałe licencje"
 
 #. Other State
 msgid "other-state"
-msgstr "Other State"
+msgstr "Inny stan"
 
 #. Other
 msgid "other"
@@ -6733,7 +6735,7 @@ msgstr "Outgoing SMTP Server"
 
 #. Outside US
 msgid "outside-us"
-msgstr "Outside US"
+msgstr "Poza USA"
 
 #. Override Default Template
 #, fuzzy
@@ -6742,7 +6744,7 @@ msgstr "Format Template"
 
 #. Owner
 msgid "owner"
-msgstr "Owner"
+msgstr "Właściciel"
 
 #. Package
 msgid "package"
@@ -6794,11 +6796,11 @@ msgstr "Paint"
 
 #. Parent Category
 msgid "parent-category"
-msgstr "Parent Category"
+msgstr "Kategoria nadrzędna"
 
 #. Parent Folder
 msgid "parent-folder"
-msgstr "Parent Folder"
+msgstr "Folder nadrzędny"
 
 #. Parent
 msgid "parent"
@@ -6908,11 +6910,11 @@ msgstr "Uprawnienia"
 
 #. Person
 msgid "person"
-msgstr "Person"
+msgstr "Osoba"
 
 #. Personal
 msgid "personal"
-msgstr "Personal"
+msgstr "Osobiste"
 
 #. Personalize Pages
 msgid "personalize-pages"
@@ -7063,9 +7065,8 @@ msgid "please-enter-a-title"
 msgstr "Proszę wprowadzić tytuł."
 
 #. Please enter a unique code.
-#, fuzzy
 msgid "please-enter-a-unique-code"
-msgstr "Please enter a unique id."
+msgstr "Wprowadź unikalny kod."
 
 #. Please enter a unique document name.
 msgid "please-enter-a-unique-document-name"
@@ -7120,9 +7121,8 @@ msgid "please-enter-a-valid-city"
 msgstr "Please enter a valid city."
 
 #. Please enter a valid code.
-#, fuzzy
 msgid "please-enter-a-valid-code"
-msgstr "Please enter a valid body."
+msgstr "Wprowadź prawidłowy kod."
 
 #. Please enter a valid country.
 msgid "please-enter-a-valid-country"
@@ -7249,9 +7249,8 @@ msgid "please-enter-a-valid-login"
 msgstr "Wprowad poprawny login."
 
 #. Please enter a valid mail domain.
-#, fuzzy
 msgid "please-enter-a-valid-mail-domain"
-msgstr "Wprowad poprawny login."
+msgstr "Wprowadź prawidłową domenę poczty."
 
 #. Please enter a valid message.
 msgid "please-enter-a-valid-message"
@@ -7375,14 +7374,12 @@ msgid "please-enter-a-valid-user-id"
 msgstr "Please enter a valid user ID."
 
 #. Please enter a valid virtual host.
-#, fuzzy
 msgid "please-enter-a-valid-virtual-host"
-msgstr "Please enter a unique virtual host."
+msgstr "Wprowadź prawidłowy host wirtualny."
 
 #. Please enter a valid web ID.
-#, fuzzy
 msgid "please-enter-a-valid-web-id"
-msgstr "Wprowad poprawne ID."
+msgstr "Wprowadź poprawne Web ID."
 
 #. Please enter a valid XML url.
 #, fuzzy
@@ -8471,9 +8468,8 @@ msgid "search-nodes"
 msgstr "Search Nodes"
 
 #. Search Operator
-#, fuzzy
 msgid "search-operator"
-msgstr "Szukaj w folderze"
+msgstr "Operator wyszukiwania"
 
 #. Search Products
 msgid "search-products"
@@ -10673,9 +10669,8 @@ msgid "vacation"
 msgstr "Wakacje"
 
 #. Validate URL
-#, fuzzy
 msgid "validate-url"
-msgstr "URL miniaturki"
+msgstr "Sprawdź poprawność adresu URL"
 
 #. Value
 msgid "value"
