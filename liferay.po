@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-09 14:20+0100\n"
+"PO-Revision-Date: 2007-08-09 14:45+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -7996,7 +7996,7 @@ msgstr "Ostatnie"
 
 #. Recipient
 msgid "recipient"
-msgstr "Recipient"
+msgstr "Odbiorca"
 
 #. Recipients
 #, fuzzy
@@ -8009,7 +8009,7 @@ msgstr "Zalecane licencje"
 
 #. Recommended
 msgid "recommended"
-msgstr "Recommended"
+msgstr "Zalecane"
 
 #. Recur every
 msgid "recur-every"
@@ -8041,7 +8041,7 @@ msgstr "Region"
 
 #. Register
 msgid "register"
-msgstr "Register"
+msgstr "Zarejestruj"
 
 #. Registration Information
 msgid "registration-information"
@@ -8049,7 +8049,7 @@ msgstr "Registration Information"
 
 #. Registration Required
 msgid "registration-required"
-msgstr "Registration Required"
+msgstr "Wymagana rejestracja"
 
 #. Regular Browsers
 msgid "regular-browsers"
@@ -8061,7 +8061,7 @@ msgstr ""
 
 #. Reject
 msgid "reject"
-msgstr "Reject"
+msgstr "Odrzuć"
 
 #. Relative to Context Path
 msgid "relative-to-context-path"
@@ -8081,7 +8081,7 @@ msgstr "Przypomnienia"
 
 #. Remote Host/IP
 msgid "remote-host-ip"
-msgstr "Remote Host/IP"
+msgstr "Zdalny host/IP"
 
 #. Remove all entries to disable email forwarding.
 msgid "remove-all-entries-to-disable-email-forwarding"
@@ -8105,11 +8105,11 @@ msgstr "Removed in"
 
 #. Rename Group
 msgid "rename-group"
-msgstr "Rename Group"
+msgstr "Zmień nazwę grupy"
 
 #. Rename Role
 msgid "rename-role"
-msgstr "Rename Role"
+msgstr "Zmień nazwę roli"
 
 #. Repeat All Over
 #, fuzzy
@@ -8146,11 +8146,11 @@ msgstr "Powtarzanie"
 
 #. Reply All
 msgid "reply-all"
-msgstr "Reply All"
+msgstr "Odpowiedz wszystkim"
 
 #. Reply as Anonymous
 msgid "reply-as-anonymous"
-msgstr "Reply as Anonymous"
+msgstr "Odpowiedz anonimowo"
 
 #. Reply Related Settings
 msgid "reply-related-settings"
@@ -8182,11 +8182,11 @@ msgstr "Repositories require at least one write role."
 
 #. Repositories
 msgid "repositories"
-msgstr "Repositories"
+msgstr "Repozytoria"
 
 #. Repository
 msgid "repository"
-msgstr "Repository"
+msgstr "Repozytorium"
 
 #. Request Timeout
 msgid "request-timeout"
@@ -8241,7 +8241,7 @@ msgstr "Resend Shipping Email"
 
 #. Resend
 msgid "resend"
-msgstr "Resend"
+msgstr "Wyślij ponownie"
 
 #. Reserved Screen Names
 #, fuzzy
@@ -8267,7 +8267,7 @@ msgstr "Resetuj wartości"
 
 #. Reset
 msgid "reset"
-msgstr "Reset"
+msgstr "Resetuj"
 
 #. Resolution
 msgid "resolution"
@@ -8275,11 +8275,11 @@ msgstr "Rozdzielczość"
 
 #. Resource
 msgid "resource"
-msgstr "Resource"
+msgstr "Zasób"
 
 #. Resources
 msgid "resources"
-msgstr "Resources"
+msgstr "Zasoby"
 
 #. restart
 msgid "restart"
@@ -8291,11 +8291,11 @@ msgstr "Przywróć"
 
 #. Restrict To
 msgid "restrict-to"
-msgstr "Restrict To"
+msgstr "Ogranicz do"
 
 #. Restricted
 msgid "restricted"
-msgstr "Restricted"
+msgstr "Ograniczony"
 
 #. Results {0} of about {1}.
 msgid "results-of-about"
@@ -8311,7 +8311,7 @@ msgstr "Return Receipt:"
 
 #. Reunion
 msgid "reunion"
-msgstr "Zjazd"
+msgstr "Reunion"
 
 #. Rev
 msgid "rev"
@@ -8343,7 +8343,7 @@ msgstr "Right"
 
 #. Role Name
 msgid "role-name"
-msgstr "Role Name"
+msgstr "Nazwa roli"
 
 #. Role
 msgid "role"
@@ -8355,7 +8355,7 @@ msgstr "Role"
 
 #. Romanian
 msgid "romanian"
-msgstr "Romanian"
+msgstr "Rumuński"
 
 #. Root Folder
 #, fuzzy
@@ -8474,11 +8474,11 @@ msgstr "Skrypt"
 
 #. Search Articles
 msgid "search-articles"
-msgstr "Szukaj artykuły"
+msgstr "Przeszukaj artykuły"
 
 #. Search by ID or URL
 msgid "search-by-id-or-url"
-msgstr "Search by ID or URL"
+msgstr "Szukaj wg ID lub adresu URL"
 
 #. Search Categories
 msgid "search-categories"
@@ -8581,7 +8581,7 @@ msgstr "Sekund"
 
 #. Security
 msgid "security"
-msgstr "Security"
+msgstr "Bezpieczeństwo"
 
 #. See Current Results
 msgid "see-current-results"
@@ -8698,7 +8698,7 @@ msgstr "Selected Page"
 
 #. Selected User
 msgid "selected-user"
-msgstr "Selected User"
+msgstr "Wybrany użytkownik"
 
 #. Selected
 msgid "selected"
@@ -8763,7 +8763,7 @@ msgstr "Item Information"
 
 #. Send Text Message
 msgid "send-text-message"
-msgstr "Send Text Message"
+msgstr "Wyślij wiadomość tekstową"
 
 #. Send
 msgid "send"
@@ -8775,7 +8775,7 @@ msgstr "Sent Mail"
 
 #. Server
 msgid "server"
-msgstr "Server"
+msgstr "Serwer"
 
 #. Service URL
 msgid "service-url"
@@ -8783,15 +8783,15 @@ msgstr "Adres URL usługi"
 
 #. Service
 msgid "service"
-msgstr "Service"
+msgstr "Usługa"
 
 #. Services
 msgid "services"
-msgstr "Services"
+msgstr "Usługi"
 
 #. Session Attributes
 msgid "session-attributes"
-msgstr "Session Attributes"
+msgstr "Atrybuty sesji"
 
 #. Session ID not found.
 msgid "session-id-not-found"
@@ -8803,11 +8803,11 @@ msgstr "ID sesji"
 
 #. Session
 msgid "session"
-msgstr "Session"
+msgstr "Sesja"
 
 #. Set as Default
 msgid "set-as-default"
-msgstr "Set as Default"
+msgstr "Ustaw jako domyślny"
 
 #. Set Background Image Properties
 msgid "set-background-image-properties"
@@ -8844,7 +8844,7 @@ msgstr "Ustawienia"
 
 #. Setup
 msgid "setup"
-msgstr "Ustawienia"
+msgstr "Konfiguruj"
 
 #. Sex
 msgid "sex"
@@ -8852,7 +8852,7 @@ msgstr "Płeć"
 
 #. Sharing
 msgid "sharing"
-msgstr "Sharing"
+msgstr "Współdzielenie"
 
 #. Shekel
 msgid "shekel"
@@ -8888,11 +8888,11 @@ msgstr "Krótki opis"
 
 #. Short Name
 msgid "short-name"
-msgstr "Short Name"
+msgstr "Krótka nazwa"
 
 #. Short Text
 msgid "short-text"
-msgstr "Short Text"
+msgstr "Krótki tekst"
 
 #. Shortcut
 msgid "shortcut"
@@ -9035,11 +9035,11 @@ msgstr "Signal"
 
 #. Signature
 msgid "signature"
-msgstr "Signature"
+msgstr "Podpis"
 
 #. Similar pages
 msgid "similar-pages"
-msgstr "Similar pages"
+msgstr "Podobne strony"
 
 #. Similar Phrase
 msgid "similar-phrase"
@@ -9081,7 +9081,7 @@ msgstr "Skyscraper"
 
 #. Slovak
 msgid "slovak"
-msgstr "Slovak"
+msgstr "Słowacki"
 
 #. Small Image URL
 msgid "small-image-url"
@@ -9093,11 +9093,11 @@ msgstr "Miniaturka"
 
 #. Small Rectangle
 msgid "small-rectangle"
-msgstr "Small Rectangle"
+msgstr "Mały prostokąt"
 
 #. Small Square
 msgid "small-square"
-msgstr "Small Square"
+msgstr "Mały kwadrat"
 
 #. SMS Messenger ID
 msgid "sms-messenger-id"
@@ -9109,11 +9109,11 @@ msgstr "SMS"
 
 #. Sound Settings
 msgid "sound-settings"
-msgstr "Sound Settings"
+msgstr "Ustawienia dźwięku"
 
 #. Source Address
 msgid "source-address"
-msgstr "Source Address"
+msgstr "Adres źródła"
 
 #. Source Input Enabled
 msgid "source-input-enabled"
@@ -9121,15 +9121,15 @@ msgstr "Source Input Enabled"
 
 #. Source URL
 msgid "source-url"
-msgstr "Source URL"
+msgstr "Adres URL źródła"
 
 #. Source
 msgid "source"
-msgstr "Source"
+msgstr "Źródło"
 
 #. Spanish
 msgid "spanish"
-msgstr "Spanish"
+msgstr "Hiszpański"
 
 #. Specify a URL for a remote layout template, portlet, or theme.
 #, fuzzy
@@ -9287,7 +9287,7 @@ msgstr "Styl"
 
 #. Stylesheet
 msgid "stylesheet"
-msgstr "Stylesheet"
+msgstr "Arkusz stylów"
 
 #. Subcategories
 msgid "subcategories"
@@ -9400,7 +9400,7 @@ msgstr "Target"
 
 #. Task ID
 msgid "task-id"
-msgstr "Task ID"
+msgstr "ID zadania"
 
 #. Task Information
 msgid "task-information"
@@ -9408,7 +9408,7 @@ msgstr "Task Information"
 
 #. Task Name
 msgid "task-name"
-msgstr "Task Name"
+msgstr "Nazwa zadania"
 
 #. Task
 msgid "task"
@@ -9464,7 +9464,7 @@ msgstr "Szablony"
 
 #. Terms of Use
 msgid "terms-of-use"
-msgstr "Terms of Use"
+msgstr "Warunki korzystania"
 
 #. Test
 msgid "test"
@@ -9754,11 +9754,11 @@ msgstr "The message board is empty."
 
 #. The message body
 msgid "the-message-body"
-msgstr "The message body"
+msgstr "Treść wiadomości"
 
 #. The message could not be found.
 msgid "the-message-could-not-be-found"
-msgstr "The message could not be found."
+msgstr "Nie udało się odnależć wiadomości."
 
 #. The message ID
 msgid "the-message-id"
@@ -9960,7 +9960,7 @@ msgstr "Upload failed. The total size of all files attached to a message may not
 
 #. The user could not be found.
 msgid "the-user-could-not-be-found"
-msgstr "The user could not be found."
+msgstr "Nie odnaleziono użytkownika."
 
 #. The user ID you requested is already taken.
 msgid "the-user-id-you-requested-is-already-taken"
@@ -10016,11 +10016,11 @@ msgstr "Nie ma artykułów."
 
 #. There are no blogs.
 msgid "there-are-no-blogs"
-msgstr "There are no blogs."
+msgstr "Nie ma blogów."
 
 #. There are no categories.
 msgid "there-are-no-categories"
-msgstr "There are no categories."
+msgstr "Nie ma kategorii."
 
 #. There are no coupons.
 msgid "there-are-no-coupons"
@@ -10032,7 +10032,7 @@ msgstr "There are no entries for this category on {0}."
 
 #. There are no entries.
 msgid "there-are-no-entries"
-msgstr "There are no entries."
+msgstr "Nie ma wpisów."
 
 #. There are no events on this day.
 msgid "there-are-no-events-on-this-day"
@@ -10065,7 +10065,7 @@ msgstr "Nie ma lokalizacji."
 
 #. There are no older versions of this page.
 msgid "there-are-no-older-versions-of-this-page"
-msgstr "There are no older versions of this page."
+msgstr "Nie ma starszych wersji tej strony."
 
 #. There are no orders.
 msgid "there-are-no-orders"
@@ -10077,35 +10077,35 @@ msgstr "Nie ma organizacji."
 
 #. There are no orphan pages in
 msgid "there-are-no-orphan-pages-in"
-msgstr "There are no orphan pages in"
+msgstr "Nie ma osieroconych stron w"
 
 #. There are no pages in
 msgid "there-are-no-pages-in"
-msgstr "There are no pages in"
+msgstr "Nie ma stron w "
 
 #. There are no pages that link to this page.
 msgid "there-are-no-pages-that-link-to-this-page"
-msgstr "There are no pages that link to this page."
+msgstr "Nie ma stron linkujących do tej strony."
 
 #. There are no pages that link to
 msgid "there-are-no-pages-that-link-to"
-msgstr "There are no pages that link to"
+msgstr "Nie ma stron linkujących do"
 
 #. There are no private nodes.
 msgid "there-are-no-private-nodes"
-msgstr "There are no private nodes."
+msgstr "Nie ma węzłów prywatnych."
 
 #. There are no projects.
 msgid "there-are-no-projects"
-msgstr "There are no projects."
+msgstr "Nie ma projektów."
 
 #. There are no public nodes.
 msgid "there-are-no-public-nodes"
-msgstr "There are no public nodes."
+msgstr "Nie ma węzłów publicznych."
 
 #. There are no questions.
 msgid "there-are-no-questions"
-msgstr "There are no questions."
+msgstr "Nie ma pytań."
 
 #. There are no recent changes to pages in
 msgid "there-are-no-recent-changes-to-pages-in"
@@ -10141,11 +10141,11 @@ msgstr "Nie ma tematów."
 
 #. There were no recipient addresses.
 msgid "there-were-no-recipient-addresses"
-msgstr "There were no recipient addresses."
+msgstr "Nie było adresów odbiorców."
 
 #. Thesaurus
 msgid "thesaurus"
-msgstr "Thesaurus"
+msgstr "Słownik wyrazów bliskoznacznych"
 
 #. Third
 msgid "third"
@@ -10189,7 +10189,7 @@ msgstr "This feature requires Internet Explorer 5.5 and above."
 
 #. This folder is empty.
 msgid "this-folder-is-empty"
-msgstr "This folder is empty."
+msgstr "Ten folder jest pusty."
 
 #. This form has already been submitted. Submit will be enabled in {0} seconds.
 msgid "this-form-has-already-been-submitted"
@@ -10221,11 +10221,11 @@ msgstr ""
 
 #. This topic is empty.
 msgid "this-topic-is-empty"
-msgstr "This topic is empty."
+msgstr "Ten temat jest pusty."
 
 #. This Topic
 msgid "this-topic"
-msgstr "This Topic"
+msgstr "Ten temat"
 
 #. This user account has been locked due to excessive failed login attempts.
 msgid "this-user-account-has-been-locked-due-to-excessive-failed-login-attempts"
@@ -10233,7 +10233,7 @@ msgstr ""
 
 #. Thread Priorities
 msgid "thread-priorities"
-msgstr "Thread Priorities"
+msgstr "Priorytety wątków"
 
 #. Thread
 msgid "thread"
@@ -10249,7 +10249,7 @@ msgstr "Wątki"
 
 #. Three Columns
 msgid "three-columns"
-msgstr "Three Columns"
+msgstr "Trzy kolumny"
 
 #. Thumbnail
 msgid "thumbnail"
@@ -10289,7 +10289,7 @@ msgstr "Nazwa"
 
 #. * To email joebloggs@{0}, simply enter <i>joebloggs</i>
 msgid "to-email-joebloggs"
-msgstr "* To email joebloggs@{0}, simply enter <i>joebloggs</i>"
+msgstr "* Aby napisać do joebloggs@{0}, wystarczy wprowadzić <i>joebloggs</i>"
 
 #. To this location
 msgid "to-this-location"
@@ -10409,7 +10409,7 @@ msgstr "Program TV"
 
 #. Two Columns
 msgid "two-columns"
-msgstr "Two Columns"
+msgstr "Dwie kolumny"
 
 #. Type a single email address:
 msgid "type-a-single-email-address"
@@ -10429,7 +10429,7 @@ msgstr "Rodzaj"
 
 #. Ukrainian
 msgid "ukrainian"
-msgstr "Ukrainian"
+msgstr "Ukraiński"
 
 #. Unassociate
 msgid "unassociate"
@@ -10553,7 +10553,7 @@ msgstr "Aktualizuj"
 
 #. Updated
 msgid "updated"
-msgstr "Updated"
+msgstr "Zaktualizowano"
 
 #. Upload a Background Image
 #, fuzzy
@@ -10562,7 +10562,7 @@ msgstr "Upload Image"
 
 #. Upload a GIF or JPEG that is {0} pixels tall and {1} pixels wide.
 msgid "upload-a-gif-or-jpeg-that-is-x-pixels-tall-and-x-pixels-wide"
-msgstr "Wrzuć obrazek w formacie GIF lub JPEG, o rozmiarach nie większych niż {0}x{1} pikseli (wysokość x szerokość)."
+msgstr "Prześlij obrazek w formacie GIF lub JPEG, o rozmiarach nie większych niż {0}x{1} pikseli (wysokość x szerokość)."
 
 #. Upload a logo for the private pages that will be used instead of the default enterprise logo.
 msgid "upload-a-logo-for-the-private-pages-that-will-be-used-instead-of-the-default-enterprise-logo"
@@ -10579,7 +10579,7 @@ msgstr "Wrzuć plik WAR aby zainstalować szablon układu, portlet, lub motyw."
 
 #. Upload Completed
 msgid "upload-completed"
-msgstr "Upload Completed"
+msgstr "Przesyłanie ukończone"
 
 #. Upload documents no larger than {0}k.
 msgid "upload-documents-no-larger-than-x-k"
@@ -10632,11 +10632,11 @@ msgstr "Tło nagłówka"
 
 #. Use Custom Title
 msgid "use-custom-title"
-msgstr "Użyj niestandardowy tytuł"
+msgstr "Użyj niestandardowego tytułu"
 
 #. Use Default Values
 msgid "use-default-values"
-msgstr "Use Default Values"
+msgstr "Użyj wartości domyślnych"
 
 #. Use Icon
 #, fuzzy
@@ -10878,7 +10878,7 @@ msgstr "Wirtualny host"
 
 #. Visited Link
 msgid "visited-link"
-msgstr "Odwiedzony link"
+msgstr "Odwiedzony odnośnik"
 
 #. Visits
 msgid "visits"
@@ -10899,7 +10899,7 @@ msgstr "Ostatni głos"
 
 #. Vote Results
 msgid "vote-results"
-msgstr "Vote Results"
+msgstr "Wyniki głosowania"
 
 #. Vote
 msgid "vote"
@@ -10941,15 +10941,15 @@ msgstr "Node ID"
 
 #. WebDAV URL
 msgid "webdav-url"
-msgstr "WebDAV URL"
+msgstr "Adres URL WebDAV"
 
 #. Website
 msgid "website"
-msgstr "Strona internetowa"
+msgstr "Witryna internetowa"
 
 #. Websites
 msgid "websites"
-msgstr "Strony internetowe"
+msgstr "Witryny internetowe"
 
 #. Wedding
 msgid "wedding"
@@ -10981,7 +10981,7 @@ msgstr "tydzień(tygodnie) w:"
 
 #. Weeks
 msgid "weeks"
-msgstr "Weeks"
+msgstr "Tygodnie"
 
 #. Welcome
 msgid "welcome"
@@ -11001,7 +11001,7 @@ msgstr ""
 
 #. When
 msgid "when"
-msgstr "When"
+msgstr "Kiedy"
 
 #. Whois
 msgid "whois"
@@ -11017,7 +11017,7 @@ msgstr "Wide Skyscraper"
 
 #. Wide
 msgid "wide"
-msgstr "Wide"
+msgstr "Szeroki"
 
 #. Width
 msgid "width"
@@ -11074,7 +11074,7 @@ msgstr "Service Description Endpoint"
 
 #. WSRP Service URL
 msgid "wsrp-service-url"
-msgstr "WSRP Service URL"
+msgstr "Adres URL usługi WSRP"
 
 #. Your service URL or endpoints are unreachable. Please verify your settings.
 msgid "wsrp-your-service-url-or-endpoints-are-unreachable"
@@ -11095,11 +11095,11 @@ msgstr "{0} is not approved, does not have any content, or no longer exists."
 
 #. {0} users were successfully notified.
 msgid "x-users-were-successfully-notified"
-msgstr "{0} users were successfully notified."
+msgstr "Powiadomiono {0} użytkowników."
 
 #. XML Feeds
 msgid "xml-feeds"
-msgstr "XML Feeds"
+msgstr "Kanały XML"
 
 #. XML URL
 msgid "xml-url"
@@ -11115,7 +11115,7 @@ msgstr "Definiowanie schematu XML"
 
 #. XSL Template
 msgid "xsl-template"
-msgstr "XSL Template"
+msgstr "Szablon XSL"
 
 #. XSL URL
 msgid "xsl-url"
@@ -11127,7 +11127,7 @@ msgstr "Extensible Stylesheet Language"
 
 #. Yahoo! (.CSV file)
 msgid "yahoo-csv-file"
-msgstr "Yahoo! (.CSV file)"
+msgstr "Yahoo! (plik .CSV)"
 
 #. Yahoo! CSV:
 msgid "yahoo-cvs"
@@ -11559,11 +11559,11 @@ msgstr "{0}, your account with login {1} is not active. Please contact the admin
 
 #. Your address book is empty.
 msgid "your-address-book-is-empty"
-msgstr "Your address book is empty."
+msgstr "Twoja książka adresowa jest pusta."
 
 #. Your browser does not support this portlet.
 msgid "your-browser-does-not-support-this-portlet"
-msgstr "Your browser does not support this portlet."
+msgstr "Twoja przeglądarka nie obsługuje tego portletu."
 
 #. Your cart has items that are out of stock. Do you still want to continue with the order?
 msgid "your-cart-has-items-that-are-out-of-stock"
@@ -11590,28 +11590,31 @@ msgid "your-invitations-have-been-sent"
 msgstr "Twoje zaproszenia zostały wysłane."
 
 #. Your junk mail folder is taking up a lot of space. Would you like to empty your junk mail now?
+#, fuzzy
 msgid "your-junk-mail-folder-is-taking-up-a-lot-of-space"
 msgstr "Your junk mail folder is taking up a lot of space. Would you like to empty your junk mail now?"
 
 #. Your new email address is {0}.
 msgid "your-new-email-address-is-x"
-msgstr "Your new email address is {0}."
+msgstr "Twój nowy adres e-mail to: {0}."
 
 #. Your new password cannot be the same as your old password. Please enter in a different password.
 msgid "your-new-password-cannot-be-the-same-as-your-old-password-please-enter-in-a-different-password"
 msgstr ""
 
 #. Your order cannot be processed because it falls below the minimum required amount of {0}.
+#, fuzzy
 msgid "your-order-cannot-be-processed-because-it-falls-below-the-minimum-required-amount-of-x"
 msgstr "Your order cannot be processed because it falls below the minimum required amount of {0}."
 
 #. Your order number is
+#, fuzzy
 msgid "your-order-number-is"
 msgstr "Your order number is"
 
 #. Your password can only be sent to an external email address.
 msgid "your-password-can-only-be-sent-to-an-external-email-address"
-msgstr "Your password can only be sent to an external email address."
+msgstr "Twoje hasło może zostać wysłane tylko na zewnętrzny adres e-mail."
 
 #. Your password cannot be changed.
 msgid "your-password-cannot-be-changed"
@@ -11619,7 +11622,7 @@ msgstr "Twoje hasło nie może zostać zmienione."
 
 #. Your password has been sent to {0}.
 msgid "your-password-has-been-sent-to-x"
-msgstr "Your password has been sent to {0}."
+msgstr "Twoje hasło zostało wysłane do {0}."
 
 #. Your password has expired. Please contact an administrator to reset your password.
 msgid "your-password-has-expired"
@@ -11639,7 +11642,7 @@ msgstr "Twoja ocena"
 
 #. Your request processed successfully.
 msgid "your-request-processed-successfully"
-msgstr "Operacja została wykonana pomyślnie."
+msgstr "Żądanie przetworzone pomyślnie."
 
 #. Your Selections
 msgid "your-selections"
@@ -11663,7 +11666,7 @@ msgstr "Chinese (China) to English"
 
 #. Zip/Postal
 msgid "zip-postal"
-msgstr "Zip/Postal"
+msgstr "Kod pocztowy"
 
 #. Zip
 msgid "zip"
@@ -12070,7 +12073,7 @@ msgstr "Pakistani Rupee"
 
 #. Polish Zloty
 msgid "currency.PLN"
-msgstr "Polish Zloty"
+msgstr "Złoty polski"
 
 #. Paraguayan Guarani
 msgid "currency.PYG"
@@ -12186,7 +12189,7 @@ msgstr "Tanzanian Shilling"
 
 #. Ukraine Hryvnia
 msgid "currency.UAH"
-msgstr "Ukraine Hryvnia"
+msgstr "Hrywna ukraińska"
 
 #. Ugandan Shilling
 msgid "currency.UGX"
@@ -12262,7 +12265,7 @@ msgstr "Yemen Riyal"
 
 #. South African Rand
 msgid "currency.ZAR"
-msgstr "South African Rand"
+msgstr "Rand południowoafrykański"
 
 #. Zambian Kwacha
 msgid "currency.ZMK"
@@ -12270,5 +12273,5 @@ msgstr "Zambian Kwacha"
 
 #. Zimbabwe Dollar
 msgid "currency.ZWD"
-msgstr "Zimbabwe Dollar"
+msgstr "Dolar Zimbabwe"
 
