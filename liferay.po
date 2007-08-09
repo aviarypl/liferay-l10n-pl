@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-08 15:41+0100\n"
-"Last-Translator: Stanisław Małolepszy <smalolepszy@aviary.pl>\n"
+"PO-Revision-Date: 2007-08-09 12:09+0100\n"
+"Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -953,7 +953,7 @@ msgstr "Osadzona"
 
 #. Link to Page
 msgid "layout.types.link_to_layout"
-msgstr "Link do strony"
+msgstr "Odnośnik do strony"
 
 #. Portlet
 msgid "layout.types.portlet"
@@ -1266,7 +1266,7 @@ msgstr "Dodaj nowego użytkownika"
 
 #. Add Node
 msgid "add-node"
-msgstr "Add Node"
+msgstr "Dodaj węzeł"
 
 #. Add Note
 msgid "add-note"
@@ -1304,11 +1304,11 @@ msgstr "Dodaj uprawnienia"
 
 #. Add Portlet to Column
 msgid "add-portlet-to-column"
-msgstr "Dodaj portelt do kolumny"
+msgstr "Dodaj portlet do kolumny"
 
 #. Add Portlet to Narrow Column
 msgid "add-portlet-to-narrow-column"
-msgstr "Dodaj portelt do wąskiej kolumny"
+msgstr "Dodaj portlet do wąskiej kolumny"
 
 #. Add Portlet to Wide Column
 msgid "add-portlet-to-wide-column"
@@ -1328,11 +1328,11 @@ msgstr "Dodaj projekt"
 
 #. Add Property
 msgid "add-property"
-msgstr "Add Property"
+msgstr "Dodaj własność"
 
 #. Add Props
 msgid "add-props"
-msgstr "Add Props"
+msgstr "Dodaj własności"
 
 #. Add Question
 msgid "add-question"
@@ -1582,7 +1582,7 @@ msgstr "Pozwalać użytkownikom na przypominanie zapomnianych haseł?"
 
 #. Alpha
 msgid "alpha"
-msgstr "Alpha"
+msgstr "Alfa"
 
 #. Already Registered
 msgid "already-registered"
@@ -1610,11 +1610,11 @@ msgstr "Do wszystkich Administratorów Żurnala został wysłany e-mail z prośb
 
 #. An error occurred while communicating with the Open ID provider.
 msgid "an-error-occurred-while-communicating-with-the-open-id-provider"
-msgstr "An error occurred while communicating with the Open ID provider."
+msgstr "Podczas komunikacji z dostawcą OpenID wystąpił błąd."
 
 #. An error occurred while discovering the Open ID provider.
 msgid "an-error-occurred-while-discovering-the-open-id-provider"
-msgstr "An error occurred while discovering the Open ID provider."
+msgstr "Podczas poszukiwania dostawcy OpenID wystąpił błąd."
 
 #. An error occurred while establishing an association with the Open ID provider.
 msgid "an-error-occurred-while-establishing-an-association-with-the-open-id-provider"
@@ -1622,7 +1622,7 @@ msgstr "An error occurred while establishing an association with the Open ID pro
 
 #. An error occurred while initializing the Open ID consumer.
 msgid "an-error-occurred-while-initializing-the-open-id-consumer"
-msgstr "An error occurred while initializing the Open ID consumer."
+msgstr "Podczas inicjalizacji konsumenta Open ID wystąpił błąd."
 
 #. An error occurred while parsing your XML. Please check the syntax of your XML.
 msgid "an-error-occurred-while-parsing-your-xml-please-check-the-syntax-of-your-xml"
@@ -2345,7 +2345,7 @@ msgstr "Order Date"
 
 #. Border
 msgid "border"
-msgstr "Border"
+msgstr "Obramowanie"
 
 #. Bottom
 #, fuzzy
@@ -2394,7 +2394,7 @@ msgstr "Godziny pracy"
 
 #. Business
 msgid "business"
-msgstr "Business"
+msgstr "Biznes"
 
 #. Button
 msgid "button"
@@ -2526,7 +2526,7 @@ msgstr "Celcjusza"
 
 #. Centimeter
 msgid "centimeter"
-msgstr "Centimeter"
+msgstr "Centymetry"
 
 #. Change Colors
 msgid "change-colors"
@@ -3522,7 +3522,7 @@ msgstr "W dół"
 
 #. Download Content
 msgid "download-content"
-msgstr "Ściągnij zawartość"
+msgstr "Pobierz zawartość"
 
 #. Download File
 #, fuzzy
@@ -3535,23 +3535,23 @@ msgstr "Link do dowanloadu"
 
 #. Download Script
 msgid "download-script"
-msgstr "Ściągnij skrypt"
+msgstr "Pobierz skrypt"
 
 #. Download Template
 msgid "download-template"
-msgstr "Download Template"
+msgstr "Pobierz szablon"
 
 #. Download XML Schema Definition
 msgid "download-xsd"
-msgstr "Download XML Schema Definition"
+msgstr "Pobierz definicję XML Schema"
 
 #. Download XSL Template
 msgid "download-xsl-template"
-msgstr "Download XSL Template"
+msgstr "Pobierz szablon XSL"
 
 #. Download
 msgid "download"
-msgstr "Ściągnij"
+msgstr "Pobierz"
 
 #. Downloading
 #, fuzzy
@@ -3985,7 +3985,7 @@ msgstr "Angielski"
 
 #. Enter a blank entry to disable email forwarding.
 msgid "enter-a-blank-entry-to-disable-email-forwarding"
-msgstr "Wyczysczenie pola spowoduje wyłączenie przekazywania e-maili."
+msgstr "Wyczyszczenie pola spowoduje wyłączenie przekazywania e-maili."
 
 #. Enter a blank PayPal email address to disable PayPal. Select the accepted credit cards to record payments using credit cards. Payments will not be required if PayPal is disabled and there are no accepted credit cards.
 msgid "enter-a-blank-paypal-email-address-to-disable-paypal"
@@ -3993,11 +3993,11 @@ msgstr "Enter a blank PayPal email address to disable PayPal. Select the accepte
 
 #. Enter a name
 msgid "enter-a-name"
-msgstr "Enter a name"
+msgstr "Wprowadź nazwę"
 
 #. Enter a PayPal email address to send all payments to PayPal.
 msgid "enter-a-paypal-email-address-to-send-all-payments-to-paypal"
-msgstr "Enter a PayPal email address to send all payments to PayPal."
+msgstr "Wprowadź adres e-mail PayPal, by przesłać wszystkie płatności do PayPal."
 
 #. Enter Again
 msgid "enter-again"
@@ -4021,7 +4021,7 @@ msgstr "Wpisz adresy e-mail - <b>każdy w osobnej linii</b> ."
 
 #. Enter one ISBN number <b>per line</b> to add books. You may add up to {0} at a time.
 msgid "enter-one-isbn-number-per-line-to-add-books"
-msgstr "Enter one ISBN number <b>per line</b> to add books. You may add up to {0} at a time."
+msgstr "Aby dodać książki, wprowadż ich numery ISBN po jednym <b>w linii</b>. Jednorazowo można dodać do {0} książek."
 
 #. Enter one mail host name <b>per line</b> for all additional mail host names besides <i>{0}</i>.
 msgid "enter-one-mail-host-name-per-line-for-all-additional-mail-host-names-besides-x"
@@ -4276,7 +4276,7 @@ msgstr "FAQ"
 
 #. Favorite Activity
 msgid "favorite-activity"
-msgstr "Favorite Activity"
+msgstr "Ulubione zajęcie"
 
 #. Favorite Bible Verse
 #, fuzzy
@@ -4285,31 +4285,31 @@ msgstr "Favorite Movie"
 
 #. Favorite Food
 msgid "favorite-food"
-msgstr "Favorite Food"
+msgstr "Ulubiona potrawa"
 
 #. Favorite Movie
 msgid "favorite-movie"
-msgstr "Favorite Movie"
+msgstr "Ulubiony film"
 
 #. Favorite Music
 msgid "favorite-music"
-msgstr "Favorite Music"
+msgstr "Ulubiona muzyka"
 
 #. Favorite Quote
 msgid "favorite-quote"
-msgstr "Favorite Quote"
+msgstr "Ulubiony cytat"
 
 #. Favorites
 msgid "favorites"
-msgstr "Favorites"
+msgstr "Ulubione"
 
 #. Fax Number
 msgid "fax-number"
-msgstr "Fax Number"
+msgstr "Numer faksu"
 
 #. Fax
 msgid "fax"
-msgstr "Fax"
+msgstr "Faks"
 
 #. Featured Items
 msgid "featured-items"
@@ -4329,7 +4329,7 @@ msgstr "Stopy"
 
 #. Female Voice
 msgid "female-voice"
-msgstr "Female Voice"
+msgstr "Głos kobiecy"
 
 #. Female
 msgid "female"
@@ -4346,19 +4346,19 @@ msgstr "Fields are added if you need to distinguish items based on criteria chos
 
 #. Fields
 msgid "fields"
-msgstr "Fields"
+msgstr "Pola"
 
 #. File Location
 msgid "file-location"
-msgstr "File Location"
+msgstr "Położenie pliku"
 
 #. File Name
 msgid "file-name"
-msgstr "File Name"
+msgstr "Nazwa pliku"
 
 #. File Upload
 msgid "file-upload"
-msgstr "File Upload"
+msgstr "Przesłanie pliku"
 
 #. File
 msgid "file"
@@ -4461,11 +4461,11 @@ msgstr "Folder Display Settings"
 
 #. Folder Name
 msgid "folder-name"
-msgstr "Folder Name"
+msgstr "Nazwa folderu"
 
 #. Folder Path
 msgid "folder-path"
-msgstr "Folder Path"
+msgstr "Ścieżka folderu"
 
 #. Folder
 msgid "folder"
@@ -4593,7 +4593,7 @@ msgstr "Free Shipping"
 
 #. French
 msgid "french"
-msgstr "French"
+msgstr "francuski"
 
 #. F
 msgid "friday-abbreviation"
@@ -4694,7 +4694,7 @@ msgstr "Google&#39;s spelling suggestion for {0} is {1}."
 
 #. Government
 msgid "government"
-msgstr "Government"
+msgstr "Rząd"
 
 #. This determines the number of times a user can login after their password has expired, before they are required to enter a new password.
 msgid "grace-limit-help"
@@ -4719,19 +4719,19 @@ msgstr "Group"
 
 #. Group
 msgid "group"
-msgstr "Group"
+msgstr "Grupa"
 
 #. Groups and Roles
 msgid "groups-and-roles"
-msgstr "Groups and Roles"
+msgstr "Grupy i role"
 
 #. Groups
 msgid "groups"
-msgstr "Groups"
+msgstr "Grupy"
 
 #. Guest Preferences
 msgid "guest-preferences"
-msgstr "Guest Preferences"
+msgstr "Preferencje gościa"
 
 #. Guest
 msgid "guest"
@@ -4739,7 +4739,7 @@ msgstr "Gość"
 
 #. Guestbook
 msgid "guestbook"
-msgstr "Guestbook"
+msgstr "Księga gości"
 
 #. Half Banner
 msgid "half-banner"
@@ -4775,7 +4775,7 @@ msgstr "Tekst nagłówka"
 
 #. Hectare
 msgid "hectare"
-msgstr "Hectare"
+msgstr "Hektar"
 
 #. Height
 msgid "height"
@@ -4795,7 +4795,7 @@ msgstr "Witaj, {0}. Wcieliłeś sie w użytkownika {1}."
 
 #. Hidden Variables
 msgid "hidden-variables"
-msgstr "Hidden Variables"
+msgstr "Ukryte zmienne"
 
 #. Hidden
 msgid "hidden"
@@ -4807,11 +4807,11 @@ msgstr "Ukryj obrazek"
 
 #. Hide instances that have already ended
 msgid "hide-instances-that-have-already-ended"
-msgstr "Hide instances that have already ended"
+msgstr "Ukryj zakończone już instancje"
 
 #. Hide tasks that have already ended
 msgid "hide-tasks-that-have-already-ended"
-msgstr "Hide tasks that have already ended"
+msgstr "Ukryj zakończone już zadania"
 
 #. Hide
 msgid "hide"
@@ -5051,15 +5051,15 @@ msgstr "In the case where a customer completes an order that contains items from
 
 #. Inactive User
 msgid "inactive-user"
-msgstr "Inactive User"
+msgstr "Użytkownik nieaktywny"
 
 #. Inactive
 msgid "inactive"
-msgstr "Inactive"
+msgstr "Nieaktywny"
 
 #. Inch
 msgid "inch"
-msgstr "Inch"
+msgstr "Cal"
 
 #. Include Original Text
 msgid "include-original-text"
@@ -5072,7 +5072,7 @@ msgstr "Minuta"
 
 #. Incoming POP Server
 msgid "incoming-pop-server"
-msgstr "Incoming POP Server"
+msgstr "Serwer POP poczty przychodzącej"
 
 #. Increment Version
 msgid "increment-version"
@@ -5080,7 +5080,7 @@ msgstr "Zwiększ numer wersji"
 
 #. Indexed
 msgid "indexed"
-msgstr "Indexed"
+msgstr "Indeksowany"
 
 #. Industry
 msgid "industry"
@@ -5096,11 +5096,11 @@ msgstr "Odziedziczyć look and feel od publicznego głównego węzła?"
 
 #. Inherit
 msgid "inherit"
-msgstr "Inherit"
+msgstr "Odziedzicz"
 
 #. Initiate process
 msgid "initiate-process"
-msgstr "Initiate process"
+msgstr "Inicjuj proces"
 
 #. Insert custom CSS that will loaded after the theme.
 msgid "insert-custom-css-that-will-loaded-after-the-theme"
@@ -5146,7 +5146,7 @@ msgstr "Dostępna wersja"
 
 #. Instance ID
 msgid "instance-id"
-msgstr "Instance ID"
+msgstr "ID instancji"
 
 #. Instance
 #, fuzzy
@@ -5155,7 +5155,7 @@ msgstr "Instances"
 
 #. Instances
 msgid "instances"
-msgstr "Instances"
+msgstr "Instancje"
 
 #. Instant Messenger IDs
 msgid "instant-messenger-ids"
@@ -5171,7 +5171,7 @@ msgstr "Insurance Calculation"
 
 #. Insurance
 msgid "insurance"
-msgstr "Insurance"
+msgstr "Ubezpieczenie"
 
 #. Interest Paid
 msgid "interest-paid"
@@ -5200,7 +5200,7 @@ msgstr "Ministries"
 
 #. Invoice
 msgid "invoice"
-msgstr "Invoice"
+msgstr "Faktura"
 
 #. IRC
 msgid "irc"
@@ -5332,7 +5332,7 @@ msgstr "Kilogram"
 
 #. Kilometer
 msgid "kilometer"
-msgstr "Kilometer"
+msgstr "Kilometr"
 
 #. Korean to English
 msgid "ko_en"
@@ -5380,11 +5380,11 @@ msgstr "Last login:"
 
 #. Last Message
 msgid "last-message"
-msgstr "Last Message"
+msgstr "Ostatnia wiadomość"
 
 #. Last Modified
 msgid "last-modified"
-msgstr "Last Modified"
+msgstr "Ostatnia modyfikacja"
 
 #. Last Name
 msgid "last-name"
@@ -5436,11 +5436,11 @@ msgstr "Ostatnia(-i)"
 
 #. Latin
 msgid "latin"
-msgstr "Latin"
+msgstr "Łacina"
 
 #. Launch Editor
 msgid "launch-editor"
-msgstr "Uruchom editor"
+msgstr "Uruchom edytor"
 
 #. Launch
 msgid "launch"
@@ -5736,19 +5736,19 @@ msgstr "Adres korespondencyjny"
 
 #. Main Profile
 msgid "main-profile"
-msgstr "Main Profile"
+msgstr "Profil główny"
 
 #. Maintenance Alert
 msgid "maintenance-alert"
-msgstr "Komuinikat administratorski"
+msgstr "Komuniikat administratorski"
 
 #. Make {0} my start page!
 msgid "make-x-my-start-page"
-msgstr "Make {0} my start page!"
+msgstr "Ustaw {0} jako stronę startową!"
 
 #. Male Voice
 msgid "male-voice"
-msgstr "Male Voice"
+msgstr "Głos męski"
 
 #. Male
 msgid "male"
@@ -5776,11 +5776,11 @@ msgstr "Zarządzaj głównymi publicznymi stronami dla"
 
 #. Manage
 msgid "manage"
-msgstr "Manage"
+msgstr "Zarządzaj"
 
 #. Manual
 msgid "manual"
-msgstr "Manual"
+msgstr "Ręcznie"
 
 #. Maori
 msgid "maori"
@@ -5989,7 +5989,7 @@ msgstr "Mina"
 
 #. Minesweeper
 msgid "minesweeper"
-msgstr "Minesweeper"
+msgstr "Saper"
 
 #. Minimize
 msgid "minimize"
@@ -6098,7 +6098,7 @@ msgstr "Miesiące"
 
 #. More information about Liferay is available at {0}http://www.liferay.com{1}.
 msgid "more-information-about-liferay-is-available-at"
-msgstr "More information about Liferay is available at {0}http://www.liferay.com{1}."
+msgstr "Więcej informacji na temat środowiska Liferay można znaleźć na stronie {0}http://www.liferay.com{1}."
 
 #. More Options
 msgid "more-options"
@@ -6110,11 +6110,11 @@ msgstr "Więcej"
 
 #. Move Column
 msgid "move-column"
-msgstr "Move Column"
+msgstr "Przesuń kolumnę"
 
 #. Move To
 msgid "move-to"
-msgstr "Move To"
+msgstr "Przesuń do"
 
 #. Movie
 msgid "movie"
@@ -6126,7 +6126,7 @@ msgstr "MSN"
 
 #. Multi-Selection List
 msgid "multi-selection-list"
-msgstr "Multi-Selection List"
+msgstr "Lista wielokrotnego wyboru"
 
 #. Must cart quantities be a multiple of the item's minimum quantity?
 msgid "must-cart-quantities-be-a-multiple-of-the-item's-minimum-quantity"
@@ -6233,7 +6233,7 @@ msgstr "New Friendly URL"
 
 #. New Game
 msgid "new-game"
-msgstr "New Game"
+msgstr "Nowa gra"
 
 #. New Mail Notification
 msgid "new-mail-notification"
@@ -6241,7 +6241,7 @@ msgstr "New Mail Notification"
 
 #. New Name
 msgid "new-name"
-msgstr "New Name"
+msgstr "Nowa nazwa"
 
 #. New/Total
 msgid "new-over-total"
@@ -6257,7 +6257,7 @@ msgstr "Nowa strona"
 
 #. New
 msgid "new"
-msgstr "New"
+msgstr "Nowy"
 
 #. News Selections
 msgid "news-selections"
@@ -6504,7 +6504,7 @@ msgstr "Nie zatwierdzony"
 
 #. N/A
 msgid "not-available"
-msgstr "N/D"
+msgstr "nd."
 
 #. Not Found
 msgid "not-found"
@@ -6530,7 +6530,7 @@ msgstr "Notify By"
 
 #. Notify New Users
 msgid "notify-new-users"
-msgstr "Notify New Users"
+msgstr "Powiadom nowych użytkowników"
 
 #. Notify
 msgid "notify"
@@ -6704,7 +6704,7 @@ msgstr "Only templates associated with structure {0} are shown."
 
 #. Open Document
 msgid "open-document"
-msgstr "Open Document"
+msgstr "Otwórz dokument"
 
 #. Open Entry
 msgid "open-entry"
