@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-09 12:21+0100\n"
+"PO-Revision-Date: 2007-08-09 14:20+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -232,7 +232,7 @@ msgstr "Top Opportunities"
 
 #. Westminster Catechism
 msgid "javax.portlet.title.45"
-msgstr "Katechizm Westminster"
+msgstr "Katechizm westminsterski"
 
 #. Gospel for Asia
 msgid "javax.portlet.title.46"
@@ -272,11 +272,11 @@ msgstr "Zawartość Żurnala"
 
 #. Sign In
 msgid "javax.portlet.title.58"
-msgstr "Zaloguj Się"
+msgstr "Zaloguj się"
 
 #. Polls Display
 msgid "javax.portlet.title.59"
-msgstr "Wyświetlanie Ankiet"
+msgstr "Wyświetlanie ankiet"
 
 #. News
 msgid "javax.portlet.title.5"
@@ -296,7 +296,7 @@ msgstr "Ostatnie dokumenty"
 
 #. Analog Clock
 msgid "javax.portlet.title.65"
-msgstr "Analogowy Zegarek"
+msgstr "Zegar analogowy"
 
 #. Web Proxy
 msgid "javax.portlet.title.66"
@@ -2175,7 +2175,6 @@ msgid "back"
 msgstr "Wróć"
 
 #. Background Color
-#, fuzzy
 msgid "background-color"
 msgstr "Kolor tła"
 
@@ -2184,9 +2183,8 @@ msgid "background-repeating"
 msgstr "Powtarzanie tła"
 
 #. Background Styles
-#, fuzzy
 msgid "background-styles"
-msgstr "Kolor tła"
+msgstr "Styl tła"
 
 #. Bad Request
 msgid "bad-request"
@@ -2313,29 +2311,24 @@ msgid "boolean-flag"
 msgstr "Flaga boolowska"
 
 #. Border Color
-#, fuzzy
 msgid "border-color"
-msgstr "Border"
+msgstr "Kolor obramowania"
 
 #. Border Style
-#, fuzzy
 msgid "border-style"
-msgstr "Order Date"
+msgstr "Styl obramowania"
 
 #. Border Styles
-#, fuzzy
 msgid "border-styles"
-msgstr "Order Date"
+msgstr "Style obramowania"
 
 #. Border Styling
-#, fuzzy
 msgid "border-styling"
-msgstr "Sortuj po kolumnie"
+msgstr "Styl CSS obramowania"
 
 #. Border Width
-#, fuzzy
 msgid "border-width"
-msgstr "Order Date"
+msgstr "Długość obramowania"
 
 #. Border
 msgid "border"
@@ -2631,9 +2624,8 @@ msgid "choose-a-color-theme-or-create-your-own-custom-theme"
 msgstr "Wybierz zestaw kolorów lub stwórz swój własny {0} schemat{1}."
 
 #. Choose a portlet.
-#, fuzzy
 msgid "choose-a-portlet"
-msgstr "Wybierz portlety"
+msgstr "Wybierz portlet."
 
 #. Choose a program to import contacts from:
 msgid "choose-a-program-to-import-contacts-from"
@@ -2916,9 +2908,8 @@ msgid "connecting-to-the-repository-returned-an-error"
 msgstr "Podczas łączenia z repozytorium wystąpił błąd."
 
 #. Connection Settings
-#, fuzzy
 msgid "connection-settings"
-msgstr "Ustawienia treści"
+msgstr "Ustawienia połączenia"
 
 #. Content and Layout
 msgid "content-and-layout"
@@ -2965,9 +2956,8 @@ msgid "copy-the-content-and-layout-for-this-page-from-another-page"
 msgstr "Kopiuj zawartość i wygląd tej strony z innej strony."
 
 #. Copy
-#, fuzzy
 msgid "copy"
-msgstr "Firma"
+msgstr "Kopiuj"
 
 #. Country
 msgid "country"
@@ -3010,9 +3000,8 @@ msgid "create-account"
 msgstr "Utwórz konto"
 
 #. Create Community
-#, fuzzy
 msgid "create-community"
-msgstr "Utwórz konto"
+msgstr "Utwórz społeczność"
 
 #. Create Date
 msgid "create-date"
@@ -3059,9 +3048,8 @@ msgid "currency"
 msgstr "Waluta"
 
 #. Current Page
-#, fuzzy
 msgid "current-page"
-msgstr "Aktualne pozycje"
+msgstr "Aktualna strona"
 
 #. Current Results
 msgid "current-results"
@@ -3080,9 +3068,8 @@ msgid "custom-message"
 msgstr "Niestandardowa wiadomość"
 
 #. Custom portlet.xml
-#, fuzzy
 msgid "custom-portlet-xml"
-msgstr "Select Portlet"
+msgstr "Własny portlet.xml"
 
 #. Custom
 msgid "custom"
@@ -3205,23 +3192,20 @@ msgid "default-resolution"
 msgstr "Domyślna rozdzielczość"
 
 #. Default User Associations
-#, fuzzy
 msgid "default-user-associations"
-msgstr "Domyślne powiązania"
+msgstr "Domyślne powiązania użytkowników"
 
 #. Default
 msgid "default"
 msgstr "Domyślny"
 
 #. Define permissions on a resource that belongs to the {0} portlet.
-#, fuzzy
 msgid "define-permissions-on-a-resource-that-belongs-to-the-x-portlet"
-msgstr "Deleguje uprawnienia do zasobu, który nalezy do portletu {0}."
+msgstr "Definiuje uprawnienia zasobu należącego do portletu {0}."
 
 #. Define Permissions
-#, fuzzy
 msgid "define-permissions"
-msgstr "Edytuj uprawnienia"
+msgstr "Zdefiniuj uprawnienia"
 
 #. Definition ID
 msgid "definition-id"
@@ -3348,9 +3332,8 @@ msgid "dinner"
 msgstr "Obiad"
 
 #. Direct Install
-#, fuzzy
 msgid "direct-install"
-msgstr "Get Directions"
+msgstr "Instalacja bezpośrednia"
 
 #. Directions Address
 msgid "directions-address"
@@ -3361,9 +3344,8 @@ msgid "directions-input-enabled"
 msgstr "Directions Input Enabled"
 
 #. Directory
-#, fuzzy
 msgid "directory"
-msgstr "Katalog docelowy"
+msgstr "Katalog"
 
 #. Disable Forwarding
 msgid "disable-forwarding"
@@ -3519,9 +3501,8 @@ msgid "download-content"
 msgstr "Pobierz zawartość"
 
 #. Download File
-#, fuzzy
 msgid "download-file"
-msgstr "Link do dowanloadu"
+msgstr "Pobierz plik"
 
 #. Download Link
 msgid "download-link"
@@ -3548,9 +3529,8 @@ msgid "download"
 msgstr "Pobierz"
 
 #. Downloading
-#, fuzzy
 msgid "downloading"
-msgstr "Ściągnij"
+msgstr "Pobieranie"
 
 #. Downloads
 msgid "downloads"
@@ -3857,18 +3837,16 @@ msgid "email-from"
 msgstr "E-mail od"
 
 #. Email Notifications
-#, fuzzy
 msgid "email-notifications"
-msgstr "New Mail Notification"
+msgstr "Powiadomienia e-mail"
 
 #. Email Subject
 msgid "email-subject"
 msgstr "Temat E-maila"
 
 #. Email To
-#, fuzzy
 msgid "email-to"
-msgstr "Treść E-maila"
+msgstr "E-mail do"
 
 #. Email
 msgid "email"
@@ -3939,9 +3917,8 @@ msgid "en_zt"
 msgstr "Angielski na chiński (Taiwan)"
 
 #. Enable Comments
-#, fuzzy
 msgid "enable-comments"
-msgstr "Dodaj komentarz"
+msgstr "Włącz komentarze"
 
 #. Enable Ratings
 #, fuzzy
@@ -3953,9 +3930,8 @@ msgid "enabled"
 msgstr "Włączony"
 
 #. Encryption Type
-#, fuzzy
 msgid "encryption-type"
-msgstr "Rodzaj autentykacji"
+msgstr "Rodzaj szyfrowania"
 
 #. End At
 msgid "end-at"
@@ -4172,9 +4148,8 @@ msgid "execute"
 msgstr "Wykonaj"
 
 #. Expand All
-#, fuzzy
 msgid "expand-all"
-msgstr "Wyczyść wszystko"
+msgstr "Rozwiń wszystko"
 
 #. Expert
 msgid "expert"
@@ -4470,9 +4445,8 @@ msgid "folders-listing"
 msgstr "Folder Display Settings"
 
 #. Folders per Page
-#, fuzzy
 msgid "folders-per-page"
-msgstr "Liczba artykułów na stronie"
+msgstr "Liczba folderów na stronie"
 
 #. Folders
 msgid "folders"
@@ -4499,9 +4473,8 @@ msgid "for-example,-if-the-public-virtual-host-is-www.helloworld.com-and-the-fri
 msgstr "Dla przykładu, jeżeli publiczny wirtualny host ma adres <b>www.helloworld.com</b> a przyjazny URL to <b>/helloworld</b>, wtedy <b>{0}://www.helloworld.com</b> jest mapowane do <b>{1}/helloworld</b>."
 
 #. For example, {0}.
-#, fuzzy
 msgid "for-example-x"
-msgstr "Format Template"
+msgstr "Na przykład: {0}."
 
 #. Forgot Password
 msgid "forgot-password"
@@ -4867,9 +4840,8 @@ msgid "hour"
 msgstr "Godzina"
 
 #. Hourly
-#, fuzzy
 msgid "hourly"
-msgstr "Godzina"
+msgstr "Co godzinę"
 
 #. Hours of Operation
 msgid "hours-of-operation"
@@ -5525,33 +5497,28 @@ msgid "letter-spacing"
 msgstr "Usuń stronę"
 
 #. Level
-#, fuzzy
 msgid "level"
-msgstr "Opuść"
+msgstr "Poziom"
 
 #. License
-#, fuzzy
 msgid "license"
-msgstr "Dodaj licencję"
+msgstr "Licencja"
 
 #. Licenses
-#, fuzzy
 msgid "licenses"
-msgstr "Dodaj licencję"
+msgstr "Licencje"
 
 #. Liferay Versions
-#, fuzzy
 msgid "liferay-versions"
-msgstr "Aktywne sesje"
+msgstr "Wersje środowiska Liferay"
 
 #. Limits
 msgid "limits"
 msgstr "Limits"
 
 #. Line Height
-#, fuzzy
 msgid "line-height"
-msgstr "Wysokość"
+msgstr "Wysokość linii"
 
 #. Line
 msgid "line"
@@ -5562,9 +5529,8 @@ msgid "link-portlet-urls-to-page"
 msgstr ""
 
 #. Link to Page
-#, fuzzy
 msgid "link-to-layout"
-msgstr "Root Layout"
+msgstr "Odnośnik do strony"
 
 #. Link
 msgid "link"
@@ -5826,9 +5792,8 @@ msgid "maximum-age-help"
 msgstr "Medium Image URL"
 
 #. Maximum Age
-#, fuzzy
 msgid "maximum-age"
-msgstr "Maximum"
+msgstr "Maksymalny wiek"
 
 #. This determines the maximum number of times that a user can attempt to login with the wrong password.
 msgid "maximum-failure-help"
@@ -5868,14 +5833,12 @@ msgid "meeting"
 msgstr "Spotkanie"
 
 #. Members
-#, fuzzy
 msgid "members"
-msgstr "Numery"
+msgstr "Członkowie"
 
 #. Memory
-#, fuzzy
 msgid "memory"
-msgstr "Ilość wolnej pamięci"
+msgstr "Pamięć"
 
 #. Merge with Parent Category
 msgid "merge-with-parent-category"
@@ -5986,23 +5949,20 @@ msgid "minimize"
 msgstr "Minimalizuj"
 
 #. This determines how long a user must wait before changing their password again.
-#, fuzzy
 msgid "minimum-age-help"
-msgstr "Medium Image URL"
+msgstr "Określa okres czasu, który musi upłynąć, by użytkownik mógł ponownie zmienić hasło."
 
 #. Minimum Age
-#, fuzzy
 msgid "minimum-age"
-msgstr "Minimum Order"
+msgstr "Minimalny wiek"
 
 #. This determines the minimum length of the user's password.
 msgid "minimum-length-help"
 msgstr ""
 
 #. Minimum Length
-#, fuzzy
 msgid "minimum-length"
-msgstr "Minimum Order"
+msgstr "Minimalna długość"
 
 #. Minimum Order
 msgid "minimum-order"
@@ -6033,9 +5993,8 @@ msgid "mm-dd-yyyy"
 msgstr "(mm/dd/yyyy)"
 
 #. Mobile Devices
-#, fuzzy
 msgid "mobile-devices"
-msgstr "Male Voice"
+msgstr "Urządzenia przenośne"
 
 #. Models
 msgid "models"
@@ -6050,9 +6009,8 @@ msgid "modify-layout"
 msgstr "Modify Layout"
 
 #. Module ID
-#, fuzzy
 msgid "module-id"
-msgstr "Node ID"
+msgstr "ID modułu"
 
 #. M
 msgid "monday-abbreviation"
@@ -6139,9 +6097,8 @@ msgid "my-communities"
 msgstr "Moje społeczności"
 
 #. My Community
-#, fuzzy
 msgid "my-community"
-msgstr "Społeczność"
+msgstr "Moja społeczność"
 
 #. My Documents
 msgid "my-documents"
@@ -6156,9 +6113,8 @@ msgid "my-images"
 msgstr "Moje obrazki"
 
 #. My Organization
-#, fuzzy
 msgid "my-organization"
-msgstr "Organizacja"
+msgstr "Moja organizacja"
 
 #. My Places
 msgid "my-places"
@@ -6169,9 +6125,8 @@ msgid "my-posts"
 msgstr "Moje wiadomości"
 
 #. My Products
-#, fuzzy
 msgid "my-products"
-msgstr "Moje wiadomości"
+msgstr "Moje produkty"
 
 #. (n) signifies narrow portlets and (w) signifies wide portlets
 msgid "n-signifies-narrow-portlets-and-w-signifies-wide-portlets"
@@ -7578,38 +7533,32 @@ msgid "please-upgrade-your-browser-to-use-this-feature"
 msgstr "Please upgrade your browser to use this feature."
 
 #. Plugin does not have a valid url.
-#, fuzzy
 msgid "plugin-does-not-have-a-valid-url"
-msgstr "The page does not have a a valid title."
+msgstr "Wtyczka nie zawiera prawidłowego adresu URL."
 
 #. Plugin ID
 msgid "plugin-id"
 msgstr "ID wtyczki"
 
 #. Plugin Name
-#, fuzzy
 msgid "plugin-name"
-msgstr "List name:"
+msgstr "Nazwa wtyczki"
 
 #. Plugin Repositories
-#, fuzzy
 msgid "plugin-repositories"
-msgstr "View Repositories"
+msgstr "Repozytoria wtyczek"
 
 #. Plugin Repository
-#, fuzzy
 msgid "plugin-repository"
-msgstr "Edytuj repozytorium"
+msgstr "Repozytorium wtyczek"
 
 #. Plugin
-#, fuzzy
 msgid "plugin"
-msgstr "Login"
+msgstr "Wtyczka"
 
 #. Plugins
-#, fuzzy
 msgid "plugins"
-msgstr "Links"
+msgstr "Wtyczki"
 
 #. Polish
 msgid "polish"
@@ -7636,9 +7585,8 @@ msgid "portal-url"
 msgstr "URL portalu"
 
 #. Portal
-#, fuzzy
 msgid "portal"
-msgstr "Portlet"
+msgstr "Portal"
 
 #. Portlet Background
 msgid "portlet-background"
@@ -7649,38 +7597,32 @@ msgid "portlet-border"
 msgstr "Ramka portletu"
 
 #. Portlet Classes
-#, fuzzy
 msgid "portlet-classes"
-msgstr "Nazwa portletu"
+msgstr "Klasy portletów"
 
 #. Portlet Configuration
-#, fuzzy
 msgid "portlet-configuration"
-msgstr "Konfiguracja"
+msgstr "Konfiguracja portletu"
 
 #. Portlet Data
-#, fuzzy
 msgid "portlet-data"
-msgstr "Nazwa portletu"
+msgstr "Dane portletu"
 
 #. Portlet ID
-#, fuzzy
 msgid "portlet-id"
-msgstr "Portlet"
+msgstr "ID portletu"
 
 #. Portlet Mode
-#, fuzzy
 msgid "portlet-mode"
-msgstr "Ramka portletu"
+msgstr "Tryb portletu"
 
 #. Portlet Name
 msgid "portlet-name"
 msgstr "Nazwa portletu"
 
 #. Portlet Packages
-#, fuzzy
 msgid "portlet-packages"
-msgstr "Nazwa portletu"
+msgstr "Pakiety portletów"
 
 #. Portlet Preferences
 msgid "portlet-preferences"
@@ -8110,9 +8052,8 @@ msgid "registration-required"
 msgstr "Registration Required"
 
 #. Regular Browsers
-#, fuzzy
 msgid "regular-browsers"
-msgstr "Read Roles"
+msgstr "Zwykłe przeglądarki"
 
 #. Regular
 msgid "regular"
@@ -8252,9 +8193,8 @@ msgid "request-timeout"
 msgstr "Request Timeout"
 
 #. Require CAPTCHA
-#, fuzzy
 msgid "require-captcha"
-msgstr "Wymagany"
+msgstr "Wymagaj CAPTCHA"
 
 #. Check box if lockout requires an administrator to manually unlock the user account.
 #, fuzzy
@@ -8427,9 +8367,8 @@ msgid "root-layout"
 msgstr "Root Layout"
 
 #. Root Theme
-#, fuzzy
 msgid "root-theme"
-msgstr "Motywy"
+msgstr "Motyw główny"
 
 #. Root
 msgid "root"
@@ -8839,9 +8778,8 @@ msgid "server"
 msgstr "Server"
 
 #. Service URL
-#, fuzzy
 msgid "service-url"
-msgstr "WSRP Service URL"
+msgstr "Adres URL usługi"
 
 #. Service
 msgid "service"
@@ -8901,9 +8839,8 @@ msgid "set-your-global-tags"
 msgstr ""
 
 #. Settings
-#, fuzzy
 msgid "settings"
-msgstr "Ustawienia strony"
+msgstr "Ustawienia"
 
 #. Setup
 msgid "setup"
@@ -8946,9 +8883,8 @@ msgid "shopping"
 msgstr "Shopping"
 
 #. Short Description
-#, fuzzy
 msgid "short-description"
-msgstr "Item Description"
+msgstr "Krótki opis"
 
 #. Short Name
 msgid "short-name"
@@ -8988,9 +8924,8 @@ msgid "show-calendar"
 msgstr "Show Calendar"
 
 #. Show Columns
-#, fuzzy
 msgid "show-columns"
-msgstr "Two Columns"
+msgstr "Wyświetl kolumny"
 
 #. Show Company Name
 msgid "show-company-name"
@@ -9307,9 +9242,8 @@ msgid "status"
 msgstr "Status"
 
 #. Step {0} of {1}.
-#, fuzzy
 msgid "step-x-of-x"
-msgstr "Text Box"
+msgstr "Krok {0} z {1}."
 
 #. Stock Quantity
 msgid "stock-quantity"
@@ -9408,9 +9342,8 @@ msgid "supplier"
 msgstr "Supplier"
 
 #. Supported Clients
-#, fuzzy
 msgid "supported-clients"
-msgstr "Portlety"
+msgstr "Obsługiwane klienty"
 
 #. Swedish
 msgid "swedish"
@@ -9550,14 +9483,12 @@ msgid "text-box"
 msgstr "Text Box"
 
 #. Text Decoration
-#, fuzzy
 msgid "text-decoration"
-msgstr "Zdobienie"
+msgstr "Zdobienie tekstu"
 
 #. Text Styles
-#, fuzzy
 msgid "text-styles"
-msgstr "Styl punktora"
+msgstr "Style tekstu"
 
 #. Text verification failed.
 msgid "text-verification-failed"
@@ -9684,9 +9615,8 @@ msgid "the-email-address-you-requested-is-reserved"
 msgstr "Wprowadzony e-mail jest zarezerwowany."
 
 #. The email could not be sent.
-#, fuzzy
 msgid "the-email-could-not-be-sent"
-msgstr "The item could not be found."
+msgstr "Nie udało się wysłać wiadomości e-mail."
 
 #. The email was sent successfuly.
 msgid "the-email-was-sent-successfuly"
@@ -9811,9 +9741,8 @@ msgid "the-ldap-url-format-is=The LDAP Base Provider URL format is <i>ldap://hos
 msgstr "Example</i>."
 
 #. The license could not be found.
-#, fuzzy
 msgid "the-license-could-not-be-found"
-msgstr "The link could not be found."
+msgstr "Nie udało się odnaleźć licencji."
 
 #. The link could not be found.
 msgid "the-link-could-not-be-found"
@@ -9832,9 +9761,8 @@ msgid "the-message-could-not-be-found"
 msgstr "The message could not be found."
 
 #. The message ID
-#, fuzzy
 msgid "the-message-id"
-msgstr "The message body"
+msgstr "ID wiadomości"
 
 #. The message object has expired and is no longer available. Please {0} your composition.
 msgid "the-message-object-has-expired-and-is-no-longer-available"
@@ -9885,9 +9813,8 @@ msgid "the-passwords-you-entered-do-not-match-each-other-please-re-enter-your-pa
 msgstr "Wprowadzone hasła nie zgadzają się. Należy je wprowadzić ponownie."
 
 #. The permission was deleted.
-#, fuzzy
 msgid "the-permission-was-deleted"
-msgstr "Uaktualnij uprawnienia"
+msgstr "Uprawnienie zostało usunięte."
 
 #. The plugin was downloaded successfully and is now being installed.
 msgid "the-plugin-was-downloaded-successfully-and-is-now-being-installed"
@@ -9910,14 +9837,12 @@ msgid "the-portlet-could-not-be-found"
 msgstr "Nie znaleziono portletu."
 
 #. The product could not be found.
-#, fuzzy
 msgid "the-product-could-not-be-found"
-msgstr "The project could not be found."
+msgstr "Nie odnaleziono produktu."
 
 #. The product version could not be found.
-#, fuzzy
 msgid "the-product-version-could-not-be-found"
-msgstr "The question could not be found."
+msgstr "Nie odnaleziono wersji produktu."
 
 #. The project cannot be deleted because it has associated tasks.
 msgid "the-project-cannot-be-deleted-because-it-has-associated-tasks"
@@ -10062,14 +9987,12 @@ msgid "the"
 msgstr ""
 
 #. Theme Packages
-#, fuzzy
 msgid "theme-packages"
-msgstr "Moje miejsca"
+msgstr "Pakiety motywów"
 
 #. Theme
-#, fuzzy
 msgid "theme"
-msgstr "Motywy"
+msgstr "Motyw"
 
 #. Themes
 msgid "themes"
@@ -10229,9 +10152,8 @@ msgid "third"
 msgstr "Trzecia(-i)"
 
 #. This account has been locked. Please contact an administrator to have this account unlocked.
-#, fuzzy
 msgid "this-account-has-been-locked"
-msgstr "The selected entry has been deleted."
+msgstr "Konto zablokowane. Aby je odblokować, należy skontaktować się z administratorem."
 
 #. This Blog
 msgid "this-blog"
@@ -10390,9 +10312,8 @@ msgid "toll-free"
 msgstr "Bezpłatny"
 
 #. Tomcat Configuration Directory
-#, fuzzy
 msgid "tomcat-conf-dir"
-msgstr "Katalog z bibliotekami Tomcata"
+msgstr "Katalog konfiguracji Tomcata"
 
 #. Tomcat Library Directory
 msgid "tomcat-lib-dir"
@@ -10471,9 +10392,8 @@ msgid "travel"
 msgstr "Podróż"
 
 #. Tree View
-#, fuzzy
 msgid "tree-view"
-msgstr "Recenzowany"
+msgstr "Widok drzewa"
 
 #. True
 msgid "true"
@@ -10666,9 +10586,8 @@ msgid "upload-documents-no-larger-than-x-k"
 msgstr "Wrzucaj dokumenty nie większe niż {0}k."
 
 #. Upload File
-#, fuzzy
 msgid "upload-file"
-msgstr "Upload Image"
+msgstr "Prześlij plik"
 
 #. Upload Image
 msgid "upload-image"
@@ -10809,9 +10728,8 @@ msgid "validate-url"
 msgstr "URL miniaturki"
 
 #. Value
-#, fuzzy
 msgid "value"
-msgstr "Values"
+msgstr "Wartość"
 
 #. Values
 msgid "values"
@@ -11184,9 +11102,8 @@ msgid "xml-feeds"
 msgstr "XML Feeds"
 
 #. XML URL
-#, fuzzy
 msgid "xml-url"
-msgstr "URL strony domowej"
+msgstr "Adres URL XML"
 
 #. XML
 msgid "xml"
@@ -11201,9 +11118,8 @@ msgid "xsl-template"
 msgstr "XSL Template"
 
 #. XSL URL
-#, fuzzy
 msgid "xsl-url"
-msgstr "Rodzaj wyświetlania"
+msgstr "Adres URL XSL"
 
 #. Extensible Stylesheet Language
 msgid "xsl"
@@ -11670,9 +11586,8 @@ msgid "your-first-page-must-not-be-hidden"
 msgstr "Your first page must not be hidden."
 
 #. Your invitations have been sent.
-#, fuzzy
 msgid "your-invitations-have-been-sent"
-msgstr "Your password has been sent to {0}."
+msgstr "Twoje zaproszenia zostały wysłane."
 
 #. Your junk mail folder is taking up a lot of space. Would you like to empty your junk mail now?
 msgid "your-junk-mail-folder-is-taking-up-a-lot-of-space"
@@ -11699,23 +11614,20 @@ msgid "your-password-can-only-be-sent-to-an-external-email-address"
 msgstr "Your password can only be sent to an external email address."
 
 #. Your password cannot be changed.
-#, fuzzy
 msgid "your-password-cannot-be-changed"
-msgstr "Your password has been sent to {0}."
+msgstr "Twoje hasło nie może zostać zmienione."
 
 #. Your password has been sent to {0}.
 msgid "your-password-has-been-sent-to-x"
 msgstr "Your password has been sent to {0}."
 
 #. Your password has expired. Please contact an administrator to reset your password.
-#, fuzzy
 msgid "your-password-has-expired"
-msgstr "Your password has been sent to {0}."
+msgstr "Twoje hasło utraciło ważność. Aby je zresetować, skontaktuj się z administratorem."
 
 #. Your password is expiring soon. Please change your password.
-#, fuzzy
 msgid "your-password-is-expiring-soon"
-msgstr "Your password has been sent to {0}."
+msgstr "Twoje hasło wkrótce utraci ważność. Należy je zmienić."
 
 #. Your password will be sent to your external email address.
 msgid "your-password-will-be-sent-to-your-external-email-address"
@@ -11734,9 +11646,8 @@ msgid "your-selections"
 msgstr "Your Selections"
 
 #. Your settings could not be saved.
-#, fuzzy
 msgid "your-settings-could-not-be-saved"
-msgstr "Required structures could not be deleted."
+msgstr "Nie udało się zapisać Twoich ustawień."
 
 #. Your trash folder is taking up a lot of space. Would you like to empty your trash now?
 msgid "your-trash-folder-is-taking-up-a-lot-of-space"
