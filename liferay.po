@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-09 17:47+0100\n"
+"PO-Revision-Date: 2007-08-09 19:57+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -44,7 +44,7 @@ msgstr "Zawartość XSL"
 
 #. Update Manager
 msgid "javax.portlet.title.104"
-msgstr "Update Manager"
+msgstr "Menedżer aktualizacji"
 
 #. My Global Tags
 msgid "javax.portlet.title.105"
@@ -108,11 +108,11 @@ msgstr "Dziennik"
 
 #. Currency Converter
 msgid "javax.portlet.title.16"
-msgstr "Konwerter Walut"
+msgstr "Konwerter walut"
 
 #. CSZ Search
 msgid "javax.portlet.title.17"
-msgstr "CSZ Search"
+msgstr "Wyszukiwanie CSZ"
 
 #. Maps
 msgid "javax.portlet.title.18"
@@ -738,7 +738,7 @@ msgstr "Dodaj instancję"
 
 #. Add Item
 msgid "action.ADD_ITEM"
-msgstr "Dodaj item"
+msgstr "Dodaj element"
 
 #. Add License
 msgid "action.ADD_LICENSE"
@@ -1584,10 +1584,12 @@ msgid "already-registered"
 msgstr "Już zarejestrowany"
 
 #. Alternative Shipping Calculation
+#, fuzzy
 msgid "alternative-shipping-calculation"
 msgstr "Alternative Shipping Calculation"
 
 #. Alternative Shipping
+#, fuzzy
 msgid "alternative-shipping"
 msgstr "Alternative Shipping"
 
@@ -1612,6 +1614,7 @@ msgid "an-error-occurred-while-discovering-the-open-id-provider"
 msgstr "Podczas poszukiwania dostawcy OpenID wystąpił błąd."
 
 #. An error occurred while establishing an association with the Open ID provider.
+#, fuzzy
 msgid "an-error-occurred-while-establishing-an-association-with-the-open-id-provider"
 msgstr "An error occurred while establishing an association with the Open ID provider."
 
@@ -1852,6 +1855,7 @@ msgid "are-you-sure-you-want-to-delete-the-selected-user"
 msgstr "Czy na pewno usunąć wybranego użytkownika?"
 
 #. Are you sure you want to delete the staging public and private pages?
+#, fuzzy
 msgid "are-you-sure-you-want-to-delete-the-staging-public-and-private-pages"
 msgstr "Are you sure you want to delete the staging public and private pages?"
 
@@ -1960,6 +1964,7 @@ msgid "are-you-sure-you-want-to-permanently-delete-the-selected-users"
 msgstr "Czy na pewno całkowicie usunąć wybranych użytkowników?"
 
 #. Are you sure you want to publish to live and overwrite the existing configuration?
+#, fuzzy
 msgid "are-you-sure-you-want-to-publish-to-live-and-overwrite-the-existing-configuration"
 msgstr "Are you sure you want to publish to live and overwrite the existing configuration?"
 
@@ -2193,10 +2198,12 @@ msgid "bad-request"
 msgstr "Błędne żądanie"
 
 #. Ban Date
+#, fuzzy
 msgid "ban-date"
 msgstr "Data zbanowania"
 
 #. Ban this User
+#, fuzzy
 msgid "ban-this-user"
 msgstr "Banuj tego użytkownika"
 
@@ -2210,7 +2217,7 @@ msgstr "Banner"
 
 #. Base DN
 msgid "base-dn"
-msgstr "Base DN"
+msgstr "Podstawowa DN"
 
 #. Base Provider URL
 msgid "base-provider-url"
@@ -2638,6 +2645,7 @@ msgid "choose-a-resource-or-proceed-to-the-next-step"
 msgstr "Wybierz zasób lub przejdź do kolejnego kroku."
 
 #. Choose a user name for your personal company email address.
+#, fuzzy
 msgid "choose-a-user-name-for-your-personal-company-email-address"
 msgstr "Choose a user name for your personal company email address."
 
@@ -2806,6 +2814,7 @@ msgid "column_5"
 msgstr "Kolumna 5"
 
 #. Combination View
+#, fuzzy
 msgid "combination-view"
 msgstr "Combination View"
 
@@ -2946,6 +2955,7 @@ msgid "convert"
 msgstr "Konwertuj"
 
 #. Copy from Live
+#, fuzzy
 msgid "copy-from-live"
 msgstr "Copy from Live"
 
@@ -2971,7 +2981,7 @@ msgstr "Kod kuponu"
 
 #. Coupon Discount
 msgid "coupon-discount"
-msgstr "Coupon Discount"
+msgstr "Zniżka z kuponu"
 
 #. Coupon ID
 msgid "coupon-id"
@@ -2986,6 +2996,7 @@ msgid "coupon"
 msgstr "Kupon"
 
 #. Coupons can be set to only apply to orders above a minimum amount. Set the minimum order to {0} to add a coupon that applies to any purchase price.
+#, fuzzy
 msgid "coupons-can-be-set-to-only-apply-to-orders-above-a-minimum-amount"
 msgstr "Coupons can be set to only apply to orders above a minimum amount. Set the minimum order to {0} to add a coupon that applies to any purchase price."
 
@@ -3018,6 +3029,7 @@ msgid "create-time"
 msgstr "Czas utworzenia"
 
 #. Credentials
+#, fuzzy
 msgid "credentials"
 msgstr "Credentials"
 
@@ -3030,6 +3042,7 @@ msgid "credit-cards"
 msgstr "Karty kredytowe"
 
 #. Cross References
+#, fuzzy
 msgid "cross-references"
 msgstr "Referencja"
 
@@ -3122,14 +3135,17 @@ msgid "date"
 msgstr "Data"
 
 #. Day High
+#, fuzzy
 msgid "day-high"
 msgstr "Day High"
 
 #. Day Low
+#, fuzzy
 msgid "day-low"
 msgstr "Day Low"
 
 #. day(s)
+#, fuzzy
 msgid "day-s"
 msgstr "dzień(dni)"
 
@@ -3338,10 +3354,12 @@ msgid "direct-install"
 msgstr "Instalacja bezpośrednia"
 
 #. Directions Address
+#, fuzzy
 msgid "directions-address"
 msgstr "Directions Address"
 
 #. Directions Input Enabled
+#, fuzzy
 msgid "directions-input-enabled"
 msgstr "Directions Input Enabled"
 
@@ -3378,12 +3396,14 @@ msgid "display-depth"
 msgstr "Głebokość wyświetlania"
 
 #. Display of live session data is disabled. To enable, set the portaly property <b>{0}</b> to true.
+#, fuzzy
 msgid "display-of-live-session-data-is-disabled"
 msgstr "Display of live session data is disabled. To enable, set the portaly property <b>{0}</b> to true."
 
 #. Display Order
+#, fuzzy
 msgid "display-order"
-msgstr "Display Order"
+msgstr "Wyświetl zamówienie"
 
 #. Display per Page
 msgid "display-per-page"
@@ -3506,7 +3526,7 @@ msgstr "Pobierz plik"
 
 #. Download Link
 msgid "download-link"
-msgstr "Link do dowanloadu"
+msgstr "Odnośnik do pobierania"
 
 #. Download Script
 msgid "download-script"
@@ -3727,6 +3747,7 @@ msgid "edit-settings-for-x-in-group"
 msgstr "Edutuj ustawienia dla {0} w grupie:"
 
 #. Edit Stock Quantity
+#, fuzzy
 msgid "edit-stock-quantity"
 msgstr "Edit Stock Quantity"
 
@@ -3818,7 +3839,7 @@ msgstr "Edukacyjny"
 
 #. Email Address
 msgid "email-address"
-msgstr "Adres E-mail"
+msgstr "Adres e-mail"
 
 #. Email Addresses
 msgid "email-addresses"
@@ -3826,9 +3847,10 @@ msgstr "Adresy e-mail"
 
 #. Email Body
 msgid "email-body"
-msgstr "Treść E-maila"
+msgstr "Treść wiadomości"
 
 #. Email Entry
+#, fuzzy
 msgid "email-entry"
 msgstr "Email Entry"
 
@@ -3842,7 +3864,7 @@ msgstr "Powiadomienia e-mail"
 
 #. Email Subject
 msgid "email-subject"
-msgstr "Temat E-maila"
+msgstr "Temat wiadomości"
 
 #. Email To
 msgid "email-to"
@@ -3866,7 +3888,7 @@ msgstr "ID pracownika"
 
 #. Empty Cart
 msgid "empty-cart"
-msgstr "Empty Cart"
+msgstr "Pusty koszyk"
 
 #. Empty Folder
 msgid "empty-folder"
@@ -4020,6 +4042,7 @@ msgid "enter-one-user-email-address-per-line-to-reserve-the-user-email-address"
 msgstr "Wpisz jeden adres e-mail <b>na linię</b>, aby go zarezerwować."
 
 #. Enter rank and minimum post pairs <b>per line</b>. Users will be displayed with a rank based on their number of posts.
+#, fuzzy
 msgid "enter-rank-and-minimum-post-pairs-per-line"
 msgstr "Enter rank and minimum post pairs <b>per line</b>. Users will be displayed with a rank based on their number of posts."
 
@@ -4048,6 +4071,7 @@ msgid "enter-the-friendly-url-that-will-be-used-by-both-public-and-private-pages
 msgstr "Wpisz przyjazny URL, który będzie używany zarówno przez publiczne, jaki i prywatne strony."
 
 #. Enter the name, image, and priority level in descending order. Threads with a higher priority are displayed before threads with a lower priority. The name is the display name of the priority. The image is the display image of the priority and can be a complete URL or a path relative to the theme.
+#, fuzzy
 msgid "enter-the-name,-image,-and-priority-level-in-descending-order"
 msgstr "Enter the name, image, and priority level in descending order. Threads with a higher priority are displayed before threads with a lower priority. The name is the display name of the priority. The image is the display image of the priority and can be a complete URL or a path relative to the theme."
 
@@ -4060,6 +4084,7 @@ msgid "enter-the-search-filter-that-will-be-used-to-test-the-validity-of-a-user"
 msgstr "Podaj filtr przeszukiwania, który będzie służył do sprawdzenia użytkownika. Znaczniki @company_id@, @email_address@, i @user_id@ są zastępowane odpowiednimi wartościami podczas wykonywania zapytania."
 
 #. Enter the workflow definition below in XML format.
+#, fuzzy
 msgid "enter-the-workflow-definition-below-in-xml-format"
 msgstr "Enter the workflow definition below in XML format."
 
@@ -4084,6 +4109,7 @@ msgid "entries"
 msgstr "Wpisy"
 
 #. Entry Information
+#, fuzzy
 msgid "entry-information"
 msgstr "Entry Information"
 
@@ -4140,6 +4166,7 @@ msgid "exact-phrase"
 msgstr "Dokładna fraza"
 
 #. Exclusive
+#, fuzzy
 msgid "exclusive"
 msgstr "Exclusive"
 
@@ -4152,6 +4179,7 @@ msgid "expand-all"
 msgstr "Rozwiń wszystko"
 
 #. Expert
+#, fuzzy
 msgid "expert"
 msgstr "Expert"
 
@@ -4233,9 +4261,10 @@ msgstr "Nieudane próby logowania:"
 
 #. Failed to bind to the LDAP server with given values.
 msgid "failed-to-bind-to-the-ldap-server-with-given-values"
-msgstr "Failed to bind to the LDAP server with given values."
+msgstr "Nie udało się połączyć z serwerm LDAP przy użyciu podanych wartości."
 
 #. False
+#, fuzzy
 msgid "false"
 msgstr "False"
 
@@ -4280,14 +4309,17 @@ msgid "fax"
 msgstr "Faks"
 
 #. Featured Items
+#, fuzzy
 msgid "featured-items"
 msgstr "Featured Items"
 
 #. Featured
+#, fuzzy
 msgid "featured"
 msgstr "Featured"
 
 #. Feedback
+#, fuzzy
 msgid "feedback"
 msgstr "Feedback"
 
@@ -4308,6 +4340,7 @@ msgid "field"
 msgstr "Pole"
 
 #. Fields are added if you need to distinguish items based on criteria chosen by the user. For example, if you are selling t-shirts, you may want to add a field with the name <i>Size</i> and the values <i>S, M, L, XL</i>. Enter the values as a list of comma delimited options.
+#, fuzzy
 msgid "fields-are-added-if-you-need-to-distinguish-items-based-on-criteria-chosen-by-the-user"
 msgstr "Fields are added if you need to distinguish items based on criteria chosen by the user. For example, if you are selling t-shirts, you may want to add a field with the name <i>Size</i> and the values <i>S, M, L, XL</i>. Enter the values as a list of comma delimited options."
 
@@ -4333,15 +4366,15 @@ msgstr "Plik"
 
 #. Fill out the following form to get driving directions to
 msgid "fill-out-the-following-form-to-get-driving-directions-to"
-msgstr "Fill out the following form to get driving directions to"
+msgstr "Wypełnij poniższy formularz, by uzyskać informacje na temat dojazdu do"
 
 #. Filter by Location
 msgid "filter-by-location"
-msgstr "Filter by Location"
+msgstr "Filtruj według położenia"
 
 #. Filter by Organization
 msgid "filter-by-organization"
-msgstr "Filter by Organization"
+msgstr "Filtruj według organizacji"
 
 #. Filter by Role
 msgid "filter-by-role"
@@ -4349,11 +4382,11 @@ msgstr "Filtruj według roli"
 
 #. Filter by Structure
 msgid "filter-by-structure"
-msgstr "Filter by Structure"
+msgstr "Filtruj według struktury"
 
 #. Filter by Template
 msgid "filter-by-template"
-msgstr "Filter by Template"
+msgstr "Filtruj według szablonu"
 
 #. Filter by User Group
 msgid "filter-by-user-group"
@@ -4361,11 +4394,11 @@ msgstr "Filtruj według grupy użytkowników"
 
 #. Filter Settings
 msgid "filter-settings"
-msgstr "Filter Settings"
+msgstr "Ustawienia filtra"
 
 #. Filters
 msgid "filters"
-msgstr "Filters"
+msgstr "Filtry"
 
 #. Find potential recipients from the following:
 msgid "find-potential-recipients-from-the-following"
@@ -4373,23 +4406,25 @@ msgstr "Znajdź potencjalnych odbiorców spośród następujących osób:"
 
 #. Find
 msgid "find"
-msgstr "Find"
+msgstr "Znajdź"
 
 #. Finished
 msgid "finished"
 msgstr "Zakończono"
 
 #. Firm Name
+#, fuzzy
 msgid "firm-name"
 msgstr "Firm Name"
 
 #. Firms
+#, fuzzy
 msgid "firms"
 msgstr "Firms"
 
 #. First Message
 msgid "first-message"
-msgstr "First Message"
+msgstr "Pierwsza wiadomość"
 
 #. First Name
 msgid "first-name"
@@ -4397,21 +4432,25 @@ msgstr "Imię"
 
 #. First Thread
 msgid "first-thread"
-msgstr "First Thread"
+msgstr "Pierwszy wątek"
 
 #. First
+#, fuzzy
 msgid "first"
 msgstr "Pierwsza(-y)"
 
 #. Flash Attributes
+#, fuzzy
 msgid "flash-attributes"
 msgstr "Flash Attributes"
 
 #. Flash Variables
+#, fuzzy
 msgid "flash-variables"
 msgstr "Flash Variables"
 
 #. Flat Amount
+#, fuzzy
 msgid "flat-amount"
 msgstr "Flat Amount"
 
@@ -4421,7 +4460,7 @@ msgstr "Widok płaski"
 
 #. Folder Display Settings
 msgid "folder-display-settings"
-msgstr "Folder Display Settings"
+msgstr "Ustawienia wyświetlania folderów"
 
 #. Folder Name
 msgid "folder-name"
@@ -4457,16 +4496,18 @@ msgid "font"
 msgstr "Czcionka"
 
 #. Foot
+#, fuzzy
 msgid "foot"
 msgstr "Foot"
 
 #. Footnotes
+#, fuzzy
 msgid "footnotes"
 msgstr "Footnotes"
 
 #. For example, if the public virtual host is <b>www.helloworld.com</b> and the friendly URL is <b>/helloworld</b>, then <b>{0}://www.helloworld.com</b> is mapped to <b>{1}/helloworld</b>.
 msgid "for-example,-if-the-public-virtual-host-is-www.helloworld.com-and-the-friendly-url-is-/helloworld"
-msgstr "Dla przykładu, jeżeli publiczny wirtualny host ma adres <b>www.helloworld.com</b> a przyjazny URL to <b>/helloworld</b>, wtedy <b>{0}://www.helloworld.com</b> jest mapowane do <b>{1}/helloworld</b>."
+msgstr "Na przykład, jeżeli publiczny wirtualny host ma adres <b>www.helloworld.com</b> a przyjazny URL to <b>/helloworld</b>, wtedy <b>{0}://www.helloworld.com</b> jest mapowane do <b>{1}/helloworld</b>."
 
 #. For example, {0}.
 msgid "for-example-x"
@@ -4487,11 +4528,11 @@ msgstr "Other Information"
 
 #. Form Method
 msgid "form-method"
-msgstr "Form Method"
+msgstr "Metoda formularza"
 
 #. Form
 msgid "form"
-msgstr "Form"
+msgstr "Formularz"
 
 #. Format Script
 msgid "format-script"
@@ -4499,19 +4540,19 @@ msgstr "Formatuj skrypt"
 
 #. Format Template
 msgid "format-template"
-msgstr "Format Template"
+msgstr "Formatuj szablon"
 
 #. Format XSL
 msgid "format-xsl"
-msgstr "Format XSL"
+msgstr "Formatuj XSL"
 
 #. Format
 msgid "format"
-msgstr "Format"
+msgstr "Formatuj"
 
 #. Formula
 msgid "formula"
-msgstr "Formula"
+msgstr "Formuła"
 
 #. Forward Address
 msgid "forward-address"
@@ -4527,11 +4568,11 @@ msgstr "Czwarta(-y)"
 
 #. French to German
 msgid "fr_de"
-msgstr "French to German"
+msgstr "Francuski na niemiecki"
 
 #. French to English
 msgid "fr_en"
-msgstr "French to English"
+msgstr "Francuski na angielski"
 
 #. Framework Version
 #, fuzzy
@@ -4549,7 +4590,7 @@ msgstr "Ilość wolnej pamięci"
 
 #. Free Shipping
 msgid "free-shipping"
-msgstr "Free Shipping"
+msgstr "Darmowa dostawa"
 
 #. French
 msgid "french"
@@ -4565,11 +4606,11 @@ msgstr "Przyjazny URL"
 
 #. From this location
 msgid "from-this-location"
-msgstr "From this location"
+msgstr "Z tego położenia"
 
 #. From
 msgid "from"
-msgstr "From"
+msgstr "Od"
 
 #. FTP
 msgid "ftp"
@@ -6438,9 +6479,8 @@ msgid "not-found"
 msgstr "Not Found"
 
 #. Not Installed or Out of Date
-#, fuzzy
 msgid "not-installed-or-older-version-installed"
-msgstr "There are no older versions of this page."
+msgstr "Niezainstalowany albo nieaktualny"
 
 #. Not Installed
 msgid "not-installed"
@@ -10503,9 +10543,8 @@ msgid "updated"
 msgstr "Zaktualizowano"
 
 #. Upload a Background Image
-#, fuzzy
 msgid "upload-a-background-image"
-msgstr "Upload Image"
+msgstr "Prześlij obrazek tła"
 
 #. Upload a GIF or JPEG that is {0} pixels tall and {1} pixels wide.
 msgid "upload-a-gif-or-jpeg-that-is-x-pixels-tall-and-x-pixels-wide"
@@ -10573,9 +10612,8 @@ msgid "url"
 msgstr "URL"
 
 #. Use a Background Image
-#, fuzzy
 msgid "use-a-background-image"
-msgstr "Tło nagłówka"
+msgstr "Używaj obrazka tła"
 
 #. Use Custom Title
 msgid "use-custom-title"
@@ -11543,7 +11581,7 @@ msgstr ""
 #. Your order cannot be processed because it falls below the minimum required amount of {0}.
 #, fuzzy
 msgid "your-order-cannot-be-processed-because-it-falls-below-the-minimum-required-amount-of-x"
-msgstr "Your order cannot be processed because it falls below the minimum required amount of {0}."
+msgstr "Twoje zamówienie nie może zostać przetworzone, ponieważ zawiera mniejszą niż wymagana ilość {0}."
 
 #. Your order number is
 msgid "your-order-number-is"
