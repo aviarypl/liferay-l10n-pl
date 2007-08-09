@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-09 14:45+0100\n"
+"PO-Revision-Date: 2007-08-09 15:14+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,7 @@ msgstr "Zaproszenie"
 
 #. Tagged Content
 msgid "javax.portlet.title.101"
-msgstr "Otagowana Zawartość"
+msgstr "Otagowana zawartość"
 
 #. XSL Content
 msgid "javax.portlet.title.102"
@@ -48,11 +48,11 @@ msgstr "Update Manager"
 
 #. My Global Tags
 msgid "javax.portlet.title.105"
-msgstr "Moje Globalne Tagi"
+msgstr "Moje globalne tagi"
 
 #. My Community Tags
 msgid "javax.portlet.title.106"
-msgstr "Tagi Mojej Społeczności"
+msgstr "Tagi mojej społeczności"
 
 #. Page Comments
 msgid "javax.portlet.title.107"
@@ -64,23 +64,23 @@ msgstr "Ocena strony"
 
 #. Web Form
 msgid "javax.portlet.title.109"
-msgstr "Formularz Webowy"
+msgstr "Formularz WWW"
 
 #. Address Book
 msgid "javax.portlet.title.10"
-msgstr "Książka Adresowa"
+msgstr "Książka adresowa"
 
 #. Document Library Display
 msgid "javax.portlet.title.110"
-msgstr "Wyświetlanie Biblioteki Dokumentów"
+msgstr "Wyświetlanie biblioteki dokumentów"
 
 #. Plugin Installer
 msgid "javax.portlet.title.111"
-msgstr "Instalator Pluginów"
+msgstr "Instalator wtyczek"
 
 #. OpenID Sign In
 msgid "javax.portlet.title.112"
-msgstr "Logowanie poprzez OpenID"
+msgstr "Logowanie przez OpenID"
 
 #. Portlet CSS
 msgid "javax.portlet.title.113"
@@ -104,7 +104,7 @@ msgstr "Gry"
 
 #. Journal
 msgid "javax.portlet.title.15"
-msgstr "Żurnal"
+msgstr "Dziennik"
 
 #. Currency Converter
 msgid "javax.portlet.title.16"
@@ -120,7 +120,7 @@ msgstr "Mapy"
 
 #. Message Boards
 msgid "javax.portlet.title.19"
-msgstr "Forum Internetowe"
+msgstr "Forum internetowe"
 
 #. Mail
 msgid "javax.portlet.title.1"
@@ -128,11 +128,11 @@ msgstr "Poczta"
 
 #. Document Library
 msgid "javax.portlet.title.20"
-msgstr "Biblioteka Dokumentów"
+msgstr "Biblioteka dokumentów"
 
 #. Random Bible Verse
 msgid "javax.portlet.title.21"
-msgstr "Losowy Werset z Biblii"
+msgstr "Losowy werset z Biblii"
 
 #. Instant Messenger
 msgid "javax.portlet.title.22"
@@ -156,7 +156,7 @@ msgstr "Tłumacz"
 
 #. Unit Converter
 msgid "javax.portlet.title.27"
-msgstr "Konwerter Jednostek"
+msgstr "Konwerter jednostek"
 
 #. Bookmarks
 msgid "javax.portlet.title.28"
@@ -172,7 +172,7 @@ msgstr "Moje konto"
 
 #. Network Utilities
 msgid "javax.portlet.title.30"
-msgstr "Narządzia Sieciowe"
+msgstr "Narządzia sieciowe"
 
 #. Image Gallery
 msgid "javax.portlet.title.31"
@@ -180,7 +180,7 @@ msgstr "Galeria obrazków"
 
 #. Today in Christian History
 msgid "javax.portlet.title.32"
-msgstr "Dziś w Historii Chrześcijaństwa"
+msgstr "Dziś w historii chrześcijaństwa"
 
 #. Blogs
 msgid "javax.portlet.title.33"
@@ -200,11 +200,11 @@ msgstr "Wiki"
 
 #. Words
 msgid "javax.portlet.title.37"
-msgstr "Words"
+msgstr "Słowa"
 
 #. Theme Gallery
 msgid "javax.portlet.title.38"
-msgstr "Theme Gallery"
+msgstr "Galeria motywów"
 
 #. RSS
 msgid "javax.portlet.title.39"
@@ -215,6 +215,7 @@ msgid "javax.portlet.title.3"
 msgstr "Szukaj"
 
 #. Location Admin
+#, fuzzy
 msgid "javax.portlet.title.40"
 msgstr "Administrator Lokalizacji"
 
@@ -236,7 +237,7 @@ msgstr "Katechizm westminsterski"
 
 #. Gospel for Asia
 msgid "javax.portlet.title.46"
-msgstr "Gospel for Asia"
+msgstr "Ewangelia dla Azji"
 
 #. IFrame
 msgid "javax.portlet.title.48"
@@ -268,7 +269,7 @@ msgstr "Wyświetlanie Wiki"
 
 #. Journal Content
 msgid "javax.portlet.title.56"
-msgstr "Zawartość Żurnala"
+msgstr "Zawartość dziennika"
 
 #. Sign In
 msgid "javax.portlet.title.58"
@@ -288,7 +289,7 @@ msgstr "Loan Calculator"
 
 #. Journal Articles
 msgid "javax.portlet.title.62"
-msgstr "Artykuły Żurnala"
+msgstr "Artykuły dziennika"
 
 #. Recent Documents
 msgid "javax.portlet.title.64"
@@ -320,7 +321,7 @@ msgstr "Reverend Fun"
 
 #. Password Generator
 msgid "javax.portlet.title.70"
-msgstr "Generator Haseł"
+msgstr "Generator haseł"
 
 #. Navigation
 msgid "javax.portlet.title.71"
@@ -340,7 +341,7 @@ msgstr "Comic"
 
 #. Enterprise Admin
 msgid "javax.portlet.title.79"
-msgstr "Administracja Portalem"
+msgstr "Administracja portalem"
 
 #. Bible Gateway
 msgid "javax.portlet.title.7"
@@ -348,7 +349,7 @@ msgstr "Bible Gateway"
 
 #. Organization Admin
 msgid "javax.portlet.title.80"
-msgstr "Administracja Organizacją"
+msgstr "Administracja organizacją"
 
 #. Countdown
 msgid "javax.portlet.title.81"
@@ -368,15 +369,15 @@ msgstr "Mapa Strony"
 
 #. Portlet Configuration
 msgid "javax.portlet.title.86"
-msgstr "Konfiguracja Portletu"
+msgstr "Konfiguracja portletu"
 
 #. Layout Configuration
 msgid "javax.portlet.title.87"
-msgstr "Konfiguracja Wyglądu"
+msgstr "Konfiguracja wyglądu"
 
 #. Page Settings
 msgid "javax.portlet.title.88"
-msgstr "Ustawienia Strony"
+msgstr "Ustawienia strony"
 
 #. Calendar
 msgid "javax.portlet.title.8"
@@ -412,7 +413,7 @@ msgstr "Notatki"
 
 #. Software Catalog
 msgid "javax.portlet.title.98"
-msgstr "Katalog Oprogramowania"
+msgstr "Katalog oprogramowania"
 
 #. Tags Admin
 msgid "javax.portlet.title.99"
@@ -467,7 +468,7 @@ msgstr "Google"
 
 #. Journal
 msgid "category.journal"
-msgstr "Żurnal"
+msgstr "Dziennik"
 
 #. Library
 msgid "category.library"
@@ -1024,7 +1025,7 @@ msgstr "Strona nie może zawierać więcej niż {0} portletów."
 
 #. About
 msgid "about"
-msgstr "About"
+msgstr "Informacje"
 
 #. Access Denied
 msgid "access-denied"
@@ -1116,7 +1117,7 @@ msgstr "Dodaj wszystkie numery ISBN oddzielone spacjami."
 
 #. Add all ticker symbols separated by spaces.
 msgid "add-all-ticker-symbols-separated-by-spaces"
-msgstr "Add all ticker symbols separated by spaces."
+msgstr "Dodaj wszystkie symbole giełdowe oddzielone spacjami."
 
 #. Add another form field.
 msgid "add-another-form-field"
@@ -1892,7 +1893,7 @@ msgstr "Czy na pewno usunąć tą listę?"
 
 #. Are you sure you want to delete this message?
 msgid "are-you-sure-you-want-to-delete-this-message"
-msgstr "Czy jna pewno usunąć tę wiadomość?"
+msgstr "Czy na pewno usunąć tę wiadomość?"
 
 #. Are you sure you want to delete this node and all its pages?
 msgid "are-you-sure-you-want-to-delete-this-node-and-all-its-pages"
@@ -2096,23 +2097,23 @@ msgstr "Załączniki"
 
 #. Authenticate
 msgid "authenticate"
-msgstr "Autentukuj"
+msgstr "Uwierzytelnij"
 
 #. Authentication failed. Please enable browser cookies and try again.
 msgid "authentication-failed-please-enable-browser-cookies"
-msgstr "Autentykacja nie powiodła się. Załącz obsługę ciasteczek w przeglądarce i spróbuj ponownie."
+msgstr "Uwierzytelnienie nie powiodło się. Włącz obsługę ciasteczek w przeglądarce i spróbuj ponownie."
 
 #. Authentication failed. Please try again.
 msgid "authentication-failed"
-msgstr "Autentykacja nie powiodła się. Spróbuj ponownie."
+msgstr "Uwierzytelnienie nie powiodło się. Spróbuj ponownie."
 
 #. Authentication Type
 msgid "authentication-type"
-msgstr "Rodzaj autentykacji"
+msgstr "Rodzaj uwierzytelniania"
 
 #. Authentication
 msgid "authentication"
-msgstr "Autentykacja"
+msgstr "Uwierzytelnienie"
 
 #. Author
 msgid "author"
@@ -4248,9 +4249,8 @@ msgid "favorite-activity"
 msgstr "Ulubione zajęcie"
 
 #. Favorite Bible Verse
-#, fuzzy
 msgid "favorite-bible-verse"
-msgstr "Favorite Movie"
+msgstr "Ulubiony cytat biblijny"
 
 #. Favorite Food
 msgid "favorite-food"
@@ -4345,9 +4345,8 @@ msgid "filter-by-organization"
 msgstr "Filter by Organization"
 
 #. Filter by Role
-#, fuzzy
 msgid "filter-by-role"
-msgstr "Filter by Template"
+msgstr "Filtruj według roli"
 
 #. Filter by Structure
 msgid "filter-by-structure"
@@ -4358,9 +4357,8 @@ msgid "filter-by-template"
 msgstr "Filter by Template"
 
 #. Filter by User Group
-#, fuzzy
 msgid "filter-by-user-group"
-msgstr "Filter by Structure"
+msgstr "Filtruj według grupy użytkowników"
 
 #. Filter Settings
 msgid "filter-settings"
@@ -4419,9 +4417,8 @@ msgid "flat-amount"
 msgstr "Flat Amount"
 
 #. Flat View
-#, fuzzy
 msgid "flat-view"
-msgstr "Obejrzyj dane"
+msgstr "Widok płaski"
 
 #. Folder Display Settings
 msgid "folder-display-settings"
@@ -4857,7 +4854,7 @@ msgstr "Link aktywowania"
 
 #. How do users authenticate?
 msgid "how-do-users-authenticate"
-msgstr "W jaki sposób użytkownicy są autentykowani?"
+msgstr "W jaki sposób użytkownicy są uwierzytelniani?"
 
 #. HTML Attributes
 msgid "html-attributes"
@@ -4905,11 +4902,11 @@ msgstr "If the discount type is <i>Free Shipping</i>, then shipping charges are 
 
 #. If the user is valid and the user exists in the LDAP server but not in Liferay, the user will be synchronized from the LDAP server to Liferay. Below is a mapping of Liferay attributes and the pair name used to populate the Liferay field from LDAP.
 msgid "if-the-user-is-valid-and-the-user-exists-in-the-ldap-server-but-not-in-liferay"
-msgstr "Jeżeli użytkownik zostanie zautentykowany na serwerze LDAP, ale nie istnieje w Liferayu, zostanie on zsynchronizowany z LDAPa do Liferaya. Poniżej podano mapowanie pomiędzy atrybutami używanymi przez Liferaya a polami z LDAPa."
+msgstr "Jeżeli użytkownik zostanie uwierzytelniony na serwerze LDAP, ale nie istnieje w Liferayu, zostanie on zsynchronizowany z LDAPa do Liferaya. Poniżej podano mapowanie pomiędzy atrybutami używanymi przez Liferaya a polami z LDAPa."
 
 #. If you are not {0}, logout and try again.
 msgid "if-you-are-not-x-logout-and-try-again"
-msgstr "If you are not {0}, logout and try again."
+msgstr "Jeśli {0} to nie Ty, wyloguj się i spróbuj ponownie."
 
 #. Image names must end with one of the following extensions:
 msgid "image-names-must-end-with-one-of-the-following-extensions"
@@ -5028,9 +5025,8 @@ msgid "include-original-text"
 msgstr "Include Original Text"
 
 #. Include
-#, fuzzy
 msgid "include"
-msgstr "Minuta"
+msgstr "Dołącz"
 
 #. Incoming POP Server
 msgid "incoming-pop-server"
@@ -5073,47 +5069,40 @@ msgid "inserted-in"
 msgstr "Inserted in"
 
 #. Install More Layout Templates
-#, fuzzy
 msgid "install-more-layout-templates"
-msgstr "Nie ma szablonów."
+msgstr "Zainstaluj więcej szablonów strony"
 
 #. Install More Portlets
-#, fuzzy
 msgid "install-more-portlets"
-msgstr "w"
+msgstr "Zainstaluj więcej portletów"
 
 #. Install More Themes
-#, fuzzy
 msgid "install-more-themes"
-msgstr "Sale Items"
+msgstr "Zainstaluj więcej motywów"
 
 #. Install Plugins
 msgid "install-plugins"
 msgstr "Zainstaluj wtyczki"
 
 #. Install Status
-#, fuzzy
 msgid "install-status"
-msgstr "Dowolny status"
+msgstr "Status instalacji"
 
 #. Install
-#, fuzzy
 msgid "install"
-msgstr "List All"
+msgstr "Zainstaluj"
 
 #. Installed Version
-#, fuzzy
 msgid "installed-version"
-msgstr "Dostępna wersja"
+msgstr "Wersja zainstalowana"
 
 #. Instance ID
 msgid "instance-id"
 msgstr "ID instancji"
 
 #. Instance
-#, fuzzy
 msgid "instance"
-msgstr "Instances"
+msgstr "Instancja"
 
 #. Instances
 msgid "instances"
@@ -5156,9 +5145,8 @@ msgid "interview"
 msgstr "Wywiad"
 
 #. Invite Friends
-#, fuzzy
 msgid "invite-friends"
-msgstr "Ministries"
+msgstr "Zaproś znajomych"
 
 #. Invoice
 msgid "invoice"
@@ -5413,19 +5401,16 @@ msgid "layer-type"
 msgstr "Layer Type"
 
 #. Layout Template Packages
-#, fuzzy
 msgid "layout-template-packages"
-msgstr "Ostatnie {0} szablonów"
+msgstr "Pakiety szablonów strony"
 
 #. Layout Template
-#, fuzzy
 msgid "layout-template"
-msgstr "Ostatnie {0} szablonów"
+msgstr "Szablon strony"
 
 #. Layout Templates
-#, fuzzy
 msgid "layout-templates"
-msgstr "Ostatnie {0} szablonów"
+msgstr "Szablony strony"
 
 #. Layout
 msgid "layout"
@@ -5492,9 +5477,8 @@ msgid "length"
 msgstr "Długość"
 
 #. Letter Spacing
-#, fuzzy
 msgid "letter-spacing"
-msgstr "Usuń stronę"
+msgstr "Odstęp między literami"
 
 #. Level
 msgid "level"
@@ -5650,9 +5634,8 @@ msgid "logout-url"
 msgstr "Kolor URL"
 
 #. Long Description
-#, fuzzy
 msgid "long-description"
-msgstr "Opis"
+msgstr "Długi opis"
 
 #. Long Text
 msgid "long-text"
@@ -6461,9 +6444,8 @@ msgid "not-installed-or-older-version-installed"
 msgstr "There are no older versions of this page."
 
 #. Not Installed
-#, fuzzy
 msgid "not-installed"
-msgstr "N/D"
+msgstr "Nie zainstalowany"
 
 #. Notes
 msgid "notes"
@@ -6482,9 +6464,8 @@ msgid "notify"
 msgstr "Notify"
 
 #. NTLM Enabled
-#, fuzzy
 msgid "ntlm-enabled"
-msgstr "Włączony"
+msgstr "NTLM włączony"
 
 #. NTLM
 msgid "ntlm"
@@ -6555,9 +6536,8 @@ msgid "num-of-topics"
 msgstr "Liczba tematów"
 
 #. #. of Users
-#, fuzzy
 msgid "num-of-users"
-msgstr "Liczba wpisów"
+msgstr "Liczba użytkowników"
 
 #. #. of Views
 msgid "num-of-views"
@@ -6656,14 +6636,12 @@ msgid "open-entry"
 msgstr "Open Entry"
 
 #. OpenID
-#, fuzzy
 msgid "open-id"
-msgstr "ID kuponu"
+msgstr "OpenID"
 
 #. Open Source
-#, fuzzy
 msgid "open-source"
-msgstr "Resource"
+msgstr "Open Source"
 
 #. Open
 msgid "open"
@@ -6674,9 +6652,8 @@ msgid "optional"
 msgstr "Optional"
 
 #. Options
-#, fuzzy
 msgid "options"
-msgstr "Optional"
+msgstr "Opcje"
 
 #. Or obtain the Google gadget code directly and paste it below.
 msgid "or-obtain-the-google-gadget-code-directly-and-paste-it-below"
@@ -6735,9 +6712,8 @@ msgid "other-information"
 msgstr "Other Information"
 
 #. Other Licenses
-#, fuzzy
 msgid "other-licenses"
-msgstr "Kropkowane linie"
+msgstr "Pozostałe licencje"
 
 #. Other State
 msgid "other-state"
@@ -6769,9 +6745,8 @@ msgid "owner"
 msgstr "Owner"
 
 #. Package
-#, fuzzy
 msgid "package"
-msgstr "Strona"
+msgstr "Pakiet"
 
 #. Page Display Order
 msgid "page-display-order"
@@ -6786,18 +6761,16 @@ msgid "page-links"
 msgstr "Page Links"
 
 #. Page Priority
-#, fuzzy
 msgid "page-priority"
-msgstr "Edytuj priorytet stron"
+msgstr "Priorytet stron"
 
 #. Page Settings
 msgid "page-settings"
 msgstr "Ustawienia strony"
 
 #. Page URL
-#, fuzzy
 msgid "page-url"
-msgstr "Pager"
+msgstr "Adres URL strony"
 
 #. Page
 msgid "page"
@@ -6812,9 +6785,8 @@ msgid "pages"
 msgstr "Strony"
 
 #. Paginate if there are two or more articles.
-#, fuzzy
 msgid "paginate-if-there-are-two-or-more-articles"
-msgstr "Nie ma artykułów."
+msgstr "Stronicuj, jeśli jest więcej niż jeden artykuł."
 
 #. Paint
 msgid "paint"
@@ -6845,19 +6817,16 @@ msgid "passage-lookup"
 msgstr "Passage Lookup"
 
 #. Password Changed Notification
-#, fuzzy
 msgid "password-changed-notification"
-msgstr "Powiadomienie o utworzeniu konta"
+msgstr "Powiadomienie o zmianie hasła"
 
 #. Password Expiration
-#, fuzzy
 msgid "password-expiration"
-msgstr "Wygaśnięcie"
+msgstr "Wygaśnięcie hasła"
 
 #. Password History
-#, fuzzy
 msgid "password-history"
-msgstr "Page History"
+msgstr "Historia haseł"
 
 #. Password Policies
 #, fuzzy
@@ -6878,14 +6847,12 @@ msgid "password-sent-email"
 msgstr "E-mail z wysłanym hasłem"
 
 #. Password Settings
-#, fuzzy
 msgid "password-settings"
-msgstr "Sound Settings"
+msgstr "Ustawienia haseł"
 
 #. Password Syntax Checking
-#, fuzzy
 msgid "password-syntax-checking"
-msgstr "E-mail z wysłanym hasłem"
+msgstr "Sprawdzanie składni hasła"
 
 #. Password
 msgid "password"
@@ -7004,14 +6971,12 @@ msgid "please-be-patient"
 msgstr "Proszę czekać. Może to potrwać kilka minut."
 
 #. Please change your password.
-#, fuzzy
 msgid "please-change-your-password"
-msgstr "Zmień hasło"
+msgstr "Proszę zmienić hasło."
 
 #. Please complete all fields.
-#, fuzzy
 msgid "please-complete-all-fields"
-msgstr "Please {0}complete{1} your order."
+msgstr "Proszę wypełnić wszystkie pola."
 
 #. Please {0}complete{1} your order.
 msgid "please-complete-your-order"
@@ -7030,9 +6995,8 @@ msgid "please-contact-the-administrator-to-configure-a-google-license"
 msgstr "Skontaktuj się z administratorem, aby skonfigurować licencję Google."
 
 #. Please contact the administrator to configure a valid mail server.
-#, fuzzy
 msgid "please-contact-the-administrator-to-configure-a-valid-mail-server"
-msgstr "Skontaktuj się z administratorem, aby skonfigurować licencję Google."
+msgstr "Skontaktuj się z administratorem, aby skonfigurować właściwy serwer poczty."
 
 #. Please contact the administrator to setup this portlet. If you are the administrator, go to the configuration screen to setup this portlet.
 msgid "please-contact-the-administrator-to-setup-this-portlet"
@@ -7091,14 +7055,12 @@ msgid "please-enter-a-start-date-that-comes-before-the-expiration-date"
 msgstr "Please enter a start date that comes before the expiration date."
 
 #. Please enter a subject.
-#, fuzzy
 msgid "please-enter-a-subject"
-msgstr "Please enter a valid subject."
+msgstr "Proszę wprowadzić temat."
 
 #. Please enter a title.
-#, fuzzy
 msgid "please-enter-a-title"
-msgstr "Wpisz poprawną nazwę."
+msgstr "Proszę wprowadzić tytuł."
 
 #. Please enter a unique code.
 #, fuzzy
@@ -7999,9 +7961,8 @@ msgid "recipient"
 msgstr "Odbiorca"
 
 #. Recipients
-#, fuzzy
 msgid "recipients"
-msgstr "Recipient"
+msgstr "Odbiorcy"
 
 #. Recommended Licenses
 msgid "recommended-licenses"
@@ -8223,9 +8184,8 @@ msgid "required"
 msgstr "Wymagany"
 
 #. Requires Login
-#, fuzzy
 msgid "requires-login"
-msgstr "Requires Shipping"
+msgstr "Wymaga logowania"
 
 #. Requires Shipping
 msgid "requires-shipping"
@@ -8358,9 +8318,8 @@ msgid "romanian"
 msgstr "Rumuński"
 
 #. Root Folder
-#, fuzzy
 msgid "root-folder"
-msgstr "Parent Folder"
+msgstr "Folder główny"
 
 #. Root Layout
 msgid "root-layout"
@@ -8464,9 +8423,8 @@ msgid "screen-name"
 msgstr "Po ksywce"
 
 #. Screenshots
-#, fuzzy
 msgid "screenshots"
-msgstr "Credentials"
+msgstr "Zrzuty ekranu"
 
 #. Script
 msgid "script"
@@ -8518,9 +8476,8 @@ msgid "search-operator"
 msgstr "Szukaj w folderze"
 
 #. Search Products
-#, fuzzy
 msgid "search-products"
-msgstr "Search Results"
+msgstr "Przeszukaj produkty"
 
 #. Search Results
 msgid "search-results"
@@ -8592,9 +8549,8 @@ msgid "see-large-photo"
 msgstr "See Large Photo"
 
 #. See {0} for more information.
-#, fuzzy
 msgid "see-x-for-more-information"
-msgstr "Item Information"
+msgstr "Więcej informacji można znależć w {0}."
 
 #. Select an existing article or add an article to be displayed in this portlet.
 msgid "select-an-existing-article-or-add-an-article-to-be-displayed-in-this-portlet"
@@ -9050,14 +9006,12 @@ msgid "simple"
 msgstr "Simple"
 
 #. Sitemap Protocol
-#, fuzzy
 msgid "sitemap-protocol"
-msgstr "Item Total"
+msgstr "Protokół mapy witryny"
 
 #. Sitemap
-#, fuzzy
 msgid "sitemap"
-msgstr "Item"
+msgstr "Mapa witryny"
 
 #. Size
 msgid "size"
@@ -10639,9 +10593,8 @@ msgid "use-default-values"
 msgstr "Użyj wartości domyślnych"
 
 #. Use Icon
-#, fuzzy
 msgid "use-icon"
-msgstr "Druga(-i)"
+msgstr "Użyj ikony"
 
 #. Use Large Image
 msgid "use-large-image"
@@ -10652,9 +10605,8 @@ msgid "use-ldap-password-policy"
 msgstr ""
 
 #. Use Logo
-#, fuzzy
 msgid "use-logo"
-msgstr "Logo"
+msgstr "Użyj logo"
 
 #. Use Medium Image
 msgid "use-medium-image"
@@ -10673,9 +10625,8 @@ msgid "user-added-email"
 msgstr "E-mail użytkownik dodany"
 
 #. User Default Object Classes
-#, fuzzy
 msgid "user-default-object-classes"
-msgstr "Use Default Values"
+msgstr "Domyślne klasy obiektów użytkownika"
 
 #. User Groups
 msgid "user-groups"
@@ -10706,9 +10657,8 @@ msgid "user"
 msgstr "Użytkownik"
 
 #. Users DN
-#, fuzzy
 msgid "users-dn"
-msgstr "ID użytkownika"
+msgstr "DN użytkownika"
 
 #. Users
 msgid "users"
@@ -10893,9 +10843,8 @@ msgid "volume"
 msgstr "Volume"
 
 #. Vote Date
-#, fuzzy
 msgid "vote-date"
-msgstr "Ostatni głos"
+msgstr "Data głosowania"
 
 #. Vote Results
 msgid "vote-results"
@@ -10930,14 +10879,13 @@ msgid "warning-time-help"
 msgstr ""
 
 #. Warning Time
-#, fuzzy
 msgid "warning-time"
-msgstr "Start Time"
+msgstr "Czas ostrzeżenia"
 
 #. Web ID
 #, fuzzy
 msgid "web-id"
-msgstr "Node ID"
+msgstr "Web ID"
 
 #. WebDAV URL
 msgid "webdav-url"
@@ -11036,9 +10984,8 @@ msgid "word-search"
 msgstr "Word Search"
 
 #. Word Spacing
-#, fuzzy
 msgid "word-spacing"
-msgstr "Word Search"
+msgstr "Odstęp między wyrazami"
 
 #. Worm
 msgid "worm"
@@ -11275,7 +11222,7 @@ msgstr "Nie posiadasz roli wymaganych, aby uzyskać dostęp do tego portletu."
 
 #. You have attempted to access a section of the site that requires authentication.
 msgid "you-have-attempted-to-access-a-section-of-the-site-that-requires-authentication"
-msgstr "Próbowałeś(aś) uzyskać dostęp do części strony wymagającej autentykacji."
+msgstr "Próbowałeś(-aś) uzyskać dostęp do części strony wymagającej uwierzytelnienia."
 
 #. You have attempted to deactivate a portlet that must be active.
 msgid "you-have-attempted-to-deactivate-a-portlet-that-must-be-active"
@@ -11521,9 +11468,8 @@ msgid "you-must-agree-with-the-terms-of-use-to-continue"
 msgstr "You must agree with the terms of use to continue."
 
 #. You must be authenticated to use this portlet.
-#, fuzzy
 msgid "you-must-be-authenticated-to-use-this-portlet"
-msgstr "Nie posiadasz roli wymaganych, aby uzyskać dostęp do tego portletu."
+msgstr "Należy się uwierzytelnić, aby móc używać tego portletu."
 
 #. You must have at least one page.
 msgid "you-must-have-at-least-one-page"
@@ -11608,9 +11554,8 @@ msgid "your-order-cannot-be-processed-because-it-falls-below-the-minimum-require
 msgstr "Your order cannot be processed because it falls below the minimum required amount of {0}."
 
 #. Your order number is
-#, fuzzy
 msgid "your-order-number-is"
-msgstr "Your order number is"
+msgstr "Twój numer zamówienia to"
 
 #. Your password can only be sent to an external email address.
 msgid "your-password-can-only-be-sent-to-an-external-email-address"
