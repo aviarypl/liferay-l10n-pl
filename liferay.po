@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-09 12:09+0100\n"
+"PO-Revision-Date: 2007-08-09 12:21+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -243,9 +243,8 @@ msgid "javax.portlet.title.48"
 msgstr "IFrame"
 
 #. My Places
-#, fuzzy
 msgid "javax.portlet.title.49"
-msgstr "Pogoda"
+msgstr "Moje miejsca"
 
 #. Weather
 msgid "javax.portlet.title.4"
@@ -487,9 +486,8 @@ msgid "category.religion"
 msgstr "Religia"
 
 #. Sample
-#, fuzzy
 msgid "category.sample"
-msgstr "WSRP"
+msgstr "Próbka"
 
 #. Science
 msgid "category.science"
@@ -547,9 +545,8 @@ msgid "model.resource.com.liferay.portal.model.Organization"
 msgstr "Organizacja"
 
 #. Password Policy
-#, fuzzy
 msgid "model.resource.com.liferay.portal.model.PasswordPolicy"
-msgstr "Rola"
+msgstr "Polityka haseł"
 
 #. Role
 msgid "model.resource.com.liferay.portal.model.Role"
@@ -831,9 +828,8 @@ msgid "action.ASSIGN_USERS"
 msgstr "Przypisz użytkowników"
 
 #. Ban User
-#, fuzzy
 msgid "action.BAN_USER"
-msgstr "Dodaj użytkownika"
+msgstr "Zablokuj użytkownika"
 
 #. Configuration
 msgid "action.CONFIGURATION"
@@ -860,9 +856,8 @@ msgid "action.EXPIRE"
 msgstr "Przeterminuj"
 
 #. Export All Events
-#, fuzzy
 msgid "action.EXPORT_ALL_EVENTS"
-msgstr "Dodaj wydarzenie"
+msgstr "Eksportuj wszystkie wydarzenia"
 
 #. Guest Preferences
 msgid "action.GUEST_PREFERENCES"
@@ -1105,12 +1100,11 @@ msgstr "Typ reklam"
 
 #. Add a CSS rule for all portlets like this one.
 msgid "add-a-css-rule-for-all-portlets-like-this-one"
-msgstr ""
+msgstr "Dodaj regułę CSS dla wszystkich portletów takich jak ten."
 
 #. Add a CSS rule for just this portlet.
-#, fuzzy
 msgid "add-a-css-rule-for-just-this-portlet"
-msgstr "You have successfully updated this portlet."
+msgstr "Dodaj regułę CSS tylko dla tego portletu."
 
 #. Add Address
 msgid "add-address"
@@ -1126,7 +1120,7 @@ msgstr "Add all ticker symbols separated by spaces."
 
 #. Add another form field.
 msgid "add-another-form-field"
-msgstr ""
+msgstr "Dodaj kolejne pole formularza."
 
 #. Add Article
 msgid "add-article"
@@ -1436,7 +1430,7 @@ msgstr "Adresy"
 
 #. Advanced CSS Styling
 msgid "advanced-css-styling"
-msgstr ""
+msgstr "Zaawansowane style CSS"
 
 #. Advanced Styling
 #, fuzzy
@@ -2187,7 +2181,7 @@ msgstr "Kolor tła"
 
 #. Background Repeating
 msgid "background-repeating"
-msgstr ""
+msgstr "Powtarzanie tła"
 
 #. Background Styles
 #, fuzzy
@@ -2647,7 +2641,7 @@ msgstr "Wybierz program, z którego zaimportować listę kontaktów:"
 
 #. Choose a resource or proceed to the next step.
 msgid "choose-a-resource-or-proceed-to-the-next-step"
-msgstr ""
+msgstr "Wybierz zasób lub przejdź do kolejnego kroku."
 
 #. Choose a user name for your personal company email address.
 msgid "choose-a-user-name-for-your-personal-company-email-address"
@@ -4009,7 +4003,7 @@ msgstr "Wpisz dane"
 
 #. Enter in your custom CSS.
 msgid "enter-in-your-custom-css"
-msgstr ""
+msgstr "Wprowadź własne style CSS."
 
 #. Enter one city or zip code <b>per line</b>.
 msgid "enter-one-city-or-zip-code-per-line"
@@ -4095,7 +4089,7 @@ msgstr "Enter the workflow definition below in XML format."
 
 #. Enter up to {0} email addresses of friends you would like to invite. Enter one email address per line.
 msgid "enter-up-to-x-email-addresses-of-friends-you-would-like-to-invite"
-msgstr ""
+msgstr "Wprowadź do {0} adresów e-mail znajomych, których chcesz zaprosić. Podaj po jednym adresie e-mail w linii."
 
 #. Enterprise Logo
 msgid "enterprise-logo"
@@ -4336,9 +4330,8 @@ msgid "female"
 msgstr "Kobieta"
 
 #. Field
-#, fuzzy
 msgid "field"
-msgstr "Fields"
+msgstr "Pole"
 
 #. Fields are added if you need to distinguish items based on criteria chosen by the user. For example, if you are selling t-shirts, you may want to add a field with the name <i>Size</i> and the values <i>S, M, L, XL</i>. Enter the values as a list of comma delimited options.
 msgid "fields-are-added-if-you-need-to-distinguish-items-based-on-criteria-chosen-by-the-user"
@@ -4404,7 +4397,7 @@ msgstr "Filters"
 
 #. Find potential recipients from the following:
 msgid "find-potential-recipients-from-the-following"
-msgstr ""
+msgstr "Znajdź potencjalnych odbiorców spośród następujących osób:"
 
 #. Find
 msgid "find"
@@ -4486,9 +4479,8 @@ msgid "folders"
 msgstr "Foldery"
 
 #. Font Style
-#, fuzzy
 msgid "font-style"
-msgstr "Styl"
+msgstr "Styl czcionki"
 
 #. Font
 msgid "font"
@@ -4516,9 +4508,8 @@ msgid "forgot-password"
 msgstr "Zapomniałem hasła"
 
 #. Form Fields
-#, fuzzy
 msgid "form-fields"
-msgstr "Fields"
+msgstr "Pola formularza"
 
 #. Form Information
 #, fuzzy
@@ -4713,9 +4704,8 @@ msgid "greeting"
 msgstr "Pozdrowienie"
 
 #. Group ID
-#, fuzzy
 msgid "group-id"
-msgstr "Group"
+msgstr "ID grupy"
 
 #. Group
 msgid "group"
@@ -5127,7 +5117,7 @@ msgstr "Sale Items"
 
 #. Install Plugins
 msgid "install-plugins"
-msgstr ""
+msgstr "Zainstaluj wtyczki"
 
 #. Install Status
 #, fuzzy
@@ -5594,7 +5584,7 @@ msgstr "List name:"
 
 #. List of plugins was last refreshed on {0}.
 msgid "list-of-plugins-was-last-refreshed-on-x"
-msgstr ""
+msgstr "Lista wtyczek została ostatnio odświeżona {0}."
 
 #. List users with the permission to perform the action
 msgid "list-users-with-the-permission-to-perform-the-action"
@@ -6668,7 +6658,7 @@ msgstr "Stara rola jest wymaganą rolą systemową."
 
 #. Out of Date
 msgid "older-version-installed"
-msgstr ""
+msgstr "Nieaktualny"
 
 #. On Hold
 msgid "on-hold"
@@ -7594,7 +7584,7 @@ msgstr "The page does not have a a valid title."
 
 #. Plugin ID
 msgid "plugin-id"
-msgstr ""
+msgstr "ID wtyczki"
 
 #. Plugin Name
 #, fuzzy
@@ -7693,9 +7683,8 @@ msgid "portlet-packages"
 msgstr "Nazwa portletu"
 
 #. Portlet Preferences
-#, fuzzy
 msgid "portlet-preferences"
-msgstr "Edytuj preferencje"
+msgstr "Preferencje portletu"
 
 #. Portlet Preview
 msgid "portlet-preview"
@@ -7895,14 +7884,12 @@ msgid "processing-login"
 msgstr "Processing login"
 
 #. Product
-#, fuzzy
 msgid "product"
-msgstr "Dodaj produkt"
+msgstr "Produkt"
 
 #. Products
-#, fuzzy
 msgid "products"
-msgstr "Projekty"
+msgstr "Produkty"
 
 #. Profile
 msgid "profile"
@@ -7933,9 +7920,8 @@ msgid "properties"
 msgstr "Properties"
 
 #. Property
-#, fuzzy
 msgid "property"
-msgstr "Add Property"
+msgstr "Własność"
 
 #. Props
 msgid "props"
@@ -8076,9 +8062,8 @@ msgid "recipients"
 msgstr "Recipient"
 
 #. Recommended Licenses
-#, fuzzy
 msgid "recommended-licenses"
-msgstr "Recommended"
+msgstr "Zalecane licencje"
 
 #. Recommended
 msgid "recommended"
@@ -9608,19 +9593,19 @@ msgstr "Dziękujemy za oddanie głosu."
 
 #. That password has already been used. Please enter in a different password.
 msgid "that-password-has-already-been-used-please-enter-in-a-different-password"
-msgstr ""
+msgstr "To hasło było już stosowane. Należy wprowadzić inne."
 
 #. That password is invalid. Please enter in a different password.
 msgid "that-password-is-invalid-please-enter-in-a-different-password"
-msgstr ""
+msgstr "To hasło jest nieprawidłowe. Należy wprowadzić inne."
 
 #. That password is too short (or too long). Please make sure your password is between {0} and 512 characters.
 msgid "that-password-is-too-short-or-too-long-please-make-sure-your-password-is-between-x-and-512-characters"
-msgstr ""
+msgstr "To hasło jest zbyt krótkie (lub zbyt długie). Należy wprowadzić hasło o długości od {0} do 512 znaków."
 
 #. That password uses common words. Please enter in a password that is harder to guess (i.e. contains a mix of numbers and letters).
 msgid "that-password-uses-common-words-please-enter-in-a-password-that-is-harder-to-guess-i-e-contains-a-mix-of-numbers-and-letters"
-msgstr ""
+msgstr "To hasło zawiera potoczne słowa. Należy wprowadzić hasło trudne do odgadnięcia (np. zawierające szereg różnych liter i cyfr)."
 
 #. The address of the email recipient
 msgid "the-address-of-the-email-recipient"
@@ -9705,7 +9690,7 @@ msgstr "The item could not be found."
 
 #. The email was sent successfuly.
 msgid "the-email-was-sent-successfuly"
-msgstr ""
+msgstr "E-mail został wysłany."
 
 #. The entry could not be found.
 msgid "the-entry-could-not-be-found"
@@ -9869,7 +9854,7 @@ msgstr "The node you selected does not have pages configured."
 
 #. The OpenID provider did not send the required attributes.
 msgid "the-openid-provider-did-not-send-the-required-attributes"
-msgstr ""
+msgstr "Dostawca OpenID nie przesłał wymaganych atrybutów."
 
 #. The order could not be found.
 msgid "the-order-could-not-be-found"
@@ -9897,7 +9882,7 @@ msgstr "The page does not have a a valid title."
 
 #. The passwords you entered do not match. Please re-enter your password.
 msgid "the-passwords-you-entered-do-not-match-each-other-please-re-enter-your-password"
-msgstr ""
+msgstr "Wprowadzone hasła nie zgadzają się. Należy je wprowadzić ponownie."
 
 #. The permission was deleted.
 #, fuzzy
@@ -9906,11 +9891,11 @@ msgstr "Uaktualnij uprawnienia"
 
 #. The plugin was downloaded successfully and is now being installed.
 msgid "the-plugin-was-downloaded-successfully-and-is-now-being-installed"
-msgstr ""
+msgstr "Wtyczka została pobrana i jest obecnie instalowana."
 
 #. The plugin was uploaded successfully and is now being installed.
 msgid "the-plugin-was-uploaded-successfully-and-is-now-being-installed"
-msgstr ""
+msgstr "Wtyczka została przesłana i jest obecnie instalowana."
 
 #. The portal keeps track of all live sessions and records useful information such as the user&#39;s remote host and IP, browser type, OS type, number of hits, and the URLs with timestamps of the pages accessed. To see this information, hit the <i>View Live Sessions</i> button.
 msgid "the-portal-keeps-track-of-all-live-sessions"
@@ -10258,7 +10243,7 @@ msgstr "Ta kategoria"
 
 #. This change will only be shown after you refresh the current page.
 msgid "this-change-will-only-be-shown-after-you-refresh-the-page"
-msgstr ""
+msgstr "Ta zmiana będzie widoczna dopiero po odświeżeniu aktualnej strony."
 
 #. This coupon only applies to items that are children of this comma delimited list of categories.
 msgid "this-coupon-only-applies-to-items-that-are-children-of-this-comma-delimited-list-of-categories"
