@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-09 17:03+0100\n"
+"PO-Revision-Date: 2007-08-09 17:47+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1460,9 +1460,8 @@ msgid "alfresco-web-client-url"
 msgstr "URL webowego klienta Alfresco"
 
 #. Alignment
-#, fuzzy
 msgid "alignment"
-msgstr "Spotkanie"
+msgstr "Wyrównanie"
 
 #. All Articles
 msgid "all-articles"
@@ -3437,9 +3436,8 @@ msgid "do-not-repeat-this-event"
 msgstr "Nie powtarzaj tego wydarzenia."
 
 #. Do Not Repeat
-#, fuzzy
 msgid "do-not-repeat"
-msgstr "Nie powtarzaj tego wydarzenia."
+msgstr "Nie powtarzaj"
 
 #. Do not send a reminder
 msgid "do-not-send-a-reminder"
@@ -3475,9 +3473,8 @@ msgid "documents-listing"
 msgstr "Dokumenty"
 
 #. Documents per Page
-#, fuzzy
 msgid "documents-per-page"
-msgstr "Nazwa dokumentu"
+msgstr "Liczba dokumentów na stronie"
 
 #. Documents require at least one read role.
 msgid "documents-require-at-least-one-read-role"
@@ -4916,11 +4913,11 @@ msgstr "Nazwa obrazka musi kończyć się jednym z następujących rozszerzeń:"
 
 #. Image Position From the Left
 msgid "image-position-from-the-left"
-msgstr ""
+msgstr "Pozycja obrazka od lewej"
 
 #. Image Position From the Top
 msgid "image-position-from-the-top"
-msgstr ""
+msgstr "Pozycja obrazka od góry"
 
 #. Image Search Key
 msgid "image-search-key"
@@ -4959,11 +4956,11 @@ msgstr "Import a LAR file to overwrite the current pages and preferences."
 
 #. If this is checked, then users authenticated from CAS that do not exist in the portal will be imported from LDAP. LDAP must be enabled.
 msgid "import-cas-users-from-ldap-help"
-msgstr ""
+msgstr "Jeśli to pole jest zaznaczone, użytkownicy uwierzytelnieni z poziomu CAS, nie istniejący w portalu, zostaną zaimportowani z LDAP. Obsługa LDAP musi być włączona."
 
 #. Import from LDAP
 msgid "import-cas-users-from-ldap"
-msgstr ""
+msgstr "Importuj z LDAP"
 
 #. Import Enabled
 #, fuzzy
@@ -5064,7 +5061,7 @@ msgstr "Inicjuj proces"
 
 #. Insert custom CSS that will loaded after the theme.
 msgid "insert-custom-css-that-will-loaded-after-the-theme"
-msgstr ""
+msgstr "Wprowadź własny kod CSS, który zostanie załadowany po kodzie motywu."
 
 #. Inserted in
 msgid "inserted-in"
@@ -5745,7 +5742,7 @@ msgstr "Maps and Directions"
 
 #. Margin and Padding
 msgid "margin-and-padding"
-msgstr ""
+msgstr "Marginesy wewnętrzne i zewnętrzne"
 
 #. Mass
 msgid "mass"
@@ -8763,7 +8760,7 @@ msgstr "Ustaw jako domyślny"
 
 #. Set Background Image Properties
 msgid "set-background-image-properties"
-msgstr ""
+msgstr "Ustaw własności obrazka tła"
 
 #. Set the discount amount and the discount type. If the discount amount is 0.25 and the discount type is <i>Percentage</i>, then 25% is taken off the purchase price. If the discount type is <i>Actual</i>, then 25 cents is taken off the purchase price.
 msgid "set-the-discount-amount-and-the-discount-type"
@@ -8963,11 +8960,11 @@ msgstr "Sign Guestbook"
 
 #. Sign in with a regular account.
 msgid "sign-in-with-a-regular-account"
-msgstr ""
+msgstr "Zaloguj się na zwykłe konto"
 
 #. Sign in with an Open ID provider.
 msgid "sign-in-with-an-open-id-provider"
-msgstr ""
+msgstr "Zaloguj się poprzez dostawcę Open ID"
 
 #. Sign In
 msgid "sign-in"
@@ -9088,7 +9085,7 @@ msgstr "Wrzuć plik WAR aby zainstalować szablon układu, portlet, lub motyw."
 
 #. Specify an optional context for deployment.
 msgid "specify-an-optional-context-for-deployment"
-msgstr ""
+msgstr "Określ opcjonalny kontekst wdrożenia."
 
 #. Specify the file to import:
 msgid "specify-the-file-to-import"
@@ -10429,7 +10426,7 @@ msgstr "Odsubskrybuj"
 
 #. Until unlocked by an administrator
 msgid "until-unlocked-by-an-administrator"
-msgstr ""
+msgstr "Do czasu odblokowania przed administratora"
 
 #. Up
 msgid "up"
@@ -10598,7 +10595,7 @@ msgstr "Use Large Image"
 
 #. Use LDAP Password Policy
 msgid "use-ldap-password-policy"
-msgstr ""
+msgstr "Używaj polityki haseł LDAP"
 
 #. Use Logo
 msgid "use-logo"
@@ -10936,11 +10933,11 @@ msgstr ""
 
 #. What would you like to export?
 msgid "what-would-you-like-to-export"
-msgstr ""
+msgstr "Co chcesz wyeksportować?"
 
 #. What would you like to import?
 msgid "what-would-you-like-to-import"
-msgstr ""
+msgstr "Co chcesz zaimportować?"
 
 #. When
 msgid "when"
