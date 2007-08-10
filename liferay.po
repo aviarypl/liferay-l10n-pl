@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-10 20:22+0100\n"
+"PO-Revision-Date: 2007-08-10 20:39+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -3305,6 +3305,7 @@ msgid "denotes-a-system-role"
 msgstr "Oznacza rolę systemową"
 
 #. Deploy Directory
+#, fuzzy
 msgid "deploy-directory"
 msgstr "Katalog deploy"
 
@@ -3349,10 +3350,12 @@ msgid "dictionary"
 msgstr "Słownik"
 
 #. Diff
+#, fuzzy
 msgid "diff"
 msgstr "Diff"
 
 #. Diffs
+#, fuzzy
 msgid "diffs"
 msgstr "Diffs"
 
@@ -3387,6 +3390,7 @@ msgid "disable"
 msgstr "Wyłącz"
 
 #. Disclaimer
+#, fuzzy
 msgid "disclaimer"
 msgstr "Disclaimer"
 
@@ -3429,6 +3433,7 @@ msgid "display-style"
 msgstr "Styl wyświetlania"
 
 #. Display Time
+#, fuzzy
 msgid "display-time"
 msgstr "Display Time"
 
@@ -3572,10 +3577,12 @@ msgid "drafts"
 msgstr "Szkice"
 
 #. Driving Directions
+#, fuzzy
 msgid "driving-directions"
 msgstr "Driving Directions"
 
 #. Due Date
+#, fuzzy
 msgid "due-date"
 msgstr "Due Date"
 
@@ -3667,7 +3674,7 @@ msgstr "Edytuj listę"
 
 #. Edit Location
 msgid "edit-location"
-msgstr "Edytuj lokalizację"
+msgstr "Edytuj położenie"
 
 #. Edit Message
 msgid "edit-message"
@@ -3687,7 +3694,7 @@ msgstr "Edytuj stronę"
 
 #. Edit Pages for Community
 msgid "edit-pages-for-community"
-msgstr "Edytuj strony dla Społeczności"
+msgstr "Edytuj strony dla społeczności"
 
 #. Edit Pages Priority
 msgid "edit-pages-priority"
@@ -4075,7 +4082,7 @@ msgstr "Wpisz domyślne nazwy grup użytkowników, które będą przypisywane no
 
 #. Enter the encryption algorithm used for passwords stored in the LDAP server.
 msgid "enter-the-encryption-algorithm-used-for-passwords-stored-in-the-ldap-server"
-msgstr "Podaj algorytm szyfrowania haseł przechowywanych na serwerze LDAP."
+msgstr "Wprowadź algorytm szyfrowania haseł przechowywanych na serwerze LDAP."
 
 #. Enter the friendly url that will be used by both public and private pages.
 msgid "enter-the-friendly-url-that-will-be-used-by-both-public-and-private-pages"
@@ -4270,9 +4277,8 @@ msgid "failed-to-bind-to-the-ldap-server-with-given-values"
 msgstr "Nie udało się połączyć z serwerm LDAP przy użyciu podanych wartości."
 
 #. False
-#, fuzzy
 msgid "false"
-msgstr "False"
+msgstr "Fałsz"
 
 #. FAQ
 msgid "faq"
@@ -4635,11 +4641,11 @@ msgstr "Full"
 
 #. Future
 msgid "future"
-msgstr "Future"
+msgstr "Przyszłość"
 
 #. Gadget
 msgid "gadget"
-msgstr "Gadget"
+msgstr "Gadżet"
 
 #. Gender
 msgid "gender"
@@ -4832,7 +4838,7 @@ msgstr "w"
 
 #. Historical Charts
 msgid "historical-charts"
-msgstr "Historical Charts"
+msgstr "Wykresy historyczne"
 
 #. This determines the number of previous passwords to keep in the history.
 msgid "history-count-help"
@@ -4874,6 +4880,7 @@ msgid "horizontal-separator"
 msgstr "Separator poziomy"
 
 #. Hot Deploy
+#, fuzzy
 msgid "hot-deploy"
 msgstr "Hot Deploy"
 
@@ -4886,6 +4893,7 @@ msgid "hourly"
 msgstr "Co godzinę"
 
 #. Hours of Operation
+#, fuzzy
 msgid "hours-of-operation"
 msgstr "Hours of Operation"
 
@@ -4942,6 +4950,7 @@ msgid "id"
 msgstr "ID"
 
 #. If the discount type is <i>Free Shipping</i>, then shipping charges are subtracted from the order. If the discount type is <i>Tax Free</i>, then tax charges are subtracted from the order.
+#, fuzzy
 msgid "if-the-discount-type-is-free-shipping,-then-shipping-charges-are-subtracted-from-the-order"
 msgstr "If the discount type is <i>Free Shipping</i>, then shipping charges are subtracted from the order. If the discount type is <i>Tax Free</i>, then tax charges are subtracted from the order."
 
@@ -4966,6 +4975,7 @@ msgid "image-position-from-the-top"
 msgstr "Pozycja obrazka od góry"
 
 #. Image Search Key
+#, fuzzy
 msgid "image-search-key"
 msgstr "Image Search Key"
 
@@ -5036,14 +5046,17 @@ msgid "import"
 msgstr "Importuj"
 
 #. In Progress
+#, fuzzy
 msgid "in-progress"
 msgstr "In Progress"
 
 #. In Stock
+#, fuzzy
 msgid "in-stock"
 msgstr "In Stock"
 
 #. In the case where a customer completes an order that contains items from many suppliers: the customer will receive a normal confirmation email, each supplier will receive a confirmation email with the subset of items that belong to that supplier, and all the Shopping Administrators will receive copies of emails that the customer and suppliers receive.
+#, fuzzy
 msgid "in-the-case-where-a-customer-completes-an-order-that-contains-items-from-many-suppliers"
 msgstr "In the case where a customer completes an order that contains items from many suppliers: the customer will receive a normal confirmation email, each supplier will receive a confirmation email with the subset of items that belong to that supplier, and all the Shopping Administrators will receive copies of emails that the customer and suppliers receive."
 
@@ -5061,7 +5074,7 @@ msgstr "Cal"
 
 #. Include Original Text
 msgid "include-original-text"
-msgstr "Include Original Text"
+msgstr "Dołącz tekst oryginalny"
 
 #. Include
 msgid "include"
@@ -5084,10 +5097,12 @@ msgid "industry"
 msgstr "Branża"
 
 #. Inherit look and feel from the private root node?
+#, fuzzy
 msgid "inherit-look-and-feel-from-the-private-root-node"
 msgstr "Odziedziczyć look and feel od prywantego głównego węzła?"
 
 #. Inherit look and feel from the public root node?
+#, fuzzy
 msgid "inherit-look-and-feel-from-the-public-root-node"
 msgstr "Odziedziczyć look and feel od publicznego głównego węzła?"
 
@@ -5104,6 +5119,7 @@ msgid "insert-custom-css-that-will-loaded-after-the-theme"
 msgstr "Wprowadź własny kod CSS, który zostanie załadowany po kodzie motywu."
 
 #. Inserted in
+#, fuzzy
 msgid "inserted-in"
 msgstr "Inserted in"
 
@@ -5157,21 +5173,24 @@ msgstr "Komunikator internetowy"
 
 #. Insurance Calculation
 msgid "insurance-calculation"
-msgstr "Insurance Calculation"
+msgstr "Obliczenia ubezpieczeniowe"
 
 #. Insurance
 msgid "insurance"
 msgstr "Ubezpieczenie"
 
 #. Interest Paid
+#, fuzzy
 msgid "interest-paid"
 msgstr "Interest Paid"
 
 #. Interest Rate
+#, fuzzy
 msgid "interest-rate"
 msgstr "Interest Rate"
 
 #. Intermediate
+#, fuzzy
 msgid "intermediate"
 msgstr "Intermediate"
 
@@ -5200,6 +5219,7 @@ msgid "is-temporarily-unavailable"
 msgstr "Portlet: {0} tymczasowo niedostępny."
 
 #. Is this article template driven?
+#, fuzzy
 msgid "is-this-article-template-driven"
 msgstr "Is this article template driven?"
 
@@ -5213,7 +5233,7 @@ msgstr "ISBN"
 
 #. Italian to English
 msgid "it_en"
-msgstr "Italian to English"
+msgstr "Włoski na angielski"
 
 #. Italian
 msgid "italian"
@@ -5249,7 +5269,7 @@ msgstr "Items"
 
 #. Japanese to English
 msgid "ja_en"
-msgstr "Japanese to English"
+msgstr "Japoński na angielski"
 
 #. JAAS is not configured properly.
 msgid "jaas-is-not-configured-properly"
@@ -5293,11 +5313,11 @@ msgstr "Dołączył(a)"
 
 #. Join Room
 msgid "join-room"
-msgstr "Join Room"
+msgstr "Dołącz do pokoju"
 
 #. Join
 msgid "join"
-msgstr "Join"
+msgstr "Dołącz"
 
 #. Joined
 msgid "joined"
@@ -5309,11 +5329,11 @@ msgstr "Junk Mail"
 
 #. Keywords
 msgid "keywords"
-msgstr "Keywords"
+msgstr "Słowa kluczowe"
 
 #. Kill Session
 msgid "kill-session"
-msgstr "Kill Session"
+msgstr "Zakończ sesję"
 
 #. Kilogram
 msgid "kilogram"
@@ -5325,11 +5345,11 @@ msgstr "Kilometr"
 
 #. Korean to English
 msgid "ko_en"
-msgstr "Korean to English"
+msgstr "Koreański na angielski"
 
 #. Korean
 msgid "korean"
-msgstr "Korean"
+msgstr "Koreański"
 
 #. Language Type
 msgid "language-type"
@@ -5396,6 +5416,7 @@ msgid "last-thread"
 msgstr "Ostatni wątek"
 
 #. Last Trade
+#, fuzzy
 msgid "last-trade"
 msgstr "Last Trade"
 
@@ -5437,7 +5458,7 @@ msgstr "Uruchom"
 
 #. Layer Type
 msgid "layer-type"
-msgstr "Layer Type"
+msgstr "Rodzaj warstwy"
 
 #. Layout Template Packages
 msgid "layout-template-packages"
@@ -5457,7 +5478,7 @@ msgstr "Układ"
 
 #. Layouts
 msgid "layouts"
-msgstr "Układ"
+msgstr "Układy"
 
 #. LDAP
 msgid "ldap"
@@ -5607,7 +5628,7 @@ msgstr "Zlokalizowany"
 
 #. Location Profile
 msgid "location-profile"
-msgstr "Location Profile"
+msgstr "Profil położenia"
 
 #. Location
 msgid "location"
@@ -5681,10 +5702,12 @@ msgid "long-text"
 msgstr "Długi tekst"
 
 #. Look and Feel
+#, fuzzy
 msgid "look-and-feel"
 msgstr "Look and Feel"
 
 #. Lookup
+#, fuzzy
 msgid "lookup"
 msgstr "Lookup"
 
@@ -5693,6 +5716,7 @@ msgid "lower-case-letters"
 msgstr "Małe litery"
 
 #. Lunch
+#, fuzzy
 msgid "lunch"
 msgstr "Lunch"
 
@@ -5898,6 +5922,7 @@ msgid "message"
 msgstr "Wiadomość"
 
 #. Messages Per Inbox Preview
+#, fuzzy
 msgid "messages-per-inbox-preview"
 msgstr "Messages Per Inbox Preview"
 
@@ -6159,15 +6184,15 @@ msgstr "Nazwa"
 
 #. Narrow Column
 msgid "narrow-column"
-msgstr "Narrow Column"
+msgstr "Wąska kolumna"
 
 #. Narrow
 msgid "narrow"
-msgstr "Narrow"
+msgstr "Wąska"
 
 #. Navigation Style
 msgid "navigation-style"
-msgstr "Navigation Style"
+msgstr "Styl nawigacji"
 
 #. Net Event
 msgid "net-event"
@@ -6195,7 +6220,7 @@ msgstr "Nowe wydarzenie"
 
 #. New Friendly URL
 msgid "new-friendly-url"
-msgstr "New Friendly URL"
+msgstr "Nowy przyjazny adres URL"
 
 #. New Game
 msgid "new-game"
@@ -6203,7 +6228,7 @@ msgstr "Nowa gra"
 
 #. New Mail Notification
 msgid "new-mail-notification"
-msgstr "New Mail Notification"
+msgstr "Nowe powiadomienie o poczcie"
 
 #. New Name
 msgid "new-name"
@@ -6215,7 +6240,7 @@ msgstr "New/Total"
 
 #. New Page Name
 msgid "new-page-name"
-msgstr "New Page Name"
+msgstr "Nazwa nowej strony"
 
 #. New Page
 msgid "new-page"
@@ -6235,7 +6260,7 @@ msgstr "Wiadomość"
 
 #. Next Message
 msgid "next-message"
-msgstr "Next Message"
+msgstr "Następna wiadomość"
 
 #. Next Month
 msgid "next-month"
@@ -6263,27 +6288,27 @@ msgstr "Ksywka"
 
 #. Dutch to English
 msgid "nl_en"
-msgstr "Dutch to English"
+msgstr "Holenderski na angielski"
 
 #. No Alfresco content was found.
 msgid "no-alfresco-content-was-found"
-msgstr "No Alfresco content was found."
+msgstr "Nie odnaleziono treści Alfresco."
 
 #. No articles were found that matches the given search criteria.
 msgid "no-articles-were-found-that-matches-the-given-search-criteria"
-msgstr "No articles were found that matches the given search criteria."
+msgstr "Nie odnaleziono artykułów pasujących do kryteriów wyszukiwania."
 
 #. No articles were found that matches the ID:
 msgid "no-articles-were-found-that-matches-the-id"
-msgstr "Nie znaleziono artykułów o ID:"
+msgstr "Nie odnaleziono artykułów o ID:"
 
 #. No articles were found that matches the URL:
 msgid "no-articles-were-found-that-matches-the-url"
-msgstr "Nie znaleziono artukułów odpowiadających URL:"
+msgstr "Nie odnaleziono artykułów odpowiadających adresowi URL:"
 
 #. No articles were found.
 msgid "no-articles-were-found"
-msgstr "Nie znaleziono artykułów."
+msgstr "Nie odnaleziono artykułów."
 
 #. No Banner
 msgid "no-banner"
@@ -6650,11 +6675,11 @@ msgstr "Obecnie online"
 
 #. Only articles associated with structure {0} are shown.
 msgid "only-articles-associated-with-structure-x-are-shown"
-msgstr "Only articles associated with structure {0} are shown."
+msgstr "Wyświetlane są tylko artykuły powiązane ze strukturą {0}."
 
 #. Only articles associated with template {0} are shown.
 msgid "only-articles-associated-with-template-x-are-shown"
-msgstr "Only articles associated with template {0} are shown."
+msgstr "Wyświetlane są tylko artykuły powiązane z szablonem {0}."
 
 #. Only assign permissions to me
 msgid "only-assign-permissions-to-me"
@@ -6662,7 +6687,7 @@ msgstr "Only assign permissions to me"
 
 #. Only templates associated with structure {0} are shown.
 msgid "only-templates-associated-with-structure-x-are-shown"
-msgstr "Only templates associated with structure {0} are shown."
+msgstr "Wyświetlane są tylko szablony powiązane ze strukturą {0}."
 
 #. Open Document
 msgid "open-document"
@@ -6714,7 +6739,7 @@ msgstr "Data zamówienia"
 
 #. Order Email
 msgid "order-email"
-msgstr "Order Email"
+msgstr "E-mail o zamówieniu"
 
 #. Order
 msgid "order"
@@ -6738,7 +6763,7 @@ msgstr "Organizacje"
 
 #. Original Text Indicator
 msgid "original-text-indicator"
-msgstr "Wskaznik tekstu oryginalnego"
+msgstr "Wskaźnik tekstu oryginalnego"
 
 #. Orphan Pages
 msgid "orphan-pages"
@@ -6746,7 +6771,7 @@ msgstr "Strony osierocone"
 
 #. Other Information
 msgid "other-information"
-msgstr "Other Information"
+msgstr "Pozostałe informacje"
 
 #. Other Licenses
 msgid "other-licenses"
@@ -6766,7 +6791,7 @@ msgstr "Out of Stock"
 
 #. Outgoing SMTP Server
 msgid "outgoing-smtp-server"
-msgstr "Outgoing SMTP Server"
+msgstr "Serwer poczty wychodzącej SMTP"
 
 #. Outside US
 msgid "outside-us"
@@ -10381,7 +10406,7 @@ msgstr "Widok drzewa"
 
 #. True
 msgid "true"
-msgstr "True"
+msgstr "Prawda"
 
 #. T
 msgid "tuesday-abbreviation"
@@ -10397,11 +10422,11 @@ msgstr "Dwie kolumny"
 
 #. Type a single email address:
 msgid "type-a-single-email-address"
-msgstr "Type a single email address:"
+msgstr "Wprowadź pojedynczy adres e-mail:"
 
 #. Type name or select from list:
 msgid "type-name-or-select-from-list"
-msgstr "Type name or select from list:"
+msgstr "Wprowadź nazwę lub wybierz z listy:"
 
 #. Type name:
 msgid "type-name"
@@ -10435,11 +10460,11 @@ msgstr "Unchecking this field will remove localized data for languages not shown
 
 #. Undefined
 msgid "undefined"
-msgstr "Undefined"
+msgstr "Niezdefiniowany"
 
 #. Unlimited
 msgid "unlimited"
-msgstr "Unlimited"
+msgstr "Bez ograniczeń"
 
 #. Unlock
 msgid "unlock"
@@ -10447,11 +10472,11 @@ msgstr "Odblokuj"
 
 #. Unpack WAR
 msgid "unpack-war"
-msgstr "Rozpakowuj WARa"
+msgstr "Rozpakowuj archiwum WAR"
 
 #. Unread Messages
 msgid "unread-messages"
-msgstr "Unread Messages"
+msgstr "Wiadomości nie przeczytane"
 
 #. Unscramble
 msgid "unscramble"
@@ -10564,7 +10589,7 @@ msgstr "Przesyłanie ukończone"
 
 #. Upload documents no larger than {0}k.
 msgid "upload-documents-no-larger-than-x-k"
-msgstr "Wrzucaj dokumenty nie większe niż {0}k."
+msgstr "Prześlij dokumenty nie większe niż {0}k."
 
 #. Upload File
 msgid "upload-file"
@@ -10572,11 +10597,11 @@ msgstr "Prześlij plik"
 
 #. Upload Image
 msgid "upload-image"
-msgstr "Upload Image"
+msgstr "Prześlij obrazek"
 
 #. Upload images no larger than {0}k.
 msgid "upload-images-no-larger-than-x-k"
-msgstr "Wrzuć obrazek nie większy niż {0}k."
+msgstr "Prześlij obrazek nie większy niż {0}k."
 
 #. Upload New Version
 msgid "upload-new-version"
@@ -10624,7 +10649,7 @@ msgstr "Użyj ikony"
 
 #. Use Large Image
 msgid "use-large-image"
-msgstr "Use Large Image"
+msgstr "Użyj dużego obrazka"
 
 #. Use LDAP Password Policy
 msgid "use-ldap-password-policy"
@@ -10636,7 +10661,7 @@ msgstr "Użyj logo"
 
 #. Use Medium Image
 msgid "use-medium-image"
-msgstr "Use Medium Image"
+msgstr "Użyj średniego obrazka"
 
 #. Use Shipping Formula
 msgid "use-shipping-formula"
@@ -10672,7 +10697,7 @@ msgstr "Awatar użytkownika"
 
 #. User Profile
 msgid "user-profile"
-msgstr "User Profile"
+msgstr "Profil użytkownika"
 
 #. User Ranks
 msgid "user-ranks"
@@ -10708,7 +10733,7 @@ msgstr "Wartość"
 
 #. Values
 msgid "values"
-msgstr "Values"
+msgstr "Wartości"
 
 #. Verification Number
 msgid "verification-number"
@@ -11054,7 +11079,7 @@ msgstr "Your service URL or endpoints are unreachable. Please verify your settin
 
 #. {0} disables the minimum order requirement.
 msgid "x-disables-the-minimum-order-requirement"
-msgstr "{0} disables the minimum order requirement."
+msgstr "{0} wyłącza wymóg minimalnego zamówienia."
 
 #. <b>{0}</b> is a required system role.
 msgid "x-is-a-required-system-role"
@@ -11182,7 +11207,7 @@ msgstr "You cannot delete a root message that has more than one immediate reply.
 
 #. You cannot delete a system role.
 msgid "you-cannot-delete-a-system-role"
-msgstr "You cannot delete a system role."
+msgstr "Nie można usunąć roli systemowej"
 
 #. You cannot delete locations that have users.
 msgid "you-cannot-delete-locations-that-have-users"
