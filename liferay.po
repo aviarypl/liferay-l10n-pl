@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-10 11:52+0100\n"
+"PO-Revision-Date: 2007-08-10 18:25+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -224,10 +224,12 @@ msgid "javax.portlet.title.41"
 msgstr "Zadania"
 
 #. Pipeline
+#, fuzzy
 msgid "javax.portlet.title.42"
 msgstr "Pipeline"
 
 #. Top Opportunities
+#, fuzzy
 msgid "javax.portlet.title.43"
 msgstr "Top Opportunities"
 
@@ -252,6 +254,7 @@ msgid "javax.portlet.title.4"
 msgstr "Pogoda"
 
 #. Global Prayer Digest
+#, fuzzy
 msgid "javax.portlet.title.51"
 msgstr "Global Prayer Digest"
 
@@ -260,6 +263,7 @@ msgid "javax.portlet.title.52"
 msgstr "Czat"
 
 #. Flash
+#, fuzzy
 msgid "javax.portlet.title.53"
 msgstr "Flash"
 
@@ -316,6 +320,7 @@ msgid "javax.portlet.title.69"
 msgstr "Hello Laszlo"
 
 #. Reverend Fun
+#, fuzzy
 msgid "javax.portlet.title.6"
 msgstr "Reverend Fun"
 
@@ -333,7 +338,7 @@ msgstr "Ścieżka"
 
 #. Journal Content Search
 msgid "javax.portlet.title.77"
-msgstr "Przeszukiwanie zawartości żurnala"
+msgstr "Przeszukiwanie zawartości dziennika"
 
 #. Comic
 msgid "javax.portlet.title.78"
@@ -344,6 +349,7 @@ msgid "javax.portlet.title.79"
 msgstr "Administracja portalem"
 
 #. Bible Gateway
+#, fuzzy
 msgid "javax.portlet.title.7"
 msgstr "Bible Gateway"
 
@@ -365,7 +371,7 @@ msgstr "Ogłoszenia"
 
 #. Site Map
 msgid "javax.portlet.title.85"
-msgstr "Mapa Strony"
+msgstr "Mapa strony"
 
 #. Portlet Configuration
 msgid "javax.portlet.title.86"
@@ -392,6 +398,7 @@ msgid "javax.portlet.title.91"
 msgstr "Zawartość Alfresco"
 
 #. Workflow
+#, fuzzy
 msgid "javax.portlet.title.93"
 msgstr "Workflow"
 
@@ -417,7 +424,7 @@ msgstr "Katalog oprogramowania"
 
 #. Tags Admin
 msgid "javax.portlet.title.99"
-msgstr "Administrator Tagów"
+msgstr "Administrator tagów"
 
 #. Admin
 msgid "javax.portlet.title.9"
@@ -500,7 +507,7 @@ msgstr "Zakupy"
 
 #. Spring
 msgid "category.spring"
-msgstr "Spring"
+msgstr "Wiosna"
 
 #. Test
 msgid "category.test"
@@ -519,6 +526,7 @@ msgid "category.wiki"
 msgstr "Wiki"
 
 #. Workflow
+#, fuzzy
 msgid "category.workflow"
 msgstr "Workflow"
 
@@ -539,7 +547,7 @@ msgstr "Rozkład"
 
 #. Location
 msgid "model.resource.com.liferay.portal.model.Location"
-msgstr "Lokalizacja"
+msgstr "Położenie"
 
 #. Organization
 msgid "model.resource.com.liferay.portal.model.Organization"
@@ -571,114 +579,121 @@ msgstr "Wpis bloga"
 
 #. Bookmarks Entry
 msgid "model.resource.com.liferay.portlet.bookmarks.model.BookmarksEntry"
-msgstr "Wpis"
+msgstr "Wpis zakładek"
 
 #. Bookmarks Folder
 msgid "model.resource.com.liferay.portlet.bookmarks.model.BookmarksFolder"
-msgstr "Folder"
+msgstr "Folder zakładek"
 
 #. Calendar Event
 msgid "model.resource.com.liferay.portlet.calendar.model.CalEvent"
-msgstr "Wydarzenie"
+msgstr "Wydarzenie kalendarza"
 
 #. Document Library Document
 msgid "model.resource.com.liferay.portlet.documentlibrary.model.DLFileEntry"
-msgstr "Dokument"
+msgstr "Dokument biblioteki dokumentów"
 
 #. Document Library Shortcut
 msgid "model.resource.com.liferay.portlet.documentlibrary.model.DLFileShortcut"
-msgstr "Skrót"
+msgstr "Skrót biblioteki dokumentów"
 
 #. Document Library Folder
 msgid "model.resource.com.liferay.portlet.documentlibrary.model.DLFolder"
-msgstr "Folder"
+msgstr "Folder biblioteki dokumentów"
 
 #. Image Gallery Folder
 msgid "model.resource.com.liferay.portlet.imagegallery.model.IGFolder"
-msgstr "Folder"
+msgstr "Folder galerii obrazków"
 
 #. Image Gallery Image
 msgid "model.resource.com.liferay.portlet.imagegallery.model.IGImage"
-msgstr "Obrazek"
+msgstr "Obrazek galerii obrazków"
 
 #. Journal Article
 msgid "model.resource.com.liferay.portlet.journal.model.JournalArticle"
-msgstr "Artykuł"
+msgstr "Artykuł dziennika"
 
 #. Journal Structure
 msgid "model.resource.com.liferay.portlet.journal.model.JournalStructure"
-msgstr "Struktura"
+msgstr "Struktura dziennika"
 
 #. Journal Template
 msgid "model.resource.com.liferay.portlet.journal.model.JournalTemplate"
-msgstr "Szablon"
+msgstr "Szablon dziennika"
 
 #. Message Boards Category
 msgid "model.resource.com.liferay.portlet.messageboards.model.MBCategory"
-msgstr "Kategoria"
+msgstr "Kategoria forum"
 
 #. Message Boards Message
 msgid "model.resource.com.liferay.portlet.messageboards.model.MBMessage"
-msgstr "Wiadomość"
+msgstr "Wiadomość forum"
 
 #. Message Boards Topic
 msgid "model.resource.com.liferay.portlet.messageboards.model.MBTopic"
-msgstr "Temat"
+msgstr "Temat forum"
 
 #. Polls Question
 msgid "model.resource.com.liferay.portlet.polls.model.PollsQuestion"
-msgstr "Pytanie"
+msgstr "Pytanie ankiety"
 
 #. Shopping Category
 msgid "model.resource.com.liferay.portlet.shopping.model.ShoppingCategory"
-msgstr "Kategoria"
+msgstr "Kategoria zakupów"
 
 #. Shopping Item
 msgid "model.resource.com.liferay.portlet.shopping.model.ShoppingItem"
 msgstr "Produkt"
 
 #. Software Catalog Framework Version
+#, fuzzy
 msgid "model.resource.com.liferay.portlet.softwarecatalog.model.SCFrameworkVersion"
 msgstr "Wersja frameworku"
 
 #. Software Catalog Product License
+#, fuzzy
 msgid "model.resource.com.liferay.portlet.softwarecatalog.model.SCLicense"
 msgstr "Licencja"
 
 #. Software Catalog Product Entry
+#, fuzzy
 msgid "model.resource.com.liferay.portlet.softwarecatalog.model.SCProductEntry"
 msgstr "Wpis"
 
 #. Software Catalog Product Version
+#, fuzzy
 msgid "model.resource.com.liferay.portlet.softwarecatalog.model.SCProductVersion"
 msgstr "Wersja"
 
 #. Wiki Node
 msgid "model.resource.com.liferay.portlet.wiki.model.WikiNode"
-msgstr "Node"
+msgstr "Węzeł wiki"
 
 #. Wiki Page
 msgid "model.resource.com.liferay.portlet.wiki.model.WikiPage"
-msgstr "Strona"
+msgstr "Strona wiki"
 
 #. Workflow Definition
+#, fuzzy
 msgid "model.resource.com.liferay.portlet.workflow.model.WorkflowDefinition"
-msgstr "Definicja"
+msgstr "Definicja workflow"
 
 #. Workflow Instance
+#, fuzzy
 msgid "model.resource.com.liferay.portlet.workflow.model.WorkflowInstance"
-msgstr "Instancja"
+msgstr "Instancja workflow"
 
 #. Workflow Task
+#, fuzzy
 msgid "model.resource.com.liferay.portlet.workflow.model.WorkflowTask"
-msgstr "Zadanie"
+msgstr "Zadanie workflow"
 
 # #
 # # Action names
 # #
 #. Add Article
 msgid "action.ADD_ARTICLE"
-msgstr "Dodaj artukuł"
+msgstr "Dodaj artykuł"
 
 #. Add Category
 msgid "action.ADD_CATEGORY"
@@ -721,6 +736,7 @@ msgid "action.ADD_FOLDER"
 msgstr "Dodaj folder"
 
 #. Add Framework Version
+#, fuzzy
 msgid "action.ADD_FRAMEWORK_VERSION"
 msgstr "Dodaj wersję frameworku"
 
@@ -746,7 +762,7 @@ msgstr "Dodaj licencję"
 
 #. Add Location
 msgid "action.ADD_LOCATION"
-msgstr "Dodaj lokalizację"
+msgstr "Dodaj położenie"
 
 #. Add Message
 msgid "action.ADD_MESSAGE"
@@ -754,7 +770,7 @@ msgstr "Dodaj wiadomość"
 
 #. Add Node
 msgid "action.ADD_NODE"
-msgstr "Dodaj node"
+msgstr "Dodaj węzeł"
 
 #. Add Organization
 msgid "action.ADD_ORGANIZATION"
@@ -1386,7 +1402,7 @@ msgstr "Dodaj użytkownika"
 
 #. Add Website
 msgid "add-website"
-msgstr "Dodaj stronę internetową"
+msgstr "Dodaj witrynę"
 
 #. Add
 msgid "add"
@@ -1410,11 +1426,11 @@ msgstr "Adres 1"
 
 #. Address 2
 msgid "address2"
-msgstr "Adres 1"
+msgstr "Adres 2"
 
 #. Address 3
 msgid "address3"
-msgstr "Adres 1"
+msgstr "Adres 3"
 
 #. Address
 msgid "address"
@@ -1594,11 +1610,11 @@ msgstr "Zawsze"
 
 #. An applet version of the editor is also available. It is a heavier but more user friendly editor that provides colorized text, search and replace, and other functionality. You can choose to use that editor by editing your portlet preferences.
 msgid "an-applet-version-of-the-editor-is-also-available"
-msgstr "Dostępna jest również wersja edytora w postaci apletu. Jest to edytor bardziej wymagający sprzętowo, ale bardziej przyjazny dla użytkownika dający kolorowany tekst, możliwość przeszykiwania i zastępowania, oraz inne opcje. Możesz wybrać ten rodzaj edytora zmieniając preferencje portletu."
+msgstr "Dostępna jest również wersja edytora w postaci apletu. Jest to edytor o większych wymaganiach sprzętowych, ale bardziej przyjazny dla użytkownika, oferujący kolorowanie tekstu, możliwość przeszukiwania i zastępowania oraz inne możliwości. Aby wybrać ten rodzaj edytora, należy zmienić preferencje portletu."
 
 #. An email has been sent to all Journal Administrators asking them to approve your article.
 msgid "an-email-has-been-sent-to-all-journal-administrators-asking-them-to-approve-your-article"
-msgstr "Do wszystkich Administratorów Żurnala został wysłany e-mail z prośbą o zatwierdzenie twojego artykułu."
+msgstr "Do wszystkich administratorów dziennika został wysłany e-mail z prośbą o zatwierdzenie Twojego artykułu."
 
 #. An error occurred while communicating with the Open ID provider.
 msgid "an-error-occurred-while-communicating-with-the-open-id-provider"
@@ -1618,27 +1634,27 @@ msgstr "Podczas inicjalizacji konsumenta Open ID wystąpił błąd."
 
 #. An error occurred while parsing your XML. Please check the syntax of your XML.
 msgid "an-error-occurred-while-parsing-your-xml-please-check-the-syntax-of-your-xml"
-msgstr "Podczas parsowania XML-a wystąpił błąd. Sprawdź poprawność jego składni."
+msgstr "Podczas parsowania kodu XML wystąpił błąd. Należy sprawdzić poprawność jego składni."
 
 #. An error occurred while processing your XML and XSL.
 msgid "an-error-occurred-while-processing-your-xml-and-xsl"
-msgstr "Podczas przetwarzania twojego XML-a i XSL-a wystąpił błąd."
+msgstr "Podczas przetwarzania Twojego kodu XML i XSL wystąpił błąd."
 
 #. An unexpected database error occurred while querying the given city and state.
 msgid "an-unexpected-database-error-occurred-while-querying-the-given-city-and-state"
-msgstr "Podczas wyszykiwania podanego miasta i stanu wystąpił niespodziewany błąd bazy danych."
+msgstr "Podczas wyszukiwania podanego miasta i stanu wystąpił niespodziewany błąd bazy danych."
 
 #. An unexpected database error occurred while querying the given street, city, and state.
 msgid "an-unexpected-database-error-occurred-while-querying-the-given-street-city-and-state"
-msgstr "Podczas wyszykiwania podanej ulicy, miasta i stanu wystąpił niespodziewany błąd bazy danych."
+msgstr "Podczas wyszukiwania podanej ulicy, miasta i stanu wystąpił niespodziewany błąd bazy danych."
 
 #. An unexpected database error occurred while querying the given zip.
 msgid "an-unexpected-database-error-occurred-while-querying-the-given-zip"
-msgstr "Podczas wyszykiwania podanego kodu pocztowego wystąpił niespodziewany błąd bazy danych."
+msgstr "Podczas wyszukiwania podanego kodu pocztowego wystąpił niespodziewany błąd bazy danych."
 
 #. An unexpected error occurred while connecting to Google.
 msgid "an-unexpected-error-occurred-while-connecting-to-google"
-msgstr "Niespodziewany błąd podczas łączenia z Google."
+msgstr "Podczas łączenia z Google wystąpił nieoczekiwany błąd."
 
 #. An unexpected error occurred while connecting to the repository.
 msgid "an-unexpected-error-occurred-while-connecting-to-the-repository"
@@ -1650,19 +1666,19 @@ msgstr "Podczas wyszukiwania połączeń pomiędzy poniższymi adresami wystąpi
 
 #. An unexpected error occurred while finding the address:
 msgid "an-unexpected-error-occurred-while-finding-the-address"
-msgstr "Błąd podczas wyszukiwania adresu:"
+msgstr "Podczas wyszukiwania adresu wystąpił nieoczekiwany błąd:"
 
 #. An unexpected error occurred while importing your file.
 msgid "an-unexpected-error-occurred-while-importing-your-file"
-msgstr "Podczas importowania zawartości pliku wystąpił błąd."
+msgstr "Podczas importowania zawartości pliku wystąpił nieoczekiwany błąd."
 
 #. An unexpected error occurred while sending your message.
 msgid "an-unexpected-error-occurred-while-sending-your-message"
-msgstr "Podczas wysyłania twojej wiadomości wystąpił błąd."
+msgstr "Podczas wysyłania Twojej wiadomości wystąpił nieoczekiwany błąd."
 
 #. An unexpected error occurred while uploading your file.
 msgid "an-unexpected-error-occurred-while-uploading-your-file"
-msgstr "Podczas przesyłania twojego pliku wystąpił błąd."
+msgstr "Podczas przesyłania Twojego pliku wystąpił nieoczekiwany błąd."
 
 #. An unexpected error occurred.
 msgid "an-unexpected-error-occurred"
@@ -5800,7 +5816,7 @@ msgstr "Maksymalny wiek"
 
 #. This determines the maximum number of times that a user can attempt to login with the wrong password.
 msgid "maximum-failure-help"
-msgstr ""
+msgstr "Określa, ile maksymalnie razy użytkownik może próbować zalogować się przy użyciu nieprawidłowego hasła."
 
 #. Maximum Failure
 #, fuzzy
@@ -5961,7 +5977,7 @@ msgstr "Minimalny wiek"
 
 #. This determines the minimum length of the user's password.
 msgid "minimum-length-help"
-msgstr ""
+msgstr "Określa minimalną długość hasła użytkownika."
 
 #. Minimum Length
 msgid "minimum-length"
@@ -6628,7 +6644,7 @@ msgstr "Jedna kolumna"
 
 #. Online Now
 msgid "online-now"
-msgstr ""
+msgstr "Obecnie online"
 
 #. Only articles associated with structure {0} are shown.
 msgid "only-articles-associated-with-structure-x-are-shown"
@@ -11044,7 +11060,7 @@ msgstr "<b>{0}</b> jest wymaganą rolą systemową."
 
 #. {0} is expired, is not approved, does not have any content, or no longer exists.
 msgid "x-is-expired,-is-not-approved,-does-not-have-any-content,-or-no-longer-exists"
-msgstr "{0} nie został zaaprobowany, nie zawiera treści lub już nie istnieje."
+msgstr "{0} nie został zatwierdzony, nie zawiera treści lub już nie istnieje."
 
 #. {0} users were successfully notified.
 msgid "x-users-were-successfully-notified"
