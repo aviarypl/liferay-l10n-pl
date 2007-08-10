@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-10 20:10+0100\n"
+"PO-Revision-Date: 2007-08-10 20:22+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -11602,6 +11602,7 @@ msgid "your-password-is-expiring-soon"
 msgstr "Twoje hasło wkrótce utraci ważność. Należy je zmienić."
 
 #. Your password will be sent to your external email address.
+#, fuzzy
 msgid "your-password-will-be-sent-to-your-external-email-address"
 msgstr "Your password will be sent to your external email address."
 
@@ -11614,6 +11615,7 @@ msgid "your-request-processed-successfully"
 msgstr "Żądanie przetworzone pomyślnie."
 
 #. Your Selections
+#, fuzzy
 msgid "your-selections"
 msgstr "Your Selections"
 
@@ -11622,10 +11624,12 @@ msgid "your-settings-could-not-be-saved"
 msgstr "Nie udało się zapisać Twoich ustawień."
 
 #. Your trash folder is taking up a lot of space. Would you like to empty your trash now?
+#, fuzzy
 msgid "your-trash-folder-is-taking-up-a-lot-of-space"
 msgstr "Your trash folder is taking up a lot of space. Would you like to empty your trash now?"
 
 #. Your type must allow children pages.
+#, fuzzy
 msgid "your-type-must-allow-children-pages"
 msgstr "Your type must allow children pages."
 
@@ -11650,151 +11654,151 @@ msgstr "Chinese (Taiwan) to English"
 # #
 #. UAE Dirham
 msgid "currency.AED"
-msgstr "UAE Dirham"
+msgstr "Dirham ZEA"
 
 #. Albanian Lek
 msgid "currency.ALL"
-msgstr "Albanian Lek"
+msgstr "Lek albański"
 
 #. Neth Antilles Guilder
 msgid "currency.ANG"
-msgstr "Neth Antilles Guilder"
+msgstr "Gulden antylski"
 
 #. Argentine Peso
 msgid "currency.ARS"
-msgstr "Argentine Peso"
+msgstr "Peso argentyńskie"
 
 #. Australian Dollar
 msgid "currency.AUD"
-msgstr "Australian Dollar"
+msgstr "Dolar australijski"
 
 #. Aruba Florin
 msgid "currency.AWG"
-msgstr "Aruba Florin"
+msgstr "Florin arubański"
 
 #. Barbados Dollar
 msgid "currency.BBD"
-msgstr "Barbados Dollar"
+msgstr "Dolar Barbadosu"
 
 #. Bangladesh Taka
 msgid "currency.BDT"
-msgstr "Bangladesh Taka"
+msgstr "Taka bengalska"
 
 #. Bulgarian Lev
 msgid "currency.BGN"
-msgstr "Bulgarian Lev"
+msgstr "Lew bułgarski"
 
 #. Bahraini Dinar
 msgid "currency.BHD"
-msgstr "Bahraini Dinar"
+msgstr "Dinar Bahrajnu"
 
 #. Burundi Franc
 msgid "currency.BIF"
-msgstr "Burundi Franc"
+msgstr "Frank burundyjski"
 
 #. Bermuda Dollar
 msgid "currency.BMD"
-msgstr "Bermuda Dollar"
+msgstr "Dolar bermudzki"
 
 #. Brunei Dollar
 msgid "currency.BND"
-msgstr "Brunei Dollar"
+msgstr "Dolar Brunei"
 
 #. Bolivian Boliviano
 msgid "currency.BOB"
-msgstr "Bolivian Boliviano"
+msgstr "Boliviano boliwijskie"
 
 #. Brazilian Real
 msgid "currency.BRL"
-msgstr "Brazilian Real"
+msgstr "Real brazylijski"
 
 #. Bahamian Dollar
 msgid "currency.BSD"
-msgstr "Bahamian Dollar"
+msgstr "Dolar bahamski"
 
 #. Bhutan Ngultrum
 msgid "currency.BTN"
-msgstr "Bhutan Ngultrum"
+msgstr "Ngultrum bhutański"
 
 #. Belarus Ruble
 msgid "currency.BYR"
-msgstr "Belarus Ruble"
+msgstr "Rubel białoruski"
 
 #. Belize Dollar
 msgid "currency.BZD"
-msgstr "Belize Dollar"
+msgstr "Dolar Belize"
 
 #. Canadian Dollar
 msgid "currency.CAD"
-msgstr "Canadian Dollar"
+msgstr "Dolar kanadyjski"
 
 #. Swiss Franc
 msgid "currency.CHF"
-msgstr "Swiss Franc"
+msgstr "Frank szwajcarski"
 
 #. Chilean Peso
 msgid "currency.CLP"
-msgstr "Chilean Peso"
+msgstr "Peso chilijskie"
 
 #. Chinese Yuan
 msgid "currency.CNY"
-msgstr "Chinese Yuan"
+msgstr "Juan chiński"
 
 #. Colombian Peso
 msgid "currency.COP"
-msgstr "Colombian Peso"
+msgstr "Peso kolumbijskie"
 
 #. Costa Rica Colon
 msgid "currency.CRC"
-msgstr "Costa Rica Colon"
+msgstr "Colon kostarykański"
 
 #. Cuban Peso
 msgid "currency.CUP"
-msgstr "Cuban Peso"
+msgstr "Peso kubańskie"
 
 #. Cyprus Pound
 msgid "currency.CYP"
-msgstr "Cyprus Pound"
+msgstr "Funt cypryjski"
 
 #. Czech Koruna
 msgid "currency.CZK"
-msgstr "Czech Koruna"
+msgstr "Korona czeska"
 
 #. Dijibouti Franc
 msgid "currency.DJF"
-msgstr "Dijibouti Franc"
+msgstr "Frank Dżibuti"
 
 #. Danish Krone
 msgid "currency.DKK"
-msgstr "Danish Krone"
+msgstr "Korona duńska"
 
 #. Dominican Peso
 msgid "currency.DOP"
-msgstr "Dominican Peso"
+msgstr "Peso dominikańskie"
 
 #. Algerian Dinar
 msgid "currency.DZD"
-msgstr "Algerian Dinar"
+msgstr "Dinar algierski"
 
 #. Ecuador Sucre
 msgid "currency.ECS"
-msgstr "Ecuador Sucre"
+msgstr "Sucre ekwadorskie"
 
 #. Estonian Kroon
 msgid "currency.EEK"
-msgstr "Estonian Kroon"
+msgstr "Korona estońska"
 
 #. Egyptian Pound
 msgid "currency.EGP"
-msgstr "Egyptian Pound"
+msgstr "Funt egipski"
 
 #. Eritrea Nakfa
 msgid "currency.ERN"
-msgstr "Eritrea Nakfa"
+msgstr "Nakfa erytrejska"
 
 #. Ethiopian Birr
 msgid "currency.ETB"
-msgstr "Ethiopian Birr"
+msgstr "Birr etiopski"
 
 #. Euro
 msgid "currency.EUR"
@@ -11802,59 +11806,59 @@ msgstr "Euro"
 
 #. Falkland Islands Pound
 msgid "currency.FKP"
-msgstr "Falkland Islands Pound"
+msgstr "Funt falklandzki"
 
 #. British Pound
 msgid "currency.GBP"
-msgstr "British Pound"
+msgstr "Funt brytyjski"
 
 #. Ghanian Cedi
 msgid "currency.GHC"
-msgstr "Ghanian Cedi"
+msgstr "Cedi ghańskie"
 
 #. Gibraltar Pound
 msgid "currency.GIP"
-msgstr "Gibraltar Pound"
+msgstr "Funt gibraltarski"
 
 #. Gambian Dalasi
 msgid "currency.GMD"
-msgstr "Gambian Dalasi"
+msgstr "Dalasi gambijskie"
 
 #. Guinea Franc
 msgid "currency.GNF"
-msgstr "Guinea Franc"
+msgstr "Frank gwinejski"
 
 #. Guatemala Quetzal
 msgid "currency.GTQ"
-msgstr "Guatemala Quetzal"
+msgstr "Quetzal gwatemalski"
 
 #. Hong Kong Dollar
 msgid "currency.HKD"
-msgstr "Hong Kong Dollar"
+msgstr "Dolar hongkoński"
 
 #. Honduras Lempira
 msgid "currency.HNL"
-msgstr "Honduras Lempira"
+msgstr "Lempira honduraska"
 
 #. Croatian Kuna
 msgid "currency.HRK"
-msgstr "Croatian Kuna"
+msgstr "Kuna chorwacka"
 
 #. Haiti Gourde
 msgid "currency.HTG"
-msgstr "Haiti Gourde"
+msgstr "Gourde haitański"
 
 #. Hungarian Forint
 msgid "currency.HUF"
-msgstr "Hungarian Forint"
+msgstr "Forint węgierski"
 
 #. Indonesian Rupiah
 msgid "currency.IDR"
-msgstr "Indonesian Rupiah"
+msgstr "Rupia indonezyjska"
 
 #. Israeli Shekel
 msgid "currency.ILS"
-msgstr "Israeli Shekel"
+msgstr "Szekel izraelski"
 
 #. Indian Rupee
 msgid "currency.INR"
