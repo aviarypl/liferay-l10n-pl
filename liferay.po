@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-10 18:25+0100\n"
+"PO-Revision-Date: 2007-08-10 18:37+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1903,7 +1903,7 @@ msgstr "Czy na pewno usunąć ten link?"
 
 #. Are you sure you want to delete this list?
 msgid "are-you-sure-you-want-to-delete-this-list"
-msgstr "Czy na pewno usunąć tą listę?"
+msgstr "Czy na pewno usunąć tę listę?"
 
 #. Are you sure you want to delete this message?
 msgid "are-you-sure-you-want-to-delete-this-message"
@@ -1911,7 +1911,7 @@ msgstr "Czy na pewno usunąć tę wiadomość?"
 
 #. Are you sure you want to delete this node and all its pages?
 msgid "are-you-sure-you-want-to-delete-this-node-and-all-its-pages"
-msgstr "Czy na pewno usunąć ten node i jego wszystkie strony?"
+msgstr "Czy na pewno usunąć ten węzeł i jego wszystkie strony?"
 
 #. Are you sure you want to delete this order?
 msgid "are-you-sure-you-want-to-delete-this-order"
@@ -1919,7 +1919,7 @@ msgstr "Czy na pewno usunąć to zamówienie?"
 
 #. Are you sure you want to delete this page?
 msgid "are-you-sure-you-want-to-delete-this-page"
-msgstr "Czy na pewno usunąć tą stronę?"
+msgstr "Czy na pewno usunąć tę stronę?"
 
 #. Are you sure you want to delete this project?
 msgid "are-you-sure-you-want-to-delete-this-project"
@@ -1931,7 +1931,7 @@ msgstr "Czy na pewno usunąć to repozytorium wraz z zawartością?"
 
 #. Are you sure you want to delete this structure?
 msgid "are-you-sure-you-want-to-delete-this-structure"
-msgstr "Czy na pewno usunąć tą strukturę?"
+msgstr "Czy na pewno usunąć tę strukturę?"
 
 #. Are you sure you want to delete this task?
 msgid "are-you-sure-you-want-to-delete-this-task"
@@ -1984,7 +1984,7 @@ msgstr "Czy na pewno usunąć wybrany komponent?"
 
 #. Are you sure you want to switch the language view? Changes made to this language will not be saved.
 msgid "are-you-sure-you-want-to-switch-the-languages-view"
-msgstr "Czy na pewno chesz zmienić widok języka? Zmiany dokanane w tym języku nie zostaną zapisane."
+msgstr "Czy na pewno zmienić widok języka? Zmiany dokanane w tym języku nie zostaną zapisane."
 
 #. Are you sure you want to update this order?
 msgid "are-you-sure-you-want-to-update-this-order"
@@ -2181,7 +2181,7 @@ msgstr "Średnia"
 
 #. Back to Top
 msgid "back-to-top"
-msgstr "Przejdź na górę"
+msgstr "Wróć na górę"
 
 #. Back to Vote
 msgid "back-to-vote"
@@ -2218,6 +2218,7 @@ msgid "ban-this-user"
 msgstr "Banuj tego użytkownika"
 
 #. Banned Users
+#, fuzzy
 msgid "banned-users"
 msgstr "Zbanowani użytkownicy"
 
@@ -2435,7 +2436,7 @@ msgstr "Bajtów"
 
 #. Cached
 msgid "cached"
-msgstr "W pamięci podręcznek"
+msgstr "W pamięci podręcznej"
 
 #. Calculate a flat insurance amount based on the total amount of the purchase.
 msgid "calculate-a-flat-insurance-amount-based-on-the-total-amount-of-the-purchase"
@@ -2518,6 +2519,7 @@ msgid "cc_visa"
 msgstr "Visa"
 
 #. Cell phones with SMS text messaging capabilities map phone numbers to email addresses. For example, a cell phone number of (626) 123-4567 with Sprint PCS as the carrier has an email address (SMS ID) of <i>6261234567@messaging.sprintpcs.com</i>.
+#, fuzzy
 msgid "cell-phones-with-sms-text-messaging-capabilities-map-phone-numbers-to-email-addresses"
 msgstr "Cell phones with SMS text messaging capabilities map phone numbers to email addresses. For example, a cell phone number of (626) 123-4567 with Sprint PCS as the carrier has an email address (SMS ID) of <i>6261234567@messaging.sprintpcs.com</i>."
 
@@ -2551,7 +2553,7 @@ msgstr "Zmień hasło"
 
 #. If this is checked, then a user is required to change their password when they first login.
 msgid "change-required-help"
-msgstr "Jeżeli ta opcja jest zaznaczona, użytkownik musi zmienić hasło podczas pierwszego logowania"
+msgstr "Jeżeli ta opcja jest zaznaczona, użytkownik musi zmienić hasło podczas pierwszego logowania."
 
 #. Change Required
 msgid "change-required"
@@ -2563,7 +2565,7 @@ msgstr "Zmień"
 
 #. If this is checked, then the user can change their password.
 msgid "changeable-help"
-msgstr "Jeżeli ta opcja jest zaznaczona użytkownik może zmieniać swoje hasło"
+msgstr "Jeżeli ta opcja jest zaznaczona, użytkownik może zmieniać swoje hasło"
 
 #. Changeable
 msgid "changeable"
@@ -2575,7 +2577,7 @@ msgstr "Zmienione linie"
 
 #. Changing from Rich Text format to plain text requires removing all current formatting. Are you sure you want to do this?
 msgid "changing-from-rich-text-format-to-plain-text-requires-removing-all-current-formatting"
-msgstr "Zmiana formatu na zwykły tekst wymaga usunięcia wszelkich formatowań. Czy na pewno wykonać tą operację?"
+msgstr "Zmiana formatu na zwykły tekst wymaga usunięcia całego formatowania. Czy na pewno wykonać tę operację?"
 
 #. Chapter
 msgid "chapter"
