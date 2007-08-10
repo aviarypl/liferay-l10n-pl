@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-10 18:37+0100\n"
+"PO-Revision-Date: 2007-08-10 18:40+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -2726,11 +2726,11 @@ msgstr "Wyczyść pamięć podręczną"
 
 #. Clear content cached across the cluster.
 msgid "clear-content-cached-across-the-cluster"
-msgstr "Wyczyść zawartość zcacheowaną w klastrze."
+msgstr "Wyczyść zawartość przechowywaną w pamięci podręcznej w klastrze."
 
 #. Clear content cached by this VM.
 msgid "clear-content-cached-by-this-vm"
-msgstr "Wyczyść zawartość zcacheowaną przez tą Maszynę Wirtualną."
+msgstr "Wyczyść zawartość przechowywaną w pamięci podręcznej przez tę maszynę wirtualną."
 
 #. Clear the database cache.
 msgid "clear-the-database-cache"
@@ -11505,7 +11505,7 @@ msgstr "Założyłeś blokadę na ten dokument. Nikt inny nie może edytować te
 
 #. You now have a lock on this page. No one else can edit this page until you unlock it by hitting cancel. This lock will automatically expire in {0}.
 msgid "you-now-have-a-lock-on-this-page"
-msgstr "Założyłeś blokadę na tą stronę. Nikt inny nie może jej edytować dopóki jej nie odblokujesz naciskając anuluj. Blokada zostanie automatycznie zniesiona po czasie: {0}."
+msgstr "Założyłeś blokadę na tę stronę. Nikt inny nie może jej edytować dopóki jej nie odblokujesz naciskając anuluj. Blokada zostanie automatycznie zniesiona po czasie: {0}."
 
 #. You Save
 msgid "you-save"
