@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-10 20:00+0100\n"
+"PO-Revision-Date: 2007-08-10 20:10+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -11858,167 +11858,167 @@ msgstr "Israeli Shekel"
 
 #. Indian Rupee
 msgid "currency.INR"
-msgstr "Indian Rupee"
+msgstr "Rupia indyjska"
 
 #. Iran Rial
 msgid "currency.IRR"
-msgstr "Iran Rial"
+msgstr "Rial irański"
 
 #. Iceland Krona
 msgid "currency.ISK"
-msgstr "Iceland Krona"
+msgstr "Korona islandzka"
 
 #. Jamaican Dollar
 msgid "currency.JMD"
-msgstr "Jamaican Dollar"
+msgstr "Dolar jamajski"
 
 #. Jordanian Dinar
 msgid "currency.JOD"
-msgstr "Jordanian Dinar"
+msgstr "Dinar jordański"
 
 #. Japanese Yen
 msgid "currency.JPY"
-msgstr "Japanese Yen"
+msgstr "Jen japoński"
 
 #. Kenyan Shilling
 msgid "currency.KES"
-msgstr "Kenyan Shilling"
+msgstr "Szyling kenijski"
 
 #. Cambodia Riel
 msgid "currency.KHR"
-msgstr "Cambodia Riel"
+msgstr "Riel kambodżański"
 
 #. Comoros Franc
 msgid "currency.KMF"
-msgstr "Comoros Franc"
+msgstr "Frank komoryjski"
 
 #. Korean Won
 msgid "currency.KRW"
-msgstr "Korean Won"
+msgstr "Won południowokoreański"
 
 #. Kuwaiti Dinar
 msgid "currency.KWD"
-msgstr "Kuwaiti Dinar"
+msgstr "Dinar kuwejcki"
 
 #. Cayman Islands Dollar
 msgid "currency.KYD"
-msgstr "Cayman Islands Dollar"
+msgstr "Dolar kajmański"
 
 #. Kazakhstan Tenge
 msgid "currency.KZT"
-msgstr "Kazakhstan Tenge"
+msgstr "Tenge kazachski"
 
 #. Lao Kip
 msgid "currency.LAK"
-msgstr "Lao Kip"
+msgstr "Kip laotański"
 
 #. Lebanese Pound
 msgid "currency.LBP"
-msgstr "Lebanese Pound"
+msgstr "Funt libański"
 
 #. Sri Lanka Rupee
 msgid "currency.LKR"
-msgstr "Sri Lanka Rupee"
+msgstr "Rupia lankijska"
 
 #. Lesotho Loti
 msgid "currency.LSL"
-msgstr "Lesotho Loti"
+msgstr "Loti sotyjskie"
 
 #. Lithuanian Lita
 msgid "currency.LTL"
-msgstr "Lithuanian Lita"
+msgstr "Lit litewski"
 
 #. Latvian Lat
 msgid "currency.LVL"
-msgstr "Latvian Lat"
+msgstr "Łat łotewski"
 
 #. Libyan Dinar
 msgid "currency.LYD"
-msgstr "Libyan Dinar"
+msgstr "Dinar libijski"
 
 #. Moroccan Dirham
 msgid "currency.MAD"
-msgstr "Moroccan Dirham"
+msgstr "Dirham marokański"
 
 #. Moldovan Leu
 msgid "currency.MDL"
-msgstr "Moldovan Leu"
+msgstr "Lej mołdawski"
 
 #. Malagasy Franc
 msgid "currency.MGF"
-msgstr "Malagasy Franc"
+msgstr "Frank malagaski"
 
 #. Macedonian Denar
 msgid "currency.MKD"
-msgstr "Macedonian Denar"
+msgstr "Denar macedoński"
 
 #. Mongolian Tugrik
 msgid "currency.MNT"
-msgstr "Mongolian Tugrik"
+msgstr "Tugrik mongolski"
 
 #. Macau Pataca
 msgid "currency.MOP"
-msgstr "Macau Pataca"
+msgstr "Pataca Makao"
 
 #. Mauritania Ougulya
 msgid "currency.MRO"
-msgstr "Mauritania Ougulya"
+msgstr "Ugija mauretańska"
 
 #. Maltese Lira
 msgid "currency.MTL"
-msgstr "Maltese Lira"
+msgstr "Lira maltańska"
 
 #. Mauritius Rupee
 msgid "currency.MUR"
-msgstr "Mauritius Rupee"
+msgstr "Rupia maurytyjska"
 
 #. Maldives Rufiyaa
 msgid "currency.MVR"
-msgstr "Maldives Rufiyaa"
+msgstr "Rupia malediwska"
 
 #. Malawi Kwacha
 msgid "currency.MWK"
-msgstr "Malawi Kwacha"
+msgstr "Kwacha Malawi"
 
 #. Mexican Peso
 msgid "currency.MXN"
-msgstr "Mexican Peso"
+msgstr "Peso meksykańskie"
 
 #. Malaysian Ringgit
 msgid "currency.MYR"
-msgstr "Malaysian Ringgit"
+msgstr "Ringgit malezyjski"
 
 #. Mozambique Metical
 msgid "currency.MZM"
-msgstr "Mozambique Metical"
+msgstr "Metical mozambijski"
 
 #. Namibian Dollar
 msgid "currency.NAD"
-msgstr "Namibian Dollar"
+msgstr "Dolar namibijski"
 
 #. Nigerian Naira
 msgid "currency.NGN"
-msgstr "Nigerian Naira"
+msgstr "Naira nigeryjska"
 
 #. Nicaragua Cordoba
 msgid "currency.NIO"
-msgstr "Nicaragua Cordoba"
+msgstr "Cordóba nikaraguańska"
 
 #. Norwegian Krone
 msgid "currency.NOK"
-msgstr "Norwegian Krone"
+msgstr "Korona norweska"
 
 #. Nepalese Rupee
 msgid "currency.NPR"
-msgstr "Nepalese Rupee"
+msgstr "Rupia nepalska"
 
 #. New Zealand Dollar
 msgid "currency.NZD"
-msgstr "New Zealand Dollar"
+msgstr "Dolar nowozelandzki"
 
 #. Omani Rial
 msgid "currency.OMR"
-msgstr "Omani Rial"
+msgstr "Rial omański"
 
 #. Panama Balboa
 msgid "currency.PAB"
