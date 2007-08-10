@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-10 19:42+0100\n"
+"PO-Revision-Date: 2007-08-10 20:00+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -12022,23 +12022,23 @@ msgstr "Omani Rial"
 
 #. Panama Balboa
 msgid "currency.PAB"
-msgstr "Panama Balboa"
+msgstr "Balboa panamska"
 
 #. Peruvian Nuevo Sol
 msgid "currency.PEN"
-msgstr "Peruvian Nuevo Sol"
+msgstr "Nowy sol peruwiański"
 
 #. Papua New Guinea Kina
 msgid "currency.PGK"
-msgstr "Papua New Guinea Kina"
+msgstr "Kina papuaska"
 
 #. Philippine Peso
 msgid "currency.PHP"
-msgstr "Philippine Peso"
+msgstr "Peso filipińskie"
 
 #. Pakistani Rupee
 msgid "currency.PKR"
-msgstr "Pakistani Rupee"
+msgstr "Rupia pakistańska"
 
 #. Polish Zloty
 msgid "currency.PLN"
@@ -12046,51 +12046,51 @@ msgstr "Złoty polski"
 
 #. Paraguayan Guarani
 msgid "currency.PYG"
-msgstr "Paraguayan Guarani"
+msgstr "Guaraní paragwajski"
 
 #. Qatar Rial
 msgid "currency.QAR"
-msgstr "Qatar Rial"
+msgstr "Rial Kataru"
 
 #. Romanian Leu
 msgid "currency.ROL"
-msgstr "Romanian Leu"
+msgstr "Lej rumuński"
 
 #. Romanian New Leu
 msgid "currency.RON"
-msgstr "Romanian New Leu"
+msgstr "Nowy lej rumuński"
 
 #. Russian Rouble
 msgid "currency.RUB"
-msgstr "Russian Rouble"
+msgstr "Rubel rosyjski"
 
 #. Rwanda Franc
 msgid "currency.RWF"
-msgstr "Rwanda Franc"
+msgstr "Frank rwandyjski"
 
 #. Saudi Arabian Riyal
 msgid "currency.SAR"
-msgstr "Saudi Arabian Riyal"
+msgstr "Rial saudyjski"
 
 #. Seychelles Rupee
 msgid "currency.SCR"
-msgstr "Seychelles Rupee"
+msgstr "Rupia seszelska"
 
 #. Sudanese Dinar
 msgid "currency.SDD"
-msgstr "Sudanese Dinar"
+msgstr "Dinar sudański"
 
 #. Swedish Krona
 msgid "currency.SEK"
-msgstr "Swedish Krona"
+msgstr "Korona szwedzka"
 
 #. Singapore Dollar
 msgid "currency.SGD"
-msgstr "Singapore Dollar"
+msgstr "Dolar singapurski"
 
 #. St Helena Pound
 msgid "currency.SHP"
-msgstr "St Helena Pound"
+msgstr "Funt Świętej Heleny"
 
 #. Slovenian Tolar
 msgid "currency.SIT"
