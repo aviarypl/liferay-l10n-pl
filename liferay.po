@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-09 19:57+0100\n"
+"PO-Revision-Date: 2007-08-10 11:52+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1289,14 +1289,12 @@ msgid "add-phone-number"
 msgstr "Dodaj numer telefonu"
 
 #. Add Portal Permissions
-#, fuzzy
 msgid "add-portal-permissions"
-msgstr "Dodaj uprawnienia"
+msgstr "Dodaj uprawnienia portalu"
 
 #. Add Portlet Permissions
-#, fuzzy
 msgid "add-portlet-permissions"
-msgstr "Dodaj uprawnienia"
+msgstr "Dodaj uprawnienia portletu"
 
 #. Add Portlet to Column
 msgid "add-portlet-to-column"
@@ -1435,9 +1433,8 @@ msgid "advanced-css-styling"
 msgstr "Zaawansowane style CSS"
 
 #. Advanced Styling
-#, fuzzy
 msgid "advanced-styling"
-msgstr "Zaawansowane"
+msgstr "Style zaawansowane"
 
 #. Advanced
 msgid "advanced"
@@ -1584,14 +1581,12 @@ msgid "already-registered"
 msgstr "Już zarejestrowany"
 
 #. Alternative Shipping Calculation
-#, fuzzy
 msgid "alternative-shipping-calculation"
-msgstr "Alternative Shipping Calculation"
+msgstr "Obliczenia dostawy alternatywnej"
 
 #. Alternative Shipping
-#, fuzzy
 msgid "alternative-shipping"
-msgstr "Alternative Shipping"
+msgstr "Dostawa alternatywna"
 
 #. Always
 msgid "always"
@@ -1614,9 +1609,8 @@ msgid "an-error-occurred-while-discovering-the-open-id-provider"
 msgstr "Podczas poszukiwania dostawcy OpenID wystąpił błąd."
 
 #. An error occurred while establishing an association with the Open ID provider.
-#, fuzzy
 msgid "an-error-occurred-while-establishing-an-association-with-the-open-id-provider"
-msgstr "An error occurred while establishing an association with the Open ID provider."
+msgstr "Podczas tworzenia powiązania z dostawcą Open ID wystąpił błąd."
 
 #. An error occurred while initializing the Open ID consumer.
 msgid "an-error-occurred-while-initializing-the-open-id-consumer"
@@ -2344,9 +2338,8 @@ msgid "border"
 msgstr "Obramowanie"
 
 #. Bottom
-#, fuzzy
 msgid "bottom"
-msgstr "Przycisk"
+msgstr "Dół"
 
 #. Breakfast
 msgid "breakfast"
@@ -4166,9 +4159,8 @@ msgid "exact-phrase"
 msgstr "Dokładna fraza"
 
 #. Exclusive
-#, fuzzy
 msgid "exclusive"
-msgstr "Exclusive"
+msgstr "Wyłączny"
 
 #. Execute
 msgid "execute"
@@ -4220,24 +4212,20 @@ msgid "export-56-data"
 msgstr "Data wygaśnięcia"
 
 #. Export Enabled
-#, fuzzy
 msgid "export-enabled"
-msgstr "Włączony"
+msgstr "Eksport włączony"
 
 #. Export / Import
-#, fuzzy
 msgid "export-import"
-msgstr "Import / Eksport"
+msgstr "Eksport / Import"
 
 #. Export Settings
-#, fuzzy
 msgid "export-settings"
-msgstr "Ustawienia kolorów"
+msgstr "Ustawienia eksportu"
 
 #. Export the current pages to the given LAR file name.
-#, fuzzy
 msgid "export-the-current-pages-to-the-given-lar-file-name"
-msgstr "Export the current pages and preferences to the given LAR file name."
+msgstr "Eksportuj aktualne strony do pliku LAR o danej nazwie"
 
 #. Export
 msgid "export"
@@ -4522,9 +4510,8 @@ msgid "form-fields"
 msgstr "Pola formularza"
 
 #. Form Information
-#, fuzzy
 msgid "form-information"
-msgstr "Other Information"
+msgstr "Informacje formularza"
 
 #. Form Method
 msgid "form-method"
@@ -4991,9 +4978,8 @@ msgid "import-56-data"
 msgstr "Post Date"
 
 #. Import a LAR file to overwrite the current pages.
-#, fuzzy
 msgid "import-a-lar-file-to-overwrite-the-current-pages"
-msgstr "Import a LAR file to overwrite the current pages and preferences."
+msgstr "Importuj plik LAR nadpisując aktualne strony."
 
 #. If this is checked, then users authenticated from CAS that do not exist in the portal will be imported from LDAP. LDAP must be enabled.
 msgid "import-cas-users-from-ldap-help"
@@ -5004,33 +4990,28 @@ msgid "import-cas-users-from-ldap"
 msgstr "Importuj z LDAP"
 
 #. Import Enabled
-#, fuzzy
 msgid "import-enabled"
-msgstr "Map Input Enabled"
+msgstr "Import włączony"
 
 #. Import / Export
 msgid "import-export"
 msgstr "Import / Eksport"
 
 #. Import Interval
-#, fuzzy
 msgid "import-interval"
-msgstr "Interwał skanowania"
+msgstr "Interwał importu"
 
 #. Import on Startup Enabled
-#, fuzzy
 msgid "import-on-startup-enabled"
-msgstr "Map Input Enabled"
+msgstr "Import przy uruchomieniu włączony"
 
 #. Import Search Filter
-#, fuzzy
 msgid "import-search-filter"
-msgstr "Szukaj w folderze"
+msgstr "Filtr wyszukiwania importu"
 
 #. Import Settings
-#, fuzzy
 msgid "import-settings"
-msgstr "Ustawienia kolorów"
+msgstr "Ustawienia importu"
 
 #. Import
 msgid "import"
@@ -5810,9 +5791,8 @@ msgid "maximized"
 msgstr "Zmaksymalizowany"
 
 #. This determines how long a password is good for before it needs to be changed.
-#, fuzzy
 msgid "maximum-age-help"
-msgstr "Medium Image URL"
+msgstr "Określa czas, po którym konieczna będzie zmiana hasła."
 
 #. Maximum Age
 msgid "maximum-age"
@@ -9119,9 +9099,8 @@ msgid "spanish"
 msgstr "Hiszpański"
 
 #. Specify a URL for a remote layout template, portlet, or theme.
-#, fuzzy
 msgid "specify-a-URL-for-a-remote-layout-template,-portlet,-or-theme"
-msgstr "Wrzuć plik WAR aby zainstalować szablon układu, portlet, lub motyw."
+msgstr "Określ URL dla zdalnego szablonu strony, portletu lub motywu."
 
 #. Specify an optional context for deployment.
 msgid "specify-an-optional-context-for-deployment"
@@ -9186,7 +9165,7 @@ msgstr "SSH"
 #. Staging
 #, fuzzy
 msgid "staging"
-msgstr "Sharing"
+msgstr "Staging"
 
 #. Start Date
 msgid "start-date"
@@ -10530,9 +10509,8 @@ msgid "update-search-index"
 msgstr "Update Search Index"
 
 #. Update the styles on this page.
-#, fuzzy
 msgid "update-the-styles-on-this-page"
-msgstr "Założyłeś blokadę na tą stronę. Nikt inny nie może jej edytować dopóki jej nie odblokujesz naciskając anuluj. Blokada zostanie automatycznie zniesiona po czasie: {0}."
+msgstr "Zaktualizuj style na tej stronie."
 
 #. Update
 msgid "update"
@@ -10559,9 +10537,8 @@ msgid "upload-a-logo-for-the-public-pages-that-will-be-used-instead-of-the-defau
 msgstr ""
 
 #. Upload a WAR file to install a layout template, portlet, or theme.
-#, fuzzy
 msgid "upload-a-war-file-to-install-a-layout-template,-portlet,-or-theme"
-msgstr "Wrzuć plik WAR aby zainstalować szablon układu, portlet, lub motyw."
+msgstr "Prześlij plik WAR, by zainstalować szablon strony, portlet lub motyw."
 
 #. Upload Completed
 msgid "upload-completed"
@@ -11066,9 +11043,8 @@ msgid "x-is-a-required-system-role"
 msgstr "<b>{0}</b> jest wymaganą rolą systemową."
 
 #. {0} is expired, is not approved, does not have any content, or no longer exists.
-#, fuzzy
 msgid "x-is-expired,-is-not-approved,-does-not-have-any-content,-or-no-longer-exists"
-msgstr "{0} is not approved, does not have any content, or no longer exists."
+msgstr "{0} nie został zaaprobowany, nie zawiera treści lub już nie istnieje."
 
 #. {0} users were successfully notified.
 msgid "x-users-were-successfully-notified"
