@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-10 18:40+0100\n"
+"PO-Revision-Date: 2007-08-10 19:42+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -12094,67 +12094,67 @@ msgstr "St Helena Pound"
 
 #. Slovenian Tolar
 msgid "currency.SIT"
-msgstr "Slovenian Tolar"
+msgstr "Tolar słoweński"
 
 #. Slovak Koruna
 msgid "currency.SKK"
-msgstr "Slovak Koruna"
+msgstr "Korona słowacka"
 
 #. Sierra Leone Leone
 msgid "currency.SLL"
-msgstr "Sierra Leone Leone"
+msgstr "Leone Sierra Leone"
 
 #. Somali Shilling
 msgid "currency.SOS"
-msgstr "Somali Shilling"
+msgstr "Szyling somalijski"
 
 #. Surinam Guilder
 msgid "currency.SRG"
-msgstr "Surinam Guilder"
+msgstr "Gulden surinamski"
 
 #. Sao Tome Dobra
 msgid "currency.STD"
-msgstr "Sao Tome Dobra"
+msgstr "Dobra Wysp Św. Tomasza i Książęcej"
 
 #. El Salvador Colon
 msgid "currency.SVC"
-msgstr "El Salvador Colon"
+msgstr "Colon salwadorski"
 
 #. Syrian Pound
 msgid "currency.SYP"
-msgstr "Syrian Pound"
+msgstr "Funt syryjski"
 
 #. Swaziland Lilageni
 msgid "currency.SZL"
-msgstr "Swaziland Lilageni"
+msgstr "Lilangeni Suazi"
 
 #. Thai Baht
 msgid "currency.THB"
-msgstr "Thai Baht"
+msgstr "Bat tajlandzki"
 
 #. Tunisian Dinar
 msgid "currency.TND"
-msgstr "Tunisian Dinar"
+msgstr "Dinar tunezyjski"
 
 #. Tonga Pa'anga
 msgid "currency.TOP"
-msgstr "Tonga Pa'anga"
+msgstr "Pa'anga Tonga"
 
 #. New Turkish Lira
 msgid "currency.TRY"
-msgstr "New Turkish Lira"
+msgstr "Nowa lira turecka"
 
 #. Trinidad&Tobago Dollar
 msgid "currency.TTD"
-msgstr "Trinidad&Tobago Dollar"
+msgstr "Dolar Trynidadu i Tobago"
 
 #. Taiwan Dollar
 msgid "currency.TWD"
-msgstr "Taiwan Dollar"
+msgstr "Dolar tajwański"
 
 #. Tanzanian Shilling
 msgid "currency.TZS"
-msgstr "Tanzanian Shilling"
+msgstr "Szyling tanzański"
 
 #. Ukraine Hryvnia
 msgid "currency.UAH"
@@ -12162,75 +12162,75 @@ msgstr "Hrywna ukraińska"
 
 #. Ugandan Shilling
 msgid "currency.UGX"
-msgstr "Ugandan Shilling"
+msgstr "Szyling ugandyjski"
 
 #. U.S. Dollar
 msgid "currency.USD"
-msgstr "U.S. Dollar"
+msgstr "Dolar USA"
 
 #. Uruguayan New Peso
 msgid "currency.UYU"
-msgstr "Uruguayan New Peso"
+msgstr "Nowe peso urugwajskie"
 
 #. Venezuelan Bolivar
 msgid "currency.VEB"
-msgstr "Venezuelan Bolivar"
+msgstr "Bolivar wenezuelski"
 
 #. Vietnam Dong
 msgid "currency.VND"
-msgstr "Vietnam Dong"
+msgstr "Dong wietnamski"
 
 #. Vanuatu Vatu
 msgid "currency.VUV"
-msgstr "Vanuatu Vatu"
+msgstr "Vatu vanuatuańskie"
 
 #. Samoa Tala
 msgid "currency.WST"
-msgstr "Samoa Tala"
+msgstr "Tala samoańska"
 
 #. CFA Franc
 msgid "currency.XAF"
-msgstr "CFA Franc"
+msgstr "Frank CFA"
 
 #. Silver Ounces
 msgid "currency.XAG"
-msgstr "Silver Ounces"
+msgstr "Uncje srebra"
 
 #. Aluminium Ounces
 msgid "currency.XAL"
-msgstr "Aluminium Ounces"
+msgstr "Uncje aluminium"
 
 #. Gold Ounces
 msgid "currency.XAU"
-msgstr "Gold Ounces"
+msgstr "Uncje złota"
 
 #. East Caribbean Dollar
 msgid "currency.XCD"
-msgstr "East Caribbean Dollar"
+msgstr "Dolar wschodniokaraibski"
 
 #. Copper Ounces
 msgid "currency.XCP"
-msgstr "Copper Ounces"
+msgstr "Uncje miedzi"
 
 #. CFA Franc
 msgid "currency.XOF"
-msgstr "CFA Franc"
+msgstr "Frank CFA"
 
 #. Palladium Ounces
 msgid "currency.XPD"
-msgstr "Palladium Ounces"
+msgstr "Uncje palladu"
 
 #. Pacific Franc
 msgid "currency.XPF"
-msgstr "Pacific Franc"
+msgstr "Frank CFP"
 
 #. Platinum Ounces
 msgid "currency.XPT"
-msgstr "Platinum Ounces"
+msgstr "Uncje platyny"
 
 #. Yemen Riyal
 msgid "currency.YER"
-msgstr "Yemen Riyal"
+msgstr "Rial jemeński"
 
 #. South African Rand
 msgid "currency.ZAR"
@@ -12238,7 +12238,7 @@ msgstr "Rand południowoafrykański"
 
 #. Zambian Kwacha
 msgid "currency.ZMK"
-msgstr "Zambian Kwacha"
+msgstr "Kwacha zambijska"
 
 #. Zimbabwe Dollar
 msgid "currency.ZWD"
