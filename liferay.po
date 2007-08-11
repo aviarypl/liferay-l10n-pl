@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-10 20:39+0100\n"
+"PO-Revision-Date: 2007-08-11 14:55+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,7 @@ msgstr "Zaproszenie"
 
 #. Tagged Content
 msgid "javax.portlet.title.101"
-msgstr "Otagowana zawartość"
+msgstr "Etykietowana zawartość"
 
 #. XSL Content
 msgid "javax.portlet.title.102"
@@ -48,11 +48,11 @@ msgstr "Menedżer aktualizacji"
 
 #. My Global Tags
 msgid "javax.portlet.title.105"
-msgstr "Moje globalne tagi"
+msgstr "Moje globalne etykiety"
 
 #. My Community Tags
 msgid "javax.portlet.title.106"
-msgstr "Tagi mojej społeczności"
+msgstr "Etykiety mojej społeczności"
 
 #. Page Comments
 msgid "javax.portlet.title.107"
@@ -424,7 +424,7 @@ msgstr "Katalog oprogramowania"
 
 #. Tags Admin
 msgid "javax.portlet.title.99"
-msgstr "Administrator tagów"
+msgstr "Administrator etykiet"
 
 #. Admin
 msgid "javax.portlet.title.9"
@@ -1374,7 +1374,7 @@ msgstr "Dodaj strukturę"
 
 #. Add Tag
 msgid "add-tag"
-msgstr "Dodaj tag"
+msgstr "Dodaj etykietę"
 
 #. Add Task
 msgid "add-task"
@@ -2742,7 +2742,7 @@ msgstr "Kliknij {0}tutaj{1} aby powrócić do Twojego użytkownika."
 
 #. Click on any tag to edit it.
 msgid "click-on-any-tag-to-edit-it"
-msgstr "Kliknij na tag, aby go edytować"
+msgstr "Kliknij etykietę, aby ją edytować"
 
 #. Click to edit me...
 msgid "click-to-edit-me"
@@ -2867,7 +2867,7 @@ msgstr "Role społeczności"
 
 #. Community tags are injected to all pages of this community. They are used to personalize content so tagged content that you care about is automatically retrieved for you within the context of a community.
 msgid "community-tags-are-injected-to-all-pages-of-this-community"
-msgstr "Tagi społeczności są przypisywane do wszystkich stron społeczności. Są wykorzystywane do personalizowania zawartości w taki sposób, aby otagowana zawartość, na która cię interesuje była automatycznie pobierana dla ciebie w ramach społeczności."
+msgstr "Etykiety społeczności są przypisywane do wszystkich stron społeczności. Wykorzystuje się je do personalizacji treści, dzięki czemu etykietowana treść interesująca dla użytkownika  jest automatycznie pobierana w kontekście społeczności."
 
 #. Community {0} does not have any private pages.
 msgid "community-x-does-not-have-any-private-pages"
@@ -3446,14 +3446,12 @@ msgid "display"
 msgstr "Wyświetlanie"
 
 #. Displayed content must contain the following tags.
-#, fuzzy
 msgid "displayed-content-must-contain-the-following-tags"
-msgstr "Nazwa obrazka musi kończyć się jednym z następujących rozszerzeń:"
+msgstr "Wyświetlana treść musi zawierać poniższe etykiety."
 
 #. Displayed content must NOT contain the following tags.
-#, fuzzy
 msgid "displayed-content-must-not-contain-the-following-tags"
-msgstr "Nazwa obrazka musi kończyć się jednym z następujących rozszerzeń:"
+msgstr "Wyświetlana treść NIE MOŻE zawierać poniższych etykiet."
 
 #. Displaying Article Pages
 msgid "displaying-article-pages"
@@ -3774,9 +3772,8 @@ msgid "edit-structure"
 msgstr "Edytuj strukturę"
 
 #. Edit Tag
-#, fuzzy
 msgid "edit-tag"
-msgstr "Edytuj stronę"
+msgstr "Edytuj etykietę"
 
 #. Edit Task
 msgid "edit-task"
@@ -4688,9 +4685,8 @@ msgid "gifts"
 msgstr "Prezenty"
 
 #. Global tags are injected to all pages that you visit. They are used to personalize content so that tagged content you care about is automatically retrieved for you.
-#, fuzzy
 msgid "global-tags-are-injected-to-all-pages-that-you-visit"
-msgstr "Tagi społeczności są przypisywane do wszystkich stron społeczności. Są wykorzystywane do personalizowania zawartości w taki sposób, aby otagowana zawartość, na która cię interesuje była automatycznie pobierana dla ciebie w ramach społeczności."
+msgstr "Etykiety globalne są przypisywane do wszystkich odwiedzanych stron. Wykorzystuje się je do personalizacji treści, dzięki czemu etykietowana treść interesująca dla użytkownika jest pobierana automatycznie."
 
 #. Go to PayPal and set up IPN to post to {0}.
 msgid "go-to-paypal-and-set-up-ipn-to-post-to-x"
@@ -5948,7 +5944,7 @@ msgstr "Meta Robots"
 
 #. Meta Tags
 msgid "meta-tags"
-msgstr "Meta Tags"
+msgstr "Znaczniki meta"
 
 #. Meter
 msgid "meter"
@@ -8544,9 +8540,8 @@ msgid "search-structures"
 msgstr "Search Structures"
 
 #. Search Tag
-#, fuzzy
 msgid "search-tag"
-msgstr "Przeszukuj wątki"
+msgstr "Przeszukuj etykietę"
 
 #. Search Templates
 msgid "search-templates"
@@ -8842,13 +8837,12 @@ msgid "set-the-following-values-to-filter-emails-associated-with-an-email-addres
 msgstr "Set the following values to filter emails associated with an email address to a folder."
 
 #. Set your community tags.
-#, fuzzy
 msgid "set-your-community-tags"
-msgstr "Strona społeczności:"
+msgstr "Ustaw etykiety społeczności."
 
 #. Set your global tags.
 msgid "set-your-global-tags"
-msgstr ""
+msgstr "Ustaw etykiety globalne"
 
 #. Settings
 msgid "settings"
@@ -9381,23 +9375,20 @@ msgid "tab-menu"
 msgstr "Tab Menu"
 
 #. Tag Value
-#, fuzzy
 msgid "tag-value"
-msgstr "Resetuj wartości"
+msgstr "Wartość etykiety"
 
 #. Tag
-#, fuzzy
 msgid "tag"
-msgstr "Wiek"
+msgstr "Etykieta"
 
 #. Tagalog
 msgid "tagalog"
 msgstr "Tagalog"
 
 #. Tags
-#, fuzzy
 msgid "tags"
-msgstr "Zadanie"
+msgstr "Etykiety"
 
 #. Talent
 msgid "talent"
@@ -11300,12 +11291,11 @@ msgstr "You have no personalized pages. Please create a page."
 
 #. You have not configured any community tags.
 msgid "you-have-not-configured-any-community-tags"
-msgstr ""
+msgstr "Nie skonfigurowano etykiet społeczności"
 
 #. You have not configured any global tags.
-#, fuzzy
 msgid "you-have-not-configured-any-global-tags"
-msgstr "Wprowadziłeś(aś) nieprawidłowe dane. Spróbuj ponownie."
+msgstr "Nie skonfigurowano etykiet globalnych."
 
 #. You have sent an email to {0} about shipping this order.
 msgid "you-have-sent-an-email-to-x-about-shipping-this-order"
@@ -11504,9 +11494,8 @@ msgid "you-have-successfully-uploaded-a-new-version-of-this-document"
 msgstr "You have successfully uploaded a new version of this document."
 
 #. You have the following tags configured: {0}.
-#, fuzzy
 msgid "you-have-the-following-tags-configured-x"
-msgstr "The following pages are found in"
+msgstr "Skonfigurowane są następujące etykiety: {0}."
 
 #. You may only vote once.
 msgid "you-may-only-vote-once"
