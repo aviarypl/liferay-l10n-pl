@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-11 21:45+0100\n"
+"PO-Revision-Date: 2007-08-11 21:49+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -11504,11 +11504,11 @@ msgstr "Skonfigurowane są następujące etykiety: {0}."
 
 #. You may only vote once.
 msgid "you-may-only-vote-once"
-msgstr "You may only vote once."
+msgstr "Głosować można tylko raz."
 
 #. You must agree with the terms of use to continue.
 msgid "you-must-agree-with-the-terms-of-use-to-continue"
-msgstr "You must agree with the terms of use to continue."
+msgstr "Aby kontynuować, należy zaakceptować warunki korzystania z usług."
 
 #. You must be authenticated to use this portlet.
 msgid "you-must-be-authenticated-to-use-this-portlet"
@@ -11528,7 +11528,7 @@ msgstr "Założyłeś blokadę na tę stronę. Nikt inny nie może jej edytować
 
 #. You Save
 msgid "you-save"
-msgstr "You Save"
+msgstr "Oszczędzasz"
 
 #. You will be sent an email notification when each of the recipients of this email have opened to read this email.
 msgid "you-will-be-sent-an-email-notification-when-each-of-the-recipients-of-this-email-have-opened-to-read-this-email"
@@ -11536,7 +11536,7 @@ msgstr "You will be sent an email notification when each of the recipients of th
 
 #. You will receive an email shortly with your order summary and further details.
 msgid "you-will-receive-an-email-shortly-with-your-order-summary-and-further-details"
-msgstr "You will receive an email shortly with your order summary and further details."
+msgstr "Wkrótce otrzymasz wiadomość e-mail z podsumowaniem zamówienia i dalszymi szczegółami."
 
 #. {0}, your account with login {1} has been deleted. Please contact the administrator for more help.
 msgid "your-account-with-login-x-has-been-deleted"
@@ -11556,11 +11556,11 @@ msgstr "Twoja przeglądarka nie obsługuje tego portletu."
 
 #. Your cart has items that are out of stock. Do you still want to continue with the order?
 msgid "your-cart-has-items-that-are-out-of-stock"
-msgstr "Your cart has items that are out of stock. Do you still want to continue with the order?"
+msgstr "Twój koszyk zawiera elementy, które nie są dostępne w magazynie. Czy nadal chcesz kontynuować proces zamówienia?"
 
 #. Your cart is empty.
 msgid "your-cart-is-empty"
-msgstr "Your cart is empty."
+msgstr "Twój koszyk jest pusty."
 
 #. Your current portlet information is as follows:
 msgid "your-current-portlet-information-is-as-follows"
@@ -11568,11 +11568,11 @@ msgstr ""
 
 #. Your first page must be a portlet page.
 msgid "your-first-page-must-be-a-portlet-page"
-msgstr "Your first page must be a portlet page."
+msgstr "Twoja pierwsza strona musi być stroną z portletem."
 
 #. Your first page must not be hidden.
 msgid "your-first-page-must-not-be-hidden"
-msgstr "Your first page must not be hidden."
+msgstr "Twoja pierwsza strona nie może być ukryta."
 
 #. Your invitations have been sent.
 msgid "your-invitations-have-been-sent"
