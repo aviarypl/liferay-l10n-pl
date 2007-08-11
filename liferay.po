@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-11 14:55+0100\n"
+"PO-Revision-Date: 2007-08-11 21:45+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -2088,11 +2088,11 @@ msgstr "Przypisany"
 
 #. Associate
 msgid "associate"
-msgstr "Skojarz"
+msgstr "Powiąż"
 
 #. Associated
 msgid "associated"
-msgstr "Skojarzony"
+msgstr "Powiązany"
 
 #. Attach Files
 msgid "attach-files"
@@ -6308,11 +6308,11 @@ msgstr "Nie odnaleziono artykułów."
 
 #. No Banner
 msgid "no-banner"
-msgstr "No Banner"
+msgstr "Brak bannera"
 
 #. No city and state pairs were found associated with the given zip.
 msgid "no-city-and-state-pairs-were-found-associated-with-the-given-zip"
-msgstr "No city and state pairs were found associated with the given zip."
+msgstr "Nie znaleziono par miasto-stan powiązanych z danym kodem pocztowym."
 
 #. No communities were found.
 msgid "no-communities-were-found"
@@ -6443,15 +6443,15 @@ msgstr "Nie znaleziono użytkowników."
 
 #. No zip code was found associated with the given street, city, and state.
 msgid "no-zip-code-was-found-associated-with-the-given-street-city-and-state"
-msgstr "No zip code was found associated with the given street, city, and state."
+msgstr "Nie znaleziono żadnego kodu pocztowego pasującego do danej ulicy, miasta i stanu."
 
 #. No zip codes were found associated with the given city and state.
 msgid "no-zip-codes-were-found-associated-with-the-given-city-and-state"
-msgstr "No zip codes were found associated with the given city and state."
+msgstr "Nie znaleziono żadnego kodu pocztowego pasującego do danego miasta i stanu."
 
 #. No zip codes were found associated with the given street, city, and state.
 msgid "no-zip-codes-were-found-associated-with-the-given-street-city-and-state"
-msgstr "No zip codes were found associated with the given street, city, and state."
+msgstr "Nie znaleziono żadnych kodów pocztowych pasujących do danej ulicy, miasta i stanu."
 
 #. No
 msgid "no"
@@ -8685,11 +8685,11 @@ msgstr "Select User"
 
 #. Select users to associate with the action {0}.
 msgid "select-users-to-associate-with-the-action-x"
-msgstr "Select users to associate with the action {0}."
+msgstr "Wybierz użytkowników do powiązania z akcją {0}."
 
 #. Select users to associate with the following actions: {0}
 msgid "select-users-to-associate-with-the-following-actions-x"
-msgstr "Select users to associate with the following actions: {0}"
+msgstr "Wybierz użytkowników do powiązania z następującymi akcjami: {0}"
 
 #. Select
 msgid "select"
@@ -8697,11 +8697,11 @@ msgstr "Wybierz"
 
 #. Selected Contact
 msgid "selected-contact"
-msgstr "Selected Contact"
+msgstr "Wybrany kontakt"
 
 #. Selected Page
 msgid "selected-page"
-msgstr "Selected Page"
+msgstr "Wybrana strona"
 
 #. Selected User
 msgid "selected-user"
@@ -8709,7 +8709,7 @@ msgstr "Wybrany użytkownik"
 
 #. Selected
 msgid "selected"
-msgstr "Selected"
+msgstr "Wybrany"
 
 #. Selecting a new structure will change the available input fields and available templates? Do you want to proceed?
 msgid "selecting-a-new-structure-will-change-the-available-input-fields-and-available-templates"
@@ -8721,45 +8721,49 @@ msgstr "Wybór nowego szablony zmieni strukturę, dostępne pola i dostępne sza
 
 #. Selection List
 msgid "selection-list"
-msgstr "Selection List"
+msgstr "Lista wyboru"
 
 #. Send approval denied email to users?
 msgid "send-approval-denied-email-to-users"
-msgstr "Send approval denied email to users?"
+msgstr "Wysyłać użytkownikom wiadomość e-mail z odmową?"
 
 #. Send approval granted email to users?
 msgid "send-approval-granted-email-to-users"
-msgstr "Send approval granted email to users?"
+msgstr "Wysyłać użytkownikom wiadomość e-mail ze zgodą?"
 
 #. Send approval requested email to users?
 msgid "send-approval-requested-email-to-users"
-msgstr "Send approval requested email to users?"
+msgstr "Wysyłać użytkownikom wiadomość e-mail na temat żądania zgody?"
 
 #. Send Confirmation Email
 msgid "send-confirmation-email"
-msgstr "Send Confirmation Email"
+msgstr "Wyślij wiadomość e-mail z potwierdzeniem"
 
 #. Send email notification to new users?
 msgid "send-email-notification-to-new-users"
-msgstr "Send email notification to new users?"
+msgstr "Wysyłać powiadomienie poprzez e-mail nowym użytkownikom?"
 
 #. Send New Password
 msgid "send-new-password"
 msgstr "Wyślij nowe hasło"
 
 #. Send order email to users?
+#, fuzzy
 msgid "send-order-email-to-users"
 msgstr "Send order email to users?"
 
 #. Send Order Email
+#, fuzzy
 msgid "send-order-email"
 msgstr "Send Order Email"
 
 #. Send shipping email to users?
+#, fuzzy
 msgid "send-shipping-email-to-users"
 msgstr "Send shipping email to users?"
 
 #. Send Shipping Email
+#, fuzzy
 msgid "send-shipping-email"
 msgstr "Send Shipping Email"
 
@@ -8774,9 +8778,10 @@ msgstr "Wyślij wiadomość tekstową"
 
 #. Send
 msgid "send"
-msgstr "Send"
+msgstr "Wyślij"
 
 #. Sent Mail
+#, fuzzy
 msgid "sent-mail"
 msgstr "Sent Mail"
 
