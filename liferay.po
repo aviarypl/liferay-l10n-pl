@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-13 08:36+0100\n"
+"PO-Revision-Date: 2007-08-13 08:56+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -6934,7 +6934,7 @@ msgstr "Payment Gross"
 
 #. Payment Settings
 msgid "payment-settings"
-msgstr "Payment Settings"
+msgstr "Ustawienia płatności"
 
 #. PayPal Email Address
 msgid "paypal-email-address"
@@ -7509,7 +7509,7 @@ msgstr "Wybierz status."
 
 #. Please select a structure to choose a template.
 msgid "please-select-a-structure-to-choose-a-template"
-msgstr "Please select a structure to choose a template."
+msgstr "Należy zaznaczyć strukturę, by wybrać szablon."
 
 #. Please select a template.
 msgid "please-select-a-template"
@@ -7545,7 +7545,7 @@ msgstr "Zaloguj się, aby kontynuować."
 
 #. Please upgrade your browser to use this feature.
 msgid "please-upgrade-your-browser-to-use-this-feature"
-msgstr "Please upgrade your browser to use this feature."
+msgstr "Aby skorzystać z tej funkcji, należy zaktualizować przeglądarkę."
 
 #. Plugin does not have a valid url.
 msgid "plugin-does-not-have-a-valid-url"
@@ -7652,6 +7652,7 @@ msgid "portlet-title"
 msgstr "Tytuł portletu"
 
 #. Portlet {0} does not have an indexer class configured.
+#, fuzzy
 msgid "portlet-x-does-not-have-an-indexer-class-configured"
 msgstr "Portlet {0} does not have an indexer class configured."
 
@@ -7665,27 +7666,29 @@ msgstr "Portlety"
 
 #. Portrait
 msgid "portrait"
-msgstr "Portrait"
+msgstr "Portret"
 
 #. Portuguese
 msgid "portuguese"
-msgstr "Portuguese"
+msgstr "Portugalski"
 
 #. Position
 msgid "position"
-msgstr "Position"
+msgstr "Pozycja"
 
 #. Post as Anonymous
+#, fuzzy
 msgid "post-as-anonymous"
 msgstr "Post as Anonymous"
 
 #. Post Date
+#, fuzzy
 msgid "post-date"
 msgstr "Post Date"
 
 #. Post New Message
 msgid "post-new-message"
-msgstr "Post New Message"
+msgstr "Wyślij nową wiadomość"
 
 #. Post New Thread
 msgid "post-new-thread"
@@ -7696,6 +7699,7 @@ msgid "post-reply"
 msgstr "Odpowiedz"
 
 #. Post
+#, fuzzy
 msgid "post"
 msgstr "Post"
 
@@ -7705,7 +7709,7 @@ msgstr "w odpowiedzi do {0}."
 
 #. Posted By
 msgid "posted-by"
-msgstr "Posted By"
+msgstr "Wysłane przez"
 
 #. Posts
 msgid "posts"
@@ -7713,7 +7717,7 @@ msgstr "Wiadomości"
 
 #. Pound
 msgid "pound"
-msgstr "Pound"
+msgstr "Funt"
 
 #. Precompile jsps for faster speed.
 msgid "precompile-jsps-for-faster-speed"
@@ -7740,12 +7744,13 @@ msgid "preview"
 msgstr "Podgląd"
 
 #. Previous Close
+#, fuzzy
 msgid "previous-close"
 msgstr "Previous Close"
 
 #. Previous Message
 msgid "previous-message"
-msgstr "Previous Message"
+msgstr "Poprzednia wiadomość"
 
 #. Previous Month
 msgid "previous-month"
@@ -7768,38 +7773,41 @@ msgid "previous"
 msgstr "Poprzednia"
 
 #. Price for {0} Items and Above:
+#, fuzzy
 msgid "price-for-x-items-and-above"
-msgstr "Price for {0} Items and Above:"
+msgstr "Cena za {0} lub więcej elementów:"
 
 #. Price for {0} to {1} Items:
+#, fuzzy
 msgid "price-for-x-to-x-items"
-msgstr "Price for {0} to {1} Items:"
+msgstr "Cena za {0} do {1} elementów:"
 
 #. Price
 msgid "price"
-msgstr "Price"
+msgstr "Cena"
 
 #. Prices
 msgid "prices"
-msgstr "Prices"
+msgstr "Ceny"
 
 #. Primary Address
 msgid "primary-address"
-msgstr "Primary Address"
+msgstr "Adres główny"
 
 #. Primary Contact
 msgid "primary-contact"
-msgstr "Primary Contact"
+msgstr "Kontakt główny"
 
 #. Primary Email
 msgid "primary-email"
-msgstr "Primary Email"
+msgstr "Główny e-mail"
 
 #. Primary
 msgid "primary"
 msgstr "Podstawowy"
 
 #. Principal
+#, fuzzy
 msgid "principal"
 msgstr "Principal"
 
@@ -7813,11 +7821,11 @@ msgstr "Priorytet"
 
 #. Private Node
 msgid "private-node"
-msgstr "Private Node"
+msgstr "Węzeł prywatny"
 
 #. Private Nodes
 msgid "private-nodes"
-msgstr "Private Nodes"
+msgstr "Węzły prywatne"
 
 #. Private Pages
 msgid "private-pages"
@@ -7837,6 +7845,7 @@ msgid "proceed-to-the-next-step-to-define-permissions-on-the-x-portlet-itself"
 msgstr "Proceed to the next step to delegate permissions to the {0} portlet itself."
 
 #. Processing login
+#, fuzzy
 msgid "processing-login"
 msgstr "Processing login"
 
@@ -7854,9 +7863,10 @@ msgstr "Profil"
 
 #. Project Information
 msgid "project-information"
-msgstr "Project Information"
+msgstr "Informacje o projekcie"
 
 #. Project must be associated with a firm.
+#, fuzzy
 msgid "project-must-be-associated-with-a-firm"
 msgstr "Project must be associated with a firm."
 
@@ -7874,7 +7884,7 @@ msgstr "Projekty"
 
 #. Properties
 msgid "properties"
-msgstr "Properties"
+msgstr "Własności"
 
 #. Property
 msgid "property"
@@ -7914,15 +7924,15 @@ msgstr "Proxy Port"
 
 #. Portuguese to English
 msgid "pt_en"
-msgstr "Portuguese to English"
+msgstr "Portugalski na angielski"
 
 #. Public Node
 msgid "public-node"
-msgstr "Public Node"
+msgstr "Węzeł publiczny"
 
 #. Public Nodes
 msgid "public-nodes"
-msgstr "Public Nodes"
+msgstr "Węzły publiczne"
 
 #. Public Pages
 msgid "public-pages"
@@ -7967,15 +7977,16 @@ msgstr "Cytuj"
 
 #. Range
 msgid "range"
-msgstr "Range"
+msgstr "Zakres"
 
 #. Rank
+#, fuzzy
 msgid "rank"
 msgstr "Ranga"
 
 #. Read More
 msgid "read-more"
-msgstr "Read More"
+msgstr "Czytaj więcej"
 
 #. Read Roles
 msgid "read-roles"
@@ -8184,7 +8195,7 @@ msgstr "Odpowiedz"
 
 #. Replying To
 msgid "replying-to"
-msgstr "Replying To"
+msgstr "W odpowiedzi na"
 
 #. Repositories require at least one read role.
 msgid "repositories-require-at-least-one-read-role"
@@ -8320,7 +8331,7 @@ msgstr "Wyniki {0} z {1}."
 
 #. Return Receipt:
 msgid "return-receipt"
-msgstr "Return Receipt:"
+msgstr "Potwierdzenie odbioru:"
 
 #. Reunion
 msgid "reunion"
@@ -8388,7 +8399,7 @@ msgstr "Root"
 
 #. Rounded Edges
 msgid "rounded-edges"
-msgstr "Rounded Edges"
+msgstr "Zaokrąglone rogi"
 
 #. RSS
 msgid "rss"
@@ -8396,7 +8407,7 @@ msgstr "RSS"
 
 #. Russian to English
 msgid "ru_en"
-msgstr "Russian to English"
+msgstr "Rosyjski na angielski"
 
 #. Run the garbage collector to free up memory.
 msgid "run-the-garbage-collector-to-free-up-memory"
@@ -8436,23 +8447,23 @@ msgstr "So"
 
 #. Save and Add Another
 msgid "save-and-add-another"
-msgstr "Save and Add Another"
+msgstr "Zapisz i dodaj kolejny"
 
 #. Save and Approve
 msgid "save-and-approve"
-msgstr "Zapisz i zatwierd"
+msgstr "Zapisz i zatwierdź"
 
 #. Save Draft
 msgid "save-draft"
-msgstr "Save Draft"
+msgstr "Zapisz szkic"
 
 #. Save New Version
 msgid "save-new-version"
-msgstr "Save New Version"
+msgstr "Zapisz nową wersję"
 
 #. Save Settings
 msgid "save-settings"
-msgstr "Save Settings"
+msgstr "Zapisz ustawienia"
 
 #. Save
 msgid "save"
@@ -8867,7 +8878,7 @@ msgstr "Współdzielenie"
 
 #. Shekel
 msgid "shekel"
-msgstr "Shekel"
+msgstr "Szekel"
 
 #. Shipping Address
 msgid "shipping-address"
@@ -8911,7 +8922,7 @@ msgstr "Skrót"
 
 #. Shorter
 msgid "shorter"
-msgstr "Shorter"
+msgstr "Krótszy"
 
 #. Should users forward to the cart page when adding an item from the category page?
 msgid "should-users-forward-to-the-cart-page-when-adding-an-item-from-the-category-page"
@@ -9018,7 +9029,7 @@ msgstr "Kod SIC"
 
 #. Sign Guestbook
 msgid "sign-guestbook"
-msgstr "Sign Guestbook"
+msgstr "Wpisz się do księgi gości"
 
 #. Sign in with a regular account.
 msgid "sign-in-with-a-regular-account"
@@ -9042,7 +9053,7 @@ msgstr "Sign"
 
 #. Signal
 msgid "signal"
-msgstr "Signal"
+msgstr "Sygnał"
 
 #. Signature
 msgid "signature"
@@ -9054,11 +9065,11 @@ msgstr "Podobne strony"
 
 #. Similar Phrase
 msgid "similar-phrase"
-msgstr "Similar Phrase"
+msgstr "Podobna fraza"
 
 #. Simple
 msgid "simple"
-msgstr "Simple"
+msgstr "Prosty"
 
 #. Sitemap Protocol
 msgid "sitemap-protocol"
@@ -9073,10 +9084,12 @@ msgid "size"
 msgstr "Rozmiar"
 
 #. SKU
+#, fuzzy
 msgid "sku"
 msgstr "SKU"
 
 #. SKUs
+#, fuzzy
 msgid "skus"
 msgstr "SKUs"
 
@@ -9125,6 +9138,7 @@ msgid "source-address"
 msgstr "Adres źródła"
 
 #. Source Input Enabled
+#, fuzzy
 msgid "source-input-enabled"
 msgstr "Source Input Enabled"
 
@@ -9150,13 +9164,14 @@ msgstr "Określ opcjonalny kontekst wdrożenia."
 
 #. Specify the file to import:
 msgid "specify-the-file-to-import"
-msgstr "Specify the file to import:"
+msgstr "Określ plik do zaimportowania:"
 
 #. Speed
 msgid "speed"
 msgstr "Prędkość"
 
 #. Spell
+#, fuzzy
 msgid "spell"
 msgstr "Spell"
 
@@ -9166,39 +9181,40 @@ msgstr "Wydarzenie sportowe"
 
 #. Square Centimeter
 msgid "square-centimeter"
-msgstr "Square Centimeter"
+msgstr "Centymetr kwadratowy"
 
 #. Square Foot
 msgid "square-foot"
-msgstr "Square Foot"
+msgstr "Stopa kwadratowa"
 
 #. Square Inch
 msgid "square-inch"
-msgstr "Square Inch"
+msgstr "Cal kwadratowy"
 
 #. Square Kilometer
 msgid "square-kilometer"
-msgstr "Square Kilometer"
+msgstr "Kilometr kwadratowy"
 
 #. Square Meter
 msgid "square-meter"
-msgstr "Square Meter"
+msgstr "Metr kwadratowy"
 
 #. Square Mile
 msgid "square-mile"
-msgstr "Square Mile"
+msgstr "Mila kwadratowa"
 
 #. Square Millimeter
 msgid "square-millimeter"
-msgstr "Square Millimeter"
+msgstr "Milimetr kwadratowy"
 
 #. Square Yard
 msgid "square-yard"
-msgstr "Square Yard"
+msgstr "Jard kwadratowy"
 
 #. Square
+#, fuzzy
 msgid "square"
-msgstr "Square"
+msgstr "Kwadrat"
 
 #. SSH
 msgid "ssh"
@@ -9235,11 +9251,11 @@ msgstr "Starting Address"
 
 #. State/Province
 msgid "state-province"
-msgstr "State/Province"
+msgstr "Stan/Prowincja"
 
 #. State
 msgid "state"
-msgstr "State"
+msgstr "Stan"
 
 #. Statistics
 msgid "statistics"
@@ -9279,7 +9295,7 @@ msgstr "Ulica"
 
 #. Structure ID
 msgid "structure-id"
-msgstr "Structure ID"
+msgstr "ID struktury"
 
 #. Structure
 msgid "structure"
@@ -9307,7 +9323,7 @@ msgstr "Podfoldery"
 
 #. Subject prefix
 msgid "subject-prefix"
-msgstr "Subject prefix"
+msgstr "Przedrostek tematu"
 
 #. Subject
 msgid "subject"
@@ -9343,11 +9359,11 @@ msgstr "Ni"
 
 #. Supplier User ID
 msgid "supplier-user-id"
-msgstr "Supplier User ID"
+msgstr "ID użytkownika dostawcy"
 
 #. Supplier
 msgid "supplier"
-msgstr "Supplier"
+msgstr "Dostawca"
 
 #. Supported Clients
 msgid "supported-clients"
@@ -9359,7 +9375,7 @@ msgstr "Swedish"
 
 #. symbols
 msgid "symbols"
-msgstr "symbols"
+msgstr "symbole"
 
 #. If this is checked, then the password is read for certain words and/or a certain length.
 #, fuzzy
@@ -9409,7 +9425,7 @@ msgstr "ID zadania"
 
 #. Task Information
 msgid "task-information"
-msgstr "Task Information"
+msgstr "Informacje o zadaniu"
 
 #. Task Name
 msgid "task-name"
@@ -9445,7 +9461,7 @@ msgstr "Taxable"
 
 #. Technical Support
 msgid "technical-support"
-msgstr "Technical Support"
+msgstr "Wsparcie techniczne"
 
 #. Temperature Format
 msgid "temperature-format"
@@ -9453,11 +9469,11 @@ msgstr "Skala temperatur"
 
 #. Temperature
 msgid "temperature"
-msgstr "Temperature"
+msgstr "Temperatura"
 
 #. Template ID
 msgid "template-id"
-msgstr "Template ID"
+msgstr "ID szablonu"
 
 #. Template
 msgid "template"
@@ -9477,7 +9493,7 @@ msgstr "Test"
 
 #. Text and Image
 msgid "text-and-image"
-msgstr "Text and Image"
+msgstr "Tekst i obrazek"
 
 #. Text Area (HTML)
 msgid "text-area"
