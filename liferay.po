@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-13 08:56+0100\n"
+"PO-Revision-Date: 2007-08-13 09:36+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1258,7 +1258,7 @@ msgstr "Dodaj listę"
 
 #. Add Location
 msgid "add-location"
-msgstr "Dodaj lokalizację"
+msgstr "Dodaj położenie"
 
 #. Add New Group
 msgid "add-new-group"
@@ -1773,24 +1773,25 @@ msgid "are-you-sure-you-want-to-block-the-selected-senders"
 msgstr "Czy na pewno zablokować wybrane osoby? Zablokowanie tych osób spowoduje, że nie będziesz dostawał od nich wiadomości."
 
 #. Are you sure you want to copy from live and overwrite the existing staging configuration?
+#, fuzzy
 msgid "are-you-sure-you-want-to-copy-from-live-and-overwrite-the-existing-staging-configuration"
 msgstr "Are you sure you want to copy from live and overwrite the existing staging configuration?"
 
 #. Are you sure you want to deactivate the selected users?
 msgid "are-you-sure-you-want-to-deactivate-the-selected-users"
-msgstr "Czy na pewno deaktywować wybranych użytkowników?"
+msgstr "Czy na pewno dezaktywować wybranych użytkowników?"
 
 #. Are you sure you want to deactivate this article?
 msgid "are-you-sure-you-want-to-deactivate-this-article"
-msgstr "Czy na pewno deaktywować wybrany artykuł?"
+msgstr "Czy na pewno dezaktywować wybrany artykuł?"
 
 #. Are you sure you want to deactivate this language?
 msgid "are-you-sure-you-want-to-deactivate-this-language"
-msgstr "Czy na pewno deaktywować wybrany język?"
+msgstr "Czy na pewno dezaktywować wybrany język?"
 
 #. Are you sure you want to deactivate this?
 msgid "are-you-sure-you-want-to-deactivate-this"
-msgstr "Czy na pewno deaktywować?"
+msgstr "Czy na pewno dezaktywować?"
 
 #. Are you sure you want to delete the selected articles?
 msgid "are-you-sure-you-want-to-delete-the-selected-articles"
@@ -2035,6 +2036,7 @@ msgid "articles"
 msgstr "Artykuły"
 
 #. Artifact ID
+#, fuzzy
 msgid "artifact-id"
 msgstr "Artifact ID"
 
@@ -2232,7 +2234,7 @@ msgstr "Podstawowa DN"
 
 #. Base Provider URL
 msgid "base-provider-url"
-msgstr "Bazowy URL providera"
+msgstr "Bazowy URL dostawcy"
 
 #. Basic Information
 msgid "basic-information"
@@ -2251,6 +2253,7 @@ msgid "be-sure-to-browse-our-guestbook-for-the-latest-entries"
 msgstr "Pamiętaj, by {0}przejrzeć{1} najnowsze wpisy w naszej księdze gości!"
 
 #. before, and again
+#, fuzzy
 msgid "before-and-again"
 msgstr "wcześniej, oraz jeszcze raz"
 
@@ -2276,7 +2279,7 @@ msgstr "Beka"
 
 #. Below is the XML representation of the default preferences for this portlet.
 msgid "below-is-the-xml-representation-of-the-default-preferences-for-this-portlet"
-msgstr "Poniżej znajdują się domyślne preferencje tego porteltu w formie XMLa."
+msgstr "Poniżej znajduje się reprezentacja XML-owa domyślnych preferencji tego porteltu."
 
 #. Beta
 msgid "beta"
@@ -2439,18 +2442,22 @@ msgid "cached"
 msgstr "W pamięci podręcznej"
 
 #. Calculate a flat insurance amount based on the total amount of the purchase.
+#, fuzzy
 msgid "calculate-a-flat-insurance-amount-based-on-the-total-amount-of-the-purchase"
 msgstr "Calculate a flat insurance amount based on the total amount of the purchase."
 
 #. Calculate a flat shipping amount based on the total amount of the purchase.
+#, fuzzy
 msgid "calculate-a-flat-shipping-amount-based-on-the-total-amount-of-the-purchase"
 msgstr "Calculate a flat shipping amount based on the total amount of the purchase."
 
 #. Calculate the insurance based on a percentage of the total amount of the purchase.
+#, fuzzy
 msgid "calculate-the-insurance-based-on-a-percentage-of-the-total-amount-of-the-purchase"
 msgstr "Calculate the insurance based on a percentage of the total amount of the purchase."
 
 #. Calculate the shipping based on a percentage of the total amount of the purchase.
+#, fuzzy
 msgid "calculate-the-shipping-based-on-a-percentage-of-the-total-amount-of-the-purchase"
 msgstr "Calculate the shipping based on a percentage of the total amount of the purchase."
 
@@ -3813,7 +3820,7 @@ msgstr "Edytuj użytkowników"
 
 #. Edit Wikis for Group:
 msgid "edit-wikis-for-group"
-msgstr "Edytuj WIKI dla grupy:"
+msgstr "Edytuj Wiki dla grupy:"
 
 #. Edit Wikis
 msgid "edit-wikis"
@@ -3890,6 +3897,7 @@ msgid "email"
 msgstr "E-mail"
 
 #. Emails
+#, fuzzy
 msgid "emails"
 msgstr "E-maile"
 
@@ -3995,6 +4003,7 @@ msgid "enter-a-blank-entry-to-disable-email-forwarding"
 msgstr "Wyczyszczenie pola spowoduje wyłączenie przekazywania e-maili."
 
 #. Enter a blank PayPal email address to disable PayPal. Select the accepted credit cards to record payments using credit cards. Payments will not be required if PayPal is disabled and there are no accepted credit cards.
+#, fuzzy
 msgid "enter-a-blank-paypal-email-address-to-disable-paypal"
 msgstr "Enter a blank PayPal email address to disable PayPal. Select the accepted credit cards to record payments using credit cards. Payments will not be required if PayPal is disabled and there are no accepted credit cards."
 
@@ -4216,10 +4225,12 @@ msgid "expiration"
 msgstr "Wygaśnięcie"
 
 #. Expire
+#, fuzzy
 msgid "expire"
 msgstr "Przeterminuj"
 
 #. Expired
+#, fuzzy
 msgid "expired"
 msgstr "Przeterminowany"
 
@@ -4625,6 +4636,7 @@ msgid "ftp"
 msgstr "FTP"
 
 #. Full Name
+#, fuzzy
 msgid "full-name"
 msgstr "Full Name"
 
@@ -4657,6 +4669,7 @@ msgid "generate"
 msgstr "Generuj"
 
 #. Gerah
+#, fuzzy
 msgid "gerah"
 msgstr "Gerah"
 
@@ -4665,18 +4678,22 @@ msgid "german"
 msgstr "Niemiecki"
 
 #. Get Directions
+#, fuzzy
 msgid "get-directions"
 msgstr "Get Directions"
 
 #. Get Map
+#, fuzzy
 msgid "get-map"
 msgstr "Get Map"
 
 #. Get Password
+#, fuzzy
 msgid "get-password"
 msgstr "Get Password"
 
 #. Get Quote
+#, fuzzy
 msgid "get-quote"
 msgstr "Get Quote"
 
@@ -4689,12 +4706,13 @@ msgid "global-tags-are-injected-to-all-pages-that-you-visit"
 msgstr "Etykiety globalne są przypisywane do wszystkich odwiedzanych stron. Wykorzystuje się je do personalizacji treści, dzięki czemu etykietowana treść interesująca dla użytkownika jest pobierana automatycznie."
 
 #. Go to PayPal and set up IPN to post to {0}.
+#, fuzzy
 msgid "go-to-paypal-and-set-up-ipn-to-post-to-x"
 msgstr "Go to PayPal and set up IPN to post to {0}."
 
 #. Go
 msgid "go"
-msgstr "Go"
+msgstr "Przejdź"
 
 #. Google&#39;s spelling suggestion for {0} is {1}.
 msgid "googles-spelling-suggestion-for"
@@ -4749,10 +4767,12 @@ msgid "guestbook"
 msgstr "Księga gości"
 
 #. Half Banner
+#, fuzzy
 msgid "half-banner"
 msgstr "Half Banner"
 
 #. Handbreath
+#, fuzzy
 msgid "handbreath"
 msgstr "Handbreath"
 
@@ -4765,6 +4785,7 @@ msgid "hangman"
 msgstr "Wisielec"
 
 #. Happy Hour
+#, fuzzy
 msgid "happy-hour"
 msgstr "Happy Hour"
 
@@ -4984,10 +5005,12 @@ msgid "images"
 msgstr "Obrazki"
 
 #. Impersonate User
+#, fuzzy
 msgid "impersonate-user"
 msgstr "Wciel się w użytkownika"
 
 #. Impersonate
+#, fuzzy
 msgid "impersonate"
 msgstr "Impersonate"
 
@@ -5240,26 +5263,32 @@ msgid "italic"
 msgstr "Kursywa"
 
 #. Item Description
+#, fuzzy
 msgid "item-description"
 msgstr "Item Description"
 
 #. Item Information
+#, fuzzy
 msgid "item-information"
 msgstr "Item Information"
 
 #. Item Name
+#, fuzzy
 msgid "item-name"
 msgstr "Item Name"
 
 #. Item Total
+#, fuzzy
 msgid "item-total"
 msgstr "Item Total"
 
 #. Item
+#, fuzzy
 msgid "item"
 msgstr "Item"
 
 #. Items
+#, fuzzy
 msgid "items"
 msgstr "Items"
 
@@ -5269,7 +5298,7 @@ msgstr "Japoński na angielski"
 
 #. JAAS is not configured properly.
 msgid "jaas-is-not-configured-properly"
-msgstr "JAAS is not configured properly."
+msgstr "JAAS nie jest prawidłowo skonfigurowany."
 
 #. Jabber
 msgid "jabber"
@@ -5292,10 +5321,12 @@ msgid "javascript"
 msgstr "JavaScript"
 
 #. JBoss Prefix
+#, fuzzy
 msgid "jboss-prefix"
 msgstr "JBoss Prefix"
 
 #. Job Class
+#, fuzzy
 msgid "job-class"
 msgstr "Job Class"
 
@@ -5320,6 +5351,7 @@ msgid "joined"
 msgstr "Dołączył(a)"
 
 #. Junk Mail
+#, fuzzy
 msgid "junk-mail"
 msgstr "Junk Mail"
 
@@ -5437,6 +5469,7 @@ msgid "last-x-templates"
 msgstr "Ostatnie {0} szablonów"
 
 #. Last
+#, fuzzy
 msgid "last"
 msgstr "Ostatnia(-i)"
 
@@ -5481,26 +5514,32 @@ msgid "ldap"
 msgstr "LDAP"
 
 #. Leaderboard
+#, fuzzy
 msgid "leaderboard"
 msgstr "Leaderboard"
 
 #. Leave a copy of the forwarded message?
+#, fuzzy
 msgid "leave-a-copy-of-the-forwarded-message"
 msgstr "Leave a copy of the forwarded message?"
 
 #. Leave Edit Preferences
+#, fuzzy
 msgid "leave-edit-preferences"
 msgstr "Leave Edit Preferences"
 
 #. * Leave the user name and password fields blank to use your current login information.
+#, fuzzy
 msgid "leave-the-user-name-and-password-fields-blank-to-use-your-current-login-information"
 msgstr "* Leave the user name and password fields blank to use your current login information."
 
 #. Leave this blank if the coupon does not check for the item SKU.
+#, fuzzy
 msgid "leave-this-blank-if-the-coupon-does-not-check-for-the-item-sku"
 msgstr "Leave this blank if the coupon does not check for the item SKU."
 
 #. Leave this blank if the coupon does not check for the parent categories of an item.
+#, fuzzy
 msgid "leave-this-blank-if-the-coupon-does-not-check-for-the-parent-categories-of-an-item"
 msgstr "Leave this blank if the coupon does not check for the parent categories of an item."
 
@@ -5553,6 +5592,7 @@ msgid "liferay-versions"
 msgstr "Wersje środowiska Liferay"
 
 #. Limits
+#, fuzzy
 msgid "limits"
 msgstr "Limits"
 
@@ -5562,7 +5602,7 @@ msgstr "Wysokość linii"
 
 #. Line
 msgid "line"
-msgstr "Line"
+msgstr "Linia"
 
 #. Link Portlet URLs to Page
 msgid "link-portlet-urls-to-page"
@@ -5581,10 +5621,12 @@ msgid "links"
 msgstr "Odnośniki"
 
 #. List All
+#, fuzzy
 msgid "list-all"
 msgstr "List All"
 
 #. List name:
+#, fuzzy
 msgid "list-name"
 msgstr "List name:"
 
@@ -5593,6 +5635,7 @@ msgid "list-of-plugins-was-last-refreshed-on-x"
 msgstr "Lista wtyczek została ostatnio odświeżona {0}."
 
 #. List users with the permission to perform the action
+#, fuzzy
 msgid "list-users-with-the-permission-to-perform-the-action"
 msgstr "List users with the permission to perform the action"
 
@@ -5611,10 +5654,12 @@ msgid "live"
 msgstr "Line"
 
 #. Loan Amount
+#, fuzzy
 msgid "loan-amount"
 msgstr "Loan Amount"
 
 #. Locale
+#, fuzzy
 msgid "locale"
 msgstr "Locale"
 
@@ -5677,6 +5722,7 @@ msgid "login-url"
 msgstr "Login"
 
 #. Login
+#, fuzzy
 msgid "login"
 msgstr "Login"
 
@@ -5753,14 +5799,17 @@ msgid "male"
 msgstr "Mężczyzna"
 
 #. Manage Children
+#, fuzzy
 msgid "manage-children"
 msgstr "Manage Children"
 
 #. Manage List
+#, fuzzy
 msgid "manage-list"
 msgstr "Manage List"
 
 #. Manage Task
+#, fuzzy
 msgid "manage-task"
 msgstr "Manage Task"
 
@@ -5782,21 +5831,25 @@ msgstr "Ręcznie"
 
 #. Maori
 msgid "maori"
-msgstr "Maori"
+msgstr "Maoryski"
 
 #. Map Address
+#, fuzzy
 msgid "map-address"
 msgstr "Map Address"
 
 #. Map Input Enabled
+#, fuzzy
 msgid "map-input-enabled"
 msgstr "Map Input Enabled"
 
 #. Map New Location
+#, fuzzy
 msgid "map-new-location"
 msgstr "Map New Location"
 
 #. Maps and Directions
+#, fuzzy
 msgid "maps-and-directions"
 msgstr "Maps and Directions"
 
@@ -5805,18 +5858,22 @@ msgid "margin-and-padding"
 msgstr "Marginesy wewnętrzne i zewnętrzne"
 
 #. Mass
+#, fuzzy
 msgid "mass"
 msgstr "Mass"
 
 #. Match Whole Words
+#, fuzzy
 msgid "match-whole-words"
 msgstr "Match Whole Words"
 
 #. Max Qty
+#, fuzzy
 msgid "max-qty"
 msgstr "Max Qty"
 
 #. Maximize Links
+#, fuzzy
 msgid "maximize-links"
 msgstr "Maximize Links"
 
@@ -5854,6 +5911,7 @@ msgid "maximum"
 msgstr "Maksimum"
 
 #. Me
+#, fuzzy
 msgid "me"
 msgstr "Me"
 
@@ -5931,14 +5989,17 @@ msgid "messages"
 msgstr "Wiadomości"
 
 #. Meta Description
+#, fuzzy
 msgid "meta-description"
 msgstr "Meta Description"
 
 #. Meta Keywords
+#, fuzzy
 msgid "meta-keywords"
 msgstr "Meta Keywords"
 
 #. Meta Robots
+#, fuzzy
 msgid "meta-robots"
 msgstr "Meta Robots"
 
@@ -5975,10 +6036,12 @@ msgid "millimeter"
 msgstr "Millimetr"
 
 #. Min Qty
+#, fuzzy
 msgid "min-qty"
 msgstr "Min Qty"
 
 #. Mina
+#, fuzzy
 msgid "mina"
 msgstr "Mina"
 
@@ -6008,13 +6071,15 @@ msgstr "Minimalna długość"
 
 #. Minimum Order
 msgid "minimum-order"
-msgstr "Minimum Order"
+msgstr "Zamówienie minimalne"
 
 #. Ministries and Gifts
+#, fuzzy
 msgid "ministries-and-gifts"
 msgstr "Ministries and Gifts"
 
 #. Ministries
+#, fuzzy
 msgid "ministries"
 msgstr "Ministries"
 
@@ -6027,10 +6092,12 @@ msgid "minutes"
 msgstr "Minut"
 
 #. Miscellaneous
+#, fuzzy
 msgid "miscellaneous"
 msgstr "Miscellaneous"
 
 #. (mm/dd/yyyy)
+#, fuzzy
 msgid "mm-dd-yyyy"
 msgstr "(mm/dd/yyyy)"
 
@@ -6040,7 +6107,7 @@ msgstr "Urządzenia przenośne"
 
 #. Models
 msgid "models"
-msgstr "Models"
+msgstr "Modele"
 
 #. Modified Date
 msgid "modified-date"
@@ -6048,7 +6115,7 @@ msgstr "Data modyfikacji"
 
 #. Modify Layout
 msgid "modify-layout"
-msgstr "Modify Layout"
+msgstr "Modyfikuj układ"
 
 #. Module ID
 msgid "module-id"
@@ -6119,6 +6186,7 @@ msgid "multi-selection-list"
 msgstr "Lista wielokrotnego wyboru"
 
 #. Must cart quantities be a multiple of the item's minimum quantity?
+#, fuzzy
 msgid "must-cart-quantities-be-a-multiple-of-the-item's-minimum-quantity"
 msgstr "Must cart quantities be a multiple of the item's minimum quantity?"
 
@@ -6171,6 +6239,7 @@ msgid "my-products"
 msgstr "Moje produkty"
 
 #. (n) signifies narrow portlets and (w) signifies wide portlets
+#, fuzzy
 msgid "n-signifies-narrow-portlets-and-w-signifies-wide-portlets"
 msgstr "(n) signifies narrow portlets and (w) signifies wide portlets"
 
@@ -6231,6 +6300,7 @@ msgid "new-name"
 msgstr "Nowa nazwa"
 
 #. New/Total
+#, fuzzy
 msgid "new-over-total"
 msgstr "New/Total"
 
@@ -6247,6 +6317,7 @@ msgid "new"
 msgstr "Nowy"
 
 #. News Selections
+#, fuzzy
 msgid "news-selections"
 msgstr "News Selections"
 
@@ -6279,6 +6350,7 @@ msgid "next"
 msgstr "Następna"
 
 #. Nickname
+#, fuzzy
 msgid "nickname"
 msgstr "Ksywka"
 
@@ -6335,10 +6407,12 @@ msgid "no-documents-were-found-that-matched-the-keywords"
 msgstr "Nie znaleziono dokumentów odpowiadających podanym słowom"
 
 #. No Download
+#, fuzzy
 msgid "no-download"
 msgstr "No Download"
 
 #. No Due Date
+#, fuzzy
 msgid "no-due-date"
 msgstr "No Due Date"
 
@@ -6495,7 +6569,7 @@ msgstr "nd."
 
 #. Not Found
 msgid "not-found"
-msgstr "Not Found"
+msgstr "Nie odnaleziono"
 
 #. Not Installed or Out of Date
 msgid "not-installed-or-older-version-installed"
@@ -6511,7 +6585,7 @@ msgstr "Notatki"
 
 #. Notify By
 msgid "notify-by"
-msgstr "Notify By"
+msgstr "Powiadom przez"
 
 #. Notify New Users
 msgid "notify-new-users"
@@ -6530,6 +6604,7 @@ msgid "ntlm"
 msgstr "NTLM"
 
 #. #. of Articles Per Selection
+#, fuzzy
 msgid "num-of-articles-per-selection"
 msgstr "# of Articles Per Selection"
 
@@ -6654,6 +6729,7 @@ msgid "older-version-installed"
 msgstr "Nieaktualny"
 
 #. On Hold
+#, fuzzy
 msgid "on-hold"
 msgstr "On Hold"
 
@@ -6678,6 +6754,7 @@ msgid "only-articles-associated-with-template-x-are-shown"
 msgstr "Wyświetlane są tylko artykuły powiązane z szablonem {0}."
 
 #. Only assign permissions to me
+#, fuzzy
 msgid "only-assign-permissions-to-me"
 msgstr "Only assign permissions to me"
 
@@ -6690,6 +6767,7 @@ msgid "open-document"
 msgstr "Otwórz dokument"
 
 #. Open Entry
+#, fuzzy
 msgid "open-entry"
 msgstr "Open Entry"
 
@@ -6714,6 +6792,7 @@ msgid "options"
 msgstr "Opcje"
 
 #. Or obtain the Google gadget code directly and paste it below.
+#, fuzzy
 msgid "or-obtain-the-google-gadget-code-directly-and-paste-it-below"
 msgstr "Or obtain the Google gadget code directly and paste it below."
 
@@ -6782,6 +6861,7 @@ msgid "other"
 msgstr "Inne"
 
 #. Out of Stock
+#, fuzzy
 msgid "out-of-stock"
 msgstr "Out of Stock"
 
@@ -6807,14 +6887,17 @@ msgid "package"
 msgstr "Pakiet"
 
 #. Page Display Order
+#, fuzzy
 msgid "page-display-order"
 msgstr "Page Display Order"
 
 #. Page History
+#, fuzzy
 msgid "page-history"
 msgstr "Page History"
 
 #. Page Links
+#, fuzzy
 msgid "page-links"
 msgstr "Page Links"
 
@@ -6835,6 +6918,7 @@ msgid "page"
 msgstr "Strona"
 
 #. Pager
+#, fuzzy
 msgid "pager"
 msgstr "Pager"
 
@@ -6847,6 +6931,7 @@ msgid "paginate-if-there-are-two-or-more-articles"
 msgstr "Stronicuj, jeśli jest więcej niż jeden artykuł."
 
 #. Paint
+#, fuzzy
 msgid "paint"
 msgstr "Paint"
 
@@ -6859,6 +6944,7 @@ msgid "parent-folder"
 msgstr "Folder nadrzędny"
 
 #. Parent
+#, fuzzy
 msgid "parent"
 msgstr "Parent"
 
@@ -6867,10 +6953,12 @@ msgid "party"
 msgstr "Impreza"
 
 #. Passage Comparison
+#, fuzzy
 msgid "passage-comparison"
 msgstr "Passage Comparison"
 
 #. Passage Lookup
+#, fuzzy
 msgid "passage-lookup"
 msgstr "Passage Lookup"
 
@@ -6917,6 +7005,7 @@ msgid "password"
 msgstr "Hasło"
 
 #. Past
+#, fuzzy
 msgid "past"
 msgstr "Past"
 
@@ -6925,10 +7014,12 @@ msgid "pause"
 msgstr "Pauza"
 
 #. Payer Email Address
+#, fuzzy
 msgid "payer-email-address"
 msgstr "Payer Email Address"
 
 #. Payment Gross
+#, fuzzy
 msgid "payment-gross"
 msgstr "Payment Gross"
 
@@ -6937,14 +7028,17 @@ msgid "payment-settings"
 msgstr "Ustawienia płatności"
 
 #. PayPal Email Address
+#, fuzzy
 msgid "paypal-email-address"
 msgstr "PayPal Email Address"
 
 #. PayPal Order
+#, fuzzy
 msgid "paypal-order"
 msgstr "PayPal Order"
 
 #. Pending
+#, fuzzy
 msgid "pending"
 msgstr "Pending"
 
@@ -6957,6 +7051,7 @@ msgid "performance"
 msgstr "Występ"
 
 #. Permission exclusive to members of current location and community?
+#, fuzzy
 msgid "permission-exclusive-to-members-of-current-location-and-community"
 msgstr "Permission exclusive to members of current location and community?"
 
@@ -6974,7 +7069,7 @@ msgstr "Osobiste"
 
 #. Personalize Pages
 msgid "personalize-pages"
-msgstr "Personalize Pages"
+msgstr "Personalizuj strony"
 
 #. Phone Number
 msgid "phone-number"
@@ -6997,20 +7092,23 @@ msgid "pick-date"
 msgstr "Wybierz datę"
 
 #. Pie
+#, fuzzy
 msgid "pie"
 msgstr "Pie"
 
 #. Pieces
+#, fuzzy
 msgid "pieces"
 msgstr "Pieces"
 
 #. Pim
+#, fuzzy
 msgid "pim"
 msgstr "Pim"
 
 #. Plain Text
 msgid "plain-text"
-msgstr "Plain Text"
+msgstr "Czysty tekst"
 
 #. Play
 msgid "play"
@@ -7038,7 +7136,7 @@ msgstr "Proszę wypełnić wszystkie pola."
 
 #. Please {0}complete{1} your order.
 msgid "please-complete-your-order"
-msgstr "Please {0}complete{1} your order."
+msgstr "Prosimy {0}skompletować{1} zamówienie."
 
 #. Please contact the administrator because you do not have any pages configured.
 msgid "please-contact-the-administrator-because-you-do-not-have-any-pages-configured"
@@ -7061,6 +7159,7 @@ msgid "please-contact-the-administrator-to-setup-this-portlet"
 msgstr "Skontaktuj się z administratorem, aby skonfigurować ten portlet. Jeżeli jesteś administratorem, przejd do ekranu konfiguracji."
 
 #. Please email all questions to {0}.
+#, fuzzy
 msgid "please-email-all-questions-to"
 msgstr "Wszystkie pytania prześlij e-mailem do {0}."
 
@@ -7074,41 +7173,43 @@ msgstr "Podaj plik o odpowiednim rozmiarze."
 
 #. Please enter a friendly url that begins with a slash.
 msgid "please-enter-a-friendly-url-that-begins-with-a-slash"
-msgstr "Wprowad przyjazny URL rozpoczynający sie od slasha ('/')."
+msgstr "Wprowadź przyjazny URL rozpoczynający sie od ukośnika (\"/\")."
 
 #. Please enter a friendly url that does not conflict with the keyword <b>{0}</b>.
 msgid "please-enter-a-friendly-url-that-does-not-conflict-with-the-keyword-x"
-msgstr "Wprowad przyjazny URL nie konfliktujący ze słowem kluczowym <b>{0}</b>."
+msgstr "Wprowadź przyjazny URL nie konfliktujący ze słowem kluczowym <b>{0}</b>."
 
 #. Please enter a friendly url that does not end with a slash.
 msgid "please-enter-a-friendly-url-that-does-not-end-with-a-slash"
-msgstr "Wprowad przyjazny URL nie kończący się slashem ('/')."
+msgstr "Wprowadż przyjazny URL nie kończący się ukośnikiem (\"/\")."
 
 #. Please enter a friendly url that does not have adjacent slashes.
 msgid "please-enter-a-friendly-url-that-does-not-have-adjacent-slashes"
-msgstr "Wprowad przyjazny URL nie mający sąsiadujących slashy ('//')."
+msgstr "Wprowadź przyjazny URL nie mający sąsiadujących ukośników (\"//\")."
 
 #. Please enter a friendly url that is at least two characters long.
 msgid "please-enter-a-friendly-url-that-is-at-least-two-characters-long"
-msgstr "Wprowad przyjazny URL składający się przynajmniej z dwóch znaków."
+msgstr "Wprowadź przyjazny URL składający się przynajmniej z dwóch znaków."
 
 #. Please enter a friendly url with valid characters.
 msgid "please-enter-a-friendly-url-with-valid-characters"
-msgstr "Wprowad przyjazny URL składający się z poprawnych znaków."
+msgstr "Wprowadź przyjazny URL składający się z poprawnych znaków."
 
 #. Please enter a longer duration.
 msgid "please-enter-a-longer-duration"
-msgstr "Wprowad dłuższy czas trwania."
+msgstr "Wprowadź dłuższy czas trwania."
 
 #. Please enter a SMS ID that is a valid email address.
 msgid "please-enter-a-sms-id-that-is-a-valid-email-address"
 msgstr "Wpisz poprawny adres e-mail bramki, przez którą będzie wysyłany SMS."
 
 #. Please enter a start date that comes before the end date.
+#, fuzzy
 msgid "please-enter-a-start-date-that-comes-before-the-end-date"
 msgstr "Please enter a start date that comes before the end date."
 
 #. Please enter a start date that comes before the expiration date.
+#, fuzzy
 msgid "please-enter-a-start-date-that-comes-before-the-expiration-date"
 msgstr "Please enter a start date that comes before the expiration date."
 
@@ -7125,54 +7226,66 @@ msgid "please-enter-a-unique-code"
 msgstr "Wprowadź unikalny kod."
 
 #. Please enter a unique document name.
+#, fuzzy
 msgid "please-enter-a-unique-document-name"
 msgstr "Please enter a unique document name."
 
 #. Please enter a unique entry name.
+#, fuzzy
 msgid "please-enter-a-unique-entry-name"
 msgstr "Please enter a unique entry name."
 
 #. Please enter a unique folder name.
+#, fuzzy
 msgid "please-enter-a-unique-folder-name"
 msgstr "Please enter a unique folder name."
 
 #. Please enter a unique friendly url.
+#, fuzzy
 msgid "please-enter-a-unique-friendly-url"
 msgstr "Please enter a unique friendly url."
 
 #. Please enter a unique ID.
+#, fuzzy
 msgid "please-enter-a-unique-id"
 msgstr "Please enter a unique id."
 
 #. Please enter a unique name.
 msgid "please-enter-a-unique-name"
-msgstr "Wprowad unikalną nazwę."
+msgstr "Wprowadź unikalną nazwę."
 
 #. Please enter a unique project code.
+#, fuzzy
 msgid "please-enter-a-unique-project-code"
 msgstr "Please enter a unique project code."
 
 #. Please enter a unique virtual host.
+#, fuzzy
 msgid "please-enter-a-unique-virtual-host"
 msgstr "Please enter a unique virtual host."
 
 #. Please enter a valid actual end date.
+#, fuzzy
 msgid "please-enter-a-valid-actual-end-date"
 msgstr "Please enter a valid actual end date."
 
 #. Please enter a valid body.
+#, fuzzy
 msgid "please-enter-a-valid-body"
 msgstr "Please enter a valid body."
 
 #. Please enter a valid category name.
+#, fuzzy
 msgid "please-enter-a-valid-category-name"
 msgstr "Please enter a valid category name."
 
 #. Please enter a valid cell number.
+#, fuzzy
 msgid "please-enter-a-valid-cell-number"
 msgstr "Please enter a valid cell number."
 
 #. Please enter a valid city.
+#, fuzzy
 msgid "please-enter-a-valid-city"
 msgstr "Please enter a valid city."
 
@@ -7181,128 +7294,154 @@ msgid "please-enter-a-valid-code"
 msgstr "Wprowadź prawidłowy kod."
 
 #. Please enter a valid country.
+#, fuzzy
 msgid "please-enter-a-valid-country"
 msgstr "Please enter a valid country."
 
 #. Please enter a valid coupon code.
+#, fuzzy
 msgid "please-enter-a-valid-coupon-code"
 msgstr "Please enter a valid coupon code."
 
 #. Please enter a valid create date.
+#, fuzzy
 msgid "please-enter-a-valid-create-date"
 msgstr "Please enter a valid create date."
 
 #. Please enter a valid credit card expiration date.
+#, fuzzy
 msgid "please-enter-a-valid-credit-card-expiration-date"
 msgstr "Please enter a valid credit card expiration date."
 
 #. Please enter a valid credit card number.
+#, fuzzy
 msgid "please-enter-a-valid-credit-card-number"
 msgstr "Please enter a valid credit card number."
 
 #. Please enter a valid credit card type.
+#, fuzzy
 msgid "please-enter-a-valid-credit-card-type"
 msgstr "Please enter a valid credit card type."
 
 #. Please enter a valid date.
+#, fuzzy
 msgid "please-enter-a-valid-date"
 msgstr "Please enter a valid date."
 
 #. Please enter a valid description.
+#, fuzzy
 msgid "please-enter-a-valid-description"
 msgstr "Please enter a valid description."
 
 #. Please enter a valid destination address.
+#, fuzzy
 msgid "please-enter-a-valid-destination-address"
 msgstr "Please enter a valid destination address."
 
 #. Please enter a valid display date.
+#, fuzzy
 msgid "please-enter-a-valid-display-date"
 msgstr "Please enter a valid display date."
 
 #. Please enter a valid email address or select a name from the list.
+#, fuzzy
 msgid "please-enter-a-valid-email-address-or-select-a-name-from-the-list"
 msgstr "Please enter a valid email address or select a name from the list."
 
 #. Please enter a valid email address.
 msgid "please-enter-a-valid-email-address"
-msgstr "Wprowad poprawny adres e-mail."
+msgstr "Wprowadź poprawny adres e-mail."
 
 #. Please enter a valid end date.
 msgid "please-enter-a-valid-end-date"
-msgstr "Wprowad poprawną datę zakończenia."
+msgstr "Wprowadż poprawną datę zakończenia."
 
 #. Please enter a valid entry URL.
+#, fuzzy
 msgid "please-enter-a-valid-entry-url"
 msgstr "Please enter a valid entry URL."
 
 #. Please enter a valid estimated end date.
+#, fuzzy
 msgid "please-enter-a-valid-estimated-end-date"
 msgstr "Please enter a valid estimated end date."
 
 #. Please enter a valid expiration date.
+#, fuzzy
 msgid "please-enter-a-valid-expiration-date"
 msgstr "Please enter a valid expiration date."
 
 #. Please enter a valid fax number.
+#, fuzzy
 msgid "please-enter-a-valid-fax-number"
 msgstr "Please enter a valid fax number."
 
 #. Please enter a valid firm name.
+#, fuzzy
 msgid "please-enter-a-valid-firm-name"
 msgstr "Please enter a valid firm name."
 
 #. Please enter a valid firm URL.
+#, fuzzy
 msgid "please-enter-a-valid-firm-url"
 msgstr "Please enter a valid firm URL."
 
 #. Please enter a valid first name.
+#, fuzzy
 msgid "please-enter-a-valid-first-name"
 msgstr "Please enter a valid first name."
 
 #. Please enter a valid folder name.
+#, fuzzy
 msgid "please-enter-a-valid-folder-name"
 msgstr "Please enter a valid folder name."
 
 #. Please enter a valid future due date.
+#, fuzzy
 msgid "please-enter-a-valid-future-due-date"
 msgstr "Please enter a valid future due date."
 
 #. Please enter a valid host name or IP.
+#, fuzzy
 msgid "please-enter-a-valid-host-name-or-ip"
 msgstr "Please enter a valid host name or IP."
 
 #. Please enter a valid ID.
 msgid "please-enter-a-valid-id"
-msgstr "Wprowad poprawne ID."
+msgstr "Wprowadź poprawne ID."
 
 #. Please enter a valid image search key.
+#, fuzzy
 msgid "please-enter-a-valid-image-search-key"
 msgstr "Please enter a valid image search key."
 
 #. Please enter a valid item name.
+#, fuzzy
 msgid "please-enter-a-valid-item-name"
 msgstr "Please enter a valid item name."
 
 #. Please enter a valid item SKU.
+#, fuzzy
 msgid "please-enter-a-valid-item-sku"
 msgstr "Please enter a valid item SKU."
 
 #. Please enter a valid last name.
 msgid "please-enter-a-valid-last-name"
-msgstr "Wprowad poprawne nazwisko."
+msgstr "Wprowadź poprawne nazwisko."
 
 #. Please enter a valid layout name.
+#, fuzzy
 msgid "please-enter-a-valid-layout-name"
 msgstr "Please enter a valid layout name."
 
 #. Please enter a valid list name.
+#, fuzzy
 msgid "please-enter-a-valid-list-name"
 msgstr "Please enter a valid list name."
 
 #. Please enter a valid login.
 msgid "please-enter-a-valid-login"
-msgstr "Wprowad poprawny login."
+msgstr "Wprowadź poprawny login."
 
 #. Please enter a valid mail domain.
 msgid "please-enter-a-valid-mail-domain"
@@ -7310,65 +7449,76 @@ msgstr "Wprowadź prawidłową domenę poczty."
 
 #. Please enter a valid message.
 msgid "please-enter-a-valid-message"
-msgstr "Please enter a valid message."
+msgstr "Wprowadź poprawną wiadomość."
 
 #. Please enter a valid name.
 msgid "please-enter-a-valid-name"
-msgstr "Wprowad poprawną nazwę."
+msgstr "Wprowadź poprawną nazwę."
 
 #. Please enter a valid node name.
 msgid "please-enter-a-valid-node-name"
-msgstr "Please enter a valid node name."
+msgstr "Wprowadź poprawną nazwę węzła."
 
 #. Please enter a valid note.
+#, fuzzy
 msgid "please-enter-a-valid-note"
 msgstr "Please enter a valid note."
 
 #. Please enter a valid number.
+#, fuzzy
 msgid "please-enter-a-valid-number"
 msgstr "Please enter a valid number."
 
 #. Please enter a valid organization for the selected location.
+#, fuzzy
 msgid "please-enter-a-valid-organization-for-the-selected-location"
 msgstr "Please enter a valid organization for the selected location."
 
 #. Please enter a valid organization name.
+#, fuzzy
 msgid "please-enter-a-valid-organization-name"
 msgstr "Please enter a valid organization name."
 
 #. Please enter a valid organization.
 msgid "please-enter-a-valid-organization"
-msgstr "Wprowad poprawną organizację."
+msgstr "Wprowadź poprawną organizację."
 
 #. Please enter a valid password.
 msgid "please-enter-a-valid-password"
-msgstr "Wprowad poprawne hasło."
+msgstr "Wprowadź poprawne hasło."
 
 #. Please enter a valid phone number.
+#, fuzzy
 msgid "please-enter-a-valid-phone-number"
 msgstr "Please enter a valid phone number."
 
 #. Please enter a valid phone.
+#, fuzzy
 msgid "please-enter-a-valid-phone"
 msgstr "Please enter a valid phone."
 
 #. Please enter a valid project code.
+#, fuzzy
 msgid "please-enter-a-valid-project-code"
 msgstr "Please enter a valid project code."
 
 #. Please enter a valid project name.
+#, fuzzy
 msgid "please-enter-a-valid-project-name"
 msgstr "Please enter a valid project name."
 
 #. Please enter a valid question description.
+#, fuzzy
 msgid "please-enter-a-valid-question-description"
 msgstr "Please enter a valid question description."
 
 #. Please enter a valid question.
+#, fuzzy
 msgid "please-enter-a-valid-question"
 msgstr "Please enter a valid question."
 
 #. Please enter a valid repository name.
+#, fuzzy
 msgid "please-enter-a-valid-repository-name"
 msgstr "Please enter a valid repository name."
 
@@ -7378,54 +7528,65 @@ msgid "please-enter-a-valid-screen-name"
 msgstr "Wprowad poprawną nazwę."
 
 #. Please enter a valid script template.
+#, fuzzy
 msgid "please-enter-a-valid-script-template"
 msgstr "Please enter a valid script template."
 
 #. Please enter a valid signature.
+#, fuzzy
 msgid "please-enter-a-valid-signature"
 msgstr "Please enter a valid signature."
 
 #. Please enter a valid start date.
+#, fuzzy
 msgid "please-enter-a-valid-start-date"
 msgstr "Please enter a valid start date."
 
 #. Please enter a valid starting address.
+#, fuzzy
 msgid "please-enter-a-valid-starting-address"
 msgstr "Please enter a valid starting address."
 
 #. Please enter a valid state.
+#, fuzzy
 msgid "please-enter-a-valid-state"
 msgstr "Please enter a valid state."
 
 #. Please enter a valid street.
+#, fuzzy
 msgid "please-enter-a-valid-street"
 msgstr "Please enter a valid street."
 
 #. Please enter a valid subject.
+#, fuzzy
 msgid "please-enter-a-valid-subject"
 msgstr "Please enter a valid subject."
 
 #. Please enter a valid task description.
+#, fuzzy
 msgid "please-enter-a-valid-task-description"
 msgstr "Please enter a valid task description."
 
 #. Please enter a valid task name.
+#, fuzzy
 msgid "please-enter-a-valid-task-name"
 msgstr "Please enter a valid task name."
 
 #. Please enter a valid title.
 msgid "please-enter-a-valid-title"
-msgstr "Wpisz poprawną nazwę."
+msgstr "Wprowadź poprawną nazwę."
 
 #. Please enter a valid topic name.
+#, fuzzy
 msgid "please-enter-a-valid-topic-name"
 msgstr "Please enter a valid topic name."
 
 #. Please enter a valid URL.
 msgid "please-enter-a-valid-url"
-msgstr "Wpisz poprawny URL."
+msgstr "Wprowadź poprawny URL."
 
 #. Please enter a valid user ID.
+#, fuzzy
 msgid "please-enter-a-valid-user-id"
 msgstr "Please enter a valid user ID."
 
@@ -7443,10 +7604,12 @@ msgid "please-enter-a-valid-xml-url"
 msgstr "Wpisz poprawny URL."
 
 #. Please enter a valid XML schema definition.
+#, fuzzy
 msgid "please-enter-a-valid-xsd"
 msgstr "Please enter a valid XML schema definition."
 
 #. Please enter a valid XSL template.
+#, fuzzy
 msgid "please-enter-a-valid-xsl-template"
 msgstr "Please enter a valid XSL template."
 
@@ -7456,38 +7619,45 @@ msgid "please-enter-a-valid-xsl-url"
 msgstr "Wpisz poprawny URL."
 
 #. Please enter a valid zip.
+#, fuzzy
 msgid "please-enter-a-valid-zip"
 msgstr "Please enter a valid zip."
 
 #. Please enter a value.
+#, fuzzy
 msgid "please-enter-a-value"
 msgstr "Please enter a value."
 
 #. Please enter a word that is at least 3 characters long.
+#, fuzzy
 msgid "please-enter-a-word-that-is-at-least-3-characters-long"
 msgstr "Please enter a word that is at least 3 characters long."
 
 #. Please enter the full name exactly as it appears on your credit card.
+#, fuzzy
 msgid "please-enter-the-full-name-exactly-as-it-is-appears-on-your-credit-card"
 msgstr "Please enter the full name exactly as it appears on your credit card."
 
 #. Please enter valid choices.
+#, fuzzy
 msgid "please-enter-valid-choices"
 msgstr "Please enter valid choices."
 
 #. Please enter valid comments.
+#, fuzzy
 msgid "please-enter-valid-comments"
 msgstr "Please enter valid comments."
 
 #. Please enter valid content.
 msgid "please-enter-valid-content"
-msgstr "Wpisz poprawną treść."
+msgstr "Wprowadź poprawną treść."
 
 #. Please press the save button to view your changes.
 msgid "please-press-the-save-button-to-view-your-changes"
 msgstr ""
 
 #. Please reenter your quantity for the items with the following SKUs:
+#, fuzzy
 msgid "please-reenter-your-quantity-for-the-items-with-the-following-skus"
 msgstr "Please reenter your quantity for the items with the following SKUs:"
 
@@ -7577,17 +7747,20 @@ msgstr "Wtyczki"
 
 #. Polish
 msgid "polish"
-msgstr "Polish"
+msgstr "Polski"
 
 #. Pool
+#, fuzzy
 msgid "pool"
 msgstr "Pool"
 
 #. POP Info
+#, fuzzy
 msgid "pop-info"
 msgstr "POP Info"
 
 #. Pop Up
+#, fuzzy
 msgid "pop-up"
 msgstr "Pop Up"
 
@@ -7720,6 +7893,7 @@ msgid "pound"
 msgstr "Funt"
 
 #. Precompile jsps for faster speed.
+#, fuzzy
 msgid "precompile-jsps-for-faster-speed"
 msgstr "Prekompiluj jsp by zwiększyć prędkość wyświetlania stron."
 
@@ -7891,36 +8065,37 @@ msgid "property"
 msgstr "Własność"
 
 #. Props
+#, fuzzy
 msgid "props"
 msgstr "Props"
 
 #. Proxy Authentication Domain
 msgid "proxy-authentication-domain"
-msgstr "Proxy Authentication Domain"
+msgstr "Domena uwierzytelnienia proxy"
 
 #. Proxy Authentication Host
 msgid "proxy-authentication-host"
-msgstr "Proxy Authentication Host"
+msgstr "Host uwierzytelnienia proxy"
 
 #. Proxy Authentication Password
 msgid "proxy-authentication-password"
-msgstr "Proxy Authentication Password"
+msgstr "Hasło uwierzytelnienia proxy"
 
 #. Proxy Authentication Username
 msgid "proxy-authentication-username"
-msgstr "Proxy Authentication Username"
+msgstr "Nazwa użytkownika uwierzytelnienia proxy"
 
 #. Proxy Authentication
 msgid "proxy-authentication"
-msgstr "Proxy Authentication"
+msgstr "Uwierzytelnienie proxy"
 
 #. Proxy Host
 msgid "proxy-host"
-msgstr "Proxy Host"
+msgstr "Host proxy"
 
 #. Proxy Port
 msgid "proxy-port"
-msgstr "Proxy Port"
+msgstr "Port proxy"
 
 #. Portuguese to English
 msgid "pt_en"
@@ -7952,10 +8127,12 @@ msgid "publish-to-live"
 msgstr "Publisher"
 
 #. Publisher
+#, fuzzy
 msgid "publisher"
 msgstr "Publisher"
 
 #. Quantity
+#, fuzzy
 msgid "quantity"
 msgstr "Quantity"
 
@@ -7968,6 +8145,7 @@ msgid "questions"
 msgstr "Pytania"
 
 #. Quick Add
+#, fuzzy
 msgid "quick-add"
 msgstr "Quick Add"
 
@@ -7989,10 +8167,12 @@ msgid "read-more"
 msgstr "Czytaj więcej"
 
 #. Read Roles
+#, fuzzy
 msgid "read-roles"
 msgstr "Read Roles"
 
 #. Receiver Email Address
+#, fuzzy
 msgid "receiver-email-address"
 msgstr "Receiver Email Address"
 
@@ -8041,6 +8221,7 @@ msgid "recur-every"
 msgstr "Powatarzaj co"
 
 #. References Only
+#, fuzzy
 msgid "references-only"
 msgstr "References Only"
 
@@ -8053,12 +8234,14 @@ msgid "refresh"
 msgstr "Odśwież"
 
 #. Refunded
+#, fuzzy
 msgid "refunded"
 msgstr "Refunded"
 
 #. Regex
+#, fuzzy
 msgid "regex"
-msgstr "Regex"
+msgstr "Wyrażenie regularne"
 
 #. Region
 msgid "region"
@@ -8070,7 +8253,7 @@ msgstr "Zarejestruj"
 
 #. Registration Information
 msgid "registration-information"
-msgstr "Registration Information"
+msgstr "Informacje o rejestracji"
 
 #. Registration Required
 msgid "registration-required"
@@ -8110,7 +8293,7 @@ msgstr "Zdalny host/IP"
 
 #. Remove all entries to disable email forwarding.
 msgid "remove-all-entries-to-disable-email-forwarding"
-msgstr "Remove all entries to disable email forwarding."
+msgstr "Usuń wszystkie wpisy, by wyłączyć przekazywanie wiadomości e-mail."
 
 #. Remove Files
 msgid "remove-files"
@@ -8125,6 +8308,7 @@ msgid "remove"
 msgstr "Usuń"
 
 #. Removed in
+#, fuzzy
 msgid "removed-in"
 msgstr "Removed in"
 
@@ -8178,10 +8362,12 @@ msgid "reply-as-anonymous"
 msgstr "Odpowiedz anonimowo"
 
 #. Reply Related Settings
+#, fuzzy
 msgid "reply-related-settings"
 msgstr "Reply Related Settings"
 
 #. Reply-To Address
+#, fuzzy
 msgid "reply-to-address"
 msgstr "Reply-To Address"
 
@@ -8198,10 +8384,12 @@ msgid "replying-to"
 msgstr "W odpowiedzi na"
 
 #. Repositories require at least one read role.
+#, fuzzy
 msgid "repositories-require-at-least-one-read-role"
 msgstr "Repositories require at least one read role."
 
 #. Repositories require at least one write role.
+#, fuzzy
 msgid "repositories-require-at-least-one-write-role"
 msgstr "Repositories require at least one write role."
 
@@ -8214,6 +8402,7 @@ msgid "repository"
 msgstr "Repozytorium"
 
 #. Request Timeout
+#, fuzzy
 msgid "request-timeout"
 msgstr "Request Timeout"
 
@@ -8233,15 +8422,15 @@ msgstr "Required Roles"
 
 #. Required Roles
 msgid "required-roles"
-msgstr "Required Roles"
+msgstr "Wymagane role"
 
 #. Required structures could not be deleted.
 msgid "required-structures-could-not-be-deleted"
-msgstr "Required structures could not be deleted."
+msgstr "Nie udało się usunąć wymaganych struktur."
 
 #. Required templates could not be deleted.
 msgid "required-templates-could-not-be-deleted"
-msgstr "Required templates could not be deleted."
+msgstr "Nie udało się usunąć wymaganych szablonów."
 
 #. Required
 msgid "required"
@@ -8253,13 +8442,15 @@ msgstr "Wymaga logowania"
 
 #. Requires Shipping
 msgid "requires-shipping"
-msgstr "Requires Shipping"
+msgstr "Wymaga dostawy"
 
 #. Resend Confirmation Email
+#, fuzzy
 msgid "resend-confirmation-email"
 msgstr "Resend Confirmation Email"
 
 #. Resend Shipping Email
+#, fuzzy
 msgid "resend-shipping-email"
 msgstr "Resend Shipping Email"
 
@@ -8286,10 +8477,12 @@ msgid "reset-failure-count"
 msgstr "Resetuj wartości"
 
 #. Reset Values
+#, fuzzy
 msgid "reset-values"
 msgstr "Resetuj wartości"
 
 #. Reset
+#, fuzzy
 msgid "reset"
 msgstr "Resetuj"
 
@@ -8306,6 +8499,7 @@ msgid "resources"
 msgstr "Zasoby"
 
 #. restart
+#, fuzzy
 msgid "restart"
 msgstr "restart"
 
@@ -8338,10 +8532,12 @@ msgid "reunion"
 msgstr "Reunion"
 
 #. Rev
+#, fuzzy
 msgid "rev"
 msgstr "Rev"
 
 #. Revert
+#, fuzzy
 msgid "revert"
 msgstr "Revert"
 
@@ -8354,6 +8550,7 @@ msgid "review"
 msgstr "Recenzowany"
 
 #. Revision
+#, fuzzy
 msgid "revision"
 msgstr "Revision"
 
@@ -8362,6 +8559,7 @@ msgid "rich-text-format"
 msgstr "Rich Text Format"
 
 #. Right
+#, fuzzy
 msgid "right"
 msgstr "Right"
 
@@ -8394,6 +8592,7 @@ msgid "root-theme"
 msgstr "Motyw główny"
 
 #. Root
+#, fuzzy
 msgid "root"
 msgstr "Root"
 
@@ -8410,26 +8609,31 @@ msgid "ru_en"
 msgstr "Rosyjski na angielski"
 
 #. Run the garbage collector to free up memory.
+#, fuzzy
 msgid "run-the-garbage-collector-to-free-up-memory"
 msgstr "Uruchom garbage collector by zwolnić pamięć."
 
 #. Russian
 msgid "russian"
-msgstr "Russian"
+msgstr "Rosyjski"
 
 #. Safe Search
+#, fuzzy
 msgid "safe-search"
 msgstr "Safe Search"
 
 #. Sale Items
+#, fuzzy
 msgid "sale-items"
 msgstr "Sale Items"
 
 #. Sales
+#, fuzzy
 msgid "sales"
 msgstr "Sales"
 
 #. Same as Billing
+#, fuzzy
 msgid "same-as-billing"
 msgstr "Same as Billing"
 
@@ -8438,6 +8642,7 @@ msgid "same-for-all"
 msgstr ""
 
 #. Same Page
+#, fuzzy
 msgid "same-page"
 msgstr "Same Page"
 
@@ -8470,14 +8675,17 @@ msgid "save"
 msgstr "Zapisz"
 
 #. Scope
+#, fuzzy
 msgid "scope"
 msgstr "Scope"
 
 #. Score
+#, fuzzy
 msgid "score"
 msgstr "Trafność"
 
 #. Scramble
+#, fuzzy
 msgid "scramble"
 msgstr "Scramble"
 
@@ -8508,11 +8716,11 @@ msgstr "Szukaj w kategoriach"
 
 #. Search Documents
 msgid "search-documents"
-msgstr "Search Documents"
+msgstr "Szukaj w dokumentach"
 
 #. Search Entries
 msgid "search-entries"
-msgstr "Search Entries"
+msgstr "Szukaj we wpisach"
 
 #. Search Folder
 msgid "search-folder"
@@ -8523,16 +8731,17 @@ msgid "search-folders"
 msgstr "Szukaj w folderach"
 
 #. Search Items
+#, fuzzy
 msgid "search-items"
 msgstr "Search Items"
 
 #. Search Messages
 msgid "search-messages"
-msgstr "Search Messages"
+msgstr "Szukaj w wiadomościach"
 
 #. Search Nodes
 msgid "search-nodes"
-msgstr "Search Nodes"
+msgstr "Szukaj w węzłach"
 
 #. Search Operator
 msgid "search-operator"
@@ -8544,19 +8753,20 @@ msgstr "Przeszukaj produkty"
 
 #. Search Results
 msgid "search-results"
-msgstr "Search Results"
+msgstr "Wyniki wyszukiwania"
 
 #. Search Structures
 msgid "search-structures"
-msgstr "Search Structures"
+msgstr "Szukaj w strukturach"
 
 #. Search Tag
+#, fuzzy
 msgid "search-tag"
 msgstr "Przeszukuj etykietę"
 
 #. Search Templates
 msgid "search-templates"
-msgstr "Search Templates"
+msgstr "Szukaj w szablonach"
 
 #. Search Threads
 msgid "search-threads"
@@ -8567,6 +8777,7 @@ msgid "search-took-x-seconds"
 msgstr "Znaleziono w {0} s."
 
 #. Search Topics
+#, fuzzy
 msgid "search-topics"
 msgstr "Search Topics"
 
@@ -8579,22 +8790,27 @@ msgid "search"
 msgstr "Szukaj"
 
 #. Searched for pages similar to
+#, fuzzy
 msgid "searched-for-pages-similar-to"
 msgstr "Searched for pages similar to"
 
 #. Searched the portal for
+#, fuzzy
 msgid "searched-the-portal-for"
 msgstr "Searched the portal for"
 
 #. Searched the web for
+#, fuzzy
 msgid "searched-the-web-for"
 msgstr "Searched the web for"
 
 #. Second
+#, fuzzy
 msgid "second"
 msgstr "Druga(-i)"
 
 #. Seconds
+#, fuzzy
 msgid "seconds"
 msgstr "Sekund"
 
@@ -8603,10 +8819,12 @@ msgid "security"
 msgstr "Bezpieczeństwo"
 
 #. See Current Results
+#, fuzzy
 msgid "see-current-results"
 msgstr "See Current Results"
 
 #. See Large Photo
+#, fuzzy
 msgid "see-large-photo"
 msgstr "See Large Photo"
 
@@ -8616,7 +8834,7 @@ msgstr "Więcej informacji można znależć w {0}."
 
 #. Select an existing article or add an article to be displayed in this portlet.
 msgid "select-an-existing-article-or-add-an-article-to-be-displayed-in-this-portlet"
-msgstr "Wybierz istniejący artykuł lub dodaj artykuł, który mam być wyświetlany przez ten portlet."
+msgstr "Wybierz istniejący artykuł lub dodaj artykuł, który ma być wyświetlany przez ten portlet."
 
 #. Select And Copy
 msgid "select-and-copy"
@@ -8627,34 +8845,42 @@ msgid "select-article"
 msgstr "Wybierz artykuł"
 
 #. Select Box
+#, fuzzy
 msgid "select-box"
 msgstr "Select Box"
 
 #. Select Content
+#, fuzzy
 msgid "select-content"
 msgstr "Select Content"
 
 #. Select Date
+#, fuzzy
 msgid "select-date"
 msgstr "Select Date"
 
 #. Select either a public node or a private node.
+#, fuzzy
 msgid "select-either-a-public-node-or-a-private-node"
 msgstr "Select either a public node or a private node."
 
 #. Select Folder
+#, fuzzy
 msgid "select-folder"
 msgstr "Select Folder"
 
 #. Select Option
+#, fuzzy
 msgid "select-option"
 msgstr "Select Option"
 
 #. Select Portlet
+#, fuzzy
 msgid "select-portlet"
 msgstr "Select Portlet"
 
 #. Select Recipients
+#, fuzzy
 msgid "select-recipients"
 msgstr "Select Recipients"
 
@@ -8688,9 +8914,10 @@ msgstr ""
 
 #. Select the type of editor to use while editing xml and xsl.
 msgid "select-the-type-of-editor-to-use-while-editing-xml-and-xsl"
-msgstr "Select the type of editor to use while editing xml and xsl."
+msgstr "Wybierz rodzaj edytora wykorzystywany do edycji XML i XSL."
 
 #. Select User
+#, fuzzy
 msgid "select-user"
 msgstr "Select User"
 
@@ -8723,6 +8950,7 @@ msgid "selected"
 msgstr "Wybrany"
 
 #. Selecting a new structure will change the available input fields and available templates? Do you want to proceed?
+#, fuzzy
 msgid "selecting-a-new-structure-will-change-the-available-input-fields-and-available-templates"
 msgstr "Wybranie nowej struktury spowoduje zmianę dostępnych pól i szablonów? Wykonać operację?"
 
@@ -8837,6 +9065,7 @@ msgid "set-background-image-properties"
 msgstr "Ustaw własności obrazka tła"
 
 #. Set the discount amount and the discount type. If the discount amount is 0.25 and the discount type is <i>Percentage</i>, then 25% is taken off the purchase price. If the discount type is <i>Actual</i>, then 25 cents is taken off the purchase price.
+#, fuzzy
 msgid "set-the-discount-amount-and-the-discount-type"
 msgstr "Set the discount amount and the discount type. If the discount amount is 0.25 and the discount type is <i>Percentage</i>, then 25% is taken off the purchase price. If the discount type is <i>Actual</i>, then 25 cents is taken off the purchase price."
 
@@ -8849,6 +9078,7 @@ msgid "set-the-display-order-of-news-feeds"
 msgstr "Ustal kolejność wyświetlania kanałów wiadomości."
 
 #. Set the following values to filter emails associated with an email address to a folder.
+#, fuzzy
 msgid "set-the-following-values-to-filter-emails-associated-with-an-email-address-to-a-folder"
 msgstr "Set the following values to filter emails associated with an email address to a folder."
 
@@ -8882,25 +9112,30 @@ msgstr "Szekel"
 
 #. Shipping Address
 msgid "shipping-address"
-msgstr "Shipping Address"
+msgstr "Adres dostawy"
 
 #. Shipping Calculation
+#, fuzzy
 msgid "shipping-calculation"
 msgstr "Shipping Calculation"
 
 #. Shipping Email
+#, fuzzy
 msgid "shipping-email"
 msgstr "Shipping Email"
 
 #. Shipping
+#, fuzzy
 msgid "shipping"
 msgstr "Shipping"
 
 #. Shopping Cart
+#, fuzzy
 msgid "shopping-cart"
 msgstr "Shopping Cart"
 
 #. Shopping
+#, fuzzy
 msgid "shopping"
 msgstr "Shopping"
 
@@ -8925,10 +9160,12 @@ msgid "shorter"
 msgstr "Krótszy"
 
 #. Should users forward to the cart page when adding an item from the category page?
+#, fuzzy
 msgid "should-users-forward-to-the-cart-page-when-adding-an-item-from-the-category-page"
 msgstr "Should users forward to the cart page when adding an item from the category page?"
 
 #. Show availability when viewing an item?
+#, fuzzy
 msgid "show-availability-when-viewing-an-item"
 msgstr "Show availability when viewing an item?"
 
@@ -8942,6 +9179,7 @@ msgid "show-breadcrumbs"
 msgstr "Pokazuj ramki"
 
 #. Show Calendar
+#, fuzzy
 msgid "show-calendar"
 msgstr "Show Calendar"
 
@@ -8950,34 +9188,42 @@ msgid "show-columns"
 msgstr "Wyświetl kolumny"
 
 #. Show Company Name
+#, fuzzy
 msgid "show-company-name"
 msgstr "Show Company Name"
 
 #. Show Guestbook
+#, fuzzy
 msgid "show-guestbook"
 msgstr "Show Guestbook"
 
 #. Show Image
+#, fuzzy
 msgid "show-image"
 msgstr "Show Image"
 
 #. Show item description when browsing a category?
+#, fuzzy
 msgid "show-item-description-when-browsing-a-category"
 msgstr "Show item description when browsing a category?"
 
 #. Show item prices when browsing a category?
+#, fuzzy
 msgid "show-item-prices-when-browsing-a-category"
 msgstr "Show item prices when browsing a category?"
 
 #. Show item properties when browsing a category?
+#, fuzzy
 msgid "show-item-properties-when-browsing-a-category"
 msgstr "Show item properties when browsing a category?"
 
 #. Show Maps and Directions
+#, fuzzy
 msgid "show-maps-and-directions"
 msgstr "Show Maps and Directions"
 
 #. Show Portlet Borders
+#, fuzzy
 msgid "show-portlet-borders"
 msgstr "Show Portlet Borders"
 
@@ -8987,18 +9233,22 @@ msgid "show-search"
 msgstr "Safe Search"
 
 #. Show Shopping
+#, fuzzy
 msgid "show-shopping"
 msgstr "Show Shopping"
 
 #. Show special item description when browsing a category?
+#, fuzzy
 msgid "show-special-item-description-when-browsing-a-category"
 msgstr "Show special item description when browsing a category?"
 
 #. Show special items when browsing a category?
+#, fuzzy
 msgid "show-special-items-when-browsing-a-category"
 msgstr "Show special items when browsing a category?"
 
 #. Show Special Items
+#, fuzzy
 msgid "show-special-items"
 msgstr "Show Special Items"
 
@@ -9008,6 +9258,7 @@ msgid "show-subfolders"
 msgstr "Pokazuj ramki"
 
 #. Show Wiki Borders
+#, fuzzy
 msgid "show-wiki-borders"
 msgstr "Show Wiki Borders"
 
@@ -9017,7 +9268,7 @@ msgstr "Pokaż"
 
 #. Shutdown the server in the specified number of minutes. Input 0 to cancel shutdown.
 msgid "shutdown-the-server-in-the-specified-number-of-minutes"
-msgstr "Wyłącz serwer po podanej poniżej liczbie minut. Wprowad 0 (zero), aby anulować zamknięcie."
+msgstr "Wyłącz serwer po podanej poniżej liczbie minut. Wprowadź 0 (zero), aby anulować wyłączenie."
 
 #. Shutdown
 msgid "shutdown"
@@ -9048,10 +9299,12 @@ msgid "sign-out"
 msgstr "Wyloguj się"
 
 #. Sign
+#, fuzzy
 msgid "sign"
 msgstr "Sign"
 
 #. Signal
+#, fuzzy
 msgid "signal"
 msgstr "Sygnał"
 
@@ -9230,14 +9483,17 @@ msgid "start-date"
 msgstr "Data rozpoczęcia"
 
 #. Start From
+#, fuzzy
 msgid "start-from"
 msgstr "Start From"
 
 #. Start Time
+#, fuzzy
 msgid "start-time"
 msgstr "Start Time"
 
 #. Start
+#, fuzzy
 msgid "start"
 msgstr "Start"
 
@@ -9246,6 +9502,7 @@ msgid "started-by"
 msgstr "Rozpoczęty przez"
 
 #. Starting Address
+#, fuzzy
 msgid "starting-address"
 msgstr "Starting Address"
 
@@ -9270,10 +9527,12 @@ msgid "step-x-of-x"
 msgstr "Krok {0} z {1}."
 
 #. Stock Quantity
+#, fuzzy
 msgid "stock-quantity"
 msgstr "Stock Quantity"
 
 #. Street Address
+#, fuzzy
 msgid "street-address"
 msgstr "Street Address"
 
@@ -9339,9 +9598,10 @@ msgstr "Subskrybuj"
 
 #. Subscription Required
 msgid "subscription-required"
-msgstr "Subscription Required"
+msgstr "Wymagana subskrypcja"
 
 #. Subtotal
+#, fuzzy
 msgid "subtotal"
 msgstr "Subtotal"
 
@@ -9371,7 +9631,7 @@ msgstr "Obsługiwane klienty"
 
 #. Swedish
 msgid "swedish"
-msgstr "Swedish"
+msgstr "Szwedzki"
 
 #. symbols
 msgid "symbols"
@@ -9392,6 +9652,7 @@ msgid "system-properties"
 msgstr "Właściwości systemowe"
 
 #. Tab Menu
+#, fuzzy
 msgid "tab-menu"
 msgstr "Tab Menu"
 
@@ -9412,10 +9673,12 @@ msgid "tags"
 msgstr "Etykiety"
 
 #. Talent
+#, fuzzy
 msgid "talent"
 msgstr "Talent"
 
 #. Target
+#, fuzzy
 msgid "target"
 msgstr "Target"
 
@@ -9440,22 +9703,27 @@ msgid "tasks"
 msgstr "Zadania"
 
 #. Tax Free
+#, fuzzy
 msgid "tax-free"
 msgstr "Tax Free"
 
 #. Tax Rate
+#, fuzzy
 msgid "tax-rate"
 msgstr "Tax Rate"
 
 #. Tax State
+#, fuzzy
 msgid "tax-state"
 msgstr "Tax State"
 
 #. Tax
+#, fuzzy
 msgid "tax"
 msgstr "Tax"
 
 #. Taxable
+#, fuzzy
 msgid "taxable"
 msgstr "Taxable"
 
@@ -9496,10 +9764,12 @@ msgid "text-and-image"
 msgstr "Tekst i obrazek"
 
 #. Text Area (HTML)
+#, fuzzy
 msgid "text-area"
 msgstr "Text Area (HTML)"
 
 #. Text Box
+#, fuzzy
 msgid "text-box"
 msgstr "Text Box"
 
@@ -9524,10 +9794,12 @@ msgid "text"
 msgstr "Tekst"
 
 #. Thank you for creating an account. Your password has been sent to {0}. Please check your inbox and spam folders.
+#, fuzzy
 msgid "thank-you-for-creating-an-account-your-password-has-been-sent-to-x"
 msgstr "Thank you for creating an account. Your password has been sent to {0}. Please check your inbox and spam folders."
 
 #. Thank you for creating an account. Your password is <b>{0}</b> and has been sent to {1}. Please check your inbox and spam folders.
+#, fuzzy
 msgid "thank-you-for-creating-an-account-your-password-is-x"
 msgstr "Thank you for creating an account. Your password is <b>{0}</b> and has been sent to {1}. Please check your inbox and spam folders."
 
@@ -9652,10 +9924,12 @@ msgid "the-event-could-not-be-found"
 msgstr "Nie udało się odnaleźć zdarzenia."
 
 #. The firm cannot be deleted because it has associated projects.
+#, fuzzy
 msgid "the-firm-cannot-be-deleted-because-it-has-associated-projects"
 msgstr "The firm cannot be deleted because it has associated projects."
 
 #. The firm could not be found.
+#, fuzzy
 msgid "the-firm-could-not-be-found"
 msgstr "The firm could not be found."
 
@@ -9975,10 +10249,12 @@ msgid "the-template-could-not-be-found"
 msgstr "Nie znaleziono szablonu."
 
 #. The template with the name {0} was found that matches the ID:
+#, fuzzy
 msgid "the-template-with-the-name-x-was-found-that-matches-the-id"
 msgstr "The template with the name {0} was found that matches the ID:"
 
 #. The topic could not be found.
+#, fuzzy
 msgid "the-topic-could-not-be-found"
 msgstr "The topic could not be found."
 
@@ -9991,22 +10267,26 @@ msgid "the-user-could-not-be-found"
 msgstr "Nie odnaleziono użytkownika."
 
 #. The user ID you requested is already taken.
+#, fuzzy
 msgid "the-user-id-you-requested-is-already-taken"
-msgstr "The user ID you requested is already taken."
+msgstr "Żądane ID użytkownika jest już zajęte."
 
 #. The user ID you requested is reserved.
 msgid "the-user-id-you-requested-is-reserved"
-msgstr "The user ID you requested is reserved."
+msgstr "Żądane ID użytkownika jest zarezerwowane."
 
 #. The user who added the message
+#, fuzzy
 msgid "the-user-who-added-the-message"
 msgstr "The user who added the message"
 
 #. The vacation message notifies others of your absence.
+#, fuzzy
 msgid "the-vacation-message-notifies-others-of-your-absence"
 msgstr "The vacation message notifies others of your absence."
 
 #. The verse could not be found.
+#, fuzzy
 msgid "the-verse-could-not-be-found"
 msgstr "The verse could not be found."
 
@@ -10179,6 +10459,7 @@ msgid "thesaurus"
 msgstr "Słownik wyrazów bliskoznacznych"
 
 #. Third
+#, fuzzy
 msgid "third"
 msgstr "Trzecia(-i)"
 
@@ -10199,34 +10480,40 @@ msgid "this-change-will-only-be-shown-after-you-refresh-the-page"
 msgstr "Ta zmiana będzie widoczna dopiero po odświeżeniu aktualnej strony."
 
 #. This coupon only applies to items that are children of this comma delimited list of categories.
+#, fuzzy
 msgid "this-coupon-only-applies-to-items-that-are-children-of-this-comma-delimited-list-of-categories"
 msgstr "This coupon only applies to items that are children of this comma delimited list of categories."
 
 #. This coupon only applies to items with a SKU that corresponds to this comma delimited list of item SKUs.
+#, fuzzy
 msgid "this-coupon-only-applies-to-items-with-a-sku-that-corresponds-to-this-comma-delimited-list-of-item-skus"
 msgstr "This coupon only applies to items with a SKU that corresponds to this comma delimited list of item SKUs."
 
 #. This email address will also serve as your login.
+#, fuzzy
 msgid "this-email-address-will-also-serve-as-your-login"
 msgstr "This email address will also serve as your login."
 
 #. This event does not repeat.
 msgid "this-event-does-not-repeat"
-msgstr "This event does not repeat."
+msgstr "To zdarzenie nie jest powtarzane."
 
+# Oj, nieładnie!
 #. This feature requires Internet Explorer 5.5 and above.
 msgid "this-feature-requires-internet-explorer-5.5-and-above"
-msgstr "This feature requires Internet Explorer 5.5 and above."
+msgstr "Ta funkcja wymaga Internet Explorera 5.5 lub nowszego."
 
 #. This folder is empty.
 msgid "this-folder-is-empty"
 msgstr "Ten folder jest pusty."
 
 #. This form has already been submitted. Submit will be enabled in {0} seconds.
+#, fuzzy
 msgid "this-form-has-already-been-submitted"
 msgstr "This form has already been submitted. Submit will be enabled in {0} seconds."
 
 #. This functionality will only work when you send rich text formatted email. Do you want to enable rich text formatting?
+#, fuzzy
 msgid "this-functionality-will-only-work-when-you-send-rich-text-formatted-email.-do-you-want-to-enable-rich-text-formatting"
 msgstr "This functionality will only work when you send rich text formatted email. Do you want to enable rich text formatting?"
 
@@ -10236,7 +10523,7 @@ msgstr "Na tej stronie wyświetlonych jest ostatnie {0} artykułów, struktur, i
 
 #. This page is part of an inactive portlet.
 msgid "this-page-is-part-of-an-inactive-portlet"
-msgstr "This page is part of an inactive portlet."
+msgstr "Ta strona jest częścią nieaktywnego portletu."
 
 #. This portlet is inactive.
 msgid "this-portlet-is-inactive"
@@ -10295,6 +10582,7 @@ msgid "ticker-symbol"
 msgstr "Symbol giełdowy"
 
 #. Tile
+#, fuzzy
 msgid "tile"
 msgstr "Tile"
 
@@ -10311,6 +10599,7 @@ msgid "time"
 msgstr "Czas"
 
 #. Timestamp
+#, fuzzy
 msgid "timestamp"
 msgstr "Timestamp"
 
@@ -10324,13 +10613,14 @@ msgstr "* Aby napisać do joebloggs@{0}, wystarczy wprowadzić <i>joebloggs</i>"
 
 #. To this location
 msgid "to-this-location"
-msgstr "To this location"
+msgstr "Do tego położenia"
 
 #. To
 msgid "to"
 msgstr "Do"
 
 #. Toad
+#, fuzzy
 msgid "toad"
 msgstr "Toad"
 
@@ -10355,6 +10645,7 @@ msgid "tomorrow"
 msgstr "Jutro"
 
 #. Ton
+#, fuzzy
 msgid "ton"
 msgstr "Ton"
 
@@ -10375,10 +10666,12 @@ msgid "topic"
 msgstr "Temat"
 
 #. Topics require at least one read role.
+#, fuzzy
 msgid "topics-require-at-least-one-read-role"
 msgstr "Topics require at least one read role."
 
 #. Topics require at least one write role.
+#, fuzzy
 msgid "topics-require-at-least-one-write-role"
 msgstr "Topics require at least one write role."
 
@@ -10404,10 +10697,12 @@ msgid "total-votes"
 msgstr "Całkowita liczba głosów"
 
 #. Total
+#, fuzzy
 msgid "total"
 msgstr "Total"
 
 #. TXN ID
+#, fuzzy
 msgid "transaction-id"
 msgstr "TXN ID"
 
@@ -10416,6 +10711,7 @@ msgid "translate"
 msgstr "Przetłumacz"
 
 #. Trash
+#, fuzzy
 msgid "trash"
 msgstr "Trash"
 
@@ -10478,6 +10774,7 @@ msgid "unban-this-user"
 msgstr "Banuj tego użytkownika"
 
 #. Unchecking this field will remove localized data for languages not shown in this view. Do you want to proceed?
+#, fuzzy
 msgid "unchecking-this-field-will-remove-localized-data-for-languages-not-shown-in-this-view"
 msgstr "Unchecking this field will remove localized data for languages not shown in this view. Do you want to proceed?"
 
@@ -10502,6 +10799,7 @@ msgid "unread-messages"
 msgstr "Wiadomości nie przeczytane"
 
 #. Unscramble
+#, fuzzy
 msgid "unscramble"
 msgstr "Unscramble"
 
@@ -10514,22 +10812,26 @@ msgid "until-unlocked-by-an-administrator"
 msgstr "Do czasu odblokowania przed administratora"
 
 #. Up
+#, fuzzy
 msgid "up"
-msgstr "Up"
+msgstr "W górę"
 
 #. Update Associations
 msgid "update-associations"
 msgstr "Aktualizuj powiązania"
 
 #. Update Cart
+#, fuzzy
 msgid "update-cart"
 msgstr "Update Cart"
 
 #. Update Category
+#, fuzzy
 msgid "update-category"
 msgstr "Update Category"
 
 #. Update Content Settings
+#, fuzzy
 msgid "update-content-settings"
 msgstr "Update Content Settings"
 
@@ -10542,10 +10844,12 @@ msgid "update-folder"
 msgstr "Uaktualnij folder"
 
 #. Update From Chart
+#, fuzzy
 msgid "update-from-chart"
 msgstr "Update From Chart"
 
 #. Update From Custom
+#, fuzzy
 msgid "update-from-custom"
 msgstr "Update From Custom"
 
@@ -10687,6 +10991,7 @@ msgid "use-medium-image"
 msgstr "Użyj średniego obrazka"
 
 #. Use Shipping Formula
+#, fuzzy
 msgid "use-shipping-formula"
 msgstr "Use Shipping Formula"
 
@@ -10782,6 +11087,7 @@ msgid "vertical-bar"
 msgstr "Pasek poziomy"
 
 #. View All
+#, fuzzy
 msgid "view-all"
 msgstr "View All"
 
@@ -10794,42 +11100,52 @@ msgid "view-articles"
 msgstr "Lista artykułów"
 
 #. View Associated Articles
+#, fuzzy
 msgid "view-associated-articles"
 msgstr "View Associated Articles"
 
 #. View Associated Structures
+#, fuzzy
 msgid "view-associated-structures"
 msgstr "View Associated Structures"
 
 #. View Associated Templates
+#, fuzzy
 msgid "view-associated-templates"
 msgstr "View Associated Templates"
 
 #. View Blogs
+#, fuzzy
 msgid "view-blogs"
 msgstr "View Blogs"
 
 #. View Bookmarks
+#, fuzzy
 msgid "view-bookmarks"
 msgstr "View Bookmarks"
 
 #. View data
+#, fuzzy
 msgid "view-data"
 msgstr "View data"
 
 #. View Entries
+#, fuzzy
 msgid "view-entries"
 msgstr "View Entries"
 
 #. View Folder
+#, fuzzy
 msgid "view-folder"
 msgstr "View Folder"
 
 #. View Gallery
+#, fuzzy
 msgid "view-gallery"
 msgstr "View Gallery"
 
 #. View History
+#, fuzzy
 msgid "view-history"
 msgstr "View History"
 
@@ -10849,6 +11165,7 @@ msgid "view-live-sessions"
 msgstr "View Live Sessions"
 
 #. View Locations
+#, fuzzy
 msgid "view-locations"
 msgstr "Pokaż położenia"
 
@@ -10873,6 +11190,7 @@ msgid "view-repositories"
 msgstr "View Repositories"
 
 #. View Slide Show
+#, fuzzy
 msgid "view-slide-show"
 msgstr "Pokaz slajdów"
 
@@ -10882,6 +11200,7 @@ msgid "view-tasks"
 msgstr "View Tasks"
 
 #. View Templates
+#, fuzzy
 msgid "view-templates"
 msgstr "Lista szablonów"
 
@@ -10896,10 +11215,12 @@ msgid "view-user-profile"
 msgstr "View User Profile"
 
 #. View Users
+#, fuzzy
 msgid "view-users"
 msgstr "Pokaż użytkowników"
 
 #. View
+#, fuzzy
 msgid "view"
 msgstr "Obejrzyj dane"
 
@@ -11084,6 +11405,7 @@ msgid "worm"
 msgstr "Worm"
 
 #. Would you like to save the changes made to this language?
+#, fuzzy
 msgid "would-you-like-to-save-the-changes-made-to-this-language"
 msgstr "Czy chcesz zapisać zmiany wykonane w tym języku?"
 
