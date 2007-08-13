@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-13 09:36+0100\n"
+"PO-Revision-Date: 2007-08-13 09:48+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -3130,7 +3130,7 @@ msgstr "Wytnij i wklej pełen URL, aby użyć go jako hiperlink:"
 
 #. Czech
 msgid "czech"
-msgstr "Czechy"
+msgstr "Czeski"
 
 #. Daily
 msgid "daily"
@@ -3415,7 +3415,7 @@ msgstr "Wyświetlana data"
 
 #. Display Depth
 msgid "display-depth"
-msgstr "Głebokość wyświetlania"
+msgstr "Głębokość wyświetlania"
 
 #. Display of live session data is disabled. To enable, set the portaly property <b>{0}</b> to true.
 #, fuzzy
@@ -3955,11 +3955,11 @@ msgstr "Angielski na portugalski"
 
 #. English to Chinese (China)
 msgid "en_zh"
-msgstr "Angielski na chiński (Chiny)"
+msgstr "Angielski na chiński (ChRL)"
 
 #. English to Chinese (Taiwan)
 msgid "en_zt"
-msgstr "Angielski na chiński (Taiwan)"
+msgstr "Angielski na chiński (Tajwan)"
 
 #. Enable Comments
 msgid "enable-comments"
@@ -8584,6 +8584,7 @@ msgid "root-folder"
 msgstr "Folder główny"
 
 #. Root Layout
+#, fuzzy
 msgid "root-layout"
 msgstr "Root Layout"
 
