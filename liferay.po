@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-13 08:00+0100\n"
+"PO-Revision-Date: 2007-08-13 08:36+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -9505,7 +9505,7 @@ msgstr "Wpisz tekst z obrazka"
 
 #. Text
 msgid "text"
-msgstr "Text"
+msgstr "Tekst"
 
 #. Thank you for creating an account. Your password has been sent to {0}. Please check your inbox and spam folders.
 msgid "thank-you-for-creating-an-account-your-password-has-been-sent-to-x"
@@ -9517,11 +9517,11 @@ msgstr "Thank you for creating an account. Your password is <b>{0}</b> and has b
 
 #. Thank you for signing our guestbook.
 msgid "thank-you-for-signing-our-guestbook"
-msgstr "Thank you for signing our guestbook."
+msgstr "Dziękujemy za wpis w naszej księdze gości."
 
 #. Thank you for your purchase.
 msgid "thank-you-for-your-purchase"
-msgstr "Thank you for your purchase."
+msgstr "Dziękujemy za dokonanie zakupu."
 
 #. Thank you for your vote.
 msgid "thank-you-for-your-vote"
@@ -9553,31 +9553,31 @@ msgstr "Nie znaleziono artykułu."
 
 #. The article with the title {0} was found that matches the ID:
 msgid "the-article-with-the-title-x-was-found-that-matches-the-id"
-msgstr "The article with the title {0} was found that matches the ID:"
+msgstr "Znaleziono artykuł o tytule {0} pasujący do ID:"
 
 #. The article with the title {0} was found that matches the URL:
 msgid "the-article-with-the-title-x-was-found-that-matches-the-url"
-msgstr "The article with the title {0} was found that matches the URL:"
+msgstr "Znaleziono artykuł o tytule {0} pasujący do adresu URL:"
 
 #. The category could not be found.
 msgid "the-category-could-not-be-found"
-msgstr "The category could not be found."
+msgstr "Nie udało się odnaleźć kategorii."
 
 #. The category in which the message has been posted
 msgid "the-category-in-which-the-message-has-been-posted"
-msgstr "The category in which the message has been posted"
+msgstr "Kategoria, w której wysłano wiadomość"
 
 #. The combination of first name, last name, and email address is already taken.
 msgid "the-combination-of-first-name-last-name-and-email-address-is-already-taken"
-msgstr "The combination of first name, last name, and email address is already taken."
+msgstr "Ta kombinacja imienia, nazwiska i adresu e-mail jest już zajęta."
 
 #. The comic could not be found.
 msgid "the-comic-could-not-be-found"
-msgstr "The comic could not be found."
+msgstr "Nie udało się odnaleźć komiksu."
 
 #. The comments could not be found.
 msgid "the-comments-could-not-be-found"
-msgstr "The comments could not be found."
+msgstr "Nie udało się odnaleźć komentarzy."
 
 #. The community could not be found.
 msgid "the-community-could-not-be-found"
@@ -9585,15 +9585,15 @@ msgstr "Nie znaleziono społeczności."
 
 #. The company id associated with the message board
 msgid "the-company-id-associated-with-the-message-board"
-msgstr "The company id associated with the message board"
+msgstr "Identyfikator firmy powiązanej z tym forum"
 
 #. The coupon could not be found.
 msgid "the-coupon-could-not-be-found"
-msgstr "The coupon could not be found."
+msgstr "Nie udało się odnaleźć kuponu."
 
 #. The default preferences are invalid.
 msgid "the-default-preferences-are-invalid"
-msgstr "The default preferences are invalid."
+msgstr "Domyślne preferencje są nieprawidłowe."
 
 #. The document could not be found.
 msgid "the-document-could-not-be-found"
@@ -9601,11 +9601,11 @@ msgstr "Nie znaleziono dokumentu."
 
 #. The email address of the mailing list
 msgid "the-email-address-of-the-mailing-list"
-msgstr "The email address of the mailing list"
+msgstr "Adres e-mail listy dyskusyjnej"
 
 #. The email address of the user who added the message
 msgid "the-email-address-of-the-user-who-added-the-message"
-msgstr "The email address of the user who added the message"
+msgstr "Adres e-mail użytkownika, który dodał wiadomość"
 
 #. The email address you requested is already taken.
 msgid "the-email-address-you-requested-is-already-taken"
@@ -9629,11 +9629,11 @@ msgstr "E-mail został wysłany."
 
 #. The entry could not be found.
 msgid "the-entry-could-not-be-found"
-msgstr "The entry could not be found."
+msgstr "Nie udało się odnaleźć wpisu."
 
 #. The event could not be found.
 msgid "the-event-could-not-be-found"
-msgstr "The event could not be found."
+msgstr "Nie udało się odnaleźć zdarzenia."
 
 #. The firm cannot be deleted because it has associated projects.
 msgid "the-firm-cannot-be-deleted-because-it-has-associated-projects"
@@ -9649,71 +9649,72 @@ msgstr "Nie znaleziono folderu."
 
 #. The following are invalid addresses:
 msgid "the-following-are-invalid-addresses"
-msgstr "The following are invalid addresses:"
+msgstr "Następujące adresy są nieprawidłowe:"
 
 #. The following are invalid category IDs:
 msgid "the-following-are-invalid-category-ids"
-msgstr "The following are invalid category IDs:"
+msgstr "Następujące identyfikatory kategorii są nieprawidłowe:"
 
 #. The following are invalid cities or zip codes:
 msgid "the-following-are-invalid-cities-or-zip-codes"
-msgstr "The following are invalid cities or zip codes:"
+msgstr "Następujące miasta lub kody pocztowe są nieprawidłowe:"
 
 #. The following are invalid ISBN numbers:
 msgid "the-following-are-invalid-isbn-numbers"
-msgstr "The following are invalid ISBN numbers:"
+msgstr "Następujące numery ISBN są nieprawidłowe:"
 
 #. The following are invalid item SKUs:
+#, fuzzy
 msgid "the-following-are-invalid-item-skus"
 msgstr "The following are invalid item SKUs:"
 
 #. The following are invalid symbols:
 msgid "the-following-are-invalid-symbols"
-msgstr "The following are invalid symbols:"
+msgstr "Poniższe symbole są nieprawidłowe:"
 
 #. The following are invalid URLs:
 msgid "the-following-are-invalid-urls"
-msgstr "The following are invalid URLs:"
+msgstr "Poniższe adresy URL są nieprawidłowe:"
 
 #. The following are recently changed pages found in
 msgid "the-following-are-recently-changed-pages-found-in"
-msgstr "The following are recently changed pages found in"
+msgstr "Oto ostatnio zmienione strony w"
 
 #. The following city and state pairs were found associated with the given zip.
 msgid "the-following-city-and-state-pairs-were-found-associated-with-the-given-zip"
-msgstr "The following city and state pairs were found associated with the given zip."
+msgstr "Znaleziono następujące pary miasto-stan powiązane z wybranym kodem pocztowym."
 
 #. The following is an invalid address:
 msgid "the-following-is-an-invalid-address"
-msgstr "The following is an invalid address:"
+msgstr "Ten adres jest nieprawidłowy:"
 
 #. The following orphan pages are found in
 msgid "the-following-orphan-pages-are-found-in"
-msgstr "The following orphan pages are found in"
+msgstr "Znaleziono następujące osierocone strony w"
 
 #. The following pages are found in
 msgid "the-following-pages-are-found-in"
-msgstr "The following pages are found in"
+msgstr "Znaleziono następujące strony w"
 
 #. The following pages have at least one link to
 msgid "the-following-pages-have-at-least-one-link-to"
-msgstr "The following pages have at least one link to"
+msgstr "Następujące strony zawierają przynajmniej jeden odnośnik do"
 
 #. The following zip code was found associated with the given street, city, and state.
 msgid "the-following-zip-code-was-found-associated-with-the-given-street-city-and-state"
-msgstr "The following zip code was found associated with the given street, city, and state."
+msgstr "Ten kod pocztowy został odnaleziony jako powiązany z daną ulicą, miastem i stanem."
 
 #. The following zip codes were found associated with the given city and state.
 msgid "the-following-zip-codes-were-found-associated-with-the-given-city-and-state"
-msgstr "The following zip codes were found associated with the given city and state."
+msgstr "Następujące kody pocztowe zostały odnalezione jako powiązane z danym miastem i stanem."
 
 #. The following zip codes were found associated with the given street, city, and state.
 msgid "the-following-zip-codes-were-found-associated-with-the-given-street-city-and-state"
-msgstr "The following zip codes were found associated with the given street, city, and state."
+msgstr "Następujące kody pocztowe zostały odnalezione jako powiązane z daną ulicą, miastem i stanem."
 
 #. The format of this email is incomplete and cannot be displayed properly.
 msgid "the-format-of-this-email-is-incomplete-and-cannot-be-displayed-properly"
-msgstr "The format of this email is incomplete and cannot be displayed properly."
+msgstr "Format tej wiadomości e-mail jest niekompletny, przez co nie może ona zostać prawidłowo wyświetlona."
 
 #. The framework version could not be found.
 #, fuzzy
@@ -9726,17 +9727,19 @@ msgstr "Przyjazny URL jest dopisywany do <b>{0}</b> dla stron publicznych i do <
 
 #. The group cannot be deleted because it is a required system group.
 msgid "the-group-cannot-be-deleted-because-it-is-a-required-system-group"
-msgstr "The group cannot be deleted because it is a required system group."
+msgstr "Ta grupa nie może zostać usunięta, ponieważ jest wymaganą grupą systemową."
 
 #. The group could not be found.
 msgid "the-group-could-not-be-found"
-msgstr "The group could not be found."
+msgstr "Nie udało się odnaleźć grupy."
 
 #. The item could not be found.
+#, fuzzy
 msgid "the-item-could-not-be-found"
 msgstr "The item could not be found."
 
 #. The item SKU you requested is already taken.
+#, fuzzy
 msgid "the-item-sku-you-requested-is-already-taken"
 msgstr "The item SKU you requested is already taken."
 
@@ -9751,11 +9754,11 @@ msgstr "Nie udało się odnaleźć licencji."
 
 #. The link could not be found.
 msgid "the-link-could-not-be-found"
-msgstr "The link could not be found."
+msgstr "Nie udało się odnaleźć odnośnika."
 
 #. The message board is empty.
 msgid "the-message-board-is-empty"
-msgstr "The message board is empty."
+msgstr "Forum jest puste."
 
 #. The message body
 msgid "the-message-body"
@@ -9770,8 +9773,9 @@ msgid "the-message-id"
 msgstr "ID wiadomości"
 
 #. The message object has expired and is no longer available. Please {0} your composition.
+#, fuzzy
 msgid "the-message-object-has-expired-and-is-no-longer-available"
-msgstr "The message object has expired and is no longer available. Please {0} your composition."
+msgstr "Obiekt wiadomości utracił ważność i nie jest już dostępny. Należy {0} swoją kompozycję."
 
 #. The name of the email recipient
 msgid "the-name-of-the-email-recipient"
@@ -9779,11 +9783,11 @@ msgstr "Imię odbiorcy"
 
 #. The node could not be found.
 msgid "the-node-could-not-be-found"
-msgstr "The node could not be found."
+msgstr "Nie udało się odnaleźć węzła."
 
 #. The node you selected does not have pages configured.
 msgid "the-node-you-selected-does-not-have-pages-configured"
-msgstr "The node you selected does not have pages configured."
+msgstr "Wybrany węzeł nie zawiera skonfigurowanych stron."
 
 #. The OpenID provider did not send the required attributes.
 msgid "the-openid-provider-did-not-send-the-required-attributes"
@@ -9791,27 +9795,27 @@ msgstr "Dostawca OpenID nie przesłał wymaganych atrybutów."
 
 #. The order could not be found.
 msgid "the-order-could-not-be-found"
-msgstr "The order could not be found."
+msgstr "Nie udało się odnaleźć zamówienia."
 
 #. The organization could not be found.
 msgid "the-organization-could-not-be-found"
-msgstr "The organization could not be found."
+msgstr "Nie udało się odnaleźć organizacji."
 
 #. The organization name is already taken.
 msgid "the-organization-name-is-already-taken"
-msgstr "The organization name is already taken."
+msgstr "Ta nazwa organizacji jest już zajęta."
 
 #. The page content cannot be parsed by the selected format.
 msgid "the-page-content-cannot-be-parsed-by-the-selected-format"
-msgstr "The page content cannot be parsed by the selected format."
+msgstr "Zawartość strony nie może zostać przetworzona przez wybrany format."
 
 #. The page could not be found.
 msgid "the-page-could-not-be-found"
-msgstr "The page could not be found."
+msgstr "Nie udało się odnaleźć strony."
 
 #. The page does not have a a valid title.
 msgid "the-page-does-not-have-a-a-valid-title"
-msgstr "The page does not have a a valid title."
+msgstr "Strona nie zawiera prawidłowego tytułu."
 
 #. The passwords you entered do not match. Please re-enter your password.
 msgid "the-passwords-you-entered-do-not-match-each-other-please-re-enter-your-password"
@@ -9830,6 +9834,7 @@ msgid "the-plugin-was-uploaded-successfully-and-is-now-being-installed"
 msgstr "Wtyczka została przesłana i jest obecnie instalowana."
 
 #. The portal keeps track of all live sessions and records useful information such as the user&#39;s remote host and IP, browser type, OS type, number of hits, and the URLs with timestamps of the pages accessed. To see this information, hit the <i>View Live Sessions</i> button.
+#, fuzzy
 msgid "the-portal-keeps-track-of-all-live-sessions"
 msgstr "The portal keeps track of all live sessions and records useful information such as the user&#39;s remote host and IP, browser type, OS type, number of hits, and the URLs with timestamps of the pages accessed. To see this information, hit the <i>View Live Sessions</i> button."
 
@@ -9851,31 +9856,33 @@ msgstr "Nie odnaleziono wersji produktu."
 
 #. The project cannot be deleted because it has associated tasks.
 msgid "the-project-cannot-be-deleted-because-it-has-associated-tasks"
-msgstr "The project cannot be deleted because it has associated tasks."
+msgstr "Projekt nie może zostać usunięty, ponieważ zawiera powiązane zadania."
 
 #. The project could not be found.
 msgid "the-project-could-not-be-found"
-msgstr "The project could not be found."
+msgstr "Nie udało się odnaleźć projektu."
 
 #. The question could not be found.
 msgid "the-question-could-not-be-found"
-msgstr "The question could not be found."
+msgstr "Nie udało się odnaleźć pytania."
 
 #. The repository could not be found.
 msgid "the-repository-could-not-be-found"
-msgstr "The repository could not be found."
+msgstr "Nie udało się odnaleźć repozytorium."
 
 #. The resulting first page must be a portlet page.
+#, fuzzy
 msgid "the-resulting-first-page-must-be-a-portlet-page"
 msgstr "The resulting first page must be a portlet page."
 
 #. The resulting first page must not be hidden.
+#, fuzzy
 msgid "the-resulting-first-page-must-not-be-hidden"
 msgstr "The resulting first page must not be hidden."
 
 #. The role could not be found.
 msgid "the-role-could-not-be-found"
-msgstr "The role could not be found."
+msgstr "Nie udało się odnaleźć roli."
 
 #. The role permissions were updated.
 msgid "the-role-permissions-were-updated"
@@ -9893,23 +9900,23 @@ msgstr "The user ID you requested is reserved."
 
 #. The selected entry has been deleted.
 msgid "the-selected-entry-has-been-deleted"
-msgstr "The selected entry has been deleted."
+msgstr "Wybrany wpis został usunięty."
 
 #. The selected role cannot be deleted because it is a required system role.
 msgid "the-selected-role-cannot-be-deleted-because-it-is-a-required-system-role"
-msgstr "The selected role cannot be deleted because it is a required system role."
+msgstr "Wybrana rola nie może zostać usunięta, ponieważ jest wymaganą rolą systemową."
 
 #. The selected structure cannot be deleted because it is a required by one or more templates.
 msgid "the-selected-structure-cannot-be-deleted-because-it-is-a-required-by-one-or-more-templates"
-msgstr "The selected structure cannot be deleted because it is a required by one or more templates."
+msgstr "Wybrana struktura nie może zostać usunięta, ponieważ wymagają jej jeden lub więcej szablonów."
 
 #. The selected template cannot be deleted because it is a required by one or more articles.
 msgid "the-selected-template-cannot-be-deleted-because-it-is-a-required-by-one-or-more-articles"
-msgstr "The selected template cannot be deleted because it is a required by one or more articles."
+msgstr "Wybrany szablon nie może zostać usunięty, ponieważ wymagają go jeden lub więcej artykułów."
 
 #. The signature below will be added to each outgoing message.
 msgid "the-signature-below-will-be-added-to-each-outgoing-message"
-msgstr "The signature below will be added to each outgoing message."
+msgstr "Poniższy podpis zostanie dodany do każdej wiadomości wychodzącej."
 
 #. The sitemap protocol notifies search engines of the structure (sitemap) of the website.
 msgid "the-sitemap-protocol-notifies-search-engines-of-the-structure-of-the-website"
@@ -9917,23 +9924,23 @@ msgstr ""
 
 #. The source file does not have the same extension as the original file.
 msgid "the-source-file-does-not-have-the-same-extension-as-the-original-file"
-msgstr "The source file does not have the same extension as the original file."
+msgstr "Plik źródłowy ma inne rozszerzenie niż oryginalny."
 
 #. The specified coupon is no longer available.
 msgid "the-specified-coupon-is-no-longer-available"
-msgstr "The specified coupon is no longer available."
+msgstr "Wskazany kupon jest już niedostępny."
 
 #. The specified coupon is no yet available.
 msgid "the-specified-coupon-is-no-yet-available"
-msgstr "The specified coupon is no yet available."
+msgstr "Wskazany kupon nie jest jeszcze dostępny."
 
 #. The specified coupon is not active.
 msgid "the-specified-coupon-is-not-active"
-msgstr "The specified coupon is not active."
+msgstr "Wskazany kupon jest nieaktywny."
 
 #. The structure could not be found.
 msgid "the-structure-could-not-be-found"
-msgstr "The structure could not be found."
+msgstr "Nie udało się odnaleźć struktury."
 
 #. The structure with the name {0} was found that matches the ID:
 msgid "the-structure-with-the-name-x-was-found-that-matches-the-id"
@@ -9941,7 +9948,7 @@ msgstr "The structure with the name {0} was found that matches the ID:"
 
 #. The system policy requires you to change your password at this time.
 msgid "the-system-policy-requires-you-to-change-your-password-at-this-time"
-msgstr "The system policy requires you to change your password at this time."
+msgstr "Polityka systemu wymaga zmiany Twojego hasła w tym momencie."
 
 #. The task could not be found.
 msgid "the-task-could-not-be-found"
@@ -9961,7 +9968,7 @@ msgstr "The topic could not be found."
 
 #. Upload failed. The total size of all files attached to a message may not exceed {0}k.
 msgid "the-total-size-of-all-files-attached-to-a-message-may-not-exceed-x-k"
-msgstr "Upload failed. The total size of all files attached to a message may not exceed {0}k."
+msgstr "Przesyłanie nie powiodło się. Całkowity rozmiar wszystkich plików dołączonych do wiadomości nie może przekroczyć {0}k."
 
 #. The user could not be found.
 msgid "the-user-could-not-be-found"
@@ -10005,15 +10012,15 @@ msgstr "Motywy"
 
 #. There are currently {0} users in {1} rooms.
 msgid "there-are-currently-x-users-in-x-rooms"
-msgstr "There are currently {0} users in {1} rooms."
+msgstr "Obecnie jest {0} użytkowników w {1} pokojach."
 
 #. There are no addresses.
 msgid "there-are-no-addresses"
-msgstr "There are no addresses."
+msgstr "Nie ma adresów."
 
 #. There are no archived versions of this document.
 msgid "there-are-no-archived-versions-of-this-document"
-msgstr "There are no archived versions of this document."
+msgstr "Nie ma zarchiwizowanych wersji tego dokumentu."
 
 #. There are no articles.
 msgid "there-are-no-articles"
@@ -10029,9 +10036,10 @@ msgstr "Nie ma kategorii."
 
 #. There are no coupons.
 msgid "there-are-no-coupons"
-msgstr "There are no coupons."
+msgstr "Nie ma kuponów."
 
 #. There are no entries for this category on {0}.
+#, fuzzy
 msgid "there-are-no-entries-for-this-category-on"
 msgstr "There are no entries for this category on {0}."
 
@@ -10057,7 +10065,7 @@ msgstr "Nie ma folderów."
 
 #. There are no links.
 msgid "there-are-no-links"
-msgstr "Nie ma linków."
+msgstr "Nie ma odnośników."
 
 #. There are no live sessions.
 #, fuzzy
@@ -10066,7 +10074,7 @@ msgstr "There are no questions."
 
 #. There are no locations.
 msgid "there-are-no-locations"
-msgstr "Nie ma lokalizacji."
+msgstr "Nie ma położeń."
 
 #. There are no older versions of this page.
 msgid "there-are-no-older-versions-of-this-page"
@@ -10074,7 +10082,7 @@ msgstr "Nie ma starszych wersji tej strony."
 
 #. There are no orders.
 msgid "there-are-no-orders"
-msgstr "There are no orders."
+msgstr "Nie ma zamówień."
 
 #. There are no organizations.
 msgid "there-are-no-organizations"
@@ -10113,10 +10121,12 @@ msgid "there-are-no-questions"
 msgstr "Nie ma pytań."
 
 #. There are no recent changes to pages in
+#, fuzzy
 msgid "there-are-no-recent-changes-to-pages-in"
 msgstr "There are no recent changes to pages in"
 
 #. There are no recent changes.
+#, fuzzy
 msgid "there-are-no-recent-changes"
 msgstr "There are no recent changes."
 
@@ -10365,12 +10375,13 @@ msgid "total-memory"
 msgstr "Całkowita ilość pamięci"
 
 #. Total Paid
+#, fuzzy
 msgid "total-paid"
 msgstr "Total Paid"
 
 #. Total Size
 msgid "total-size"
-msgstr "Total Size"
+msgstr "Rozmiar całkowity"
 
 #. Total Votes
 msgid "total-votes"
@@ -10386,7 +10397,7 @@ msgstr "TXN ID"
 
 #. Translate
 msgid "translate"
-msgstr "Translate"
+msgstr "Przetłumacz"
 
 #. Trash
 msgid "trash"
@@ -10426,7 +10437,7 @@ msgstr "Wprowadź nazwę lub wybierz z listy:"
 
 #. Type name:
 msgid "type-name"
-msgstr "Type name:"
+msgstr "Nazwa rodzaju:"
 
 #. Type
 msgid "type"
@@ -10438,7 +10449,7 @@ msgstr "Ukraiński"
 
 #. Unassociate
 msgid "unassociate"
-msgstr "Unassociate"
+msgstr "Usuń powiązanie"
 
 #. Unban Date
 #, fuzzy
@@ -10512,7 +10523,7 @@ msgstr "Aktualizuj kolejność wyświetlania"
 
 #. Update Folder
 msgid "update-folder"
-msgstr "Update Folder"
+msgstr "Uaktualnij folder"
 
 #. Update From Chart
 msgid "update-from-chart"
@@ -10524,7 +10535,7 @@ msgstr "Update From Custom"
 
 #. Update Group
 msgid "update-group"
-msgstr "Update Group"
+msgstr "Uaktualnij grupę"
 
 #. Update my styles as I type.
 #, fuzzy
@@ -10533,11 +10544,11 @@ msgstr "Wybierz rodzaj."
 
 #. Update Page Settings
 msgid "update-page-settings"
-msgstr "Update Page Settings"
+msgstr "Uaktualnij ustawienia strony"
 
 #. Update Page
 msgid "update-page"
-msgstr "Update Page"
+msgstr "Uaktualnij stronę"
 
 #. Update Permissions
 msgid "update-permissions"
@@ -10545,11 +10556,11 @@ msgstr "Uaktualnij uprawnienia"
 
 #. Update Search Index
 msgid "update-search-index"
-msgstr "Update Search Index"
+msgstr "Uaktualnij indeks wyszukiwania"
 
 #. Update the styles on this page.
 msgid "update-the-styles-on-this-page"
-msgstr "Zaktualizuj style na tej stronie."
+msgstr "Uaktualnij style na tej stronie."
 
 #. Update
 msgid "update"
@@ -10601,11 +10612,11 @@ msgstr "Prześlij obrazek nie większy niż {0}k."
 
 #. Upload New Version
 msgid "upload-new-version"
-msgstr "Upload New Version"
+msgstr "Prześlij nową wersję"
 
 #. Uploading
 msgid "uploading"
-msgstr "Uploading"
+msgstr "Przesyłanie"
 
 #. Upper Case Letters
 msgid "upper-case-letters"
@@ -10617,11 +10628,11 @@ msgstr "Czas pracy"
 
 #. URL Information
 msgid "url-information"
-msgstr "URL Information"
+msgstr "Informacje o adresie URL"
 
 #. URL Tracker
 msgid "url-tracker"
-msgstr "URL Tracker"
+msgstr "Śledzenie URL"
 
 #. URL
 msgid "url"
@@ -10696,6 +10707,7 @@ msgid "user-profile"
 msgstr "Profil użytkownika"
 
 #. User Ranks
+#, fuzzy
 msgid "user-ranks"
 msgstr "User Ranks"
 
@@ -10712,6 +10724,7 @@ msgid "users"
 msgstr "Użytkownicy"
 
 #. Vacation Message
+#, fuzzy
 msgid "vacation-message"
 msgstr "Vacation Message"
 
@@ -10732,6 +10745,7 @@ msgid "values"
 msgstr "Wartości"
 
 #. Verification Number
+#, fuzzy
 msgid "verification-number"
 msgstr "Verification Number"
 
@@ -10745,11 +10759,11 @@ msgstr "Wersja"
 
 #. Vertical Banner
 msgid "vertical-banner"
-msgstr "Vertical Banner"
+msgstr "Banner pionowy"
 
 #. Vertical Bar
 msgid "vertical-bar"
-msgstr "Vertical Bar"
+msgstr "Pasek poziomy"
 
 #. View All
 msgid "view-all"
@@ -10804,22 +10818,26 @@ msgid "view-history"
 msgstr "View History"
 
 #. View Instances
+#, fuzzy
 msgid "view-instances"
 msgstr "View Instances"
 
 #. View Library
+#, fuzzy
 msgid "view-library"
 msgstr "View Library"
 
 #. View Live Sessions
+#, fuzzy
 msgid "view-live-sessions"
 msgstr "View Live Sessions"
 
 #. View Locations
 msgid "view-locations"
-msgstr "Pokaż lokalizacje"
+msgstr "Pokaż położenia"
 
 #. View Message
+#, fuzzy
 msgid "view-message"
 msgstr "View Message"
 
@@ -10829,10 +10847,12 @@ msgid "view-pages"
 msgstr "Nowa strona"
 
 #. View Questions
+#, fuzzy
 msgid "view-questions"
 msgstr "View Questions"
 
 #. View Repositories
+#, fuzzy
 msgid "view-repositories"
 msgstr "View Repositories"
 
@@ -10841,6 +10861,7 @@ msgid "view-slide-show"
 msgstr "Pokaz slajdów"
 
 #. View Tasks
+#, fuzzy
 msgid "view-tasks"
 msgstr "View Tasks"
 
@@ -10849,10 +10870,12 @@ msgid "view-templates"
 msgstr "Lista szablonów"
 
 #. View Topics
+#, fuzzy
 msgid "view-topics"
 msgstr "View Topics"
 
 #. View User Profile
+#, fuzzy
 msgid "view-user-profile"
 msgstr "View User Profile"
 
@@ -10885,6 +10908,7 @@ msgid "vnc"
 msgstr "VNC"
 
 #. Volume
+#, fuzzy
 msgid "volume"
 msgstr "Volume"
 
@@ -10909,6 +10933,7 @@ msgid "voting-is-disabled-because-this-poll-expired-on-x"
 msgstr "Głosowanie jest wyłączone ponieważ ankieta wygasła dnia {0}."
 
 #. Waiting on sibling tokens to complete
+#, fuzzy
 msgid "waiting-on-sibling-tokens-to-complete"
 msgstr "Waiting on sibling tokens to complete"
 
@@ -10918,7 +10943,7 @@ msgstr "Uwaga! Ze względu na bezczynność Twoja sesja wygasła."
 
 #. Warning! Due to inactivity, your session will expire in {0} minute(s) on {1} {2}. Would you like to extend your session another {3} minute(s)?
 msgid "warning-due-to-inactivity-your-session-will-expire"
-msgstr "Uwaga! Ze względu na bezczynność Twoja sesja wygaśnie w ciągu {0} min (dnia {1} {2}). Czy wydłużyć czas trwania sesji o {3} min?"
+msgstr "Uwaga! Ze względu na bezczynność Twoja sesja wygaśnie w ciągu {0} min. (dnia {1} {2}). Czy wydłużyć czas trwania sesji o kolejne {3} min?"
 
 #. This determines how long before a password expires that the user will be notified.
 msgid "warning-time-help"
@@ -10970,6 +10995,7 @@ msgid "weekly"
 msgstr "Co tydzień"
 
 #. week(s) on:
+#, fuzzy
 msgid "weeks-on"
 msgstr "tydzień(tygodnie) w:"
 
@@ -11003,9 +11029,10 @@ msgstr "Whois"
 
 #. Wide Column
 msgid "wide-column"
-msgstr "Wide Column"
+msgstr "Szeroka kolumna"
 
 #. Wide Skyscraper
+#, fuzzy
 msgid "wide-skyscraper"
 msgstr "Wide Skyscraper"
 
@@ -11019,13 +11046,15 @@ msgstr "Szerokość"
 
 #. Wikis
 msgid "wikis"
-msgstr "Wikis"
+msgstr "Wiki"
 
 #. Within
+#, fuzzy
 msgid "within"
-msgstr "Within"
+msgstr "W granicach"
 
 #. Word Search
+#, fuzzy
 msgid "word-search"
 msgstr "Word Search"
 
@@ -11034,6 +11063,7 @@ msgid "word-spacing"
 msgstr "Odstęp między wyrazami"
 
 #. Worm
+#, fuzzy
 msgid "worm"
 msgstr "Worm"
 
@@ -11042,14 +11072,17 @@ msgid "would-you-like-to-save-the-changes-made-to-this-language"
 msgstr "Czy chcesz zapisać zmiany wykonane w tym języku?"
 
 #. Write Roles
+#, fuzzy
 msgid "write-roles"
 msgstr "Write Roles"
 
 #. Markup Endpoint
+#, fuzzy
 msgid "wsrp-markup-endpoint"
 msgstr "Markup Endpoint"
 
 #. Portlet Management Endpoint
+#, fuzzy
 msgid "wsrp-portlet-management-endpoint"
 msgstr "Portlet Management Endpoint"
 
@@ -11058,10 +11091,12 @@ msgid "wsrp-portlet"
 msgstr "Portlet"
 
 #. Registration Endpoint
+#, fuzzy
 msgid "wsrp-registration-endpoint"
 msgstr "Registration Endpoint"
 
 #. Service Description Endpoint
+#, fuzzy
 msgid "wsrp-service-description-endpoint"
 msgstr "Service Description Endpoint"
 
@@ -11070,6 +11105,7 @@ msgid "wsrp-service-url"
 msgstr "Adres URL usługi WSRP"
 
 #. Your service URL or endpoints are unreachable. Please verify your settings.
+#, fuzzy
 msgid "wsrp-your-service-url-or-endpoints-are-unreachable"
 msgstr "Your service URL or endpoints are unreachable. Please verify your settings."
 
@@ -11134,10 +11170,12 @@ msgid "year-abbreviation"
 msgstr "y"
 
 #. year(s)
+#, fuzzy
 msgid "year-s"
 msgstr "rok(lata)"
 
 #. Year to Date
+#, fuzzy
 msgid "year-to-date"
 msgstr "Year to Date"
 
@@ -11182,14 +11220,17 @@ msgid "you-can-create-a-shortcut-to-any-document-that-you-have-read-access-for"
 msgstr "Możesz utworzyć skrót do każdego dokumentu, dla którego masz prawa odczytu. Uprawnienia ustawione dla skrótu umożliwiają innym dostęp do oryginalnego dokumentu poprze skrót."
 
 #. You can email users that have been manually added to the database. These users should all have {0} as their password. Launching users will reset those new users with a random password and will notify them of their new account status on the portal.
+#, fuzzy
 msgid "you-can-email-users-that-have-been-manually-added-to-the-database"
 msgstr "You can email users that have been manually added to the database. These users should all have {0} as their password. Launching users will reset those new users with a random password and will notify them of their new account status on the portal."
 
 #. You can now check for new messages in your {0}.
+#, fuzzy
 msgid "you-can-now-check-for-new-messages-in-your-x"
 msgstr "You can now check for new messages in your {0}."
 
 #. You cannot add a template driven article if the article is associated with a structure that has no templates. Please choose another structure or add a template to your selected structure.
+#, fuzzy
 msgid "you-cannot-add-a-template-driven-article-if-the-article-is-associated-with-a-structure-that-has-no-templates"
 msgstr "You cannot add a template driven article if the article is associated with a structure that has no templates. Please choose another structure or add a template to your selected structure."
 
@@ -11198,6 +11239,7 @@ msgid "you-cannot-change-your-password-yet-please-wait-at-least-x-before-changin
 msgstr ""
 
 #. You cannot delete a root message that has more than one immediate reply.
+#, fuzzy
 msgid "you-cannot-delete-a-root-message-that-has-more-than-one-immediate-reply"
 msgstr "You cannot delete a root message that has more than one immediate reply."
 
@@ -11207,47 +11249,48 @@ msgstr "Nie można usunąć roli systemowej"
 
 #. You cannot delete locations that have users.
 msgid "you-cannot-delete-locations-that-have-users"
-msgstr "You cannot delete locations that have users."
+msgstr "Nie można usunąć położeń, które mają użytkowników."
 
 #. You cannot delete or deactivate a default price.
 msgid "you-cannot-delete-or-deactivate-a-default-price"
-msgstr "You cannot delete or deactivate a default price."
+msgstr "Nie można usunąć ani zdezaktywować domyślnej ceny."
 
 #. You cannot delete or deactivate yourself.
 msgid "you-cannot-delete-or-deactivate-yourself"
-msgstr "You cannot delete or deactivate yourself."
+msgstr "Nie możesz usunąć ani zdezaktywować samego(-ej) siebie."
 
 #. You cannot delete organizations that have locations or users.
 msgid "you-cannot-delete-organizations-that-have-locations-or-users"
-msgstr "You cannot delete organizations that have locations or users."
+msgstr "Nie można usunąć organizacji mających położenia lub użytkowników."
 
 #. You cannot delete user groups that have users.
 msgid "you-cannot-delete-user-groups-that-have-users"
-msgstr "You cannot delete user groups that have users."
+msgstr "Nie można usunąć grup mających użytkowników."
 
 #. You cannot edit a nonexisting or invalid folder.
 msgid "you-cannot-edit-a-nonexisting-or-invalid-folder"
-msgstr "You cannot edit a nonexisting or invalid folder."
+msgstr "Nie można edytować nieistniejącego ani nieprawidłowego folderu."
 
 #. You cannot edit this page because it was locked by {0} on {1}.
 msgid "you-cannot-edit-this-page-because-it-was-locked-by-x-on-x"
-msgstr "You cannot edit this page because it was locked by {0} on {1}."
+msgstr "Nie można edytować tej strony, ponieważ została ona zablokowana przez użytkownika {0}. Data zablokowania: {1}."
 
 #. You cannot modify this document because it was locked by {0} on {1}.
 msgid "you-cannot-modify-this-document-because-it-was-locked-by-x-on-x"
-msgstr "You cannot modify this document because it was locked by {0} on {1}."
+msgstr "Nie można edytować tego dokumentu, ponieważ został on zablokowany przez użytkownika {0}. Data zablokowania: {1}."
 
 #. You did not select any messages. Click the check box next to the messages you want to select.
 msgid "you-did-not-select-any-messages"
-msgstr "You did not select any messages. Click the check box next to the messages you want to select."
+msgstr "Nie wybrano żadnych wiadomości. Należy zaznaczyć pole przy wiadomości, aby ją wybrać."
 
 #. You do not have an email address registered with this company.
+#, fuzzy
 msgid "you-do-not-have-an-email-address-registered-with-this-company"
 msgstr "You do not have an email address registered with this company."
 
 #. You do not have permission to create a shortcut to the selected document.
 msgid "you-do-not-have-permission-to-create-a-shortcut-to-the-selected-document"
-msgstr "You do not have permission to create a shortcut to the selected document."
+msgstr "Nie masz uprawnień, by utworzyć skrót do wybranego dokumentu."
 
 #. You do not have permission to view this page.
 msgid "you-do-not-have-permission-to-view-this-page"
@@ -11259,7 +11302,7 @@ msgstr "Nie posiadasz wymaganych uprawnień"
 
 #. You do not have the roles required to access this page.
 msgid "you-do-not-have-the-roles-required-to-access-this-page"
-msgstr "You do not have the roles required to access this page."
+msgstr "Nie posiadasz ról wymaganych do uzyskania dostępu do tej strony."
 
 #. You do not have the roles required to access this portlet.
 msgid "you-do-not-have-the-roles-required-to-access-this-portlet"
@@ -11267,11 +11310,11 @@ msgstr "Nie posiadasz roli wymaganych, aby uzyskać dostęp do tego portletu."
 
 #. You have attempted to access a section of the site that requires authentication.
 msgid "you-have-attempted-to-access-a-section-of-the-site-that-requires-authentication"
-msgstr "Próbowałeś(-aś) uzyskać dostęp do części strony wymagającej uwierzytelnienia."
+msgstr "Próba dostępu do części strony wymagającej uwierzytelnienia."
 
 #. You have attempted to deactivate a portlet that must be active.
 msgid "you-have-attempted-to-deactivate-a-portlet-that-must-be-active"
-msgstr "You have attempted to deactivate a portlet that must be active."
+msgstr "Próba dezaktywacji portletu, który musi być aktywny."
 
 #. You have been banned by the moderator.
 #, fuzzy
@@ -11280,19 +11323,19 @@ msgstr "You have sent an email to {0} about this order."
 
 #. You have been logged off because you signed on with this account using a different session.
 msgid "you-have-been-logged-off-because-you-signed-on-with-this-account-using-a-different-session"
-msgstr "You have been logged off because you signed on with this account using a different session."
+msgstr "Zostałeś(-aś) wylogowany(-a), ponieważ zalogowałeś(-aś) się na to konto przy użyciu innej sesji."
 
 #. You have entered invalid data. Please try again.
 msgid "you-have-entered-invalid-data"
-msgstr "Wprowadziłeś(aś) nieprawidłowe dane. Spróbuj ponownie."
+msgstr "Wprowadzono nieprawidłowe dane. Należy spróbować ponownie."
 
 #. You have no comics selected.
 msgid "you-have-no-comics-selected"
-msgstr "You have no comics selected."
+msgstr "Nie wybrano komiksu."
 
 #. You have no personalized pages. Please create a page.
 msgid "you-have-no-personalized-pages"
-msgstr "You have no personalized pages. Please create a page."
+msgstr "Nie posiadasz stron spersonalizowanych. Należy je utworzyć."
 
 #. You have not configured any community tags.
 msgid "you-have-not-configured-any-community-tags"
@@ -11304,55 +11347,55 @@ msgstr "Nie skonfigurowano etykiet globalnych."
 
 #. You have sent an email to {0} about shipping this order.
 msgid "you-have-sent-an-email-to-x-about-shipping-this-order"
-msgstr "You have sent an email to {0} about shipping this order."
+msgstr "Wysłano e-mail do {0} w związku z dostawą tego zamówienia."
 
 #. You have sent an email to {0} about this order.
 msgid "you-have-sent-an-email-to-x-about-this-order"
-msgstr "You have sent an email to {0} about this order."
+msgstr "Wysłano e-mail do {0} w związku z tym zamówieniem."
 
 #. You have successfully added a group.
 msgid "you-have-successfully-added-a-group"
-msgstr "You have successfully added a group."
+msgstr "Grupa dodana pomyślnie."
 
 #. You have successfully added a location.
 msgid "you-have-successfully-added-a-location"
-msgstr "You have successfully added a location."
+msgstr "Położenie dodane pomyślnie."
 
 #. You have successfully added a new page.
 msgid "you-have-successfully-added-a-new-page"
-msgstr "You have successfully added a new page."
+msgstr "Nowa strona dodana pomyślnie."
 
 #. You have successfully added a role.
 msgid "you-have-successfully-added-a-role"
-msgstr "You have successfully added a role."
+msgstr "Rola dodana pomyślnie."
 
 #. You have successfully added a user.
 msgid "you-have-successfully-added-a-user"
-msgstr "You have successfully added a user."
+msgstr "Użytkownik dodany pomyślnie."
 
 #. You have successfully added an organization.
 msgid "you-have-successfully-added-an-organization"
-msgstr "You have successfully added an organization."
+msgstr "Organizacja dodana pomyślnie."
 
 #. You have successfully created an account.
 msgid "you-have-successfully-created-an-account"
-msgstr "You have successfully created an account."
+msgstr "Konto utworzone pomyślnie."
 
 #. You have successfully deactivated users.
 msgid "you-have-successfully-deactivated-users"
-msgstr "You have successfully deactivated users."
+msgstr "Użytkownicy zostali pomyślnie zdezaktywowani."
 
 #. You have successfully deleted a group.
 msgid "you-have-successfully-deleted-a-group"
-msgstr "You have successfully deleted a group."
+msgstr "Grupa usunięta pomyślnie."
 
 #. You have successfully deleted a role.
 msgid "you-have-successfully-deleted-a-role"
-msgstr "You have successfully deleted a role."
+msgstr "Rola usunięta pomyślnie."
 
 #. You have successfully deleted a user.
 msgid "you-have-successfully-deleted-a-user"
-msgstr "You have successfully deleted a user."
+msgstr "Użytkownik usunięty pomyślnie."
 
 #. You have successfully deleted a version of this document.
 msgid "you-have-successfully-deleted-a-version-of-this-document"
