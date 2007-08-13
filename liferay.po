@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-11 21:49+0100\n"
+"PO-Revision-Date: 2007-08-13 08:00+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -11356,99 +11356,101 @@ msgstr "You have successfully deleted a user."
 
 #. You have successfully deleted a version of this document.
 msgid "you-have-successfully-deleted-a-version-of-this-document"
-msgstr "You have successfully deleted a version of this document."
+msgstr "Wersja tego dokumentu została pomyślnie usunięta."
 
 #. You have successfully deleted articles.
 msgid "you-have-successfully-deleted-articles"
-msgstr "You have successfully deleted articles."
+msgstr "Artykuły zostały pomyślnie usunięte."
 
 #. You have successfully deleted structures.
 msgid "you-have-successfully-deleted-structures"
-msgstr "You have successfully deleted structures."
+msgstr "Struktury zostały pomyślnie usunięte."
 
 #. You have successfully deleted templates.
 msgid "you-have-successfully-deleted-templates"
-msgstr "You have successfully deleted templates."
+msgstr "Szablony zostały pomyślnie usunięte."
 
 #. You have successfully deleted users.
 msgid "you-have-successfully-deleted-users"
-msgstr "You have successfully deleted users."
+msgstr "Użytkownicy zostali pomyślnie usunięci."
 
 #. You have successfully expired articles.
+#, fuzzy
 msgid "you-have-successfully-expired-articles"
 msgstr "You have successfully expired articles."
 
 #. You have successfully restored users.
 msgid "you-have-successfully-restored-users"
-msgstr "You have successfully restored users."
+msgstr "Użytkownicy zostali przywróceni pomyślnie."
 
 #. You have successfully saved this article.
 msgid "you-have-successfully-saved-this-article"
-msgstr "You have successfully saved this article."
+msgstr "Ten artykuł został pomyślnie zapisany."
 
 #. You have successfully saved this structure.
 msgid "you-have-successfully-saved-this-structure"
-msgstr "You have successfully saved this structure."
+msgstr "Ta struktura została pomyślnie zapisana."
 
 #. You have successfully saved this template.
 msgid "you-have-successfully-saved-this-template"
-msgstr "You have successfully saved this template."
+msgstr "Ten szablon został pomyślnie zapisany."
 
 #. You have successfully sent a message to
 msgid "you-have-successfully-sent-a-message-to"
-msgstr "You have successfully sent a message to"
+msgstr "Udało się wysłać wiadomość do"
 
 #. You have successfully sent a sms message.
 msgid "you-have-successfully-sent-a-sms-message"
-msgstr "You have successfully sent a sms message."
+msgstr "Wiadomość SMS została wysłana."
 
 #. You have successfully updated associations.
 msgid "you-have-successfully-updated-associations"
-msgstr "You have successfully updated associations."
+msgstr "Powiązania zostały pomyślnie zaktualizowane."
 
 #. You have successfully updated look and feel.
+#, fuzzy
 msgid "you-have-successfully-updated-look-and-feel"
 msgstr "You have successfully updated look and feel."
 
 #. You have successfully updated permissions.
 msgid "you-have-successfully-updated-permissions"
-msgstr "You have successfully updated permissions."
+msgstr "Uprawnienia zostały pomyślnie zaktualizowane."
 
 #. You have successfully updated the category name.
 msgid "you-have-successfully-updated-the-category-name"
-msgstr "You have successfully updated the category name."
+msgstr "Nazwa kategorii została pomyślnie zaktualizowana."
 
 #. You have successfully updated the company logo.
 msgid "you-have-successfully-updated-the-company-logo"
-msgstr "You have successfully updated the company logo."
+msgstr "Logo firmy zostało pomyślnie zaktualizowane."
 
 #. You have successfully updated the company profile.
 msgid "you-have-successfully-updated-the-company-profile"
-msgstr "You have successfully updated the company profile."
+msgstr "Profil firmy został pomyślnie zaktualizowany."
 
 #. You have successfully updated the default communities and roles.
 msgid "you-have-successfully-updated-the-default-communities-and-roles"
-msgstr "You have successfully updated the default communities and roles."
+msgstr "Domyślne społeczności i role zostały pomyślnie zaktualizowane."
 
 #. You have successfully updated the default email notification.
 msgid "you-have-successfully-updated-the-default-email-notification"
-msgstr "You have successfully updated the default email notification."
+msgstr "Domyślne powiadomienie o poczcie zostało pomyślnie zaktualizowane."
 
 #. You have successfully updated the document profile.
 msgid "you-have-successfully-updated-the-document-profile"
-msgstr "You have successfully updated the document profile."
+msgstr "Profil dokumentu został pomyślnie zaktualizowany."
 
 #. You have successfully updated the extranet.
 msgid "you-have-successfully-updated-the-extranet"
-msgstr "You have successfully updated the extranet."
+msgstr "Extranet został pomyślnie zaktualizowany."
 
 #. You have successfully updated the folder name.
 msgid "you-have-successfully-updated-the-folder-name"
-msgstr "You have successfully updated the folder name."
+msgstr "Nazwa folderu została pomyślnie zaktualizowana."
 
 #. You have successfully updated the journal setup.
 msgid "you-have-successfully-updated-the-journal-setup"
-msgstr "You have successfully updated the journal setup."
+msgstr "Ustawienia dziennika zostały pomyślnie zaktualizowane."
 
 #. You have successfully updated the mail host names.
 msgid "you-have-successfully-updated-the-mail-host-names"
@@ -11456,7 +11458,7 @@ msgstr "Nazwy serwerów pocztowych zostały pomyślnie zmienione."
 
 #. You have successfully updated the portlet setup.
 msgid "you-have-successfully-updated-the-portlet-setup"
-msgstr "You have successfully updated the portlet setup."
+msgstr "Ustawienia portletu zostały pomyślnie zaktualizowane."
 
 #. You have successfully updated the reserved users.
 msgid "you-have-successfully-updated-the-reserved-users"
@@ -11468,19 +11470,19 @@ msgstr "Ustawienia zostały pomyślnie aktualizowane."
 
 #. You have successfully updated the user portrait.
 msgid "you-have-successfully-updated-the-user-portrait"
-msgstr "You have successfully updated the user portrait."
+msgstr "Portret użytkownika został pomyślnie zaktualizowany."
 
 #. You have successfully updated this order.
 msgid "you-have-successfully-updated-this-order"
-msgstr "You have successfully updated this order."
+msgstr "To zamówienie zostało pomyślnie zaktualizowane."
 
 #. You have successfully updated this portlet.
 msgid "you-have-successfully-updated-this-portlet"
-msgstr "You have successfully updated this portlet."
+msgstr "Ten portlet został pomyślnie zaktualizowany."
 
 #. You have successfully updated the search index for this portlet.
 msgid "you-have-successfully-updated-this-search-index-for-this-portlet"
-msgstr "You have successfully updated the search index for this portlet."
+msgstr "Indeks wyszukiwania dla tego portletu został pomyślnie zaktualizowany."
 
 #. You have successfully updated your preferences.
 msgid "you-have-successfully-updated-your-preferences"
@@ -11488,15 +11490,15 @@ msgstr "Twoje preferencje zostały pomyślnie zaktualizowane."
 
 #. You have successfully updated your shopping cart.
 msgid "you-have-successfully-updated-your-shopping-cart"
-msgstr "You have successfully updated your shopping cart."
+msgstr "Aktualizacja koszyka zakończona powodzeniem."
 
 #. You have successfully updated {0}.
 msgid "you-have-successfully-updated"
-msgstr "You have successfully updated {0}."
+msgstr "Aktualizacja {0} zakończona powodzeniem."
 
 #. You have successfully uploaded a new version of this document.
 msgid "you-have-successfully-uploaded-a-new-version-of-this-document"
-msgstr "You have successfully uploaded a new version of this document."
+msgstr "Przesłanie nowej wersji tego dokumentu zakończone powodzeniem."
 
 #. You have the following tags configured: {0}.
 msgid "you-have-the-following-tags-configured-x"
@@ -11532,7 +11534,7 @@ msgstr "Oszczędzasz"
 
 #. You will be sent an email notification when each of the recipients of this email have opened to read this email.
 msgid "you-will-be-sent-an-email-notification-when-each-of-the-recipients-of-this-email-have-opened-to-read-this-email"
-msgstr "You will be sent an email notification when each of the recipients of this email have opened to read this email."
+msgstr "Otrzymasz powiadomienie poprzez e-mail, kiedy każdy z odbiorców tej wiadomości ją przeczyta."
 
 #. You will receive an email shortly with your order summary and further details.
 msgid "you-will-receive-an-email-shortly-with-your-order-summary-and-further-details"
@@ -11540,11 +11542,11 @@ msgstr "Wkrótce otrzymasz wiadomość e-mail z podsumowaniem zamówienia i dals
 
 #. {0}, your account with login {1} has been deleted. Please contact the administrator for more help.
 msgid "your-account-with-login-x-has-been-deleted"
-msgstr "{0}, your account with login {1} has been deleted. Please contact the administrator for more help."
+msgstr "{0}, Twoje konto o nazwie użytkownika {1} zostało usunięte. Aby uzyskać pomoc, należy skontaktować się z administratorem."
 
 #. {0}, your account with login {1} is not active. Please contact the administrator for more help.
 msgid "your-account-with-login-x-is-not-active"
-msgstr "{0}, your account with login {1} is not active. Please contact the administrator for more help."
+msgstr "{0}, Twoje konto o nazwie użytkownika {1} jest nieaktywne. Aby uzyskać pomoc, należy skontaktować się z administratorem."
 
 #. Your address book is empty.
 msgid "your-address-book-is-empty"
@@ -11654,7 +11656,7 @@ msgstr "Your type must allow children pages."
 
 #. Chinese (China) to English
 msgid "zh_en"
-msgstr "Chinese (China) to English"
+msgstr "Chiński (ChRL) na angielski"
 
 #. Zip/Postal
 msgid "zip-postal"
@@ -11666,7 +11668,7 @@ msgstr "Kod pocztowy"
 
 #. Chinese (Taiwan) to English
 msgid "zt_en"
-msgstr "Chinese (Taiwan) to English"
+msgstr "Chiński (Tajwan) na angielski"
 
 # #
 # # Currency
