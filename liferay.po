@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-14 13:23+0100\n"
+"PO-Revision-Date: 2007-08-14 13:36+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -8166,9 +8166,8 @@ msgid "refresh"
 msgstr "Odśwież"
 
 #. Refunded
-#, fuzzy
 msgid "refunded"
-msgstr "Refunded"
+msgstr "Refundowany"
 
 #. Regex
 #, fuzzy
@@ -8953,9 +8952,8 @@ msgid "send"
 msgstr "Wyślij"
 
 #. Sent Mail
-#, fuzzy
 msgid "sent-mail"
-msgstr "Sent Mail"
+msgstr "Wiadomości wysłane"
 
 #. Server
 msgid "server"
@@ -9058,9 +9056,8 @@ msgid "shipping-email"
 msgstr "Shipping Email"
 
 #. Shipping
-#, fuzzy
 msgid "shipping"
-msgstr "Shipping"
+msgstr "Dostawa"
 
 #. Shopping Cart
 #, fuzzy
@@ -9068,9 +9065,8 @@ msgid "shopping-cart"
 msgstr "Shopping Cart"
 
 #. Shopping
-#, fuzzy
 msgid "shopping"
-msgstr "Shopping"
+msgstr "Zakupy"
 
 #. Short Description
 msgid "short-description"
@@ -9416,28 +9412,25 @@ msgid "start-date"
 msgstr "Data rozpoczęcia"
 
 #. Start From
-#, fuzzy
 msgid "start-from"
-msgstr "Start From"
+msgstr "Zacznij od"
 
 #. Start Time
-#, fuzzy
 msgid "start-time"
-msgstr "Start Time"
+msgstr "Czas rozpoczęcia"
 
 #. Start
 #, fuzzy
 msgid "start"
-msgstr "Start"
+msgstr "Rozpocznij"
 
 #. Started By
 msgid "started-by"
 msgstr "Rozpoczęty przez"
 
 #. Starting Address
-#, fuzzy
 msgid "starting-address"
-msgstr "Starting Address"
+msgstr "Adres początkowy"
 
 #. State/Province
 msgid "state-province"
