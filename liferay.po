@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-13 09:48+0100\n"
+"PO-Revision-Date: 2007-08-14 13:15+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -215,9 +215,8 @@ msgid "javax.portlet.title.3"
 msgstr "Szukaj"
 
 #. Location Admin
-#, fuzzy
 msgid "javax.portlet.title.40"
-msgstr "Administrator Lokalizacji"
+msgstr "Administrator położenia"
 
 #. Tasks
 msgid "javax.portlet.title.41"
@@ -3397,9 +3396,8 @@ msgid "disable"
 msgstr "Wyłącz"
 
 #. Disclaimer
-#, fuzzy
 msgid "disclaimer"
-msgstr "Disclaimer"
+msgstr "Zrzeczenie się"
 
 #. Discount Type
 msgid "discount-type"
@@ -3966,9 +3964,8 @@ msgid "enable-comments"
 msgstr "Włącz komentarze"
 
 #. Enable Ratings
-#, fuzzy
 msgid "enable-ratings"
-msgstr "Disable Forwarding"
+msgstr ""
 
 #. Enabled
 msgid "enabled"
@@ -4211,9 +4208,8 @@ msgid "expiration-date"
 msgstr "Data wygaśnięcia"
 
 #. If this is checked, then the user must change their password after a given amount of time.
-#, fuzzy
 msgid "expiration-enabled-help"
-msgstr "Data wygaśnięcia"
+msgstr "Jeśli to pole jest zaznaczone, użytkownik musi zmienić hasło po upływie danego czasu."
 
 #. Expiration Enabled
 #, fuzzy
@@ -4235,14 +4231,12 @@ msgid "expired"
 msgstr "Przeterminowany"
 
 #. Enable Journal data export.
-#, fuzzy
 msgid "export-15-data"
-msgstr "Data wygaśnięcia"
+msgstr ""
 
 #. Enable Journal Content data export.
-#, fuzzy
 msgid "export-56-data"
-msgstr "Data wygaśnięcia"
+msgstr ""
 
 #. Export Enabled
 msgid "export-enabled"
@@ -4521,9 +4515,8 @@ msgid "foot"
 msgstr "Foot"
 
 #. Footnotes
-#, fuzzy
 msgid "footnotes"
-msgstr "Footnotes"
+msgstr "Przypisy"
 
 #. For example, if the public virtual host is <b>www.helloworld.com</b> and the friendly URL is <b>/helloworld</b>, then <b>{0}://www.helloworld.com</b> is mapped to <b>{1}/helloworld</b>.
 msgid "for-example,-if-the-public-virtual-host-is-www.helloworld.com-and-the-friendly-url-is-/helloworld"
@@ -5592,9 +5585,8 @@ msgid "liferay-versions"
 msgstr "Wersje środowiska Liferay"
 
 #. Limits
-#, fuzzy
 msgid "limits"
-msgstr "Limits"
+msgstr "Limity"
 
 #. Line Height
 msgid "line-height"
@@ -5731,9 +5723,8 @@ msgid "logo"
 msgstr "Logo"
 
 #. Logout URL
-#, fuzzy
 msgid "logout-url"
-msgstr "Kolor URL"
+msgstr "URL wylogowania"
 
 #. Long Description
 msgid "long-description"
@@ -6127,7 +6118,7 @@ msgstr "Pn"
 
 #. Monitoring
 msgid "monitoring"
-msgstr ""
+msgstr "Monitorowanie"
 
 #. m
 msgid "month-abbreviation"
@@ -6975,14 +6966,12 @@ msgid "password-history"
 msgstr "Historia haseł"
 
 #. Password Policies
-#, fuzzy
 msgid "password-policies"
-msgstr "Hasło"
+msgstr "Polityki haseł"
 
 #. Password Policy
-#, fuzzy
 msgid "password-policy"
-msgstr "Hasło"
+msgstr "Polityka haseł"
 
 #. Password Reset Required
 msgid "password-reset-required"
@@ -7201,7 +7190,7 @@ msgstr "Wprowadź dłuższy czas trwania."
 
 #. Please enter a SMS ID that is a valid email address.
 msgid "please-enter-a-sms-id-that-is-a-valid-email-address"
-msgstr "Wpisz poprawny adres e-mail bramki, przez którą będzie wysyłany SMS."
+msgstr "Wprowadź poprawny adres e-mail bramki, przez którą będzie wysyłany SMS."
 
 #. Please enter a start date that comes before the end date.
 #, fuzzy
@@ -7215,59 +7204,51 @@ msgstr "Please enter a start date that comes before the expiration date."
 
 #. Please enter a subject.
 msgid "please-enter-a-subject"
-msgstr "Proszę wprowadzić temat."
+msgstr "Należy wprowadzić temat."
 
 #. Please enter a title.
 msgid "please-enter-a-title"
-msgstr "Proszę wprowadzić tytuł."
+msgstr "Należy wprowadzić tytuł."
 
 #. Please enter a unique code.
 msgid "please-enter-a-unique-code"
-msgstr "Wprowadź unikalny kod."
+msgstr "Należy wprowadzić unikalny kod."
 
 #. Please enter a unique document name.
-#, fuzzy
 msgid "please-enter-a-unique-document-name"
-msgstr "Please enter a unique document name."
+msgstr "Należy wprowadzić unikalną nazwę dokumentu."
 
 #. Please enter a unique entry name.
-#, fuzzy
 msgid "please-enter-a-unique-entry-name"
-msgstr "Please enter a unique entry name."
+msgstr "Należy wprowadzić unikalną nazwę wpisu."
 
 #. Please enter a unique folder name.
-#, fuzzy
 msgid "please-enter-a-unique-folder-name"
-msgstr "Please enter a unique folder name."
+msgstr "Należy wprowadzić unikalną nazwę folderu."
 
 #. Please enter a unique friendly url.
-#, fuzzy
 msgid "please-enter-a-unique-friendly-url"
-msgstr "Please enter a unique friendly url."
+msgstr "Należy wprowadzić unikalny przyjazny adres URL."
 
 #. Please enter a unique ID.
-#, fuzzy
 msgid "please-enter-a-unique-id"
-msgstr "Please enter a unique id."
+msgstr "Należy wprowadzić unikalny identyfikator."
 
 #. Please enter a unique name.
 msgid "please-enter-a-unique-name"
-msgstr "Wprowadź unikalną nazwę."
+msgstr "Należy wprowadzić unikalną nazwę."
 
 #. Please enter a unique project code.
-#, fuzzy
 msgid "please-enter-a-unique-project-code"
-msgstr "Please enter a unique project code."
+msgstr "Należy wprowadzić unikalny kod projektu."
 
 #. Please enter a unique virtual host.
-#, fuzzy
 msgid "please-enter-a-unique-virtual-host"
-msgstr "Please enter a unique virtual host."
+msgstr "Należy wprowadzić unikalny host wirtualny."
 
 #. Please enter a valid actual end date.
-#, fuzzy
 msgid "please-enter-a-valid-actual-end-date"
-msgstr "Please enter a valid actual end date."
+msgstr "Należy wprowadzić poprawną datę końcową."
 
 #. Please enter a valid body.
 #, fuzzy
@@ -7291,7 +7272,7 @@ msgstr "Please enter a valid city."
 
 #. Please enter a valid code.
 msgid "please-enter-a-valid-code"
-msgstr "Wprowadź prawidłowy kod."
+msgstr "Należy wprowadzić prawidłowy kod."
 
 #. Please enter a valid country.
 #, fuzzy
@@ -7350,11 +7331,11 @@ msgstr "Please enter a valid email address or select a name from the list."
 
 #. Please enter a valid email address.
 msgid "please-enter-a-valid-email-address"
-msgstr "Wprowadź poprawny adres e-mail."
+msgstr "Należy wprowadzić poprawny adres e-mail."
 
 #. Please enter a valid end date.
 msgid "please-enter-a-valid-end-date"
-msgstr "Wprowadż poprawną datę zakończenia."
+msgstr "Należy wprowadzić poprawną datę zakończenia."
 
 #. Please enter a valid entry URL.
 #, fuzzy
@@ -7408,7 +7389,7 @@ msgstr "Please enter a valid host name or IP."
 
 #. Please enter a valid ID.
 msgid "please-enter-a-valid-id"
-msgstr "Wprowadź poprawne ID."
+msgstr "Należy wprowadzić poprawne ID."
 
 #. Please enter a valid image search key.
 #, fuzzy
@@ -7427,7 +7408,7 @@ msgstr "Please enter a valid item SKU."
 
 #. Please enter a valid last name.
 msgid "please-enter-a-valid-last-name"
-msgstr "Wprowadź poprawne nazwisko."
+msgstr "Należy wprowadzić poprawne nazwisko."
 
 #. Please enter a valid layout name.
 #, fuzzy
@@ -7441,23 +7422,23 @@ msgstr "Please enter a valid list name."
 
 #. Please enter a valid login.
 msgid "please-enter-a-valid-login"
-msgstr "Wprowadź poprawny login."
+msgstr "Należy wprowadzić poprawny login."
 
 #. Please enter a valid mail domain.
 msgid "please-enter-a-valid-mail-domain"
-msgstr "Wprowadź prawidłową domenę poczty."
+msgstr "Należy wprowadzić prawidłową domenę poczty."
 
 #. Please enter a valid message.
 msgid "please-enter-a-valid-message"
-msgstr "Wprowadź poprawną wiadomość."
+msgstr "Należy wprowadzić poprawną wiadomość."
 
 #. Please enter a valid name.
 msgid "please-enter-a-valid-name"
-msgstr "Wprowadź poprawną nazwę."
+msgstr "Należy wprowadzić poprawną nazwę."
 
 #. Please enter a valid node name.
 msgid "please-enter-a-valid-node-name"
-msgstr "Wprowadź poprawną nazwę węzła."
+msgstr "Należy wprowadzić poprawną nazwę węzła."
 
 #. Please enter a valid note.
 #, fuzzy
@@ -7481,11 +7462,11 @@ msgstr "Please enter a valid organization name."
 
 #. Please enter a valid organization.
 msgid "please-enter-a-valid-organization"
-msgstr "Wprowadź poprawną organizację."
+msgstr "Należy wprowadzić poprawną organizację."
 
 #. Please enter a valid password.
 msgid "please-enter-a-valid-password"
-msgstr "Wprowadź poprawne hasło."
+msgstr "Należy wprowadzić poprawne hasło."
 
 #. Please enter a valid phone number.
 #, fuzzy
@@ -7574,7 +7555,7 @@ msgstr "Please enter a valid task name."
 
 #. Please enter a valid title.
 msgid "please-enter-a-valid-title"
-msgstr "Wprowadź poprawną nazwę."
+msgstr "Należy wprowadzić poprawną nazwę."
 
 #. Please enter a valid topic name.
 #, fuzzy
@@ -7583,7 +7564,7 @@ msgstr "Please enter a valid topic name."
 
 #. Please enter a valid URL.
 msgid "please-enter-a-valid-url"
-msgstr "Wprowadź poprawny URL."
+msgstr "Należy wprowadzić poprawny URL."
 
 #. Please enter a valid user ID.
 #, fuzzy
@@ -7592,11 +7573,11 @@ msgstr "Please enter a valid user ID."
 
 #. Please enter a valid virtual host.
 msgid "please-enter-a-valid-virtual-host"
-msgstr "Wprowadź prawidłowy host wirtualny."
+msgstr "Należy wprowadzić prawidłowy host wirtualny."
 
 #. Please enter a valid web ID.
 msgid "please-enter-a-valid-web-id"
-msgstr "Wprowadź poprawne Web ID."
+msgstr "Należy wprowadzić poprawne Web ID."
 
 #. Please enter a valid XML url.
 #, fuzzy
@@ -7650,7 +7631,7 @@ msgstr "Please enter valid comments."
 
 #. Please enter valid content.
 msgid "please-enter-valid-content"
-msgstr "Wprowadź poprawną treść."
+msgstr "Należy wprowadzić poprawną treść."
 
 #. Please press the save button to view your changes.
 msgid "please-press-the-save-button-to-view-your-changes"
@@ -8331,7 +8312,7 @@ msgstr "Powtarzaj codziennie"
 
 #. Repeat Left to Right
 msgid "repeat-left-to-right"
-msgstr ""
+msgstr "Powtarzaj od lewej do prawej"
 
 #. Repeat Monthly
 msgid "repeat-monthly"
@@ -8339,7 +8320,7 @@ msgstr "Powtarzaj co miesiąc"
 
 #. Repeat Top to Bottom
 msgid "repeat-top-to-bottom"
-msgstr ""
+msgstr "Powtarzaj z góry na dół"
 
 #. Repeat Weekly
 msgid "repeat-weekly"
@@ -9269,7 +9250,7 @@ msgstr "Pokaż"
 
 #. Shutdown the server in the specified number of minutes. Input 0 to cancel shutdown.
 msgid "shutdown-the-server-in-the-specified-number-of-minutes"
-msgstr "Wyłącz serwer po podanej poniżej liczbie minut. Wprowadź 0 (zero), aby anulować wyłączenie."
+msgstr "Wyłącz serwer po podanej poniżej liczbie minut. Należy wprowadzić 0 (zero), aby anulować wyłączenie."
 
 #. Shutdown
 msgid "shutdown"
@@ -10177,7 +10158,7 @@ msgstr "Nie udało się odnaleźć roli."
 
 #. The role permissions were updated.
 msgid "the-role-permissions-were-updated"
-msgstr ""
+msgstr "Uprawnienia roli zostały zaktualizowane."
 
 #. The screen name you requested is already taken.
 #, fuzzy
@@ -10536,7 +10517,7 @@ msgstr ""
 
 #. This theme does not have any color schemes.
 msgid "this-theme-does-not-have-any-color-schemes"
-msgstr ""
+msgstr "Ten motyw nie zawiera schematów kolorystycznych."
 
 #. This topic is empty.
 msgid "this-topic-is-empty"
@@ -10548,7 +10529,7 @@ msgstr "Ten temat"
 
 #. This user account has been locked due to excessive failed login attempts.
 msgid "this-user-account-has-been-locked-due-to-excessive-failed-login-attempts"
-msgstr ""
+msgstr "To konto użytkownika zostało zablokowane z powodu nadmiernej ilości nieudanych prób logowania."
 
 #. Thread Priorities
 msgid "thread-priorities"
@@ -10742,11 +10723,11 @@ msgstr "Dwie kolumny"
 
 #. Type a single email address:
 msgid "type-a-single-email-address"
-msgstr "Wprowadź pojedynczy adres e-mail:"
+msgstr "Należy wprowadzić pojedynczy adres e-mail:"
 
 #. Type name or select from list:
 msgid "type-name-or-select-from-list"
-msgstr "Wprowadź nazwę lub wybierz z listy:"
+msgstr "Należy wprowadzić nazwę lub wybierz z listy:"
 
 #. Type name:
 msgid "type-name"
@@ -11552,7 +11533,7 @@ msgstr ""
 
 #. You can choose more than one.
 msgid "you-can-choose-more-than-one"
-msgstr ""
+msgstr "Można wybrać więcej niż jeden."
 
 #. You can create a shortcut to any document that you have read access for. The permissions set on the shortcut enable others to access the original document through the shortcut.
 msgid "you-can-create-a-shortcut-to-any-document-that-you-have-read-access-for"
