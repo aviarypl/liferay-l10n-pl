@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-14 13:15+0100\n"
+"PO-Revision-Date: 2007-08-14 13:23+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -7256,68 +7256,56 @@ msgid "please-enter-a-valid-body"
 msgstr "Please enter a valid body."
 
 #. Please enter a valid category name.
-#, fuzzy
 msgid "please-enter-a-valid-category-name"
-msgstr "Please enter a valid category name."
+msgstr "Należy wprowadzić poprawną nazwę kategorii."
 
 #. Please enter a valid cell number.
-#, fuzzy
 msgid "please-enter-a-valid-cell-number"
-msgstr "Please enter a valid cell number."
+msgstr "Należy wprowadzić poprawny numer telefonu komórkowego."
 
 #. Please enter a valid city.
-#, fuzzy
 msgid "please-enter-a-valid-city"
-msgstr "Please enter a valid city."
+msgstr "Należy wprowadzić poprawne miasto."
 
 #. Please enter a valid code.
 msgid "please-enter-a-valid-code"
 msgstr "Należy wprowadzić prawidłowy kod."
 
 #. Please enter a valid country.
-#, fuzzy
 msgid "please-enter-a-valid-country"
-msgstr "Please enter a valid country."
+msgstr "Należy wprowadzić poprawny kraj."
 
 #. Please enter a valid coupon code.
-#, fuzzy
 msgid "please-enter-a-valid-coupon-code"
-msgstr "Please enter a valid coupon code."
+msgstr "Należy wprowadzić poprawny kod kuponu."
 
 #. Please enter a valid create date.
-#, fuzzy
 msgid "please-enter-a-valid-create-date"
-msgstr "Please enter a valid create date."
+msgstr "Należy wprowadzić poprawną datę utworzenia."
 
 #. Please enter a valid credit card expiration date.
-#, fuzzy
 msgid "please-enter-a-valid-credit-card-expiration-date"
-msgstr "Please enter a valid credit card expiration date."
+msgstr "Należy wprowadzić poprawną datę wygaśnięcia karty kredytowej."
 
 #. Please enter a valid credit card number.
-#, fuzzy
 msgid "please-enter-a-valid-credit-card-number"
-msgstr "Please enter a valid credit card number."
+msgstr "Należy wprowadzić poprawny numer karty kredytowej."
 
 #. Please enter a valid credit card type.
-#, fuzzy
 msgid "please-enter-a-valid-credit-card-type"
-msgstr "Please enter a valid credit card type."
+msgstr "Należy wprowadzić poprawny typ karty kredytowej."
 
 #. Please enter a valid date.
-#, fuzzy
 msgid "please-enter-a-valid-date"
-msgstr "Please enter a valid date."
+msgstr "Należy wprowadzić poprawną datę."
 
 #. Please enter a valid description.
-#, fuzzy
 msgid "please-enter-a-valid-description"
-msgstr "Please enter a valid description."
+msgstr "Należy wprowadzić poprawny opis."
 
 #. Please enter a valid destination address.
-#, fuzzy
 msgid "please-enter-a-valid-destination-address"
-msgstr "Please enter a valid destination address."
+msgstr "Należy wprowadzić poprawny adres docelowy."
 
 #. Please enter a valid display date.
 #, fuzzy
@@ -7325,9 +7313,8 @@ msgid "please-enter-a-valid-display-date"
 msgstr "Please enter a valid display date."
 
 #. Please enter a valid email address or select a name from the list.
-#, fuzzy
 msgid "please-enter-a-valid-email-address-or-select-a-name-from-the-list"
-msgstr "Please enter a valid email address or select a name from the list."
+msgstr "Należy wprowadzić poprawny adres e-mail lub wybrać nazwisko z listy."
 
 #. Please enter a valid email address.
 msgid "please-enter-a-valid-email-address"
@@ -7338,24 +7325,20 @@ msgid "please-enter-a-valid-end-date"
 msgstr "Należy wprowadzić poprawną datę zakończenia."
 
 #. Please enter a valid entry URL.
-#, fuzzy
 msgid "please-enter-a-valid-entry-url"
-msgstr "Please enter a valid entry URL."
+msgstr "Należy wprowadzić poprawny adres URL wpisu."
 
 #. Please enter a valid estimated end date.
-#, fuzzy
 msgid "please-enter-a-valid-estimated-end-date"
-msgstr "Please enter a valid estimated end date."
+msgstr "Należy wprowadzić poprawną szacowaną datę końcową."
 
 #. Please enter a valid expiration date.
-#, fuzzy
 msgid "please-enter-a-valid-expiration-date"
-msgstr "Please enter a valid expiration date."
+msgstr "Należy wprowadzić poprawną datę wygaśnięcia."
 
 #. Please enter a valid fax number.
-#, fuzzy
 msgid "please-enter-a-valid-fax-number"
-msgstr "Please enter a valid fax number."
+msgstr "Należy wprowadzić poprawny numer faksu."
 
 #. Please enter a valid firm name.
 #, fuzzy
@@ -7373,9 +7356,8 @@ msgid "please-enter-a-valid-first-name"
 msgstr "Please enter a valid first name."
 
 #. Please enter a valid folder name.
-#, fuzzy
 msgid "please-enter-a-valid-folder-name"
-msgstr "Please enter a valid folder name."
+msgstr "Należy wprowadzić poprawną nazwę folderu."
 
 #. Please enter a valid future due date.
 #, fuzzy
@@ -7383,9 +7365,8 @@ msgid "please-enter-a-valid-future-due-date"
 msgstr "Please enter a valid future due date."
 
 #. Please enter a valid host name or IP.
-#, fuzzy
 msgid "please-enter-a-valid-host-name-or-ip"
-msgstr "Please enter a valid host name or IP."
+msgstr "Należy wprowadzić poprawną nazwę hosta lub numer IP."
 
 #. Please enter a valid ID.
 msgid "please-enter-a-valid-id"
@@ -7441,24 +7422,20 @@ msgid "please-enter-a-valid-node-name"
 msgstr "Należy wprowadzić poprawną nazwę węzła."
 
 #. Please enter a valid note.
-#, fuzzy
 msgid "please-enter-a-valid-note"
-msgstr "Please enter a valid note."
+msgstr "Należy wprowadzić poprawną notatkę."
 
 #. Please enter a valid number.
-#, fuzzy
 msgid "please-enter-a-valid-number"
-msgstr "Please enter a valid number."
+msgstr "Należy wprowadzić poprawną liczbę."
 
 #. Please enter a valid organization for the selected location.
-#, fuzzy
 msgid "please-enter-a-valid-organization-for-the-selected-location"
-msgstr "Please enter a valid organization for the selected location."
+msgstr "Należy wprowadzić poprawną organizację dla wybranego położenia."
 
 #. Please enter a valid organization name.
-#, fuzzy
 msgid "please-enter-a-valid-organization-name"
-msgstr "Please enter a valid organization name."
+msgstr "Należy wprowadzić poprawną nazwę organizacji."
 
 #. Please enter a valid organization.
 msgid "please-enter-a-valid-organization"
@@ -7469,39 +7446,32 @@ msgid "please-enter-a-valid-password"
 msgstr "Należy wprowadzić poprawne hasło."
 
 #. Please enter a valid phone number.
-#, fuzzy
 msgid "please-enter-a-valid-phone-number"
-msgstr "Please enter a valid phone number."
+msgstr "Należy wprowadzić poprawny numer telefonu."
 
 #. Please enter a valid phone.
-#, fuzzy
 msgid "please-enter-a-valid-phone"
-msgstr "Please enter a valid phone."
+msgstr "Należy wprowadzić poprawny telefon."
 
 #. Please enter a valid project code.
-#, fuzzy
 msgid "please-enter-a-valid-project-code"
-msgstr "Please enter a valid project code."
+msgstr "Należy wprowadzić poprawny kod projektu."
 
 #. Please enter a valid project name.
-#, fuzzy
 msgid "please-enter-a-valid-project-name"
-msgstr "Please enter a valid project name."
+msgstr "Należy wprowadzić poprawną nazwę projektu."
 
 #. Please enter a valid question description.
-#, fuzzy
 msgid "please-enter-a-valid-question-description"
-msgstr "Please enter a valid question description."
+msgstr "Należy wprowadzić poprawny opis pytania."
 
 #. Please enter a valid question.
-#, fuzzy
 msgid "please-enter-a-valid-question"
-msgstr "Please enter a valid question."
+msgstr "Należy wprowadzić poprawne pytanie."
 
 #. Please enter a valid repository name.
-#, fuzzy
 msgid "please-enter-a-valid-repository-name"
-msgstr "Please enter a valid repository name."
+msgstr "Należy wprowadzić poprawną nazwę repozytorium."
 
 #. Please enter a valid screen name.
 #, fuzzy
@@ -7509,67 +7479,56 @@ msgid "please-enter-a-valid-screen-name"
 msgstr "Wprowad poprawną nazwę."
 
 #. Please enter a valid script template.
-#, fuzzy
 msgid "please-enter-a-valid-script-template"
-msgstr "Please enter a valid script template."
+msgstr "Należy wprowadzić poprawny szablon skryptu."
 
 #. Please enter a valid signature.
-#, fuzzy
 msgid "please-enter-a-valid-signature"
-msgstr "Please enter a valid signature."
+msgstr "Należy wprowadzić poprawny podpis."
 
 #. Please enter a valid start date.
-#, fuzzy
 msgid "please-enter-a-valid-start-date"
-msgstr "Please enter a valid start date."
+msgstr "Należy wprowadzić poprawną datę początkową."
 
 #. Please enter a valid starting address.
-#, fuzzy
 msgid "please-enter-a-valid-starting-address"
-msgstr "Please enter a valid starting address."
+msgstr "Należy wprowadzić poprawny adres początkowy."
 
 #. Please enter a valid state.
-#, fuzzy
 msgid "please-enter-a-valid-state"
-msgstr "Please enter a valid state."
+msgstr "Należy wprowadzić poprawny stan."
 
 #. Please enter a valid street.
-#, fuzzy
 msgid "please-enter-a-valid-street"
-msgstr "Please enter a valid street."
+msgstr "Należy wprowadzić poprawną ulicę."
 
 #. Please enter a valid subject.
-#, fuzzy
 msgid "please-enter-a-valid-subject"
-msgstr "Please enter a valid subject."
+msgstr "Należy wprowadzić poprawny temat."
 
 #. Please enter a valid task description.
-#, fuzzy
 msgid "please-enter-a-valid-task-description"
-msgstr "Please enter a valid task description."
+msgstr "Należy wprowadzić poprawny opis zadania."
 
 #. Please enter a valid task name.
-#, fuzzy
 msgid "please-enter-a-valid-task-name"
-msgstr "Please enter a valid task name."
+msgstr "Należy wprowadzić poprawną nazwę zadania."
 
 #. Please enter a valid title.
 msgid "please-enter-a-valid-title"
 msgstr "Należy wprowadzić poprawną nazwę."
 
 #. Please enter a valid topic name.
-#, fuzzy
 msgid "please-enter-a-valid-topic-name"
-msgstr "Please enter a valid topic name."
+msgstr "Należy wprowadzić poprawną nazwę tematu."
 
 #. Please enter a valid URL.
 msgid "please-enter-a-valid-url"
 msgstr "Należy wprowadzić poprawny URL."
 
 #. Please enter a valid user ID.
-#, fuzzy
 msgid "please-enter-a-valid-user-id"
-msgstr "Please enter a valid user ID."
+msgstr "Należy wprowadzić poprawny identyfikator użytkownika."
 
 #. Please enter a valid virtual host.
 msgid "please-enter-a-valid-virtual-host"
@@ -7580,39 +7539,32 @@ msgid "please-enter-a-valid-web-id"
 msgstr "Należy wprowadzić poprawne Web ID."
 
 #. Please enter a valid XML url.
-#, fuzzy
 msgid "please-enter-a-valid-xml-url"
-msgstr "Wpisz poprawny URL."
+msgstr "Należy wprowadzić poprawny adres URL XML."
 
 #. Please enter a valid XML schema definition.
-#, fuzzy
 msgid "please-enter-a-valid-xsd"
-msgstr "Please enter a valid XML schema definition."
+msgstr "Należy wprowadzić poprawną definicję XML Schema."
 
 #. Please enter a valid XSL template.
-#, fuzzy
 msgid "please-enter-a-valid-xsl-template"
-msgstr "Please enter a valid XSL template."
+msgstr "Należy wprowadzić poprawny szablon XSL."
 
 #. Please enter a valid XSL url.
-#, fuzzy
 msgid "please-enter-a-valid-xsl-url"
-msgstr "Wpisz poprawny URL."
+msgstr "Należy wprowadzić poprawny adres URL XSL."
 
 #. Please enter a valid zip.
-#, fuzzy
 msgid "please-enter-a-valid-zip"
-msgstr "Please enter a valid zip."
+msgstr "Należy wprowadzić poprawny kod pocztowy."
 
 #. Please enter a value.
-#, fuzzy
 msgid "please-enter-a-value"
-msgstr "Please enter a value."
+msgstr "Należy wprowadzić jakąś wartość."
 
 #. Please enter a word that is at least 3 characters long.
-#, fuzzy
 msgid "please-enter-a-word-that-is-at-least-3-characters-long"
-msgstr "Please enter a word that is at least 3 characters long."
+msgstr "Należy wprowadzić słowo o długości co najmniej 3 znaków."
 
 #. Please enter the full name exactly as it appears on your credit card.
 #, fuzzy
@@ -7625,9 +7577,8 @@ msgid "please-enter-valid-choices"
 msgstr "Please enter valid choices."
 
 #. Please enter valid comments.
-#, fuzzy
 msgid "please-enter-valid-comments"
-msgstr "Please enter valid comments."
+msgstr "Należy wprowadzić poprawne komentarze."
 
 #. Please enter valid content.
 msgid "please-enter-valid-content"
