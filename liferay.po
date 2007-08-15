@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-15 20:48+0100\n"
+"PO-Revision-Date: 2007-08-15 20:58+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -7839,9 +7839,8 @@ msgid "preview"
 msgstr "Podgląd"
 
 #. Previous Close
-#, fuzzy
 msgid "previous-close"
-msgstr "Previous Close"
+msgstr "Poprzednie zamknięcie"
 
 #. Previous Message
 msgid "previous-message"
@@ -10377,9 +10376,8 @@ msgid "this-coupon-only-applies-to-items-with-a-sku-that-corresponds-to-this-com
 msgstr "This coupon only applies to items with a SKU that corresponds to this comma delimited list of item SKUs."
 
 #. This email address will also serve as your login.
-#, fuzzy
 msgid "this-email-address-will-also-serve-as-your-login"
-msgstr "This email address will also serve as your login."
+msgstr "Ten adres e-mail będzie także Twoją nazwą użytkownika."
 
 #. This event does not repeat.
 msgid "this-event-does-not-repeat"
@@ -11440,9 +11438,8 @@ msgid "you-cannot-change-your-password-yet-please-wait-at-least-x-before-changin
 msgstr "Nie możesz jeszcze zmienić hasła. Ponowna zmiana hasła będzie możliwa dopiero za {0}."
 
 #. You cannot delete a root message that has more than one immediate reply.
-#, fuzzy
 msgid "you-cannot-delete-a-root-message-that-has-more-than-one-immediate-reply"
-msgstr "You cannot delete a root message that has more than one immediate reply."
+msgstr "Nie można usunąć początkowej wiadomości, która ma więcej niż jedną natychmiastową odpowiedź."
 
 #. You cannot delete a system role.
 msgid "you-cannot-delete-a-system-role"
@@ -11520,7 +11517,7 @@ msgstr "Próba dezaktywacji portletu, który musi być aktywny."
 #. You have been banned by the moderator.
 #, fuzzy
 msgid "you-have-been-banned-by-the-moderator"
-msgstr "You have sent an email to {0} about this order."
+msgstr "You have been banned by the moderator."
 
 #. You have been logged off because you signed on with this account using a different session.
 msgid "you-have-been-logged-off-because-you-signed-on-with-this-account-using-a-different-session"
