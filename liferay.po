@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-14 13:36+0100\n"
+"PO-Revision-Date: 2007-08-15 20:29+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -7584,9 +7584,11 @@ msgstr "Należy wprowadzić poprawne komentarze."
 msgid "please-enter-valid-content"
 msgstr "Należy wprowadzić poprawną treść."
 
+# Bez sensu, nie? (marcoos)
 #. Please press the save button to view your changes.
+#, fuzzy
 msgid "please-press-the-save-button-to-view-your-changes"
-msgstr ""
+msgstr "Aby wyświetlić zmiany, należy wcisnąć przycisk Zapisz."
 
 #. Please reenter your quantity for the items with the following SKUs:
 #, fuzzy
@@ -8202,9 +8204,11 @@ msgstr ""
 msgid "reject"
 msgstr "Odrzuć"
 
+# Chyba... (marcoos)
 #. Relative to Context Path
+#, fuzzy
 msgid "relative-to-context-path"
-msgstr ""
+msgstr "Względem ścieżki kontekstowej"
 
 #. Remember Me
 msgid "remember-me"
@@ -8347,9 +8351,8 @@ msgid "require-unlock-help"
 msgstr "Jeżeli ta opcja jest zaznaczona, użytkownik musi zmienić hasło podczas pierwszego logowania"
 
 #. Require Unlock
-#, fuzzy
 msgid "require-unlock"
-msgstr "Required Roles"
+msgstr "Role wymagane"
 
 #. Required Roles
 msgid "required-roles"
@@ -8405,7 +8408,7 @@ msgstr ""
 #. Reset Failure Count
 #, fuzzy
 msgid "reset-failure-count"
-msgstr "Resetuj wartości"
+msgstr "Resetuj licznik błędów"
 
 #. Reset Values
 #, fuzzy
@@ -9122,9 +9125,8 @@ msgid "show-company-name"
 msgstr "Show Company Name"
 
 #. Show Guestbook
-#, fuzzy
 msgid "show-guestbook"
-msgstr "Show Guestbook"
+msgstr "Pokazuj księgę gości"
 
 #. Show Image
 #, fuzzy
@@ -10175,14 +10177,12 @@ msgid "the-template-could-not-be-found"
 msgstr "Nie znaleziono szablonu."
 
 #. The template with the name {0} was found that matches the ID:
-#, fuzzy
 msgid "the-template-with-the-name-x-was-found-that-matches-the-id"
-msgstr "The template with the name {0} was found that matches the ID:"
+msgstr "Znaleziono szablon o nazwie {0} pasujący do ID:"
 
 #. The topic could not be found.
-#, fuzzy
 msgid "the-topic-could-not-be-found"
-msgstr "The topic could not be found."
+msgstr "Nie udało się odnaleźć tematu."
 
 #. Upload failed. The total size of all files attached to a message may not exceed {0}k.
 msgid "the-total-size-of-all-files-attached-to-a-message-may-not-exceed-x-k"
@@ -10202,9 +10202,8 @@ msgid "the-user-id-you-requested-is-reserved"
 msgstr "Żądane ID użytkownika jest zarezerwowane."
 
 #. The user who added the message
-#, fuzzy
 msgid "the-user-who-added-the-message"
-msgstr "The user who added the message"
+msgstr "Użytkownik, który dodał wiadomość"
 
 #. The vacation message notifies others of your absence.
 #, fuzzy
@@ -10261,9 +10260,8 @@ msgid "there-are-no-coupons"
 msgstr "Nie ma kuponów."
 
 #. There are no entries for this category on {0}.
-#, fuzzy
 msgid "there-are-no-entries-for-this-category-on"
-msgstr "There are no entries for this category on {0}."
+msgstr "Nie ma wpisów tej kategorii w {0}."
 
 #. There are no entries.
 msgid "there-are-no-entries"
@@ -10290,9 +10288,8 @@ msgid "there-are-no-links"
 msgstr "Nie ma odnośników."
 
 #. There are no live sessions.
-#, fuzzy
 msgid "there-are-no-live-sessions"
-msgstr "There are no questions."
+msgstr "Nie ma pytań."
 
 #. There are no locations.
 msgid "there-are-no-locations"
@@ -10343,14 +10340,12 @@ msgid "there-are-no-questions"
 msgstr "Nie ma pytań."
 
 #. There are no recent changes to pages in
-#, fuzzy
 msgid "there-are-no-recent-changes-to-pages-in"
-msgstr "There are no recent changes to pages in"
+msgstr "Nie ma ostatnio dokonanych zmian na stronach w"
 
 #. There are no recent changes.
-#, fuzzy
 msgid "there-are-no-recent-changes"
-msgstr "There are no recent changes."
+msgstr "Nie ma ostatnio dokonanych zmian."
 
 #. There are no recent documents.
 msgid "there-are-no-recent-documents"
@@ -10457,7 +10452,7 @@ msgstr "Portlet jest nieaktywny."
 
 #. This role does have any permissions.
 msgid "this-role-does-have-any-permissions"
-msgstr ""
+msgstr "Ta rola nie ma żadnych uprawnień."
 
 #. This theme does not have any color schemes.
 msgid "this-theme-does-not-have-any-color-schemes"
@@ -11013,9 +11008,8 @@ msgid "vertical-bar"
 msgstr "Pasek poziomy"
 
 #. View All
-#, fuzzy
 msgid "view-all"
-msgstr "View All"
+msgstr "Wyświetl wszystkie"
 
 #. View Article
 msgid "view-article"
@@ -11026,64 +11020,52 @@ msgid "view-articles"
 msgstr "Lista artykułów"
 
 #. View Associated Articles
-#, fuzzy
 msgid "view-associated-articles"
-msgstr "View Associated Articles"
+msgstr "Wyświetl powiązane artykuły"
 
 #. View Associated Structures
-#, fuzzy
 msgid "view-associated-structures"
-msgstr "View Associated Structures"
+msgstr "Wyświetl powiązane struktury"
 
 #. View Associated Templates
-#, fuzzy
 msgid "view-associated-templates"
-msgstr "View Associated Templates"
+msgstr "Wyświetl powiązane szablony"
 
 #. View Blogs
-#, fuzzy
 msgid "view-blogs"
-msgstr "View Blogs"
+msgstr "Wyświetl blogi"
 
 #. View Bookmarks
-#, fuzzy
 msgid "view-bookmarks"
-msgstr "View Bookmarks"
+msgstr "Wyświetl zakładki"
 
 #. View data
-#, fuzzy
 msgid "view-data"
-msgstr "View data"
+msgstr "Wyświetl dane"
 
 #. View Entries
-#, fuzzy
 msgid "view-entries"
-msgstr "View Entries"
+msgstr "Wyświetl wpisy"
 
 #. View Folder
-#, fuzzy
 msgid "view-folder"
-msgstr "View Folder"
+msgstr "Wyświetl folder"
 
 #. View Gallery
-#, fuzzy
 msgid "view-gallery"
-msgstr "View Gallery"
+msgstr "Wyświetl galerię"
 
 #. View History
-#, fuzzy
 msgid "view-history"
-msgstr "View History"
+msgstr "Wyświetl historię"
 
 #. View Instances
-#, fuzzy
 msgid "view-instances"
-msgstr "View Instances"
+msgstr "Wyświetl instancje"
 
 #. View Library
-#, fuzzy
 msgid "view-library"
-msgstr "View Library"
+msgstr "Wyświetl bibliotekę"
 
 #. View Live Sessions
 #, fuzzy
@@ -11091,64 +11073,53 @@ msgid "view-live-sessions"
 msgstr "View Live Sessions"
 
 #. View Locations
-#, fuzzy
 msgid "view-locations"
-msgstr "Pokaż położenia"
+msgstr "Wyświetl położenia"
 
 #. View Message
-#, fuzzy
 msgid "view-message"
-msgstr "View Message"
+msgstr "Wyświetl wiadomość"
 
 #. View Pages
-#, fuzzy
 msgid "view-pages"
-msgstr "Nowa strona"
+msgstr "Wyświetl strony"
 
 #. View Questions
-#, fuzzy
 msgid "view-questions"
-msgstr "View Questions"
+msgstr "Wyświetl pytania"
 
 #. View Repositories
-#, fuzzy
 msgid "view-repositories"
-msgstr "View Repositories"
+msgstr "Wyświetl repozytoria"
 
 #. View Slide Show
-#, fuzzy
 msgid "view-slide-show"
-msgstr "Pokaz slajdów"
+msgstr "Wyświetl pokaz slajdów"
 
 #. View Tasks
-#, fuzzy
 msgid "view-tasks"
-msgstr "View Tasks"
+msgstr "Wyświetl zadania"
 
 #. View Templates
-#, fuzzy
 msgid "view-templates"
-msgstr "Lista szablonów"
+msgstr "Wyświetl szablony"
 
 #. View Topics
-#, fuzzy
 msgid "view-topics"
-msgstr "View Topics"
+msgstr "Wyświetl tematy"
 
 #. View User Profile
-#, fuzzy
 msgid "view-user-profile"
-msgstr "View User Profile"
+msgstr "Wyświetl profil użytkownika"
 
 #. View Users
-#, fuzzy
 msgid "view-users"
-msgstr "Pokaż użytkowników"
+msgstr "Wyświetl użytkowników"
 
 #. View
 #, fuzzy
 msgid "view"
-msgstr "Obejrzyj dane"
+msgstr "Widok"
 
 #. Views
 msgid "views"
@@ -11272,7 +11243,7 @@ msgstr "Witaj"
 
 #. What type of permissions would you like to add?
 msgid "what-type-of-permissions-would-you-like-to-add"
-msgstr ""
+msgstr "Jakiego rodzaju uprawnienia chcesz dodać?"
 
 #. What would you like to export?
 msgid "what-would-you-like-to-export"
@@ -11473,7 +11444,7 @@ msgstr "Jesteś zalogowany jako {0}."
 
 #. You are using LDAP's password policy. Please change your LDAP password policy settings if you wish to use a local password policy.
 msgid "you-are-using-ldaps-password-policy"
-msgstr ""
+msgstr "Używasz polityki haseł LDAP. Aby używać lokalnej polityki haseł, należy zmienić ustawienia polityki haseł LDAP."
 
 #. You can choose more than one.
 msgid "you-can-choose-more-than-one"
@@ -11498,9 +11469,11 @@ msgstr "You can now check for new messages in your {0}."
 msgid "you-cannot-add-a-template-driven-article-if-the-article-is-associated-with-a-structure-that-has-no-templates"
 msgstr "You cannot add a template driven article if the article is associated with a structure that has no templates. Please choose another structure or add a template to your selected structure."
 
+# Czym jest {0}? Chyba "2 dni" czy cos takiego, ale... (marcoos)
 #. You cannot change your password yet. Please wait at least {0} before changing your password again.
+#, fuzzy
 msgid "you-cannot-change-your-password-yet-please-wait-at-least-x-before-changing-your-password-again"
-msgstr ""
+msgstr "Nie możesz jeszcze zmienić hasła. Ponowna zmiana hasła będzie możliwa dopiero za {0}."
 
 #. You cannot delete a root message that has more than one immediate reply.
 #, fuzzy
@@ -11898,7 +11871,7 @@ msgstr "Twój nowy adres e-mail to: {0}."
 
 #. Your new password cannot be the same as your old password. Please enter in a different password.
 msgid "your-new-password-cannot-be-the-same-as-your-old-password-please-enter-in-a-different-password"
-msgstr ""
+msgstr "Nowe hasło nie może być takie samo jak stare. Należy wprowadzić inne hasło."
 
 #. Your order cannot be processed because it falls below the minimum required amount of {0}.
 #, fuzzy
@@ -11930,9 +11903,8 @@ msgid "your-password-is-expiring-soon"
 msgstr "Twoje hasło wkrótce utraci ważność. Należy je zmienić."
 
 #. Your password will be sent to your external email address.
-#, fuzzy
 msgid "your-password-will-be-sent-to-your-external-email-address"
-msgstr "Your password will be sent to your external email address."
+msgstr "Twoje hasło zostanie przesłane na zewnętrzny adres e-mail."
 
 #. Your Rating
 msgid "your-rating"
