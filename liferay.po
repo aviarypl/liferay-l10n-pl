@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-15 20:29+0100\n"
+"PO-Revision-Date: 2007-08-15 20:48+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -252,8 +252,8 @@ msgstr "Moje miejsca"
 msgid "javax.portlet.title.4"
 msgstr "Pogoda"
 
+# Nazwa własna strony http://www.global-prayer-digest.org/ (marcoos)
 #. Global Prayer Digest
-#, fuzzy
 msgid "javax.portlet.title.51"
 msgstr "Global Prayer Digest"
 
@@ -2524,10 +2524,11 @@ msgstr "MasterCard"
 msgid "cc_visa"
 msgstr "Visa"
 
+# Może zmienić na 4860vxxyyzz@text.plusgsm.pl? ;) (marcoos)
 #. Cell phones with SMS text messaging capabilities map phone numbers to email addresses. For example, a cell phone number of (626) 123-4567 with Sprint PCS as the carrier has an email address (SMS ID) of <i>6261234567@messaging.sprintpcs.com</i>.
 #, fuzzy
 msgid "cell-phones-with-sms-text-messaging-capabilities-map-phone-numbers-to-email-addresses"
-msgstr "Cell phones with SMS text messaging capabilities map phone numbers to email addresses. For example, a cell phone number of (626) 123-4567 with Sprint PCS as the carrier has an email address (SMS ID) of <i>6261234567@messaging.sprintpcs.com</i>."
+msgstr "Telefony komórkowe z możliwością przesyłania wiadomości tekstowych SMS mapują numery telefonów do adresów e-mail. Na przykład, telefon w sieci Sprint PCS o numerze (626) 123-4567 ma adres e-mail (ID SMS):<i>6261234567@messaging.sprintpcs.com</i>."
 
 #. Cell
 msgid "cell"
@@ -3059,9 +3060,8 @@ msgid "credit-cards"
 msgstr "Karty kredytowe"
 
 #. Cross References
-#, fuzzy
 msgid "cross-references"
-msgstr "Referencja"
+msgstr "Referencje wzajemne"
 
 #. CSS
 msgid "css"
@@ -3437,6 +3437,7 @@ msgstr "Ustawienia wyświetlania"
 msgid "display-style"
 msgstr "Styl wyświetlania"
 
+# "Czas wyświetlania" czy "Wyświetl czas"? (marcoos)
 #. Display Time
 #, fuzzy
 msgid "display-time"
@@ -4510,9 +4511,8 @@ msgid "font"
 msgstr "Czcionka"
 
 #. Foot
-#, fuzzy
 msgid "foot"
-msgstr "Foot"
+msgstr "Stopa"
 
 #. Footnotes
 msgid "footnotes"
@@ -4903,9 +4903,8 @@ msgid "hourly"
 msgstr "Co godzinę"
 
 #. Hours of Operation
-#, fuzzy
 msgid "hours-of-operation"
-msgstr "Hours of Operation"
+msgstr "Godziny otwarcia"
 
 #. Hours
 msgid "hours"
@@ -5344,9 +5343,8 @@ msgid "joined"
 msgstr "Dołączył(a)"
 
 #. Junk Mail
-#, fuzzy
 msgid "junk-mail"
-msgstr "Junk Mail"
+msgstr "Niechciana poczta"
 
 #. Keywords
 msgid "keywords"
@@ -5709,9 +5707,8 @@ msgid "log-levels"
 msgstr "Poziomy logowania"
 
 #. Login URL
-#, fuzzy
 msgid "login-url"
-msgstr "Login"
+msgstr "URL logowania"
 
 #. Login
 #, fuzzy
@@ -5800,9 +5797,8 @@ msgid "manage-list"
 msgstr "Manage List"
 
 #. Manage Task
-#, fuzzy
 msgid "manage-task"
-msgstr "Manage Task"
+msgstr "Zarządzaj zadaniem"
 
 #. Manage Top Private Pages for
 msgid "manage-top-private-pages-for"
@@ -5848,10 +5844,10 @@ msgstr "Maps and Directions"
 msgid "margin-and-padding"
 msgstr "Marginesy wewnętrzne i zewnętrzne"
 
+# Czy może jednak "Msza"? :) [marcoos]
 #. Mass
-#, fuzzy
 msgid "mass"
-msgstr "Mass"
+msgstr "Masa"
 
 #. Match Whole Words
 #, fuzzy
@@ -6308,9 +6304,8 @@ msgid "new"
 msgstr "Nowy"
 
 #. News Selections
-#, fuzzy
 msgid "news-selections"
-msgstr "News Selections"
+msgstr "Wybór wiadomości"
 
 #. News
 msgid "news"
@@ -6460,19 +6455,16 @@ msgid "no-pages-were-found-that-matched-the-keywords-x"
 msgstr "Nie znaleziono stron odpowiadających: {0}."
 
 #. No password policies were found.
-#, fuzzy
 msgid "no-password-policies-were-found"
-msgstr "Nie znaleziono ról."
+msgstr "Nie znaleziono polityk haseł."
 
 #. No products were found that matched the keywords: {0}.
-#, fuzzy
 msgid "no-products-were-found-that-matched-the-keywords-x"
-msgstr "Nie znaleziono dokumentów odpowiadających: {0}."
+msgstr "Nie znaleziono produktów pasujących do słów kluczowych: {0}."
 
 #. No results were found that matched the keywords: {0}.
-#, fuzzy
 msgid "no-results-were-found-that-matched-the-keywords-x"
-msgstr "No entries were found that matched the keywords: {0}."
+msgstr "Nie znaleziono wyników pasujących do słów kluczowych: {0}."
 
 #. No roles were found.
 msgid "no-roles-were-found"
@@ -6783,9 +6775,8 @@ msgid "options"
 msgstr "Opcje"
 
 #. Or obtain the Google gadget code directly and paste it below.
-#, fuzzy
 msgid "or-obtain-the-google-gadget-code-directly-and-paste-it-below"
-msgstr "Or obtain the Google gadget code directly and paste it below."
+msgstr "Albo bezpośrednio pobierz kod gadżetu Google i wklej go poniżej."
 
 #. Or
 msgid "or"
@@ -6883,14 +6874,13 @@ msgid "page-display-order"
 msgstr "Page Display Order"
 
 #. Page History
-#, fuzzy
 msgid "page-history"
-msgstr "Page History"
+msgstr "Historia strony"
 
 #. Page Links
 #, fuzzy
 msgid "page-links"
-msgstr "Page Links"
+msgstr "Odnośniki strony"
 
 #. Page Priority
 msgid "page-priority"
@@ -7003,9 +6993,8 @@ msgid "pause"
 msgstr "Pauza"
 
 #. Payer Email Address
-#, fuzzy
 msgid "payer-email-address"
-msgstr "Payer Email Address"
+msgstr "Adres e-mail płatnika"
 
 #. Payment Gross
 #, fuzzy
@@ -7397,9 +7386,8 @@ msgid "please-enter-a-valid-layout-name"
 msgstr "Please enter a valid layout name."
 
 #. Please enter a valid list name.
-#, fuzzy
 msgid "please-enter-a-valid-list-name"
-msgstr "Please enter a valid list name."
+msgstr "Należy wprowadzić poprawną nazwę listy."
 
 #. Please enter a valid login.
 msgid "please-enter-a-valid-login"
@@ -7827,9 +7815,8 @@ msgid "pound"
 msgstr "Funt"
 
 #. Precompile jsps for faster speed.
-#, fuzzy
 msgid "precompile-jsps-for-faster-speed"
-msgstr "Prekompiluj jsp by zwiększyć prędkość wyświetlania stron."
+msgstr "Włącz prekompilację JSP, by zwiększyć szybkość."
 
 #. Preferences
 msgid "preferences"
@@ -8061,9 +8048,8 @@ msgid "publish-to-live"
 msgstr "Publisher"
 
 #. Publisher
-#, fuzzy
 msgid "publisher"
-msgstr "Publisher"
+msgstr "Publikator"
 
 #. Quantity
 #, fuzzy
@@ -8079,9 +8065,8 @@ msgid "questions"
 msgstr "Pytania"
 
 #. Quick Add
-#, fuzzy
 msgid "quick-add"
-msgstr "Quick Add"
+msgstr "Dodaj szybko"
 
 #. Quote
 msgid "quote"
@@ -8610,9 +8595,8 @@ msgid "save"
 msgstr "Zapisz"
 
 #. Scope
-#, fuzzy
 msgid "scope"
-msgstr "Scope"
+msgstr "Zasięg"
 
 #. Score
 #, fuzzy
@@ -8725,19 +8709,16 @@ msgid "search"
 msgstr "Szukaj"
 
 #. Searched for pages similar to
-#, fuzzy
 msgid "searched-for-pages-similar-to"
-msgstr "Searched for pages similar to"
+msgstr "Wyszukano strony podobne do"
 
 #. Searched the portal for
-#, fuzzy
 msgid "searched-the-portal-for"
-msgstr "Searched the portal for"
+msgstr "W portalu wyszukano"
 
 #. Searched the web for
-#, fuzzy
 msgid "searched-the-web-for"
-msgstr "Searched the web for"
+msgstr "W sieci WWW wyszukano"
 
 #. Second
 #, fuzzy
@@ -8790,34 +8771,28 @@ msgid "select-content"
 msgstr "Select Content"
 
 #. Select Date
-#, fuzzy
 msgid "select-date"
-msgstr "Select Date"
+msgstr "Wybierz datę"
 
 #. Select either a public node or a private node.
-#, fuzzy
 msgid "select-either-a-public-node-or-a-private-node"
-msgstr "Select either a public node or a private node."
+msgstr "Wybierz albo węzeł publiczny, albo prywatny."
 
 #. Select Folder
-#, fuzzy
 msgid "select-folder"
-msgstr "Select Folder"
+msgstr "Wybierz folder"
 
 #. Select Option
-#, fuzzy
 msgid "select-option"
-msgstr "Select Option"
+msgstr "Wybierz opcję"
 
 #. Select Portlet
-#, fuzzy
 msgid "select-portlet"
-msgstr "Select Portlet"
+msgstr "Wybierz portlet"
 
 #. Select Recipients
-#, fuzzy
 msgid "select-recipients"
-msgstr "Select Recipients"
+msgstr "Wybierz odbiorców"
 
 #. Select the action that this role can perform on the <i>{0}</i> portlet.
 msgid "select-the-action-that-this-role-can-perform-on-the-x-portlet"
@@ -8852,9 +8827,8 @@ msgid "select-the-type-of-editor-to-use-while-editing-xml-and-xsl"
 msgstr "Wybierz rodzaj edytora wykorzystywany do edycji XML i XSL."
 
 #. Select User
-#, fuzzy
 msgid "select-user"
-msgstr "Select User"
+msgstr "Wybierz użytkownika"
 
 #. Select users to associate with the action {0}.
 msgid "select-users-to-associate-with-the-action-x"
@@ -9111,27 +9085,24 @@ msgid "show-breadcrumbs"
 msgstr "Pokazuj ramki"
 
 #. Show Calendar
-#, fuzzy
 msgid "show-calendar"
-msgstr "Show Calendar"
+msgstr "Pokazuj kalendarz"
 
 #. Show Columns
 msgid "show-columns"
 msgstr "Wyświetl kolumny"
 
 #. Show Company Name
-#, fuzzy
 msgid "show-company-name"
-msgstr "Show Company Name"
+msgstr "Pokazuj nazwę firmy"
 
 #. Show Guestbook
 msgid "show-guestbook"
 msgstr "Pokazuj księgę gości"
 
 #. Show Image
-#, fuzzy
 msgid "show-image"
-msgstr "Show Image"
+msgstr "Pokazuj obrazek"
 
 #. Show item description when browsing a category?
 #, fuzzy
@@ -9151,22 +9122,19 @@ msgstr "Show item properties when browsing a category?"
 #. Show Maps and Directions
 #, fuzzy
 msgid "show-maps-and-directions"
-msgstr "Show Maps and Directions"
+msgstr "Pokazuj mapy i kierunki"
 
 #. Show Portlet Borders
-#, fuzzy
 msgid "show-portlet-borders"
-msgstr "Show Portlet Borders"
+msgstr "Pokazuj granice portletu"
 
 #. Show Search
-#, fuzzy
 msgid "show-search"
-msgstr "Safe Search"
+msgstr "Pokazuj wyszukiwarkę"
 
 #. Show Shopping
-#, fuzzy
 msgid "show-shopping"
-msgstr "Show Shopping"
+msgstr "Pokazuj zakupy"
 
 #. Show special item description when browsing a category?
 #, fuzzy
@@ -9184,14 +9152,12 @@ msgid "show-special-items"
 msgstr "Show Special Items"
 
 #. Show Subfolders
-#, fuzzy
 msgid "show-subfolders"
-msgstr "Pokazuj ramki"
+msgstr "Pokazuj podfoldery"
 
 #. Show Wiki Borders
-#, fuzzy
 msgid "show-wiki-borders"
-msgstr "Show Wiki Borders"
+msgstr "Pokazuj granice Wiki"
 
 #. Show
 msgid "show"
@@ -10632,9 +10598,8 @@ msgid "translate"
 msgstr "Przetłumacz"
 
 #. Trash
-#, fuzzy
 msgid "trash"
-msgstr "Trash"
+msgstr "Śmietnik"
 
 #. Travel
 msgid "travel"
@@ -10987,9 +10952,8 @@ msgid "values"
 msgstr "Wartości"
 
 #. Verification Number
-#, fuzzy
 msgid "verification-number"
-msgstr "Verification Number"
+msgstr "Numer weryfikacyjny"
 
 #. Version History
 msgid "version-history"
