@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-15 20:58+0100\n"
+"PO-Revision-Date: 2007-08-16 12:51+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -4233,11 +4233,11 @@ msgstr "Przeterminowany"
 
 #. Enable Journal data export.
 msgid "export-15-data"
-msgstr ""
+msgstr "Włącz eksport danych dziennika"
 
 #. Enable Journal Content data export.
 msgid "export-56-data"
-msgstr ""
+msgstr "Włącz eksport danych treści dziennika"
 
 #. Export Enabled
 msgid "export-enabled"
@@ -8220,7 +8220,7 @@ msgstr "Usuń plik(i)"
 
 #. Remove the last form field.
 msgid "remove-the-last-form-field"
-msgstr ""
+msgstr "Usuń ostatnie pole formularza."
 
 #. Remove
 msgid "remove"
@@ -9611,9 +9611,8 @@ msgid "tax-state"
 msgstr "Tax State"
 
 #. Tax
-#, fuzzy
 msgid "tax"
-msgstr "Tax"
+msgstr "Podatek"
 
 #. Taxable
 #, fuzzy
@@ -10103,7 +10102,7 @@ msgstr "Poniższy podpis zostanie dodany do każdej wiadomości wychodzącej."
 
 #. The sitemap protocol notifies search engines of the structure (sitemap) of the website.
 msgid "the-sitemap-protocol-notifies-search-engines-of-the-structure-of-the-website"
-msgstr ""
+msgstr "Protokół mapy witryny powiadamia wyszukiwarki o strukturze (mapie) witryny."
 
 #. The source file does not have the same extension as the original file.
 msgid "the-source-file-does-not-have-the-same-extension-as-the-original-file"
@@ -10158,9 +10157,8 @@ msgid "the-user-could-not-be-found"
 msgstr "Nie odnaleziono użytkownika."
 
 #. The user ID you requested is already taken.
-#, fuzzy
 msgid "the-user-id-you-requested-is-already-taken"
-msgstr "Żądane ID użytkownika jest już zajęte."
+msgstr "Żądany identyfikator użytkownika jest już zajęty."
 
 #. The user ID you requested is reserved.
 msgid "the-user-id-you-requested-is-reserved"
@@ -10710,9 +10708,8 @@ msgid "update-cart"
 msgstr "Update Cart"
 
 #. Update Category
-#, fuzzy
 msgid "update-category"
-msgstr "Update Category"
+msgstr "Uaktualnij kategorię"
 
 #. Update Content Settings
 #, fuzzy
