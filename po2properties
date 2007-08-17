@@ -1,0 +1,8 @@
+#!/bin/bash
+
+grep -v "^#" $1 \
+| sed -e 's/^msgid //' -e 's/^msgstr //' -e 's/\"//g' \
+| tr '\n' '=' \
+| sed -e 's/==/\n/' -e 's/=$/\n/' \
+> Language_pl.properties
+
