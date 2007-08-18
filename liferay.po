@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-16 12:51+0100\n"
-"Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
+"PO-Revision-Date: 2007-08-18 20:33+0100\n"
+"Last-Translator: wadim dziedzic <nikdo@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -262,7 +262,6 @@ msgid "javax.portlet.title.52"
 msgstr "Czat"
 
 #. Flash
-#, fuzzy
 msgid "javax.portlet.title.53"
 msgstr "Flash"
 
@@ -645,24 +644,21 @@ msgid "model.resource.com.liferay.portlet.shopping.model.ShoppingItem"
 msgstr "Produkt"
 
 #. Software Catalog Framework Version
-#, fuzzy
 msgid "model.resource.com.liferay.portlet.softwarecatalog.model.SCFrameworkVersion"
 msgstr "Wersja frameworku"
 
 #. Software Catalog Product License
-#, fuzzy
 msgid "model.resource.com.liferay.portlet.softwarecatalog.model.SCLicense"
 msgstr "Licencja"
 
 #. Software Catalog Product Entry
 #, fuzzy
 msgid "model.resource.com.liferay.portlet.softwarecatalog.model.SCProductEntry"
-msgstr "Wpis"
+msgstr "Wpis "
 
 #. Software Catalog Product Version
-#, fuzzy
 msgid "model.resource.com.liferay.portlet.softwarecatalog.model.SCProductVersion"
-msgstr "Wersja"
+msgstr "Wersja produktu katalogu oprogramowania"
 
 #. Wiki Node
 msgid "model.resource.com.liferay.portlet.wiki.model.WikiNode"
@@ -735,7 +731,6 @@ msgid "action.ADD_FOLDER"
 msgstr "Dodaj folder"
 
 #. Add Framework Version
-#, fuzzy
 msgid "action.ADD_FRAMEWORK_VERSION"
 msgstr "Dodaj wersję frameworku"
 
@@ -2035,9 +2030,8 @@ msgid "articles"
 msgstr "Artykuły"
 
 #. Artifact ID
-#, fuzzy
 msgid "artifact-id"
-msgstr "Artifact ID"
+msgstr "ID artefaktu"
 
 #. Ascending
 msgid "ascending"
@@ -2209,19 +2203,16 @@ msgid "bad-request"
 msgstr "Błędne żądanie"
 
 #. Ban Date
-#, fuzzy
 msgid "ban-date"
-msgstr "Data zbanowania"
+msgstr "Data zablokowania"
 
 #. Ban this User
-#, fuzzy
 msgid "ban-this-user"
-msgstr "Banuj tego użytkownika"
+msgstr "Zablokuj tego użytkownika"
 
 #. Banned Users
-#, fuzzy
 msgid "banned-users"
-msgstr "Zbanowani użytkownicy"
+msgstr "Zablokowani użytkownicy"
 
 #. Banner
 msgid "banner"
@@ -2252,9 +2243,8 @@ msgid "be-sure-to-browse-our-guestbook-for-the-latest-entries"
 msgstr "Pamiętaj, by {0}przejrzeć{1} najnowsze wpisy w naszej księdze gości!"
 
 #. before, and again
-#, fuzzy
 msgid "before-and-again"
-msgstr "wcześniej, oraz jeszcze raz"
+msgstr "wcześniej oraz jeszcze raz"
 
 #. before the event by:
 msgid "before-the-event-by"
@@ -2526,7 +2516,6 @@ msgstr "Visa"
 
 # Może zmienić na 4860vxxyyzz@text.plusgsm.pl? ;) (marcoos)
 #. Cell phones with SMS text messaging capabilities map phone numbers to email addresses. For example, a cell phone number of (626) 123-4567 with Sprint PCS as the carrier has an email address (SMS ID) of <i>6261234567@messaging.sprintpcs.com</i>.
-#, fuzzy
 msgid "cell-phones-with-sms-text-messaging-capabilities-map-phone-numbers-to-email-addresses"
 msgstr "Telefony komórkowe z możliwością przesyłania wiadomości tekstowych SMS mapują numery telefonów do adresów e-mail. Na przykład, telefon w sieci Sprint PCS o numerze (626) 123-4567 ma adres e-mail (ID SMS):<i>6261234567@messaging.sprintpcs.com</i>."
 
@@ -2663,9 +2652,8 @@ msgid "choose-a-resource-or-proceed-to-the-next-step"
 msgstr "Wybierz zasób lub przejdź do kolejnego kroku."
 
 #. Choose a user name for your personal company email address.
-#, fuzzy
 msgid "choose-a-user-name-for-your-personal-company-email-address"
-msgstr "Choose a user name for your personal company email address."
+msgstr "Wybierz nazwę użytkownika dla firmowego adresu e-mail."
 
 #. Choose from the list of recommended Google gadgets.
 msgid "choose-from-the-list-of-recommended-google-gadgets"
@@ -2973,9 +2961,8 @@ msgid "convert"
 msgstr "Konwertuj"
 
 #. Copy from Live
-#, fuzzy
 msgid "copy-from-live"
-msgstr "Copy from Live"
+msgstr "Skopiuj z wersji Live"
 
 #. Copy Page
 msgid "copy-page"
@@ -3047,9 +3034,8 @@ msgid "create-time"
 msgstr "Czas utworzenia"
 
 #. Credentials
-#, fuzzy
 msgid "credentials"
-msgstr "Credentials"
+msgstr "Dane użytkownika"
 
 #. Credit Card
 msgid "credit-card"
@@ -3356,14 +3342,12 @@ msgid "dictionary"
 msgstr "Słownik"
 
 #. Diff
-#, fuzzy
 msgid "diff"
-msgstr "Diff"
+msgstr "Różnica"
 
 #. Diffs
-#, fuzzy
 msgid "diffs"
-msgstr "Diffs"
+msgstr "Różnice"
 
 #. Dinner
 msgid "dinner"
@@ -3421,7 +3405,6 @@ msgid "display-of-live-session-data-is-disabled"
 msgstr "Display of live session data is disabled. To enable, set the portaly property <b>{0}</b> to true."
 
 #. Display Order
-#, fuzzy
 msgid "display-order"
 msgstr "Wyświetl zamówienie"
 
@@ -3439,9 +3422,8 @@ msgstr "Styl wyświetlania"
 
 # "Czas wyświetlania" czy "Wyświetl czas"? (marcoos)
 #. Display Time
-#, fuzzy
 msgid "display-time"
-msgstr "Display Time"
+msgstr "Wyświetl czas"
 
 #. Display URL
 msgid "display-url"
@@ -3508,7 +3490,6 @@ msgid "document"
 msgstr "Dokument"
 
 #. Documents Listing
-#, fuzzy
 msgid "documents-listing"
 msgstr "Dokumenty"
 
@@ -3581,14 +3562,12 @@ msgid "drafts"
 msgstr "Szkice"
 
 #. Driving Directions
-#, fuzzy
 msgid "driving-directions"
-msgstr "Driving Directions"
+msgstr "Instrukcje dojazdu"
 
 #. Due Date
-#, fuzzy
 msgid "due-date"
-msgstr "Due Date"
+msgstr "Termin"
 
 #. Duration
 msgid "duration"
@@ -3769,9 +3748,8 @@ msgid "edit-settings-for-x-in-group"
 msgstr "Edutuj ustawienia dla {0} w grupie:"
 
 #. Edit Stock Quantity
-#, fuzzy
 msgid "edit-stock-quantity"
-msgstr "Edit Stock Quantity"
+msgstr "Edytuj ilość w magazynie"
 
 #. Edit Structure
 msgid "edit-structure"
@@ -3896,7 +3874,6 @@ msgid "email"
 msgstr "E-mail"
 
 #. Emails
-#, fuzzy
 msgid "emails"
 msgstr "E-maile"
 
@@ -3966,7 +3943,7 @@ msgstr "Włącz komentarze"
 
 #. Enable Ratings
 msgid "enable-ratings"
-msgstr ""
+msgstr "Włącz ocenianie"
 
 #. Enabled
 msgid "enabled"
@@ -4001,9 +3978,8 @@ msgid "enter-a-blank-entry-to-disable-email-forwarding"
 msgstr "Wyczyszczenie pola spowoduje wyłączenie przekazywania e-maili."
 
 #. Enter a blank PayPal email address to disable PayPal. Select the accepted credit cards to record payments using credit cards. Payments will not be required if PayPal is disabled and there are no accepted credit cards.
-#, fuzzy
 msgid "enter-a-blank-paypal-email-address-to-disable-paypal"
-msgstr "Enter a blank PayPal email address to disable PayPal. Select the accepted credit cards to record payments using credit cards. Payments will not be required if PayPal is disabled and there are no accepted credit cards."
+msgstr "Podaj pusty ades e-mail PayPal, aby wyłączyć PayPal. Aby zapisać płatności za pomocą kart kredytowych, należy wybrać zaakceptowane karty kredytowe. Płatności nie będą wymagane jeśli PayPal jest wyłączony i nie ma zaakceptowanych kart kredytowych."
 
 #. Enter a name
 msgid "enter-a-name"
@@ -4042,18 +4018,16 @@ msgid "enter-one-mail-host-name-per-line-for-all-additional-mail-host-names-besi
 msgstr "Wpisz nazwę jednego serwera pocztowego <b>na linię</b> dla wszystkich dodatkowych serwerów oprócz <i>{0}</i>."
 
 #. Enter one role name <b>per line</b>. A user must belong to one of these roles in order to add this plugin to a page.
-#, fuzzy
 msgid "enter-one-role-name-per-line-a-user-must-belong-to-one-of-these-roles-in-order-to-add-this-plugin-to-a-page"
-msgstr "Wpisz jedną rolę <b>na linię</b>. Użytkownik musi mieć przypisaną jedną z tych ról, aby móc dodać portlet do strony."
+msgstr "Wpisz po jednej roli <b>na linię</b>. Użytkownik musi mieć przypisaną jedną z tych ról, aby móc dodać wtyczkę do strony."
 
 #. Enter one role name <b>per line</b>. A user must belong to one of these roles in order to add this portlet to a page.
 msgid "enter-one-role-name-per-line-a-user-must-belong-to-one-of-these-roles-in-order-to-add-this-portlet-to-a-page"
 msgstr "Wpisz jedną rolę <b>na linię</b>. Użytkownik musi mieć przypisaną jedną z tych ról, aby móc dodać portlet do strony."
 
 #. Enter one screen name <b>per line</b> to reserve the screen name.
-#, fuzzy
 msgid "enter-one-screen-name-per-line-to-reserve-the-screen-name"
-msgstr "Wpisz jedno ID użytkownika <b>na linię</b>, aby je zarezerwować."
+msgstr "Wpisz po jednym ID użytkownika <b>na linię</b>, aby je zarezerwować."
 
 #. Enter one URL <b>per line</b>.
 msgid "enter-one-url-per-line"
@@ -4064,13 +4038,12 @@ msgid "enter-one-user-email-address-per-line-to-reserve-the-user-email-address"
 msgstr "Wpisz jeden adres e-mail <b>na linię</b>, aby go zarezerwować."
 
 #. Enter rank and minimum post pairs <b>per line</b>. Users will be displayed with a rank based on their number of posts.
-#, fuzzy
 msgid "enter-rank-and-minimum-post-pairs-per-line"
-msgstr "Enter rank and minimum post pairs <b>per line</b>. Users will be displayed with a rank based on their number of posts."
+msgstr "Wpisz po jednej parze \"ranga, minimalna liczba postów\" <b>w linii</b>. Użytkownicy będą wyświetlani z rangą opartą na liczbie ich postów."
 
 #. Enter text below to refine the list of tags.
 msgid "enter-text-below-to-refine-the-list-of-tags"
-msgstr ""
+msgstr "Aby uszczegółowić listę etykiet, wprowadź tekst poniżej."
 
 #. Enter the default community names <b>per line</b> that are associated with newly created users.
 msgid "enter-the-default-community-names-per-line-that-are-associated-with-newly-created-users"
@@ -4093,9 +4066,8 @@ msgid "enter-the-friendly-url-that-will-be-used-by-both-public-and-private-pages
 msgstr "Wpisz przyjazny URL, który będzie używany zarówno przez publiczne, jaki i prywatne strony."
 
 #. Enter the name, image, and priority level in descending order. Threads with a higher priority are displayed before threads with a lower priority. The name is the display name of the priority. The image is the display image of the priority and can be a complete URL or a path relative to the theme.
-#, fuzzy
 msgid "enter-the-name,-image,-and-priority-level-in-descending-order"
-msgstr "Enter the name, image, and priority level in descending order. Threads with a higher priority are displayed before threads with a lower priority. The name is the display name of the priority. The image is the display image of the priority and can be a complete URL or a path relative to the theme."
+msgstr "Wprowadź nazwę, obraz i priorytet w porządku malejącym. Wątki z wyższym proprytetem wyświetlane sa przed wątkami z niższym priorytetem. Nazwa określa nazwę priorytetu, obraz to obraz dla priorytetu - może być on podany jako pełen adres URL lub jako ścieżka względem położenia motywu."
 
 #. Enter the public and private virtual host that will map to the public and private friendly URL.
 msgid "enter-the-public-and-private-virtual-host-that-will-map-to-the-public-and-private-friendly-url"
@@ -4200,9 +4172,8 @@ msgid "expand-all"
 msgstr "Rozwiń wszystko"
 
 #. Expert
-#, fuzzy
 msgid "expert"
-msgstr "Expert"
+msgstr "Ekspert"
 
 #. Expiration Date
 msgid "expiration-date"
@@ -4213,23 +4184,20 @@ msgid "expiration-enabled-help"
 msgstr "Jeśli to pole jest zaznaczone, użytkownik musi zmienić hasło po upływie danego czasu."
 
 #. Expiration Enabled
-#, fuzzy
 msgid "expiration-enabled"
-msgstr "Data wygaśnięcia"
+msgstr "Wygasanie włączone"
 
 #. Expiration
 msgid "expiration"
 msgstr "Wygaśnięcie"
 
 #. Expire
-#, fuzzy
 msgid "expire"
 msgstr "Przeterminuj"
 
 #. Expired
-#, fuzzy
 msgid "expired"
-msgstr "Przeterminowany"
+msgstr "Wygaśnięty"
 
 #. Enable Journal data export.
 msgid "export-15-data"
@@ -4490,9 +4458,8 @@ msgid "folder"
 msgstr "Folder"
 
 #. Folders Listing
-#, fuzzy
 msgid "folders-listing"
-msgstr "Folder Display Settings"
+msgstr "Ustawienia wyświetlania folderów"
 
 #. Folders per Page
 msgid "folders-per-page"
@@ -4587,14 +4554,12 @@ msgid "fr_en"
 msgstr "Francuski na angielski"
 
 #. Framework Version
-#, fuzzy
 msgid "framework-version"
-msgstr "Dodaj wersję frameworku"
+msgstr "Wersja frameworku"
 
 #. Framework Versions
-#, fuzzy
 msgid "framework-versions"
-msgstr "Dodaj wersję frameworku"
+msgstr "Wersje frameworku"
 
 #. Free Memory
 msgid "free-memory"
@@ -4629,9 +4594,8 @@ msgid "ftp"
 msgstr "FTP"
 
 #. Full Name
-#, fuzzy
 msgid "full-name"
-msgstr "Full Name"
+msgstr "Pełna nazwa"
 
 #. Full Screen
 msgid "full-screen"
@@ -4671,19 +4635,16 @@ msgid "german"
 msgstr "Niemiecki"
 
 #. Get Directions
-#, fuzzy
 msgid "get-directions"
-msgstr "Get Directions"
+msgstr "Opis dojazdu"
 
 #. Get Map
-#, fuzzy
 msgid "get-map"
-msgstr "Get Map"
+msgstr "Mapa"
 
 #. Get Password
-#, fuzzy
 msgid "get-password"
-msgstr "Get Password"
+msgstr "Hasło"
 
 #. Get Quote
 #, fuzzy
@@ -4852,22 +4813,19 @@ msgstr "Wykresy historyczne"
 
 #. This determines the number of previous passwords to keep in the history.
 msgid "history-count-help"
-msgstr ""
+msgstr "Ta wartość określa liczbę poprzednich haseł, które będa przechowywane w historii."
 
 #. History Count
-#, fuzzy
 msgid "history-count"
-msgstr "Zniżka"
+msgstr "Liczba haseł w hostorii"
 
 #. If this is checked, the portal keeps a history of the user's previous passwords and prevents them from reusing an old password.
-#, fuzzy
 msgid "history-enabled-help"
-msgstr "Jeżeli ta opcja jest zaznaczona użytkownik może zmieniać swoje hasło"
+msgstr "Jeżeli ta opcja jest zaznaczona, poprzednie hasła użytkownika sa zapisywane, co zapobiega korzystaniu ze starych haseł."
 
 #. History Enabled
-#, fuzzy
 msgid "history-enabled"
-msgstr "Włączony"
+msgstr "Historia włączona"
 
 #. Holiday
 msgid "holiday"
@@ -4959,9 +4917,8 @@ msgid "id"
 msgstr "ID"
 
 #. If the discount type is <i>Free Shipping</i>, then shipping charges are subtracted from the order. If the discount type is <i>Tax Free</i>, then tax charges are subtracted from the order.
-#, fuzzy
 msgid "if-the-discount-type-is-free-shipping,-then-shipping-charges-are-subtracted-from-the-order"
-msgstr "If the discount type is <i>Free Shipping</i>, then shipping charges are subtracted from the order. If the discount type is <i>Tax Free</i>, then tax charges are subtracted from the order."
+msgstr "Jeśli typ rabatu to <i>darmowa wysyłka</i>, to opłaty za wysyłkę są odejmowane od zamówienia. Jeśli typ rabatu to <i>bez podatku</i>, to podatki są odejmowane od zamówienia."
 
 #. If the user is valid and the user exists in the LDAP server but not in Liferay, the user will be synchronized from the LDAP server to Liferay. Below is a mapping of Liferay attributes and the pair name used to populate the Liferay field from LDAP.
 msgid "if-the-user-is-valid-and-the-user-exists-in-the-ldap-server-but-not-in-liferay"
@@ -4997,14 +4954,12 @@ msgid "images"
 msgstr "Obrazki"
 
 #. Impersonate User
-#, fuzzy
 msgid "impersonate-user"
-msgstr "Wciel się w użytkownika"
+msgstr "Przejmij tożsamość użytkownika"
 
 #. Impersonate
-#, fuzzy
 msgid "impersonate"
-msgstr "Impersonate"
+msgstr "Przejmij tożsamość"
 
 #. Enable Journal data import.
 #, fuzzy
@@ -5062,14 +5017,12 @@ msgid "in-progress"
 msgstr "In Progress"
 
 #. In Stock
-#, fuzzy
 msgid "in-stock"
-msgstr "In Stock"
+msgstr "W magazynie"
 
 #. In the case where a customer completes an order that contains items from many suppliers: the customer will receive a normal confirmation email, each supplier will receive a confirmation email with the subset of items that belong to that supplier, and all the Shopping Administrators will receive copies of emails that the customer and suppliers receive.
-#, fuzzy
 msgid "in-the-case-where-a-customer-completes-an-order-that-contains-items-from-many-suppliers"
-msgstr "In the case where a customer completes an order that contains items from many suppliers: the customer will receive a normal confirmation email, each supplier will receive a confirmation email with the subset of items that belong to that supplier, and all the Shopping Administrators will receive copies of emails that the customer and suppliers receive."
+msgstr "W przypadku gdy klient złoży zamówienie zawierające towary od wielu dostawców, to otrzyma on zwykły e-mail z potwierdzeniem, każdy z dostawców otrzyma e-mail z dostarczanymi przez niego towarami, a administratorzy sklepu otrzymają kopie wyżej wymienionych e-maili."
 
 #. Inactive User
 msgid "inactive-user"
@@ -5108,9 +5061,8 @@ msgid "industry"
 msgstr "Branża"
 
 #. Inherit look and feel from the private root node?
-#, fuzzy
 msgid "inherit-look-and-feel-from-the-private-root-node"
-msgstr "Odziedziczyć look and feel od prywantego głównego węzła?"
+msgstr ""
 
 #. Inherit look and feel from the public root node?
 #, fuzzy
@@ -5191,14 +5143,12 @@ msgid "insurance"
 msgstr "Ubezpieczenie"
 
 #. Interest Paid
-#, fuzzy
 msgid "interest-paid"
-msgstr "Interest Paid"
+msgstr "Odsetki zapłacone"
 
 #. Interest Rate
-#, fuzzy
 msgid "interest-rate"
-msgstr "Interest Rate"
+msgstr "Stopa procentowa"
 
 #. Intermediate
 #, fuzzy
@@ -5230,9 +5180,8 @@ msgid "is-temporarily-unavailable"
 msgstr "Portlet: {0} tymczasowo niedostępny."
 
 #. Is this article template driven?
-#, fuzzy
 msgid "is-this-article-template-driven"
-msgstr "Is this article template driven?"
+msgstr "Czy ten artykuł jest oparty na wzorcach?"
 
 #. Is this template attached to a structure?
 msgid "is-this-template-attached-to-a-structure"
@@ -5255,34 +5204,28 @@ msgid "italic"
 msgstr "Kursywa"
 
 #. Item Description
-#, fuzzy
 msgid "item-description"
-msgstr "Item Description"
+msgstr "Opis pozycji"
 
 #. Item Information
-#, fuzzy
 msgid "item-information"
-msgstr "Item Information"
+msgstr "Informacja o pozycji"
 
 #. Item Name
-#, fuzzy
 msgid "item-name"
-msgstr "Item Name"
+msgstr "Nazwa pozycji"
 
 #. Item Total
-#, fuzzy
 msgid "item-total"
-msgstr "Item Total"
+msgstr "Wszystkich pozycji"
 
 #. Item
-#, fuzzy
 msgid "item"
-msgstr "Item"
+msgstr "Pozycja"
 
 #. Items
-#, fuzzy
 msgid "items"
-msgstr "Items"
+msgstr "Pozycje"
 
 #. Japanese to English
 msgid "ja_en"
@@ -5313,9 +5256,8 @@ msgid "javascript"
 msgstr "JavaScript"
 
 #. JBoss Prefix
-#, fuzzy
 msgid "jboss-prefix"
-msgstr "JBoss Prefix"
+msgstr "Prefiks JBoss"
 
 #. Job Class
 #, fuzzy
@@ -5510,9 +5452,8 @@ msgid "leaderboard"
 msgstr "Leaderboard"
 
 #. Leave a copy of the forwarded message?
-#, fuzzy
 msgid "leave-a-copy-of-the-forwarded-message"
-msgstr "Leave a copy of the forwarded message?"
+msgstr "Pozostawiać kopię przekazanej wiadomości?"
 
 #. Leave Edit Preferences
 #, fuzzy
@@ -5611,37 +5552,32 @@ msgid "links"
 msgstr "Odnośniki"
 
 #. List All
-#, fuzzy
 msgid "list-all"
-msgstr "List All"
+msgstr "Wyświetl wszystkie"
 
 #. List name:
-#, fuzzy
 msgid "list-name"
-msgstr "List name:"
+msgstr "Nazwa listy:"
 
 #. List of plugins was last refreshed on {0}.
 msgid "list-of-plugins-was-last-refreshed-on-x"
 msgstr "Lista wtyczek została ostatnio odświeżona {0}."
 
 #. List users with the permission to perform the action
-#, fuzzy
 msgid "list-users-with-the-permission-to-perform-the-action"
-msgstr "List users with the permission to perform the action"
+msgstr "Wyświetl listę użytkowników z uprawnieniami do wykonania tej akcji"
 
 #. Live Session
-#, fuzzy
 msgid "live-session"
-msgstr "Aktywne sesje"
+msgstr "Sesja live"
 
 #. Live Sessions
 msgid "live-sessions"
 msgstr "Aktywne sesje"
 
 #. Live
-#, fuzzy
 msgid "live"
-msgstr "Line"
+msgstr "Live"
 
 #. Loan Amount
 #, fuzzy
@@ -5678,19 +5614,16 @@ msgid "locked"
 msgstr "Zablokowany"
 
 #. This determines the amount of time that a user's account is locked.
-#, fuzzy
 msgid "lockout-duration-help"
-msgstr "Faktyczny czas trwania"
+msgstr "Określa czas przez jaki zablokowane jest konto użytkownika"
 
 #. Lockout Duration
-#, fuzzy
 msgid "lockout-duration"
-msgstr "Faktyczny czas trwania"
+msgstr "Czas blokady"
 
 #. If this is checked, a user can attempt to login a certain number of times before their account is locked.
-#, fuzzy
 msgid "lockout-enabled-help"
-msgstr "Jeżeli ta opcja jest zaznaczona użytkownik może zmieniać swoje hasło"
+msgstr "Jeżeli ta opcja jest zaznaczona użytkownik może próbować zalogować się określoną liczbę razy zanim jego konto zostanie zablokowane."
 
 #. Lockout Enabled
 #, fuzzy
@@ -5698,7 +5631,6 @@ msgid "lockout-enabled"
 msgstr "Source Input Enabled"
 
 #. Lockout
-#, fuzzy
 msgid "lockout"
 msgstr "Zablokuj"
 
@@ -5711,7 +5643,6 @@ msgid "login-url"
 msgstr "URL logowania"
 
 #. Login
-#, fuzzy
 msgid "login"
 msgstr "Login"
 
@@ -5746,7 +5677,6 @@ msgid "lower-case-letters"
 msgstr "Małe litery"
 
 #. Lunch
-#, fuzzy
 msgid "lunch"
 msgstr "Lunch"
 
@@ -5855,9 +5785,8 @@ msgid "match-whole-words"
 msgstr "Match Whole Words"
 
 #. Max Qty
-#, fuzzy
 msgid "max-qty"
-msgstr "Max Qty"
+msgstr "Maksymalna ilość"
 
 #. Maximize Links
 #, fuzzy
@@ -5898,9 +5827,8 @@ msgid "maximum"
 msgstr "Maksimum"
 
 #. Me
-#, fuzzy
 msgid "me"
-msgstr "Me"
+msgstr "Ja"
 
 #. Medium Image URL
 msgid "medium-image-url"
@@ -5963,9 +5891,8 @@ msgid "message"
 msgstr "Wiadomość"
 
 #. Messages Per Inbox Preview
-#, fuzzy
 msgid "messages-per-inbox-preview"
-msgstr "Messages Per Inbox Preview"
+msgstr "Liczba wiadomości w podglądzie skrzynki odbiorczej"
 
 #. Messages Per Page
 msgid "messages-per-page"
@@ -5976,17 +5903,14 @@ msgid "messages"
 msgstr "Wiadomości"
 
 #. Meta Description
-#, fuzzy
 msgid "meta-description"
-msgstr "Meta Description"
+msgstr "Opis meta"
 
 #. Meta Keywords
-#, fuzzy
 msgid "meta-keywords"
-msgstr "Meta Keywords"
+msgstr "Słowa kluczowe meta"
 
 #. Meta Robots
-#, fuzzy
 msgid "meta-robots"
 msgstr "Meta Robots"
 
@@ -6023,9 +5947,8 @@ msgid "millimeter"
 msgstr "Millimetr"
 
 #. Min Qty
-#, fuzzy
 msgid "min-qty"
-msgstr "Min Qty"
+msgstr "Minimalna ilość"
 
 #. Mina
 #, fuzzy
@@ -6079,14 +6002,12 @@ msgid "minutes"
 msgstr "Minut"
 
 #. Miscellaneous
-#, fuzzy
 msgid "miscellaneous"
-msgstr "Miscellaneous"
+msgstr "Różne"
 
 #. (mm/dd/yyyy)
-#, fuzzy
 msgid "mm-dd-yyyy"
-msgstr "(mm/dd/yyyy)"
+msgstr "(dd/mm/yyyy)"
 
 #. Mobile Devices
 msgid "mobile-devices"
@@ -6173,9 +6094,8 @@ msgid "multi-selection-list"
 msgstr "Lista wielokrotnego wyboru"
 
 #. Must cart quantities be a multiple of the item's minimum quantity?
-#, fuzzy
 msgid "must-cart-quantities-be-a-multiple-of-the-item's-minimum-quantity"
-msgstr "Must cart quantities be a multiple of the item's minimum quantity?"
+msgstr "Czy ilość w koszyku musi być wielokrotnością minimalnej ilości dla pozycji?"
 
 #. My Account
 msgid "my-account"
@@ -6226,9 +6146,8 @@ msgid "my-products"
 msgstr "Moje produkty"
 
 #. (n) signifies narrow portlets and (w) signifies wide portlets
-#, fuzzy
 msgid "n-signifies-narrow-portlets-and-w-signifies-wide-portlets"
-msgstr "(n) signifies narrow portlets and (w) signifies wide portlets"
+msgstr "(n) oznacza wąskie portlety, a (w) oznacza szerokie portlety"
 
 #. Name
 msgid "name"
@@ -6336,9 +6255,8 @@ msgid "next"
 msgstr "Następna"
 
 #. Nickname
-#, fuzzy
 msgid "nickname"
-msgstr "Ksywka"
+msgstr "Pseudonim"
 
 #. Dutch to English
 msgid "nl_en"
@@ -6398,9 +6316,8 @@ msgid "no-download"
 msgstr "No Download"
 
 #. No Due Date
-#, fuzzy
 msgid "no-due-date"
-msgstr "No Due Date"
+msgstr "Bez terminu"
 
 #. No end date
 msgid "no-end-date"
@@ -6843,9 +6760,8 @@ msgid "other"
 msgstr "Inne"
 
 #. Out of Stock
-#, fuzzy
 msgid "out-of-stock"
-msgstr "Out of Stock"
+msgstr "Brak w magazynie"
 
 #. Outgoing SMTP Server
 msgid "outgoing-smtp-server"
@@ -8558,7 +8474,7 @@ msgstr "Same as Billing"
 
 #. Same for All
 msgid "same-for-all"
-msgstr ""
+msgstr "Jednakowo dla wszystkich"
 
 #. Same Page
 #, fuzzy
@@ -8795,31 +8711,31 @@ msgstr "Wybierz odbiorców"
 
 #. Select the action that this role can perform on the <i>{0}</i> portlet.
 msgid "select-the-action-that-this-role-can-perform-on-the-x-portlet"
-msgstr ""
+msgstr "Wybierz akcję na portlecie <i>{0}</i>, którą może wykonywać użytkownik w tej roli."
 
 #. Select the action that this role can perform on the <i>{0}</i> resource.
 msgid "select-the-action-that-this-role-can-perform-on-the-x-resource"
-msgstr ""
+msgstr "Wybierz akcję na zasobie <i>{0}</i>, którą może wykonywać użytkownik w tej roli."
 
 #. Select the communities where this role can perform the <i>{0}</i> action on the {1} portlet.
 msgid "select-the-communities-where-this-role-can-perform-the-x-action-on-the-x-portlet"
-msgstr ""
+msgstr "Wybierz społeczność gdzie użytkownik w tej roli może wykonywać akcję <i>{0}</i> na portlecie {1}."
 
 #. Select the communities where this role can perform the <i>{0}</i> action on the {1} resource.
 msgid "select-the-communities-where-this-role-can-perform-the-x-action-on-the-x-resource"
-msgstr ""
+msgstr "Wybierz społeczność gdzie użytkownik w tej roli może wykonywać akcję <i>{0}</i> na zasobie {1}."
 
 #. Select the scope of the action that this role can perform on the <i>{0}</i> portlet.
 msgid "select-the-scope-of-the-action-that-this-role-can-perform-on-the-x-portlet"
-msgstr ""
+msgstr "Wybierz zakres akcji na portlecie <i>{0}</i>, którą może wykonywać użytkownik w tej roli."
 
 #. Select the scope of the action that this role can perform on the <i>{0}</i> resource.
 msgid "select-the-scope-of-the-action-that-this-role-can-perform-on-the-x-resource"
-msgstr ""
+msgstr "Wybierz zakres akcji na zasobie <i>{0}</i>, którą może wykonywać użytkownik w tej roli."
 
 #. Select the scope of the action that this role can perform on the <i>{0}</i>.
 msgid "select-the-scope-of-the-action-that-this-role-can-perform-on-the-x"
-msgstr ""
+msgstr "Wybierz zakres akcji na <i>{0}</i>, którą może wykonywać użytkownik w tej roli."
 
 #. Select the type of editor to use while editing xml and xsl.
 msgid "select-the-type-of-editor-to-use-while-editing-xml-and-xsl"
@@ -10180,7 +10096,7 @@ msgstr "The verse could not be found."
 
 #. The
 msgid "the"
-msgstr ""
+msgstr " "
 
 #. Theme Packages
 msgid "theme-packages"
@@ -10781,11 +10697,11 @@ msgstr "Prześlij obrazek w formacie GIF lub JPEG, o rozmiarach nie większych n
 
 #. Upload a logo for the private pages that will be used instead of the default enterprise logo.
 msgid "upload-a-logo-for-the-private-pages-that-will-be-used-instead-of-the-default-enterprise-logo"
-msgstr ""
+msgstr "Wyślij logo, które będzie używane na prywatnych stronach zamiast domyślnego logo firmy."
 
 #. Upload a logo for the public pages that will be used instead of the default enterprise logo.
 msgid "upload-a-logo-for-the-public-pages-that-will-be-used-instead-of-the-default-enterprise-logo"
-msgstr ""
+msgstr "Wyślij logo, które będzie używane na publicznych stronach zamiast domyślnego logo firmy."
 
 #. Upload a WAR file to install a layout template, portlet, or theme.
 msgid "upload-a-war-file-to-install-a-layout-template,-portlet,-or-theme"
@@ -11140,7 +11056,7 @@ msgstr "Uwaga! Ze względu na bezczynność Twoja sesja wygaśnie w ciągu {0} m
 
 #. This determines how long before a password expires that the user will be notified.
 msgid "warning-time-help"
-msgstr ""
+msgstr "Wartość ta okresla na ile czasu przed wygaśnięciem hasła użytkownik zostanie powiadomiony o terminie wygaśnięcia."
 
 #. Warning Time
 msgid "warning-time"
@@ -11804,7 +11720,7 @@ msgstr "Twój koszyk jest pusty."
 
 #. Your current portlet information is as follows:
 msgid "your-current-portlet-information-is-as-follows"
-msgstr ""
+msgstr "Bieżące informacje portletu są następujące:"
 
 #. Your first page must be a portlet page.
 msgid "your-first-page-must-be-a-portlet-page"
