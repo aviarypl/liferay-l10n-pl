@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-18 20:33+0100\n"
-"Last-Translator: wadim dziedzic <nikdo@aviary.pl>\n"
+"PO-Revision-Date: 2007-08-19 15:35+0100\n"
+"Last-Translator: wadim dziedzic <wdziedzic@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,11 +21,11 @@ msgstr "ltr"
 
 #. left
 msgid "lang.line.begin"
-msgstr "left"
+msgstr "lewo"
 
 #. right
 msgid "lang.line.end"
-msgstr "right"
+msgstr "prawo"
 
 # #
 # # Portlet titles
@@ -176,7 +176,7 @@ msgstr "Narządzia sieciowe"
 
 #. Image Gallery
 msgid "javax.portlet.title.31"
-msgstr "Galeria obrazków"
+msgstr "Galeria obrazów"
 
 #. Today in Christian History
 msgid "javax.portlet.title.32"
@@ -601,11 +601,11 @@ msgstr "Folder biblioteki dokumentów"
 
 #. Image Gallery Folder
 msgid "model.resource.com.liferay.portlet.imagegallery.model.IGFolder"
-msgstr "Folder galerii obrazków"
+msgstr "Folder galerii obrazów"
 
 #. Image Gallery Image
 msgid "model.resource.com.liferay.portlet.imagegallery.model.IGImage"
-msgstr "Obrazek galerii obrazków"
+msgstr "Obraz galerii obrazów"
 
 #. Journal Article
 msgid "model.resource.com.liferay.portlet.journal.model.JournalArticle"
@@ -740,7 +740,7 @@ msgstr "Dodaj grupę"
 
 #. Add Image
 msgid "action.ADD_IMAGE"
-msgstr "Dodaj obrazek"
+msgstr "Dodaj obraz"
 
 #. Add Instance
 msgid "action.ADD_INSTANCE"
@@ -844,7 +844,7 @@ msgstr "Zablokuj użytkownika"
 
 #. Configuration
 msgid "action.CONFIGURATION"
-msgstr "Konfiguracja"
+msgstr "Konfiguruj"
 
 #. Delete
 msgid "action.DELETE"
@@ -1066,9 +1066,8 @@ msgid "action"
 msgstr "Akcja"
 
 #. Activate Staging
-#, fuzzy
 msgid "activate-staging"
-msgstr "Aktywuj Staging"
+msgstr "Włącz testowanie"
 
 #. Activate
 msgid "activate"
@@ -1076,7 +1075,7 @@ msgstr "Aktywuj"
 
 #. Active
 msgid "active"
-msgstr "Aktywny"
+msgstr "Aktywna"
 
 #. Actual Duration
 msgid "actual-duration"
@@ -1112,11 +1111,11 @@ msgstr "Typ reklam"
 
 #. Add a CSS rule for all portlets like this one.
 msgid "add-a-css-rule-for-all-portlets-like-this-one"
-msgstr "Dodaj regułę CSS dla wszystkich portletów takich jak ten."
+msgstr "Proszę dodać reguły CSS dla wszystkich portletów takich jak ten."
 
 #. Add a CSS rule for just this portlet.
 msgid "add-a-css-rule-for-just-this-portlet"
-msgstr "Dodaj regułę CSS tylko dla tego portletu."
+msgstr "Proszę dodać reguły CSS tylko dla tego portletu."
 
 #. Add Address
 msgid "add-address"
@@ -1124,15 +1123,15 @@ msgstr "Dodaj adres"
 
 #. Add all ISBN numbers separated by spaces.
 msgid "add-all-isbn-numbers-separated-by-spaces"
-msgstr "Dodaj wszystkie numery ISBN oddzielone spacjami."
+msgstr "Proszę dodać wszystkie numery ISBN oddzielone spacjami."
 
 #. Add all ticker symbols separated by spaces.
 msgid "add-all-ticker-symbols-separated-by-spaces"
-msgstr "Dodaj wszystkie symbole giełdowe oddzielone spacjami."
+msgstr "Proszę dodać wszystkie symbole giełdowe oddzielone spacjami."
 
 #. Add another form field.
 msgid "add-another-form-field"
-msgstr "Dodaj kolejne pole formularza."
+msgstr "Proszę dodać kolejne pole formularza."
 
 #. Add Article
 msgid "add-article"
@@ -1152,7 +1151,7 @@ msgstr "Dodaj kategorię"
 
 #. Add Child Category
 msgid "add-child-category"
-msgstr "Dodaj potomną kategorię"
+msgstr "Dodaj kategorię potomną"
 
 #. Add Child Folder
 msgid "add-child-folder"
@@ -1160,7 +1159,7 @@ msgstr "Dodaj podfolder"
 
 #. Add child pages.
 msgid "add-child-pages"
-msgstr "Dodaj podstrony."
+msgstr "Proszę dodać podstrony."
 
 #. Add Choice
 msgid "add-choice"
@@ -1180,11 +1179,11 @@ msgstr "Dodaj kontakt"
 
 #. Add content and modify where its displayed on the page.
 msgid "add-content-and-modify-where-its-displayed-on-the-page"
-msgstr "Dodaj zawartość i zmień miejsce jej wyświetlania na stronie."
+msgstr "Proszę dodać treść i ew. zmienić miejsce jej wyświetlania na stronie."
 
 #. Add Content
 msgid "add-content"
-msgstr "Dodaj zawartość"
+msgstr "Dodaj treść"
 
 #. Add Coupon
 msgid "add-coupon"
@@ -1208,7 +1207,7 @@ msgstr "Dodaj wydarzenie"
 
 #. Add Field
 msgid "add-field"
-msgstr "Dodaj polę"
+msgstr "Dodaj pole"
 
 #. Add Firm
 msgid "add-firm"
@@ -1224,11 +1223,11 @@ msgstr "Dodaj wersję frameworku"
 
 #. Add hangman words separated by commas.
 msgid "add-hangman-words-separated-by-commas"
-msgstr "Dodaj wyrazy dla gry \"Wisielec\" oddzielone przecinkami."
+msgstr "Proszę dodać wyrazy dla gry \"Wisielec\" oddzielone przecinkami."
 
 #. Add Image
 msgid "add-image"
-msgstr "Dodaj obrazek"
+msgstr "Dodaj obraz"
 
 #. Add Instance
 msgid "add-instance"
@@ -1280,7 +1279,7 @@ msgstr "Dodaj notatkę"
 
 #. Add options separated by commas.
 msgid "add-options-separated-by-commas"
-msgstr "Dodaj opcje oddzielone przecinkami."
+msgstr "Proszę dodać opcje oddzielone przecinkami."
 
 #. Add Organization
 msgid "add-organization"
@@ -1692,7 +1691,7 @@ msgstr "Wystąpił niespodziewany bład systemowy."
 
 #. And
 msgid "and"
-msgstr "i"
+msgstr "oraz"
 
 #. Anniversary
 msgid "anniversary"
@@ -1767,9 +1766,8 @@ msgid "are-you-sure-you-want-to-block-the-selected-senders"
 msgstr "Czy na pewno zablokować wybrane osoby? Zablokowanie tych osób spowoduje, że nie będziesz dostawał od nich wiadomości."
 
 #. Are you sure you want to copy from live and overwrite the existing staging configuration?
-#, fuzzy
 msgid "are-you-sure-you-want-to-copy-from-live-and-overwrite-the-existing-staging-configuration"
-msgstr "Are you sure you want to copy from live and overwrite the existing staging configuration?"
+msgstr "Czy na pewno skopiować wersję live i nadpisać istniejącą konfigurację testową?"
 
 #. Are you sure you want to deactivate the selected users?
 msgid "are-you-sure-you-want-to-deactivate-the-selected-users"
@@ -1860,9 +1858,8 @@ msgid "are-you-sure-you-want-to-delete-the-selected-user"
 msgstr "Czy na pewno usunąć wybranego użytkownika?"
 
 #. Are you sure you want to delete the staging public and private pages?
-#, fuzzy
 msgid "are-you-sure-you-want-to-delete-the-staging-public-and-private-pages"
-msgstr "Are you sure you want to delete the staging public and private pages?"
+msgstr "Czy na pewno usunąć testowe publiczne i prywatne strony?"
 
 #. Are you sure you want to delete this article?
 msgid "are-you-sure-you-want-to-delete-this-article"
@@ -1969,9 +1966,8 @@ msgid "are-you-sure-you-want-to-permanently-delete-the-selected-users"
 msgstr "Czy na pewno całkowicie usunąć wybranych użytkowników?"
 
 #. Are you sure you want to publish to live and overwrite the existing configuration?
-#, fuzzy
 msgid "are-you-sure-you-want-to-publish-to-live-and-overwrite-the-existing-configuration"
-msgstr "Are you sure you want to publish to live and overwrite the existing configuration?"
+msgstr "Czy na pewno opublikować do wersji live i nadpisać istniejącą konfigurację?"
 
 #. Are you sure you want to remove this component?
 msgid "are-you-sure-you-want-to-remove-this-component"
@@ -2340,7 +2336,7 @@ msgstr "Styl CSS obramowania"
 
 #. Border Width
 msgid "border-width"
-msgstr "Długość obramowania"
+msgstr "Szerokość obramowania"
 
 #. Border
 msgid "border"
@@ -2408,7 +2404,7 @@ msgstr "Po adresie e-mail"
 
 #. By Screen Name
 msgid "by-screen-name"
-msgstr "Po ksywce"
+msgstr "Po nazwie użytkownika"
 
 #. By Time Frame:
 msgid "by-time-frame"
@@ -2733,15 +2729,15 @@ msgstr "Wyczyść pamięć podręczną bazy danych."
 
 #. Click {0}here{1} to be yourself again.
 msgid "click-here-to-be-yourself-again"
-msgstr "Kliknij {0}tutaj{1} aby powrócić do Twojego użytkownika."
+msgstr "Proszę {0}kliknąć tutaj{1} aby powrócić do własnego użytkownika."
 
 #. Click on any tag to edit it.
 msgid "click-on-any-tag-to-edit-it"
-msgstr "Kliknij etykietę, aby ją edytować"
+msgstr "Proszę kliknąć etykietę, aby ją edytować"
 
 #. Click to edit me...
 msgid "click-to-edit-me"
-msgstr "Kliknij, aby mnie edytować..."
+msgstr "Proszę kliknąć aby edytować..."
 
 #. Clickable Emoticons
 msgid "clickable-emoticons"
@@ -3270,7 +3266,7 @@ msgstr "Usuń folder"
 
 #. Delete Image
 msgid "delete-image"
-msgstr "Usuń obrazek"
+msgstr "Usuń obraz"
 
 #. Delete Page
 msgid "delete-page"
@@ -3400,9 +3396,8 @@ msgid "display-depth"
 msgstr "Głębokość wyświetlania"
 
 #. Display of live session data is disabled. To enable, set the portaly property <b>{0}</b> to true.
-#, fuzzy
 msgid "display-of-live-session-data-is-disabled"
-msgstr "Display of live session data is disabled. To enable, set the portaly property <b>{0}</b> to true."
+msgstr "Wyświetlanie danych sesji live jest wyłączone. Aby je włączyć należy ustawić własność portalu <b>{0}</b> na wartość true."
 
 #. Display Order
 msgid "display-order"
@@ -3579,11 +3574,11 @@ msgstr "Holenderski"
 
 #. Edit Article
 msgid "edit-article"
-msgstr "Edytuj artukuł"
+msgstr "Edycja artukułu"
 
 #. Edit Assignments for Community
 msgid "edit-assignments-for-community"
-msgstr "Edytuj przypisania do społeczności"
+msgstr "Edycja przypisania do społeczności"
 
 #. Edit Assignments for Password Policy
 #, fuzzy
@@ -3592,236 +3587,235 @@ msgstr "Edytuj przypisania do roli"
 
 #. Edit Assignments for Role
 msgid "edit-assignments-for-role"
-msgstr "Edytuj przypisania do roli"
+msgstr "Edycja przypisania do roli"
 
 #. Edit Assignments for User Group
 msgid "edit-assignments-for-user-group"
-msgstr "Edytuj przypisania do grupy użytkowników"
+msgstr "Edycja przypisania do grupy użytkowników"
 
 #. Edit Category
 msgid "edit-category"
-msgstr "Edytuj kategorię"
+msgstr "Edycja kategorii"
 
 #. Edit Community Roles for User
-#, fuzzy
 msgid "edit-community-roles-for-user"
-msgstr "Edytuj role użytkownika:"
+msgstr "Edycja ról użytkownika:"
 
 #. Edit Content
 msgid "edit-content"
-msgstr "Edytuj treść"
+msgstr "Edycja treści"
 
 #. Edit Coupon
 msgid "edit-coupon"
-msgstr "Edytuj kupon"
+msgstr "Edycja kuponu"
 
 #. Edit Document
 msgid "edit-document"
-msgstr "Edytuj dokument"
+msgstr "Edycja dokumentu"
 
 #. Edit Entry
 msgid "edit-entry"
-msgstr "Edytuj pozycję"
+msgstr "Edycja pozycji"
 
 #. Edit Firm
 msgid "edit-firm"
-msgstr "Edytuj firmę"
+msgstr "Edycja firmy"
 
 #. Edit Folder
 msgid "edit-folder"
-msgstr "Edytuj folder"
+msgstr "Edycja folderu"
 
 #. Edit Group
 msgid "edit-group"
-msgstr "Edytuj grupę"
+msgstr "Edycja grupy"
 
 #. Edit Groups for Role:
 msgid "edit-groups-for-role"
-msgstr "Edytuj grupy dla roli:"
+msgstr "Edycja grupy dla roli:"
 
 #. Edit Groups for User:
 msgid "edit-groups-for-user"
-msgstr "Edytuj grupy dla użytkownika:"
+msgstr "Edycja grupy dla użytkownika:"
 
 #. Edit Groups
 msgid "edit-groups"
-msgstr "Edytuj grupy"
+msgstr "Edycja grup"
 
 #. Edit Link
 msgid "edit-link"
-msgstr "Edytuj link"
+msgstr "Edycja odnośnika"
 
 #. Edit List
 msgid "edit-list"
-msgstr "Edytuj listę"
+msgstr "Edycja listy"
 
 #. Edit Location
 msgid "edit-location"
-msgstr "Edytuj położenie"
+msgstr "Edycja lokalizacji"
 
 #. Edit Message
 msgid "edit-message"
-msgstr "Edytuj wiadomość"
+msgstr "Edycja wiadomości"
 
 #. Edit Node
 msgid "edit-node"
-msgstr "Edytuj węzeł"
+msgstr "Edycja węzła"
 
 #. Edit Organization
 msgid "edit-organization"
-msgstr "Edutuj organizację"
+msgstr "Edycja organizacji"
 
 #. Edit Page
 msgid "edit-page"
-msgstr "Edytuj stronę"
+msgstr "Edycja strony"
 
 #. Edit Pages for Community
 msgid "edit-pages-for-community"
-msgstr "Edytuj strony dla społeczności"
+msgstr "Edycja stron dla społeczności"
 
 #. Edit Pages Priority
 msgid "edit-pages-priority"
-msgstr "Edytuj priorytet stron"
+msgstr "Edycja priorytetów stron"
 
 #. Edit Pages
 msgid "edit-pages"
-msgstr "Edytuj strony"
+msgstr "Edycja stron"
 
 #. Edit Permissions for
 msgid "edit-permissions-for"
-msgstr "Edytuj uprawnienia dla"
+msgstr "Edycja uprawnienień dla:"
 
 #. Edit Permissions
 msgid "edit-permissions"
-msgstr "Edytuj uprawnienia"
+msgstr "Edycja uprawnień"
 
 #. Edit Preferences
 msgid "edit-preferences"
-msgstr "Edytuj preferencje"
+msgstr "Edycja preferencji"
 
 #. Edit Private Page
 msgid "edit-private-page"
-msgstr "Edytuj prywatną stronę"
+msgstr "Edycja prywatnej strony"
 
 #. Edit Profile
 msgid "edit-profile"
-msgstr "Edytuj profil"
+msgstr "Edycja profilu"
 
 #. Edit Project
 msgid "edit-project"
-msgstr "Edytuj projekt"
+msgstr "Edycja projektu"
 
 #. Edit Public Page
 msgid "edit-public-page"
-msgstr "Edytuj publiczną stronę"
+msgstr "Edycja strony publicznej"
 
 #. Edit Question
 msgid "edit-question"
-msgstr "Edytuj pytanie"
+msgstr "Edycja pytania"
 
 #. Edit Repository
 msgid "edit-repository"
-msgstr "Edytuj repozytorium"
+msgstr "Edycja repozytorium"
 
 #. Edit Role
 msgid "edit-role"
-msgstr "Edytuj rolę"
+msgstr "Edycja roli"
 
 #. Edit Roles for Group:
 msgid "edit-roles-for-group"
-msgstr "Edytuj role grupy:"
+msgstr "Edycja ról grupy:"
 
 #. Edit Roles for User:
 msgid "edit-roles-for-user"
-msgstr "Edytuj role użytkownika:"
+msgstr "Edycja ról użytkownika:"
 
 #. Edit Roles
 msgid "edit-roles"
-msgstr "Edytuj role"
+msgstr "Edycja ról"
 
 #. Edit Script
 msgid "edit-script"
-msgstr "Edytuj skrypt"
+msgstr "Edycja skryptu"
 
 #. Edit Settings for {0} in Group:
 msgid "edit-settings-for-x-in-group"
-msgstr "Edutuj ustawienia dla {0} w grupie:"
+msgstr "Edycja ustawień dla {0} w grupie:"
 
 #. Edit Stock Quantity
 msgid "edit-stock-quantity"
-msgstr "Edytuj ilość w magazynie"
+msgstr "Edycja ilości w magazynie"
 
 #. Edit Structure
 msgid "edit-structure"
-msgstr "Edytuj strukturę"
+msgstr "Edycja struktury"
 
 #. Edit Tag
 msgid "edit-tag"
-msgstr "Edytuj etykietę"
+msgstr "Edycja etykiety"
 
 #. Edit Task
 msgid "edit-task"
-msgstr "Edytuj zadanie"
+msgstr "Edycja zadania"
 
 #. Edit Template
 msgid "edit-template"
-msgstr "Edytuj szablon"
+msgstr "Edycja szablonu"
 
 #. Edit Topic
 msgid "edit-topic"
-msgstr "Edytuj temat"
+msgstr "Edycja tematu"
 
 #. Edit User
 msgid "edit-user"
-msgstr "Edytuj użytkownika"
+msgstr "Edycja użytkownika"
 
 #. Edit Users for Group:
 msgid "edit-users-for-group"
-msgstr "Edytuj użytkowników grupy:"
+msgstr "Edycja użytkowników grupy:"
 
 #. Edit Users for Project:
 msgid "edit-users-for-project"
-msgstr "Edytuj użytkowników projektu:"
+msgstr "Edycja użytkowników projektu:"
 
 #. Edit Users for Role:
 msgid "edit-users-for-role"
-msgstr "Edytuj użytkowników roli:"
+msgstr "Edycja użytkowników roli:"
 
 #. Edit Users for Task:
 msgid "edit-users-for-task"
-msgstr "Edytuj użytkowników zadania:"
+msgstr "Edycja użytkowników zadania:"
 
 #. Edit Users
 msgid "edit-users"
-msgstr "Edytuj użytkowników"
+msgstr "Edycja użytkowników"
 
 #. Edit Wikis for Group:
 msgid "edit-wikis-for-group"
-msgstr "Edytuj Wiki dla grupy:"
+msgstr "Edycja Wiki dla grupy:"
 
 #. Edit Wikis
 msgid "edit-wikis"
-msgstr "Edytuj Wiki"
+msgstr "Edycja Wiki"
 
 #. Edit Local Preferences
 msgid "edit-wsrp-local-preferences"
-msgstr "Edutuj lokalne preferencje"
+msgstr "Edycja lokalnych preferencji"
 
 #. Edit Remote Preferences
 msgid "edit-wsrp-remote-preferences"
-msgstr "Edytuj zdalne preferencje"
+msgstr "Edycja zdalnych preferencji"
 
 #. Edit XML Schema Definition
 msgid "edit-xsd"
-msgstr "Edytuj definicję schematu XML"
+msgstr "Edycja definicji schematu XML"
 
 #. Edit XSL Template
 msgid "edit-xsl-template"
-msgstr "Edytuj szablon XSL"
+msgstr "Edycja szablonu XSL"
 
 #. Edit
 msgid "edit"
-msgstr "Edytuj"
+msgstr "Edycja"
 
 #. Edit Guest
 #, fuzzy
@@ -3979,15 +3973,15 @@ msgstr "Wyczyszczenie pola spowoduje wyłączenie przekazywania e-maili."
 
 #. Enter a blank PayPal email address to disable PayPal. Select the accepted credit cards to record payments using credit cards. Payments will not be required if PayPal is disabled and there are no accepted credit cards.
 msgid "enter-a-blank-paypal-email-address-to-disable-paypal"
-msgstr "Podaj pusty ades e-mail PayPal, aby wyłączyć PayPal. Aby zapisać płatności za pomocą kart kredytowych, należy wybrać zaakceptowane karty kredytowe. Płatności nie będą wymagane jeśli PayPal jest wyłączony i nie ma zaakceptowanych kart kredytowych."
+msgstr "Proszę podać pusty ades e-mail PayPal, aby wyłączyć PayPal. Aby zapisać płatności za pomocą kart kredytowych, należy wybrać zaakceptowane karty kredytowe. Płatności nie będą wymagane jeśli PayPal jest wyłączony i nie ma zaakceptowanych kart kredytowych."
 
 #. Enter a name
 msgid "enter-a-name"
-msgstr "Wprowadź nazwę"
+msgstr "Proszę podać nazwę"
 
 #. Enter a PayPal email address to send all payments to PayPal.
 msgid "enter-a-paypal-email-address-to-send-all-payments-to-paypal"
-msgstr "Wprowadź adres e-mail PayPal, by przesłać wszystkie płatności do PayPal."
+msgstr "Proszę podać adres e-mail PayPal, by przesłać wszystkie płatności do PayPal."
 
 #. Enter Again
 msgid "enter-again"
@@ -3999,83 +3993,83 @@ msgstr "Wpisz dane"
 
 #. Enter in your custom CSS.
 msgid "enter-in-your-custom-css"
-msgstr "Wprowadź własne style CSS."
+msgstr "Własne style CSS:"
 
 #. Enter one city or zip code <b>per line</b>.
 msgid "enter-one-city-or-zip-code-per-line"
-msgstr "Wpisz jedno miasto lub kod pocztowy -  <b>każda pozycja w osobnej linii</b>. "
+msgstr "Proszę podać jedno miasto lub kod pocztowy - <b>każda pozycja w osobnej linii</b>. "
 
 #. Enter one email address <b>per line</b>.
 msgid "enter-one-email-address-per-line"
-msgstr "Wpisz adresy e-mail - <b>każdy w osobnej linii</b> ."
+msgstr "Proszę podać adresy e-mail - <b>każdy w osobnej linii</b> ."
 
 #. Enter one ISBN number <b>per line</b> to add books. You may add up to {0} at a time.
 msgid "enter-one-isbn-number-per-line-to-add-books"
-msgstr "Aby dodać książki, wprowadż ich numery ISBN po jednym <b>w linii</b>. Jednorazowo można dodać do {0} książek."
+msgstr "Aby dodać książki, Proszę podać ich numery ISBN po jednym <b>w linii</b>. Jednorazowo można dodać do {0} książek."
 
 #. Enter one mail host name <b>per line</b> for all additional mail host names besides <i>{0}</i>.
 msgid "enter-one-mail-host-name-per-line-for-all-additional-mail-host-names-besides-x"
-msgstr "Wpisz nazwę jednego serwera pocztowego <b>na linię</b> dla wszystkich dodatkowych serwerów oprócz <i>{0}</i>."
+msgstr "Proszę podać nazwę jednego serwera pocztowego <b>na linię</b> dla wszystkich dodatkowych serwerów oprócz <i>{0}</i>."
 
 #. Enter one role name <b>per line</b>. A user must belong to one of these roles in order to add this plugin to a page.
 msgid "enter-one-role-name-per-line-a-user-must-belong-to-one-of-these-roles-in-order-to-add-this-plugin-to-a-page"
-msgstr "Wpisz po jednej roli <b>na linię</b>. Użytkownik musi mieć przypisaną jedną z tych ról, aby móc dodać wtyczkę do strony."
+msgstr "Proszę podać po jednej roli <b>na linię</b>. Użytkownik musi mieć przypisaną jedną z tych ról, aby móc dodać wtyczkę do strony."
 
 #. Enter one role name <b>per line</b>. A user must belong to one of these roles in order to add this portlet to a page.
 msgid "enter-one-role-name-per-line-a-user-must-belong-to-one-of-these-roles-in-order-to-add-this-portlet-to-a-page"
-msgstr "Wpisz jedną rolę <b>na linię</b>. Użytkownik musi mieć przypisaną jedną z tych ról, aby móc dodać portlet do strony."
+msgstr "Proszę podać jedną rolę <b>na linię</b>. Użytkownik musi mieć przypisaną jedną z tych ról, aby móc dodać portlet do strony."
 
 #. Enter one screen name <b>per line</b> to reserve the screen name.
 msgid "enter-one-screen-name-per-line-to-reserve-the-screen-name"
-msgstr "Wpisz po jednym ID użytkownika <b>na linię</b>, aby je zarezerwować."
+msgstr "Proszę podać po jednym ID użytkownika <b>na linię</b>, aby je zarezerwować."
 
 #. Enter one URL <b>per line</b>.
 msgid "enter-one-url-per-line"
-msgstr "Wpisz adresy URL - <b>każdy w osobnej linii</b>."
+msgstr "Proszę podać adresy URL - <b>każdy w osobnej linii</b>."
 
 #. Enter one user email address <b>per line</b> to reserve the user email address.
 msgid "enter-one-user-email-address-per-line-to-reserve-the-user-email-address"
-msgstr "Wpisz jeden adres e-mail <b>na linię</b>, aby go zarezerwować."
+msgstr "Proszę podać jeden adres e-mail <b>na linię</b>, aby go zarezerwować."
 
 #. Enter rank and minimum post pairs <b>per line</b>. Users will be displayed with a rank based on their number of posts.
 msgid "enter-rank-and-minimum-post-pairs-per-line"
-msgstr "Wpisz po jednej parze \"ranga, minimalna liczba postów\" <b>w linii</b>. Użytkownicy będą wyświetlani z rangą opartą na liczbie ich postów."
+msgstr "Proszę podać po jednej parze \"ranga, minimalna liczba postów\" <b>w linii</b>. Użytkownicy będą wyświetlani z rangą opartą na liczbie ich postów."
 
 #. Enter text below to refine the list of tags.
 msgid "enter-text-below-to-refine-the-list-of-tags"
-msgstr "Aby uszczegółowić listę etykiet, wprowadź tekst poniżej."
+msgstr "Aby uszczegółowić listę etykiet, Proszę podać tekst poniżej."
 
 #. Enter the default community names <b>per line</b> that are associated with newly created users.
 msgid "enter-the-default-community-names-per-line-that-are-associated-with-newly-created-users"
-msgstr "Wpisz domyślne nazwy społeczności, które będą przypisywane nowo tworzonym użytkownikom (<b>jedna na linię</b>)."
+msgstr "Proszę podać domyślne nazwy społeczności, które będą przypisywane nowo tworzonym użytkownikom (<b>jedna na linię</b>)."
 
 #. Enter the default role names <b>per line</b> that are associated with newly created users.
 msgid "enter-the-default-role-names-per-line-that-are-associated-with-newly-created-users"
-msgstr "Wpisz nazwy domyślnych ról, które będą przypisywane nowo dodanym użytkownikom (<b>jedna na linię</b>)."
+msgstr "Proszę podać nazwy domyślnych ról, które będą przypisywane nowo dodanym użytkownikom (<b>jedna na linię</b>)."
 
 #. Enter the default user group names <b>per line</b> that are associated with newly created users.
 msgid "enter-the-default-user-group-names-per-line-that-are-associated-with-newly-created-users"
-msgstr "Wpisz domyślne nazwy grup użytkowników, które będą przypisywane nowo dodanym użytkownikom (<b>jedna na linię</b>). "
+msgstr "Proszę podać domyślne nazwy grup użytkowników, które będą przypisywane nowo dodanym użytkownikom (<b>jedna na linię</b>). "
 
 #. Enter the encryption algorithm used for passwords stored in the LDAP server.
 msgid "enter-the-encryption-algorithm-used-for-passwords-stored-in-the-ldap-server"
-msgstr "Wprowadź algorytm szyfrowania haseł przechowywanych na serwerze LDAP."
+msgstr "Proszę podać algorytm szyfrowania haseł przechowywanych na serwerze LDAP."
 
 #. Enter the friendly url that will be used by both public and private pages.
 msgid "enter-the-friendly-url-that-will-be-used-by-both-public-and-private-pages"
-msgstr "Wpisz przyjazny URL, który będzie używany zarówno przez publiczne, jaki i prywatne strony."
+msgstr "Proszę podać przyjazny URL, który będzie używany zarówno przez publiczne, jaki i prywatne strony."
 
 #. Enter the name, image, and priority level in descending order. Threads with a higher priority are displayed before threads with a lower priority. The name is the display name of the priority. The image is the display image of the priority and can be a complete URL or a path relative to the theme.
 msgid "enter-the-name,-image,-and-priority-level-in-descending-order"
-msgstr "Wprowadź nazwę, obraz i priorytet w porządku malejącym. Wątki z wyższym proprytetem wyświetlane sa przed wątkami z niższym priorytetem. Nazwa określa nazwę priorytetu, obraz to obraz dla priorytetu - może być on podany jako pełen adres URL lub jako ścieżka względem położenia motywu."
+msgstr "Proszę podać nazwę, obraz i priorytet w porządku malejącym. Wątki z wyższym proprytetem wyświetlane sa przed wątkami z niższym priorytetem. Nazwa określa nazwę priorytetu, obraz to obraz dla priorytetu - może być on podany jako pełen adres URL lub jako ścieżka względem położenia motywu."
 
 #. Enter the public and private virtual host that will map to the public and private friendly URL.
 msgid "enter-the-public-and-private-virtual-host-that-will-map-to-the-public-and-private-friendly-url"
-msgstr "Wpisz publicznego i prywatnego wirtualnego hosta, które będą mapowane do publicznego i prywatnego przyjaznego URL."
+msgstr "Proszę podać publiczne i prywatne wirtualne hosty, które będą mapowane do publicznego i prywatnego przyjaznego URL."
 
 #. Enter the search filter that will be used to test the validity of a user. The tokens @company_id@, @email_address@, and @user_id@ are replaced at runtime with the correct values.
 msgid "enter-the-search-filter-that-will-be-used-to-test-the-validity-of-a-user"
-msgstr "Podaj filtr przeszukiwania, który będzie służył do sprawdzenia użytkownika. Znaczniki @company_id@, @email_address@, i @user_id@ są zastępowane odpowiednimi wartościami podczas wykonywania zapytania."
+msgstr "Proszę podać filtr przeszukiwania, który będzie służył do sprawdzenia użytkownika. Znaczniki @company_id@, @email_address@, i @user_id@ są zastępowane odpowiednimi wartościami podczas wykonywania zapytania."
 
 #. Enter the workflow definition below in XML format.
 #, fuzzy
@@ -4084,7 +4078,7 @@ msgstr "Enter the workflow definition below in XML format."
 
 #. Enter up to {0} email addresses of friends you would like to invite. Enter one email address per line.
 msgid "enter-up-to-x-email-addresses-of-friends-you-would-like-to-invite"
-msgstr "Wprowadź do {0} adresów e-mail znajomych, których chcesz zaprosić. Podaj po jednym adresie e-mail w linii."
+msgstr "Proszę podać do {0} adresów e-mail znajomych, których należy zaprosić. Proszę podać po jednym adresie e-mail w linii."
 
 #. Enterprise Logo
 msgid "enterprise-logo"
@@ -4185,7 +4179,7 @@ msgstr "Jeśli to pole jest zaznaczone, użytkownik musi zmienić hasło po upł
 
 #. Expiration Enabled
 msgid "expiration-enabled"
-msgstr "Wygasanie włączone"
+msgstr "Włącz wygasanie"
 
 #. Expiration
 msgid "expiration"
@@ -4418,9 +4412,8 @@ msgid "first-thread"
 msgstr "Pierwszy wątek"
 
 #. First
-#, fuzzy
 msgid "first"
-msgstr "Pierwsza(-y)"
+msgstr "Pierwsza"
 
 #. Flash Attributes
 #, fuzzy
@@ -4769,11 +4762,11 @@ msgstr "Pomoc"
 
 #. Hi {0}. You are impersonating the guest user.
 msgid "hi-x-you-are-impersonating-the-guest-user"
-msgstr "Witaj, {0}. Wcieliłeś się w użytkownika gość (guest)."
+msgstr "Witamy. Użytkownik {0} przejął tożsamość użytkownika gość (guest)."
 
 #. Hi {0}. You are impersonating {1}.
 msgid "hi-x-you-are-impersonating-x"
-msgstr "Witaj, {0}. Wcieliłeś się w użytkownika {1}."
+msgstr "Witamy. Użytkownik {0} przejął tożsamość użytkownika {1}."
 
 #. Hidden Variables
 msgid "hidden-variables"
@@ -4785,7 +4778,7 @@ msgstr "Ukryta"
 
 #. Hide Image
 msgid "hide-image"
-msgstr "Ukryj obrazek"
+msgstr "Ukryj obraz"
 
 #. Hide instances that have already ended
 msgid "hide-instances-that-have-already-ended"
@@ -4825,7 +4818,7 @@ msgstr "Jeżeli ta opcja jest zaznaczona, poprzednie hasła użytkownika sa zapi
 
 #. History Enabled
 msgid "history-enabled"
-msgstr "Historia włączona"
+msgstr "Włącz historię"
 
 #. Holiday
 msgid "holiday"
@@ -4930,15 +4923,15 @@ msgstr "Jeśli {0} to nie Ty, wyloguj się i spróbuj ponownie."
 
 #. Image names must end with one of the following extensions:
 msgid "image-names-must-end-with-one-of-the-following-extensions"
-msgstr "Nazwa obrazka musi kończyć się jednym z następujących rozszerzeń:"
+msgstr "Nazwa obrazu musi kończyć się jednym z następujących rozszerzeń:"
 
 #. Image Position From the Left
 msgid "image-position-from-the-left"
-msgstr "Pozycja obrazka od lewej"
+msgstr "Pozycja obrazu od lewej"
 
 #. Image Position From the Top
 msgid "image-position-from-the-top"
-msgstr "Pozycja obrazka od góry"
+msgstr "Pozycja obrazu od góry"
 
 #. Image Search Key
 #, fuzzy
@@ -4947,11 +4940,11 @@ msgstr "Image Search Key"
 
 #. Image
 msgid "image"
-msgstr "Obrazek"
+msgstr "Obraz"
 
 #. Images
 msgid "images"
-msgstr "Obrazki"
+msgstr "Obrazy"
 
 #. Impersonate User
 msgid "impersonate-user"
@@ -5062,12 +5055,11 @@ msgstr "Branża"
 
 #. Inherit look and feel from the private root node?
 msgid "inherit-look-and-feel-from-the-private-root-node"
-msgstr ""
+msgstr "Czy odziedziczyć wygląd z prywatnego głównego węzła?"
 
 #. Inherit look and feel from the public root node?
-#, fuzzy
 msgid "inherit-look-and-feel-from-the-public-root-node"
-msgstr "Odziedziczyć look and feel od publicznego głównego węzła?"
+msgstr "Odziedziczyć wygląd z publicznego głównego węzła?"
 
 #. Inherit
 msgid "inherit"
@@ -5079,7 +5071,7 @@ msgstr "Inicjuj proces"
 
 #. Insert custom CSS that will loaded after the theme.
 msgid "insert-custom-css-that-will-loaded-after-the-theme"
-msgstr "Wprowadź własny kod CSS, który zostanie załadowany po kodzie motywu."
+msgstr "Własny kod CSS, który zostanie załadowany po kodzie motywu."
 
 #. Inserted in
 #, fuzzy
@@ -5128,7 +5120,7 @@ msgstr "Instancje"
 
 #. Instant Messenger IDs
 msgid "instant-messenger-ids"
-msgstr "Identyfikatory komunikatorów internetowych"
+msgstr "Identyfikatory komunikatorów"
 
 #. Instant Messenger
 msgid "instant-messenger"
@@ -5322,11 +5314,11 @@ msgstr "Język"
 
 #. Large Image URL
 msgid "large-image-url"
-msgstr "Adres URL dużego obrazka"
+msgstr "Adres URL dużego obrazu"
 
 #. Large Image
 msgid "large-image"
-msgstr "Duży obrazek"
+msgstr "Duży obraz"
 
 #. Large Rectangle
 msgid "large-rectangle"
@@ -5402,9 +5394,8 @@ msgid "last-x-templates"
 msgstr "Ostatnie {0} szablonów"
 
 #. Last
-#, fuzzy
 msgid "last"
-msgstr "Ostatnia(-i)"
+msgstr "Ostatnia"
 
 #. Latin
 msgid "latin"
@@ -5481,7 +5472,7 @@ msgstr "Opuść"
 
 #. Left
 msgid "left"
-msgstr "Left"
+msgstr "Lewo"
 
 #. Legal ID
 msgid "legal-id"
@@ -5569,7 +5560,7 @@ msgstr "Wyświetl listę użytkowników z uprawnieniami do wykonania tej akcji"
 
 #. Live Session
 msgid "live-session"
-msgstr "Sesja live"
+msgstr "Aktywna sesja"
 
 #. Live Sessions
 msgid "live-sessions"
@@ -5580,9 +5571,8 @@ msgid "live"
 msgstr "Live"
 
 #. Loan Amount
-#, fuzzy
 msgid "loan-amount"
-msgstr "Loan Amount"
+msgstr "Kwota pożyczki"
 
 #. Locale
 #, fuzzy
@@ -5599,11 +5589,11 @@ msgstr "Profil położenia"
 
 #. Location
 msgid "location"
-msgstr "Położenie"
+msgstr "Lokalizacja"
 
 #. Locations
 msgid "locations"
-msgstr "Położenia"
+msgstr "Lokalizacje"
 
 #. Lock
 msgid "lock"
@@ -5626,9 +5616,8 @@ msgid "lockout-enabled-help"
 msgstr "Jeżeli ta opcja jest zaznaczona użytkownik może próbować zalogować się określoną liczbę razy zanim jego konto zostanie zablokowane."
 
 #. Lockout Enabled
-#, fuzzy
 msgid "lockout-enabled"
-msgstr "Source Input Enabled"
+msgstr "Włącz blokowanie"
 
 #. Lockout
 msgid "lockout"
@@ -5663,9 +5652,8 @@ msgid "long-text"
 msgstr "Długi tekst"
 
 #. Look and Feel
-#, fuzzy
 msgid "look-and-feel"
-msgstr "Look and Feel"
+msgstr "Wygląd"
 
 #. Lookup
 #, fuzzy
@@ -5694,7 +5682,7 @@ msgstr "Serwery pocztowe"
 
 #. Mailing
 msgid "mailing"
-msgstr "Adres korespondencyjny"
+msgstr "korespondencyjny"
 
 #. Main Profile
 msgid "main-profile"
@@ -5728,15 +5716,15 @@ msgstr "Manage List"
 
 #. Manage Task
 msgid "manage-task"
-msgstr "Zarządzaj zadaniem"
+msgstr "Zarządzanie zadaniem"
 
 #. Manage Top Private Pages for
 msgid "manage-top-private-pages-for"
-msgstr "Zarządzaj głównymi prywatnymi stronami dla"
+msgstr "Zarządzanie głównymi prywatnymi stronami dla"
 
 #. Manage Top Public Pages for
 msgid "manage-top-public-pages-for"
-msgstr "Zarządzaj głównymi publicznymi stronami dla"
+msgstr "Zarządzaniegłównymi publicznymi stronami dla"
 
 #. Manage
 msgid "manage"
@@ -5832,11 +5820,11 @@ msgstr "Ja"
 
 #. Medium Image URL
 msgid "medium-image-url"
-msgstr "Adres URL średniego obrazka"
+msgstr "Adres URL średniego obrazu"
 
 #. Medium Image
 msgid "medium-image"
-msgstr "Średni obrazek"
+msgstr "Średni obraz"
 
 #. Medium Rectangle
 msgid "medium-rectangle"
@@ -6127,7 +6115,7 @@ msgstr "Moje wpisy"
 
 #. My Images
 msgid "my-images"
-msgstr "Moje obrazki"
+msgstr "Moje obrazy"
 
 #. My Organization
 msgid "my-organization"
@@ -6534,7 +6522,7 @@ msgstr "Liczba trafień"
 
 #. #. of Images
 msgid "num-of-images"
-msgstr "Liczba obrazków"
+msgstr "Liczba obrazów"
 
 #. #. of Items Per Channel
 msgid "num-of-items-per-channel"
@@ -6873,7 +6861,7 @@ msgstr "Historia haseł"
 
 #. Password Policies
 msgid "password-policies"
-msgstr "Polityki haseł"
+msgstr "Reguły haseł"
 
 #. Password Policy
 msgid "password-policy"
@@ -6938,16 +6926,15 @@ msgstr "Pending"
 
 #. Percentage
 msgid "percentage"
-msgstr "Percentage"
+msgstr "Procent"
 
 #. Performance
 msgid "performance"
 msgstr "Występ"
 
 #. Permission exclusive to members of current location and community?
-#, fuzzy
 msgid "permission-exclusive-to-members-of-current-location-and-community"
-msgstr "Permission exclusive to members of current location and community?"
+msgstr "Uprawnienie tylko dla członków bieżącej społeczności z aktualnej lokalizacji?"
 
 #. Permissions
 msgid "permissions"
@@ -7050,7 +7037,7 @@ msgstr "Skontaktuj się z administratorem, aby skonfigurować właściwy serwer 
 
 #. Please contact the administrator to setup this portlet. If you are the administrator, go to the configuration screen to setup this portlet.
 msgid "please-contact-the-administrator-to-setup-this-portlet"
-msgstr "Skontaktuj się z administratorem, aby skonfigurować ten portlet. Jeżeli jesteś administratorem, przejd do ekranu konfiguracji."
+msgstr "Skontaktuj się z administratorem, aby skonfigurować ten portlet. Jeżeli jesteś administratorem, przejdź do ekranu konfiguracji."
 
 #. Please email all questions to {0}.
 #, fuzzy
@@ -7067,35 +7054,35 @@ msgstr "Podaj plik o odpowiednim rozmiarze."
 
 #. Please enter a friendly url that begins with a slash.
 msgid "please-enter-a-friendly-url-that-begins-with-a-slash"
-msgstr "Wprowadź przyjazny URL rozpoczynający sie od ukośnika (\"/\")."
+msgstr "Proszę podać przyjazny URL rozpoczynający sie od ukośnika (\"/\")."
 
 #. Please enter a friendly url that does not conflict with the keyword <b>{0}</b>.
 msgid "please-enter-a-friendly-url-that-does-not-conflict-with-the-keyword-x"
-msgstr "Wprowadź przyjazny URL nie konfliktujący ze słowem kluczowym <b>{0}</b>."
+msgstr "Proszę podać przyjazny URL nie kolidujący ze słowem kluczowym <b>{0}</b>."
 
 #. Please enter a friendly url that does not end with a slash.
 msgid "please-enter-a-friendly-url-that-does-not-end-with-a-slash"
-msgstr "Wprowadż przyjazny URL nie kończący się ukośnikiem (\"/\")."
+msgstr "Proszę podać przyjazny URL nie kończący się ukośnikiem (\"/\")."
 
 #. Please enter a friendly url that does not have adjacent slashes.
 msgid "please-enter-a-friendly-url-that-does-not-have-adjacent-slashes"
-msgstr "Wprowadź przyjazny URL nie mający sąsiadujących ukośników (\"//\")."
+msgstr "Proszę podać przyjazny URL nie zawierający sąsiadujących ukośników (\"//\")."
 
 #. Please enter a friendly url that is at least two characters long.
 msgid "please-enter-a-friendly-url-that-is-at-least-two-characters-long"
-msgstr "Wprowadź przyjazny URL składający się przynajmniej z dwóch znaków."
+msgstr "Proszę podać przyjazny URL składający się przynajmniej z dwóch znaków."
 
 #. Please enter a friendly url with valid characters.
 msgid "please-enter-a-friendly-url-with-valid-characters"
-msgstr "Wprowadź przyjazny URL składający się z poprawnych znaków."
+msgstr "Proszę podać przyjazny URL składający się z poprawnych znaków."
 
 #. Please enter a longer duration.
 msgid "please-enter-a-longer-duration"
-msgstr "Wprowadź dłuższy czas trwania."
+msgstr "Proszę podać dłuższy czas trwania."
 
 #. Please enter a SMS ID that is a valid email address.
 msgid "please-enter-a-sms-id-that-is-a-valid-email-address"
-msgstr "Wprowadź poprawny adres e-mail bramki, przez którą będzie wysyłany SMS."
+msgstr "Proszę podać poprawny adres e-mail bramki, przez którą będzie wysyłany SMS."
 
 #. Please enter a start date that comes before the end date.
 #, fuzzy
@@ -7378,9 +7365,8 @@ msgid "please-enter-a-valid-repository-name"
 msgstr "Należy wprowadzić poprawną nazwę repozytorium."
 
 #. Please enter a valid screen name.
-#, fuzzy
 msgid "please-enter-a-valid-screen-name"
-msgstr "Wprowad poprawną nazwę."
+msgstr "Proszę podać poprawna nazwę użytkownika"
 
 #. Please enter a valid script template.
 msgid "please-enter-a-valid-script-template"
@@ -7958,9 +7944,8 @@ msgid "public"
 msgstr "Publiczne"
 
 #. Publish to Live
-#, fuzzy
 msgid "publish-to-live"
-msgstr "Publisher"
+msgstr "Publikuj do wersji Live"
 
 #. Publisher
 msgid "publisher"
@@ -8024,7 +8009,7 @@ msgstr "Ostatnie wpisy"
 
 #. Recent Images
 msgid "recent-images"
-msgstr "Ostatnie obrazki"
+msgstr "Ostatnie obrazy"
 
 #. Recent Posts
 msgid "recent-posts"
@@ -8246,9 +8231,8 @@ msgid "require-captcha"
 msgstr "Wymagaj CAPTCHA"
 
 #. Check box if lockout requires an administrator to manually unlock the user account.
-#, fuzzy
 msgid "require-unlock-help"
-msgstr "Jeżeli ta opcja jest zaznaczona, użytkownik musi zmienić hasło podczas pierwszego logowania"
+msgstr "Opcja określa czy blokowanie wymaga, żeby administrator ręcznie odblokował konto użytkownika."
 
 #. Require Unlock
 msgid "require-unlock"
@@ -8293,9 +8277,8 @@ msgid "resend"
 msgstr "Wyślij ponownie"
 
 #. Reserved Screen Names
-#, fuzzy
 msgid "reserved-screen-names"
-msgstr "Po ksywce"
+msgstr "Razezerwowane nazwy użytkowników"
 
 #. Reserved Users
 msgid "reserved-users"
@@ -8316,9 +8299,8 @@ msgid "reset-values"
 msgstr "Resetuj wartości"
 
 #. Reset
-#, fuzzy
 msgid "reset"
-msgstr "Resetuj"
+msgstr "Przywróć domyślne"
 
 #. Resolution
 msgid "resolution"
@@ -8393,9 +8375,8 @@ msgid "rich-text-format"
 msgstr "Rich Text Format"
 
 #. Right
-#, fuzzy
 msgid "right"
-msgstr "Right"
+msgstr "Prawo"
 
 #. Role Name
 msgid "role-name"
@@ -8474,7 +8455,7 @@ msgstr "Same as Billing"
 
 #. Same for All
 msgid "same-for-all"
-msgstr "Jednakowo dla wszystkich"
+msgstr "Jednakowy"
 
 #. Same Page
 #, fuzzy
@@ -8524,9 +8505,8 @@ msgid "scramble"
 msgstr "Scramble"
 
 #. Screen Name
-#, fuzzy
 msgid "screen-name"
-msgstr "Po ksywce"
+msgstr "Nazwa użytkownika"
 
 #. Screenshots
 msgid "screenshots"
@@ -8885,7 +8865,7 @@ msgstr "Ustaw jako domyślny"
 
 #. Set Background Image Properties
 msgid "set-background-image-properties"
-msgstr "Ustaw własności obrazka tła"
+msgstr "Ustaw własności obrazu tła"
 
 #. Set the discount amount and the discount type. If the discount amount is 0.25 and the discount type is <i>Percentage</i>, then 25% is taken off the purchase price. If the discount type is <i>Actual</i>, then 25 cents is taken off the purchase price.
 #, fuzzy
@@ -8894,11 +8874,11 @@ msgstr "Set the discount amount and the discount type. If the discount amount is
 
 #. Set the display order of child pages.
 msgid "set-the-display-order-of-child-pages"
-msgstr "Ustal kolejność wyświetlania podstron."
+msgstr "Proszę ustalić kolejność wyświetlania podstron."
 
 #. Set the display order of news feeds.
 msgid "set-the-display-order-of-news-feeds"
-msgstr "Ustal kolejność wyświetlania kanałów wiadomości."
+msgstr "Proszę ustalić kolejność wyświetlania kanałów wiadomości."
 
 #. Set the following values to filter emails associated with an email address to a folder.
 #, fuzzy
@@ -8907,11 +8887,11 @@ msgstr "Set the following values to filter emails associated with an email addre
 
 #. Set your community tags.
 msgid "set-your-community-tags"
-msgstr "Ustaw etykiety społeczności."
+msgstr "Proszę ustalić etykiety społeczności."
 
 #. Set your global tags.
 msgid "set-your-global-tags"
-msgstr "Ustaw etykiety globalne"
+msgstr "Proszę ustalić etykiety globalne."
 
 #. Settings
 msgid "settings"
@@ -9017,7 +8997,7 @@ msgstr "Pokazuj księgę gości"
 
 #. Show Image
 msgid "show-image"
-msgstr "Pokazuj obrazek"
+msgstr "Pokazuj obraz"
 
 #. Show item description when browsing a category?
 #, fuzzy
@@ -9286,9 +9266,8 @@ msgid "ssh"
 msgstr "SSH"
 
 #. Staging
-#, fuzzy
 msgid "staging"
-msgstr "Staging"
+msgstr "Testowanie"
 
 #. Start Date
 msgid "start-date"
@@ -9452,9 +9431,8 @@ msgid "syntax-checking-enabled-help"
 msgstr "Jeżeli ta opcja jest zaznaczona użytkownik może zmieniać swoje hasło"
 
 #. Syntax Checking Enabled
-#, fuzzy
 msgid "syntax-checking-enabled"
-msgstr "Source Input Enabled"
+msgstr "Włącz sprawdzanie składni"
 
 #. System Properties
 msgid "system-properties"
@@ -9569,7 +9547,7 @@ msgstr "Test"
 
 #. Text and Image
 msgid "text-and-image"
-msgstr "Tekst i obrazek"
+msgstr "Tekst i obraz"
 
 #. Text Area (HTML)
 #, fuzzy
@@ -9591,11 +9569,11 @@ msgstr "Style tekstu"
 
 #. Text verification failed.
 msgid "text-verification-failed"
-msgstr "Niepoprawny tekst obrazka."
+msgstr "Niepoprawny tekst obrazu."
 
 #. Text Verification
 msgid "text-verification"
-msgstr "Wpisz tekst z obrazka"
+msgstr "Weryfikacja tekstu"
 
 #. Text
 msgid "text"
@@ -9842,9 +9820,8 @@ msgid "the-item-sku-you-requested-is-already-taken"
 msgstr "The item SKU you requested is already taken."
 
 #. Example</i> for your values.
-#, fuzzy
-msgid "the-ldap-url-format-is=The LDAP Base Provider URL format is <i>ldap://host:port</i>. The Base DN specifies the initial search context for users and is optional. For example, use <i>ldap://localhost:389</i> and <i>ou=Users,o"
-msgstr "Example</i>."
+msgid "the-ldap-url-format-i"
+msgstr "Format bazowego adresu URL dostawcy to <i>ldap://host:port</i>. Bazowy DN  określa początkowy kontekst wyszukiwania (wartość opcjonalna). Np: <i>ldap://localhost:389</i> and <i>ou=Users,o</i>"
 
 #. The license could not be found.
 msgid "the-license-could-not-be-found"
@@ -10116,143 +10093,143 @@ msgstr "Obecnie jest {0} użytkowników w {1} pokojach."
 
 #. There are no addresses.
 msgid "there-are-no-addresses"
-msgstr "Nie ma adresów."
+msgstr "Brak adresów."
 
 #. There are no archived versions of this document.
 msgid "there-are-no-archived-versions-of-this-document"
-msgstr "Nie ma zarchiwizowanych wersji tego dokumentu."
+msgstr "Brak zarchiwizowanych wersji tego dokumentu."
 
 #. There are no articles.
 msgid "there-are-no-articles"
-msgstr "Nie ma artykułów."
+msgstr "Brak artykułów."
 
 #. There are no blogs.
 msgid "there-are-no-blogs"
-msgstr "Nie ma blogów."
+msgstr "Brak blogów."
 
 #. There are no categories.
 msgid "there-are-no-categories"
-msgstr "Nie ma kategorii."
+msgstr "Brak kategorii."
 
 #. There are no coupons.
 msgid "there-are-no-coupons"
-msgstr "Nie ma kuponów."
+msgstr "Brak kuponów."
 
 #. There are no entries for this category on {0}.
 msgid "there-are-no-entries-for-this-category-on"
-msgstr "Nie ma wpisów tej kategorii w {0}."
+msgstr "Brak wpisów tej kategorii w {0}."
 
 #. There are no entries.
 msgid "there-are-no-entries"
-msgstr "Nie ma wpisów."
+msgstr "Brak wpisów."
 
 #. There are no events on this day.
 msgid "there-are-no-events-on-this-day"
-msgstr "Ten dzień nie ma żadnych wydarzeń."
+msgstr "Brak wydarzeń w tym dniu."
 
 #. There are no events.
 msgid "there-are-no-events"
-msgstr "Nie ma wydarzeń."
+msgstr "Brak wydarzeń."
 
 #. There are no firms.
 msgid "there-are-no-firms"
-msgstr "Nie ma firm."
+msgstr "Brak firm."
 
 #. There are no folders.
 msgid "there-are-no-folders"
-msgstr "Nie ma folderów."
+msgstr "Brak folderów."
 
 #. There are no links.
 msgid "there-are-no-links"
-msgstr "Nie ma odnośników."
+msgstr "Brak odnośników."
 
 #. There are no live sessions.
 msgid "there-are-no-live-sessions"
-msgstr "Nie ma pytań."
+msgstr "Brak aktywnych sesji."
 
 #. There are no locations.
 msgid "there-are-no-locations"
-msgstr "Nie ma położeń."
+msgstr "Brak lokalizacji."
 
 #. There are no older versions of this page.
 msgid "there-are-no-older-versions-of-this-page"
-msgstr "Nie ma starszych wersji tej strony."
+msgstr "Brak starszych wersji tej strony."
 
 #. There are no orders.
 msgid "there-are-no-orders"
-msgstr "Nie ma zamówień."
+msgstr "Brak zamówień."
 
 #. There are no organizations.
 msgid "there-are-no-organizations"
-msgstr "Nie ma organizacji."
+msgstr "Brak organizacji."
 
 #. There are no orphan pages in
 msgid "there-are-no-orphan-pages-in"
-msgstr "Nie ma osieroconych stron w"
+msgstr "Brak osieroconych stron w"
 
 #. There are no pages in
 msgid "there-are-no-pages-in"
-msgstr "Nie ma stron w "
+msgstr "Brak stron w "
 
 #. There are no pages that link to this page.
 msgid "there-are-no-pages-that-link-to-this-page"
-msgstr "Nie ma stron linkujących do tej strony."
+msgstr "Brak stron linkujących do tej strony."
 
 #. There are no pages that link to
 msgid "there-are-no-pages-that-link-to"
-msgstr "Nie ma stron linkujących do"
+msgstr "Brak stron linkujących do"
 
 #. There are no private nodes.
 msgid "there-are-no-private-nodes"
-msgstr "Nie ma węzłów prywatnych."
+msgstr "Brak węzłów prywatnych."
 
 #. There are no projects.
 msgid "there-are-no-projects"
-msgstr "Nie ma projektów."
+msgstr "Brak projektów."
 
 #. There are no public nodes.
 msgid "there-are-no-public-nodes"
-msgstr "Nie ma węzłów publicznych."
+msgstr "Brak węzłów publicznych."
 
 #. There are no questions.
 msgid "there-are-no-questions"
-msgstr "Nie ma pytań."
+msgstr "Brak pytań."
 
 #. There are no recent changes to pages in
 msgid "there-are-no-recent-changes-to-pages-in"
-msgstr "Nie ma ostatnio dokonanych zmian na stronach w"
+msgstr "Brak ostatnio dokonanych zmian na stronach w"
 
 #. There are no recent changes.
 msgid "there-are-no-recent-changes"
-msgstr "Nie ma ostatnio dokonanych zmian."
+msgstr "Brak ostatnio dokonanych zmian."
 
 #. There are no recent documents.
 msgid "there-are-no-recent-documents"
-msgstr "Nie ma niedawno dodanych dokumentów."
+msgstr "Brak niedawno dodanych dokumentów."
 
 #. There are no repositories.
 msgid "there-are-no-repositories"
-msgstr "Nie ma repozytoriów."
+msgstr "Brak repozytoriów."
 
 #. There are no structures.
 msgid "there-are-no-structures"
-msgstr "Nie ma struktur."
+msgstr "Brak struktur."
 
 #. There are no tasks.
 msgid "there-are-no-tasks"
-msgstr "Nie ma zadań."
+msgstr "Brak zadań."
 
 #. There are no templates.
 msgid "there-are-no-templates"
-msgstr "Nie ma szablonów."
+msgstr "Brak szablonów."
 
 #. There are no topics.
 msgid "there-are-no-topics"
-msgstr "Nie ma tematów."
+msgstr "Brak tematów."
 
 #. There were no recipient addresses.
 msgid "there-were-no-recipient-addresses"
-msgstr "Nie było adresów odbiorców."
+msgstr "Brak adresów odbiorców."
 
 #. Thesaurus
 msgid "thesaurus"
@@ -10483,9 +10460,8 @@ msgid "total-memory"
 msgstr "Całkowita ilość pamięci"
 
 #. Total Paid
-#, fuzzy
 msgid "total-paid"
-msgstr "Total Paid"
+msgstr "Całkowita suma"
 
 #. Total Size
 msgid "total-size"
@@ -10655,9 +10631,8 @@ msgid "update-group"
 msgstr "Uaktualnij grupę"
 
 #. Update my styles as I type.
-#, fuzzy
 msgid "update-my-styles-as-i-type"
-msgstr "Wybierz rodzaj."
+msgstr "Aktualizuj style w trakcie pisania"
 
 #. Update Page Settings
 msgid "update-page-settings"
@@ -10689,11 +10664,11 @@ msgstr "Zaktualizowano"
 
 #. Upload a Background Image
 msgid "upload-a-background-image"
-msgstr "Prześlij obrazek tła"
+msgstr "Prześlij obraz tła"
 
 #. Upload a GIF or JPEG that is {0} pixels tall and {1} pixels wide.
 msgid "upload-a-gif-or-jpeg-that-is-x-pixels-tall-and-x-pixels-wide"
-msgstr "Prześlij obrazek w formacie GIF lub JPEG, o rozmiarach nie większych niż {0}x{1} pikseli (wysokość x szerokość)."
+msgstr "Prześlij obraz w formacie GIF lub JPEG, o rozmiarach nie większych niż {0}x{1} pikseli (wysokość x szerokość)."
 
 #. Upload a logo for the private pages that will be used instead of the default enterprise logo.
 msgid "upload-a-logo-for-the-private-pages-that-will-be-used-instead-of-the-default-enterprise-logo"
@@ -10721,11 +10696,11 @@ msgstr "Prześlij plik"
 
 #. Upload Image
 msgid "upload-image"
-msgstr "Prześlij obrazek"
+msgstr "Prześlij obraz"
 
 #. Upload images no larger than {0}k.
 msgid "upload-images-no-larger-than-x-k"
-msgstr "Prześlij obrazek nie większy niż {0}k."
+msgstr "Prześlij obraz nie większy niż {0}k."
 
 #. Upload New Version
 msgid "upload-new-version"
@@ -10757,7 +10732,7 @@ msgstr "URL"
 
 #. Use a Background Image
 msgid "use-a-background-image"
-msgstr "Używaj obrazka tła"
+msgstr "Używaj obrazu tła"
 
 #. Use Custom Title
 msgid "use-custom-title"
@@ -10773,7 +10748,7 @@ msgstr "Użyj ikony"
 
 #. Use Large Image
 msgid "use-large-image"
-msgstr "Użyj dużego obrazka"
+msgstr "Użyj dużego obrazu"
 
 #. Use LDAP Password Policy
 msgid "use-ldap-password-policy"
@@ -10785,7 +10760,7 @@ msgstr "Użyj logo"
 
 #. Use Medium Image
 msgid "use-medium-image"
-msgstr "Użyj średniego obrazka"
+msgstr "Użyj średniego obrazu"
 
 #. Use Shipping Formula
 #, fuzzy
@@ -11319,7 +11294,7 @@ msgstr "Jesteś zalogowany jako {0}."
 
 #. You are using LDAP's password policy. Please change your LDAP password policy settings if you wish to use a local password policy.
 msgid "you-are-using-ldaps-password-policy"
-msgstr "Używasz polityki haseł LDAP. Aby używać lokalnej polityki haseł, należy zmienić ustawienia polityki haseł LDAP."
+msgstr "W uzyciu jest polityka haseł LDAP. Aby używać lokalnej polityki haseł, należy zmienić ustawienia polityki haseł LDAP."
 
 #. You can choose more than one.
 msgid "you-can-choose-more-than-one"
@@ -11562,9 +11537,8 @@ msgid "you-have-successfully-updated-associations"
 msgstr "Powiązania zostały pomyślnie zaktualizowane."
 
 #. You have successfully updated look and feel.
-#, fuzzy
 msgid "you-have-successfully-updated-look-and-feel"
-msgstr "You have successfully updated look and feel."
+msgstr "Wygląd został pomyślnie zaktualizowany."
 
 #. You have successfully updated permissions.
 msgid "you-have-successfully-updated-permissions"
