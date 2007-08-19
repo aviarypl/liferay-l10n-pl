@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-19 16:18+0100\n"
+"PO-Revision-Date: 2007-08-19 18:55+0100\n"
 "Last-Translator: wadim dziedzic <wdziedzic@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -172,7 +172,7 @@ msgstr "Moje konto"
 
 #. Network Utilities
 msgid "javax.portlet.title.30"
-msgstr "Narządzia sieciowe"
+msgstr "Narzędzia sieciowe"
 
 #. Image Gallery
 msgid "javax.portlet.title.31"
@@ -212,7 +212,7 @@ msgstr "RSS"
 
 #. Search
 msgid "javax.portlet.title.3"
-msgstr "Szukaj"
+msgstr "Wyszukiwanie"
 
 #. Location Admin
 msgid "javax.portlet.title.40"
@@ -305,7 +305,7 @@ msgstr "Proxy WWW"
 
 #. Amazon Rankings
 msgid "javax.portlet.title.67"
-msgstr "Rankingi Amazona"
+msgstr "Rankingi Amazon"
 
 #. WSRP Proxy
 msgid "javax.portlet.title.68"
@@ -345,7 +345,7 @@ msgstr "Administracja portalem"
 
 #. Bible Gateway
 msgid "javax.portlet.title.7"
-msgstr "Brama do biblii"
+msgstr "Brama do Biblii"
 
 #. Organization Admin
 msgid "javax.portlet.title.80"
@@ -637,7 +637,7 @@ msgstr "Kategoria zakupów"
 
 #. Shopping Item
 msgid "model.resource.com.liferay.portlet.shopping.model.ShoppingItem"
-msgstr "Produkt"
+msgstr "Artykuł"
 
 #. Software Catalog Framework Version
 msgid "model.resource.com.liferay.portlet.softwarecatalog.model.SCFrameworkVersion"
@@ -684,7 +684,7 @@ msgstr "Zadanie workflow"
 # #
 #. Add Article
 msgid "action.ADD_ARTICLE"
-msgstr "Dodaj artykuł"
+msgstr "Dodaj element"
 
 #. Add Category
 msgid "action.ADD_CATEGORY"
@@ -696,7 +696,7 @@ msgstr "Dodaj społeczność"
 
 #. Add Coupon
 msgid "action.ADD_COUPON"
-msgstr "Dodaj kupon"
+msgstr "Dodaj bin"
 
 #. Add Definition
 msgid "action.ADD_DEFINITION"
@@ -744,7 +744,7 @@ msgstr "Dodaj instancję"
 
 #. Add Item
 msgid "action.ADD_ITEM"
-msgstr "Dodaj element"
+msgstr "Dodaj artykuł"
 
 #. Add License
 msgid "action.ADD_LICENSE"
@@ -884,7 +884,7 @@ msgstr "Zarządzaj"
 
 #. Manage Coupons
 msgid "action.MANAGE_COUPONS"
-msgstr "Zarządzaj kuponami"
+msgstr "Zarządzaj bonami"
 
 #. Manage Pages
 msgid "action.MANAGE_LAYOUTS"
@@ -1071,7 +1071,7 @@ msgstr "Aktywuj"
 
 #. Active
 msgid "active"
-msgstr "Aktywna"
+msgstr "Aktywny/a"
 
 #. Actual Duration
 msgid "actual-duration"
@@ -1119,15 +1119,15 @@ msgstr "Dodaj adres"
 
 #. Add all ISBN numbers separated by spaces.
 msgid "add-all-isbn-numbers-separated-by-spaces"
-msgstr "Proszę dodać wszystkie numery ISBN oddzielone spacjami."
+msgstr "Proszę dodać wszystkie żądane numery ISBN oddzielone spacjami."
 
 #. Add all ticker symbols separated by spaces.
 msgid "add-all-ticker-symbols-separated-by-spaces"
-msgstr "Proszę dodać wszystkie symbole giełdowe oddzielone spacjami."
+msgstr "Proszę dodać wszystkie żądane symbole giełdowe oddzielone spacjami."
 
 #. Add another form field.
 msgid "add-another-form-field"
-msgstr "Proszę dodać kolejne pole formularza."
+msgstr "Dodaj kolejne pole formularza"
 
 #. Add Article
 msgid "add-article"
@@ -1159,7 +1159,7 @@ msgstr "Proszę dodać podstrony."
 
 #. Add Choice
 msgid "add-choice"
-msgstr "Dodaj wybór"
+msgstr "Dodaj opcję"
 
 #. Add Comments
 msgid "add-comments"
@@ -1183,7 +1183,7 @@ msgstr "Dodaj treść"
 
 #. Add Coupon
 msgid "add-coupon"
-msgstr "Dodaj kupon"
+msgstr "Dodaj bon"
 
 #. Add Document
 msgid "add-document"
@@ -1231,7 +1231,7 @@ msgstr "Dodaj instancję"
 
 #. Add Item
 msgid "add-item"
-msgstr "Dodaj element"
+msgstr "Dodaj artykuł"
 
 #. Add License
 msgid "add-license"
@@ -1531,11 +1531,11 @@ msgstr "Wszystkie strony"
 
 #. All quantities must be a multiple of the minimum quantity of the item.
 msgid "all-quantities-must-be-a-multiple-of-the-minimum-quantity-of-the-item"
-msgstr "Wszystkie ilości muszą być wielokrotnością minimalnej ilości dla produktu."
+msgstr "Wszystkie ilości muszą być wielokrotnością minimalnej ilości dla artykułu."
 
 #. All quantities must be greater than the minimum quantity of the item.
 msgid "all-quantities-must-be-greater-than-the-minimum-quantity-of-the-item"
-msgstr "Wszystkie ilości muszą być większe od minimalnej ilości dla produktu."
+msgstr "Wszystkie ilości muszą być większe od minimalnej ilości dla artykułu."
 
 #. All Topics
 msgid "all-topics"
@@ -1787,11 +1787,11 @@ msgstr "Czy na pewno usunąć wybrane artykuły?"
 
 #. Are you sure you want to delete the selected category and all its items?
 msgid "are-you-sure-you-want-to-delete-the-selected-category-and-all-its-items"
-msgstr "Czy na pewno usunać wybraną kategorię i jej pozycje?"
+msgstr "Czy na pewno usunać wybraną kategorię i jej artykuły?"
 
 #. Are you sure you want to delete the selected coupons.
 msgid "are-you-sure-you-want-to-delete-the-selected-coupons"
-msgstr "Czy na pewno usunąć wybrane kupony?"
+msgstr "Czy na pewno usunąć wybrane bony?"
 
 #. Are you sure you want to delete the selected document and all its versions?
 msgid "are-you-sure-you-want-to-delete-the-selected-document-and-all-its-versions"
@@ -1979,7 +1979,7 @@ msgstr "Czy na pewno chcesz uaktualnić to zamówienie?"
 
 #. Area
 msgid "area"
-msgstr "Obszar"
+msgstr "Powierzchnia"
 
 #. Article Denied Email
 msgid "article-approval-denied-email"
@@ -2103,11 +2103,11 @@ msgstr "Uwierzytelnij"
 
 #. Authentication failed. Please enable browser cookies and try again.
 msgid "authentication-failed-please-enable-browser-cookies"
-msgstr "Uwierzytelnienie nie powiodło się. Włącz obsługę ciasteczek w przeglądarce i spróbuj ponownie."
+msgstr "Uwierzytelnienie nie powiodło się. Proszę włączyć obsługę ciasteczek w przeglądarce i spróbować ponownie."
 
 #. Authentication failed. Please try again.
 msgid "authentication-failed"
-msgstr "Uwierzytelnienie nie powiodło się. Spróbuj ponownie."
+msgstr "Uwierzytelnienie nie powiodło się. Proszę spróbować ponownie."
 
 #. Authentication Type
 msgid "authentication-type"
@@ -2115,7 +2115,7 @@ msgstr "Rodzaj uwierzytelniania"
 
 #. Authentication
 msgid "authentication"
-msgstr "Uwierzytelnienie"
+msgstr "Uwierzytelnianie"
 
 #. Author
 msgid "author"
@@ -2132,7 +2132,7 @@ msgstr "Auto"
 
 #. Autogenerate Code
 msgid "autogenerate-code"
-msgstr "Autogeneruj kod"
+msgstr "Generuj kod automatycznie"
 
 #. Autogenerate ID
 msgid "autogenerate-id"
@@ -2412,7 +2412,7 @@ msgstr "Wg ID użytkownika"
 
 #. By
 msgid "by"
-msgstr ""
+msgstr " "
 
 #. Bytes
 msgid "bytes"
@@ -2423,24 +2423,20 @@ msgid "cached"
 msgstr "W pamięci podręcznej"
 
 #. Calculate a flat insurance amount based on the total amount of the purchase.
-#, fuzzy
 msgid "calculate-a-flat-insurance-amount-based-on-the-total-amount-of-the-purchase"
-msgstr "Calculate a flat insurance amount based on the total amount of the purchase."
+msgstr "Oblicza stałą stawkę kosztów ubezpieczenia wysyłki na podstawie sumy zakupów."
 
 #. Calculate a flat shipping amount based on the total amount of the purchase.
-#, fuzzy
 msgid "calculate-a-flat-shipping-amount-based-on-the-total-amount-of-the-purchase"
-msgstr "Calculate a flat shipping amount based on the total amount of the purchase."
+msgstr "Oblicza stałą stawkę kosztów dostarczenia towaru na podstawie sumy zakupów."
 
 #. Calculate the insurance based on a percentage of the total amount of the purchase.
-#, fuzzy
 msgid "calculate-the-insurance-based-on-a-percentage-of-the-total-amount-of-the-purchase"
-msgstr "Calculate the insurance based on a percentage of the total amount of the purchase."
+msgstr "Oblicza stawkę ubezpieczenia wysyłki na podstawie procentu od sumy zakupów."
 
 #. Calculate the shipping based on a percentage of the total amount of the purchase.
-#, fuzzy
 msgid "calculate-the-shipping-based-on-a-percentage-of-the-total-amount-of-the-purchase"
-msgstr "Calculate the shipping based on a percentage of the total amount of the purchase."
+msgstr "Oblicza stawkę za dostarczenie towaru na podstawie procentu od sumy zakupów."
 
 #. Calculate
 msgid "calculate"
@@ -2605,7 +2601,7 @@ msgstr "Checkout Latest"
 
 #. Checkout
 msgid "checkout"
-msgstr "Checkout"
+msgstr "Do kasy"
 
 #. Children
 msgid "children"
@@ -2617,43 +2613,43 @@ msgstr "Chiński"
 
 #. Choice
 msgid "choice"
-msgstr "Wybór"
+msgstr "Opcja"
 
 #. Choices
 msgid "choices"
-msgstr "Wybory"
+msgstr "Opcje"
 
 #. Choose a color for each layer type. Be sure to click {0} when you are done.
 msgid "choose-a-color-for-each-layer-type"
-msgstr "Wybierz kolor dla każdej warstwy. Po wybraniu naciśnij {0}."
+msgstr "Proszę wybrąć kolor dla każdej warstwy. Po wybraniu proszę nacisnąć {0}."
 
 #. Choose a color theme or create your own {0}custom theme{1}.
 msgid "choose-a-color-theme-or-create-your-own-custom-theme"
-msgstr "Wybierz zestaw kolorów lub stwórz swój własny {0} schemat{1}."
+msgstr "Proszę wybrać zestaw kolorów lub utworzyć swój własny {0} schemat{1}."
 
 #. Choose a portlet.
 msgid "choose-a-portlet"
-msgstr "Wybierz portlet."
+msgstr "Proszę wybrać portlet."
 
 #. Choose a program to import contacts from:
 msgid "choose-a-program-to-import-contacts-from"
-msgstr "Wybierz program, z którego zaimportować listę kontaktów:"
+msgstr "Proszę wybrać program, z którego zaimportować listę kontaktów:"
 
 #. Choose a resource or proceed to the next step.
 msgid "choose-a-resource-or-proceed-to-the-next-step"
-msgstr "Wybierz zasób lub przejdź do kolejnego kroku."
+msgstr "Proszę wybrać zasób lub przejść do kolejnego kroku."
 
 #. Choose a user name for your personal company email address.
 msgid "choose-a-user-name-for-your-personal-company-email-address"
-msgstr "Wybierz nazwę użytkownika dla firmowego adresu e-mail."
+msgstr "Proszę wybrać nazwę użytkownika dla firmowego adresu e-mail."
 
 #. Choose from the list of recommended Google gadgets.
 msgid "choose-from-the-list-of-recommended-google-gadgets"
-msgstr "Wybierz z listy rekomendowanych gadżetów Google."
+msgstr "Wybór z listy rekomendowanych gadżetów Google"
 
 #. Choose list:
 msgid "choose-list"
-msgstr "Wybierz listę:"
+msgstr "Lista:"
 
 #. Choose Portlets
 msgid "choose-portlets"
@@ -2665,7 +2661,7 @@ msgstr "Wybierz strukturę"
 
 #. Choose the program you want to export to and click the corresponding button:
 msgid "choose-the-program-you-want-to-export-to-and-click-the-corresponding-button"
-msgstr "Wybierz program, którego chcesz wyeksportować dane i kliknij odpowiedni przycisk:"
+msgstr "Proszę wybrać program, do którego mają być wyeksportowane dane i nacisnąć odpowiedni przycisk:"
 
 #. Choose
 msgid "choose"
@@ -2685,7 +2681,7 @@ msgstr "Miasto <b>lub</b> kod pocztowy"
 
 #. City, State <b>or</b> Zip
 msgid "city-state-or-zip"
-msgstr "Miast, stan <b>lub</b> kod pocztowy"
+msgstr "Miasto, stan <b>lub</b> kod pocztowy"
 
 #. City, State
 msgid "city-state"
@@ -2973,32 +2969,31 @@ msgstr "Kraj"
 
 #. Coupon Code
 msgid "coupon-code"
-msgstr "Kod kuponu"
+msgstr "Kod bonu"
 
 #. Coupon Discount
 msgid "coupon-discount"
-msgstr "Rabat z kuponu"
+msgstr "Rabat z bonu"
 
 #. Coupon ID
 msgid "coupon-id"
-msgstr "ID kuponu"
+msgstr "ID bonu"
 
 #. Coupon Information
 msgid "coupon-information"
-msgstr "Informacja o kuponie"
+msgstr "Informacja o bonie"
 
 #. Coupon
 msgid "coupon"
-msgstr "Kupon"
+msgstr "Bon"
 
 #. Coupons can be set to only apply to orders above a minimum amount. Set the minimum order to {0} to add a coupon that applies to any purchase price.
-#, fuzzy
 msgid "coupons-can-be-set-to-only-apply-to-orders-above-a-minimum-amount"
-msgstr "Coupons can be set to only apply to orders above a minimum amount. Set the minimum order to {0} to add a coupon that applies to any purchase price."
+msgstr "Można ustawić, że bony będą ważne tylko dla zamówień o danej wartości. Aby utworzyć bon bez minimalnej wartości, należy ustawić minimalne zamówienie na {0}."
 
 #. Coupons
 msgid "coupons"
-msgstr "Kupony"
+msgstr "Bony"
 
 #. Cow
 msgid "cow"
@@ -3139,7 +3134,6 @@ msgid "day-low"
 msgstr "Day Low"
 
 #. day(s)
-#, fuzzy
 msgid "day-s"
 msgstr "dzień(dni)"
 
@@ -3441,7 +3435,7 @@ msgstr "Wyświetlanie zawartości"
 
 #. DNS Lookup
 msgid "dns-lookup"
-msgstr "Odpytywanie DNS"
+msgstr "DNS"
 
 #. Do not repeat this event.
 msgid "do-not-repeat-this-event"
@@ -3602,7 +3596,7 @@ msgstr "Edycja treści"
 
 #. Edit Coupon
 msgid "edit-coupon"
-msgstr "Edycja kuponu"
+msgstr "Edycja bonu"
 
 #. Edit Document
 msgid "edit-document"
@@ -3864,7 +3858,7 @@ msgstr "E-mail"
 
 #. Emails
 msgid "emails"
-msgstr "E-maile"
+msgstr "Wiadomości E-mail"
 
 #. Embedded
 msgid "embedded"
@@ -3876,7 +3870,7 @@ msgstr "ID pracownika"
 
 #. Empty Cart
 msgid "empty-cart"
-msgstr "Pusty koszyk"
+msgstr "Opróżnij koszyk"
 
 #. Empty Folder
 msgid "empty-folder"
@@ -3944,7 +3938,7 @@ msgstr "Rodzaj szyfrowania"
 
 #. End At
 msgid "end-at"
-msgstr "Koniec o"
+msgstr "Zakończ na"
 
 #. End by
 msgid "end-by"
@@ -3992,7 +3986,7 @@ msgstr "Własne style CSS:"
 
 #. Enter one city or zip code <b>per line</b>.
 msgid "enter-one-city-or-zip-code-per-line"
-msgstr "Proszę podać jedno miasto lub kod pocztowy - <b>każda pozycja w osobnej linii</b>. "
+msgstr "Proszę podać miasto lub kod pocztowy - <b>każda pozycja w osobnej linii</b>. "
 
 #. Enter one email address <b>per line</b>.
 msgid "enter-one-email-address-per-line"
@@ -4281,9 +4275,8 @@ msgid "fax"
 msgstr "Faks"
 
 #. Featured Items
-#, fuzzy
 msgid "featured-items"
-msgstr "Featured Items"
+msgstr "Polecane artykuły"
 
 #. Featured
 #, fuzzy
@@ -4312,9 +4305,8 @@ msgid "field"
 msgstr "Pole"
 
 #. Fields are added if you need to distinguish items based on criteria chosen by the user. For example, if you are selling t-shirts, you may want to add a field with the name <i>Size</i> and the values <i>S, M, L, XL</i>. Enter the values as a list of comma delimited options.
-#, fuzzy
 msgid "fields-are-added-if-you-need-to-distinguish-items-based-on-criteria-chosen-by-the-user"
-msgstr "Fields are added if you need to distinguish items based on criteria chosen by the user. For example, if you are selling t-shirts, you may want to add a field with the name <i>Size</i> and the values <i>S, M, L, XL</i>. Enter the values as a list of comma delimited options."
+msgstr "Pola dodawane sa jeśli jest potrzeba rozróżnienia artykułów na podstawie kryteriów użytkowników. Np. w przypadku sprzedawania t-shirtów można dodać pole o nazwie <i>Rozmiar</i> i wartościach <i>S, M, L, XL</i>. Wartości podaje się jako listę rozdzielona przecinkami."
 
 #. Fields
 msgid "fields"
@@ -4385,14 +4377,12 @@ msgid "finished"
 msgstr "Zakończono"
 
 #. Firm Name
-#, fuzzy
 msgid "firm-name"
-msgstr "Firm Name"
+msgstr "Nazwa firmy"
 
 #. Firms
-#, fuzzy
 msgid "firms"
-msgstr "Firms"
+msgstr "Firmy"
 
 #. First Message
 msgid "first-message"
@@ -4411,19 +4401,16 @@ msgid "first"
 msgstr "Pierwsza"
 
 #. Flash Attributes
-#, fuzzy
 msgid "flash-attributes"
-msgstr "Flash Attributes"
+msgstr "Atrybuty flash"
 
 #. Flash Variables
-#, fuzzy
 msgid "flash-variables"
-msgstr "Flash Variables"
+msgstr "Zmienne flash"
 
 #. Flat Amount
-#, fuzzy
 msgid "flat-amount"
-msgstr "Flat Amount"
+msgstr "Stała stawka"
 
 #. Flat View
 msgid "flat-view"
@@ -4523,7 +4510,7 @@ msgstr "Formuła"
 
 #. Forward Address
 msgid "forward-address"
-msgstr "Forward Address"
+msgstr "Adres przekazywania"
 
 #. Forward
 msgid "forward"
@@ -4575,7 +4562,7 @@ msgstr "Z tego położenia"
 
 #. From
 msgid "from"
-msgstr "Od"
+msgstr "Z"
 
 #. FTP
 msgid "ftp"
@@ -4635,9 +4622,8 @@ msgid "get-password"
 msgstr "Hasło"
 
 #. Get Quote
-#, fuzzy
 msgid "get-quote"
-msgstr "Get Quote"
+msgstr "Pobierz kurs"
 
 #. Gifts
 msgid "gifts"
@@ -4829,7 +4815,7 @@ msgstr "Strona główna"
 
 #. Horizontal Bar
 msgid "horizontal-bar"
-msgstr "Pasek poziomy"
+msgstr "Słupkowy poziomy"
 
 #. Horizontal Separator
 msgid "horizontal-separator"
@@ -5123,7 +5109,7 @@ msgstr "Komunikator internetowy"
 
 #. Insurance Calculation
 msgid "insurance-calculation"
-msgstr "Obliczenia ubezpieczeniowe"
+msgstr "Obliczenia ubezpieczenia"
 
 #. Insurance
 msgid "insurance"
@@ -5138,9 +5124,8 @@ msgid "interest-rate"
 msgstr "Stopa procentowa"
 
 #. Intermediate
-#, fuzzy
 msgid "intermediate"
-msgstr "Intermediate"
+msgstr "Średniozaawansowany"
 
 #. Interval
 msgid "interval"
@@ -5447,19 +5432,16 @@ msgid "leave-edit-preferences"
 msgstr "Leave Edit Preferences"
 
 #. * Leave the user name and password fields blank to use your current login information.
-#, fuzzy
 msgid "leave-the-user-name-and-password-fields-blank-to-use-your-current-login-information"
-msgstr "* Leave the user name and password fields blank to use your current login information."
+msgstr "* Aby użyć bieżących danych logowania, wystarczy pozostawić pola nazwa użytkownik i hasło puste."
 
 #. Leave this blank if the coupon does not check for the item SKU.
-#, fuzzy
 msgid "leave-this-blank-if-the-coupon-does-not-check-for-the-item-sku"
-msgstr "Leave this blank if the coupon does not check for the item SKU."
+msgstr "Proszę pozostawić puste jeśli bon nie zależy od kodu towaru."
 
 #. Leave this blank if the coupon does not check for the parent categories of an item.
-#, fuzzy
 msgid "leave-this-blank-if-the-coupon-does-not-check-for-the-parent-categories-of-an-item"
-msgstr "Leave this blank if the coupon does not check for the parent categories of an item."
+msgstr "Proszę pozostawić puste jeśli bon nie zależy od kategorii towaru."
 
 #. Leave
 msgid "leave"
@@ -5519,7 +5501,7 @@ msgstr "Wysokość linii"
 
 #. Line
 msgid "line"
-msgstr "Linia"
+msgstr "Liniowy"
 
 #. Link Portlet URLs to Page
 msgid "link-portlet-urls-to-page"
@@ -5651,9 +5633,8 @@ msgid "look-and-feel"
 msgstr "Wygląd"
 
 #. Lookup
-#, fuzzy
 msgid "lookup"
-msgstr "Lookup"
+msgstr "Szukaj"
 
 #. Lower Case Letters
 msgid "lower-case-letters"
@@ -5763,9 +5744,8 @@ msgid "mass"
 msgstr "Masa"
 
 #. Match Whole Words
-#, fuzzy
 msgid "match-whole-words"
-msgstr "Match Whole Words"
+msgstr "Szukaj całych słów"
 
 #. Max Qty
 msgid "max-qty"
@@ -6064,9 +6044,10 @@ msgstr "Przesuń kolumnę"
 msgid "move-to"
 msgstr "Przesuń do"
 
+# (flash)
 #. Movie
 msgid "movie"
-msgstr "Kino"
+msgstr "Obiekt"
 
 #. MSN
 msgid "msn"
@@ -6078,7 +6059,7 @@ msgstr "Lista wielokrotnego wyboru"
 
 #. Must cart quantities be a multiple of the item's minimum quantity?
 msgid "must-cart-quantities-be-a-multiple-of-the-item's-minimum-quantity"
-msgstr "Czy ilość w koszyku musi być wielokrotnością minimalnej ilości dla pozycji?"
+msgstr "Czy ilość w koszyku musi być wielokrotnością minimalnej ilości dla artykułu?"
 
 #. My Account
 msgid "my-account"
@@ -6279,7 +6260,7 @@ msgstr "Nie znaleziono żadnych społeczności."
 
 #. No coupons were found.
 msgid "no-coupons-were-found"
-msgstr "Nie znaleziono kuponów."
+msgstr "Nie znaleziono bonów."
 
 #. No definitions were found.
 msgid "no-definitions-were-found"
@@ -6487,9 +6468,8 @@ msgid "ntlm"
 msgstr "NTLM"
 
 #. #. of Articles Per Selection
-#, fuzzy
 msgid "num-of-articles-per-selection"
-msgstr "# of Articles Per Selection"
+msgstr "liczba artykułów na źródło"
 
 #. #. of Categories
 msgid "num-of-categories"
@@ -6577,7 +6557,7 @@ msgstr "Numer"
 
 #. Numbers
 msgid "numbers"
-msgstr "Numery"
+msgstr "Liczby"
 
 #. Objects to Export
 msgid "objects-to-export"
@@ -6676,7 +6656,7 @@ msgstr "Opcje"
 
 #. Or obtain the Google gadget code directly and paste it below.
 msgid "or-obtain-the-google-gadget-code-directly-and-paste-it-below"
-msgstr "Albo bezpośrednio pobierz kod gadżetu Google i wklej go poniżej."
+msgstr "Bezpośrednie wklejenie kodu gadżetu Google"
 
 #. Or
 msgid "or"
@@ -6777,9 +6757,8 @@ msgid "page-history"
 msgstr "Historia strony"
 
 #. Page Links
-#, fuzzy
 msgid "page-links"
-msgstr "Odnośniki strony"
+msgstr "Odnośniki"
 
 #. Page Priority
 msgid "page-priority"
@@ -6833,14 +6812,12 @@ msgid "party"
 msgstr "Impreza"
 
 #. Passage Comparison
-#, fuzzy
 msgid "passage-comparison"
-msgstr "Passage Comparison"
+msgstr "Porównanie ustępów"
 
 #. Passage Lookup
-#, fuzzy
 msgid "passage-lookup"
-msgstr "Passage Lookup"
+msgstr "Wyszukiwanie ustępu"
 
 #. Password Changed Notification
 msgid "password-changed-notification"
@@ -6905,9 +6882,8 @@ msgid "payment-settings"
 msgstr "Ustawienia płatności"
 
 #. PayPal Email Address
-#, fuzzy
 msgid "paypal-email-address"
-msgstr "PayPal Email Address"
+msgstr "Adres e-mail PayPal"
 
 #. PayPal Order
 #, fuzzy
@@ -6968,9 +6944,8 @@ msgid "pick-date"
 msgstr "Wybierz datę"
 
 #. Pie
-#, fuzzy
 msgid "pie"
-msgstr "Pie"
+msgstr "Kołowy"
 
 #. Pieces
 #, fuzzy
@@ -7016,23 +6991,23 @@ msgstr "Prosimy {0}skompletować{1} zamówienie."
 
 #. Please contact the administrator because you do not have any pages configured.
 msgid "please-contact-the-administrator-because-you-do-not-have-any-pages-configured"
-msgstr "Skontaktuj się z administratorem, ponieważ nie skonfigurowano dla ciebie żadnych stron."
+msgstr "Proszę skontaktować się z administratorem, ponieważ nie skonfigurowano dla ciebie żadnych stron."
 
 #. Please contact the administrator because you do not have any roles.
 msgid "please-contact-the-administrator-because-you-do-not-have-any-roles"
-msgstr "Skontaktuj sie z administratorem, ponieważ nie przydzielono ci żadnych ról."
+msgstr "Proszę skontaktować się z administratorem, ponieważ nie przydzielono ci żadnych ról."
 
 #. Please contact the administrator to configure a Google license.
 msgid "please-contact-the-administrator-to-configure-a-google-license"
-msgstr "Skontaktuj się z administratorem, aby skonfigurować licencję Google."
+msgstr "Proszę skontaktować się z administratorem, aby skonfigurować licencję Google."
 
 #. Please contact the administrator to configure a valid mail server.
 msgid "please-contact-the-administrator-to-configure-a-valid-mail-server"
-msgstr "Skontaktuj się z administratorem, aby skonfigurować właściwy serwer poczty."
+msgstr "Proszę skontaktować się z administratorem, aby skonfigurować właściwy serwer poczty."
 
 #. Please contact the administrator to setup this portlet. If you are the administrator, go to the configuration screen to setup this portlet.
 msgid "please-contact-the-administrator-to-setup-this-portlet"
-msgstr "Skontaktuj się z administratorem, aby skonfigurować ten portlet. Jeżeli jesteś administratorem, przejdź do ekranu konfiguracji."
+msgstr "Proszę skontaktować się z administratorem, aby skonfigurować ten portlet. Jeżeli jesteś administratorem, przejdź do ekranu konfiguracji."
 
 #. Please email all questions to {0}.
 msgid "please-email-all-questions-to"
@@ -7040,11 +7015,11 @@ msgstr "Wszystkie pytania proszę przesyłać e-mailem do {0}."
 
 #. Please ensure the administrator has configured a proper Google license.
 msgid "please-ensure-the-administrator-has-configured-a-proper-google-license"
-msgstr "Upewnij się, że administrator skonfigurował odpowiednią licencję Google."
+msgstr "Proszę upewnić się się, że administrator skonfigurował odpowiednią licencję Google."
 
 #. Please enter a file with a valid file size.
 msgid "please-enter-a-file-with-a-valid-file-size"
-msgstr "Podaj plik o odpowiednim rozmiarze."
+msgstr "Proszę pidać plik o odpowiednim rozmiarze."
 
 #. Please enter a friendly url that begins with a slash.
 msgid "please-enter-a-friendly-url-that-begins-with-a-slash"
@@ -7160,7 +7135,7 @@ msgstr "Proszę podać poprawny kraj."
 
 #. Please enter a valid coupon code.
 msgid "please-enter-a-valid-coupon-code"
-msgstr "Proszę podać poprawny kod kuponu."
+msgstr "Proszę podać poprawny kod bonu."
 
 #. Please enter a valid create date.
 msgid "please-enter-a-valid-create-date"
@@ -7260,7 +7235,7 @@ msgstr "Proszę podać poprawną nazwę pozycji."
 
 #. Please enter a valid item SKU.
 msgid "please-enter-a-valid-item-sku"
-msgstr "Proszę podać poprawny numer identyfikacyjny pozycji."
+msgstr "Proszę podać poprawny kod towaru."
 
 #. Please enter a valid last name.
 msgid "please-enter-a-valid-last-name"
@@ -7396,7 +7371,7 @@ msgstr "Proszę podać poprawną nazwę tematu."
 
 #. Please enter a valid URL.
 msgid "please-enter-a-valid-url"
-msgstr "Proszę podać poprawny URL."
+msgstr "Proszę podać poprawny adres URL."
 
 #. Please enter a valid user ID.
 msgid "please-enter-a-valid-user-id"
@@ -7461,7 +7436,7 @@ msgstr "Aby wyświetlić zmiany, należy wcisnąć przycisk Zapisz."
 
 #. Please reenter your quantity for the items with the following SKUs:
 msgid "please-reenter-your-quantity-for-the-items-with-the-following-skus"
-msgstr "Proszę podać ponownie ilość dla pozycji o poniższych numerach:"
+msgstr "Proszę podać ponownie ilość dla pozycji o poniższych kodach:"
 
 #. Please select a category.
 msgid "please-select-a-category"
@@ -7745,14 +7720,12 @@ msgid "previous"
 msgstr "Poprzednia"
 
 #. Price for {0} Items and Above:
-#, fuzzy
 msgid "price-for-x-items-and-above"
-msgstr "Cena za {0} lub więcej elementów:"
+msgstr "Cena za {0} lub więcej artykułów:"
 
 #. Price for {0} to {1} Items:
-#, fuzzy
 msgid "price-for-x-to-x-items"
-msgstr "Cena za {0} do {1} elementów:"
+msgstr "Cena za {0} do {1} artykułów:"
 
 #. Price
 msgid "price"
@@ -7882,7 +7855,7 @@ msgstr "Nazwa użytkownika uwierzytelnienia proxy"
 
 #. Proxy Authentication
 msgid "proxy-authentication"
-msgstr "Uwierzytelnienie proxy"
+msgstr "Uwierzytelnianie proxy"
 
 #. Proxy Host
 msgid "proxy-host"
@@ -8004,7 +7977,7 @@ msgstr "Zalecane licencje"
 
 #. Recommended
 msgid "recommended"
-msgstr "Zalecane"
+msgstr "Zalecana"
 
 #. Recur every
 msgid "recur-every"
@@ -8061,7 +8034,7 @@ msgstr "Odrzuć"
 # Chyba... (marcoos)
 #. Relative to Context Path
 msgid "relative-to-context-path"
-msgstr "Względem ścieżki kontekstu"
+msgstr "Ścieżka względem kontekstu"
 
 #. Remember Me
 msgid "remember-me"
@@ -8081,7 +8054,7 @@ msgstr "Zdalny host/IP"
 
 #. Remove all entries to disable email forwarding.
 msgid "remove-all-entries-to-disable-email-forwarding"
-msgstr "Usuń wszystkie wpisy, by wyłączyć przekazywanie wiadomości e-mail."
+msgstr "Aby wyłączyć przekazywanie wiadomości e-mail, należy usunąć wszystkie wpisy."
 
 #. Remove Files
 msgid "remove-files"
@@ -8231,7 +8204,7 @@ msgstr "Wyślij ponownie e-mail z potwierdzeniem"
 
 #. Resend Shipping Email
 msgid "resend-shipping-email"
-msgstr "Wyślij ponownie e-mail o dostarczeniu"
+msgstr "Wyślij ponownie e-mail o wysłaniu"
 
 #. Resend
 msgid "resend"
@@ -8312,9 +8285,8 @@ msgid "rev"
 msgstr "Rev"
 
 #. Revert
-#, fuzzy
 msgid "revert"
-msgstr "Revert"
+msgstr "Przywróć"
 
 #. Review Date
 msgid "review-date"
@@ -8358,9 +8330,8 @@ msgid "root-folder"
 msgstr "Folder główny"
 
 #. Root Layout
-#, fuzzy
 msgid "root-layout"
-msgstr "Root Layout"
+msgstr "Strona główna"
 
 #. Root Theme
 msgid "root-theme"
@@ -8398,19 +8369,16 @@ msgid "safe-search"
 msgstr "Safe Search"
 
 #. Sale Items
-#, fuzzy
 msgid "sale-items"
-msgstr "Sale Items"
+msgstr "Artykuły w wyprzedaży"
 
 #. Sales
-#, fuzzy
 msgid "sales"
-msgstr "Sales"
+msgstr "Sprzedaż"
 
 #. Same as Billing
-#, fuzzy
 msgid "same-as-billing"
-msgstr "Same as Billing"
+msgstr "Taki sam jak na rachunku"
 
 #. Same for All
 msgid "same-for-all"
@@ -8459,9 +8427,8 @@ msgid "score"
 msgstr "Trafność"
 
 #. Scramble
-#, fuzzy
 msgid "scramble"
-msgstr "Scramble"
+msgstr "Szyfruj"
 
 #. Screen Name
 msgid "screen-name"
@@ -8615,9 +8582,8 @@ msgid "select-article"
 msgstr "Wybierz artykuł"
 
 #. Select Box
-#, fuzzy
 msgid "select-box"
-msgstr "Select Box"
+msgstr "Pole wyboru"
 
 #. Select Content
 #, fuzzy
@@ -8650,35 +8616,35 @@ msgstr "Wybierz odbiorców"
 
 #. Select the action that this role can perform on the <i>{0}</i> portlet.
 msgid "select-the-action-that-this-role-can-perform-on-the-x-portlet"
-msgstr "Wybierz akcję na portlecie <i>{0}</i>, którą może wykonywać użytkownik w tej roli."
+msgstr "Proszę wybrać akcję na portlecie <i>{0}</i>, którą może wykonywać użytkownik w tej roli."
 
 #. Select the action that this role can perform on the <i>{0}</i> resource.
 msgid "select-the-action-that-this-role-can-perform-on-the-x-resource"
-msgstr "Wybierz akcję na zasobie <i>{0}</i>, którą może wykonywać użytkownik w tej roli."
+msgstr "Proszę wybrać akcję na zasobie <i>{0}</i>, którą może wykonywać użytkownik w tej roli."
 
 #. Select the communities where this role can perform the <i>{0}</i> action on the {1} portlet.
 msgid "select-the-communities-where-this-role-can-perform-the-x-action-on-the-x-portlet"
-msgstr "Wybierz społeczność gdzie użytkownik w tej roli może wykonywać akcję <i>{0}</i> na portlecie {1}."
+msgstr "Proszę wybrać społeczność gdzie użytkownik w tej roli może wykonywać akcję <i>{0}</i> na portlecie {1}."
 
 #. Select the communities where this role can perform the <i>{0}</i> action on the {1} resource.
 msgid "select-the-communities-where-this-role-can-perform-the-x-action-on-the-x-resource"
-msgstr "Wybierz społeczność gdzie użytkownik w tej roli może wykonywać akcję <i>{0}</i> na zasobie {1}."
+msgstr "Proszę wybrać społeczność gdzie użytkownik w tej roli może wykonywać akcję <i>{0}</i> na zasobie {1}."
 
 #. Select the scope of the action that this role can perform on the <i>{0}</i> portlet.
 msgid "select-the-scope-of-the-action-that-this-role-can-perform-on-the-x-portlet"
-msgstr "Wybierz zakres akcji na portlecie <i>{0}</i>, którą może wykonywać użytkownik w tej roli."
+msgstr "Proszę wybrać zakres akcji na portlecie <i>{0}</i>, którą może wykonywać użytkownik w tej roli."
 
 #. Select the scope of the action that this role can perform on the <i>{0}</i> resource.
 msgid "select-the-scope-of-the-action-that-this-role-can-perform-on-the-x-resource"
-msgstr "Wybierz zakres akcji na zasobie <i>{0}</i>, którą może wykonywać użytkownik w tej roli."
+msgstr "Proszę wybrać zakres akcji na zasobie <i>{0}</i>, którą może wykonywać użytkownik w tej roli."
 
 #. Select the scope of the action that this role can perform on the <i>{0}</i>.
 msgid "select-the-scope-of-the-action-that-this-role-can-perform-on-the-x"
-msgstr "Wybierz zakres akcji na <i>{0}</i>, którą może wykonywać użytkownik w tej roli."
+msgstr "Proszę wybrać zakres akcji na <i>{0}</i>, którą może wykonywać użytkownik w tej roli."
 
 #. Select the type of editor to use while editing xml and xsl.
 msgid "select-the-type-of-editor-to-use-while-editing-xml-and-xsl"
-msgstr "Wybierz rodzaj edytora wykorzystywany do edycji XML i XSL."
+msgstr "Proszę wybrać rodzaj edytora wykorzystywanego do edycji XML i XSL."
 
 #. Select User
 msgid "select-user"
@@ -8686,11 +8652,11 @@ msgstr "Wybierz użytkownika"
 
 #. Select users to associate with the action {0}.
 msgid "select-users-to-associate-with-the-action-x"
-msgstr "Wybierz użytkowników do powiązania z akcją {0}."
+msgstr "Proszę wybrać użytkowników do powiązania z akcją {0}."
 
 #. Select users to associate with the following actions: {0}
 msgid "select-users-to-associate-with-the-following-actions-x"
-msgstr "Wybierz użytkowników do powiązania z następującymi akcjami: {0}"
+msgstr "Proszę wybrać użytkowników do powiązania z następującymi akcjami: {0}"
 
 #. Select
 msgid "select"
@@ -8719,7 +8685,7 @@ msgstr "Wybranie nowej struktury spowoduje zmianę dostępnych pól i szablonów
 
 #. Selecting a template will change the structure, available input fields, and available templates? Do you want to proceed?
 msgid "selecting-a-template-will-change-the-structure,-available-input-fields,-and-available-templates"
-msgstr "Wybór nowego szablony zmieni strukturę, dostępne pola i dostępne szablony? Wykonać operację?"
+msgstr "Wybór nowego szablonu zmieni strukturę, dostępne pola i dostępne szablony. Czy wykonać operację?"
 
 #. Selection List
 msgid "selection-list"
@@ -8739,7 +8705,7 @@ msgstr "Wysyłać użytkownikom wiadomość e-mail na temat żądania zgody?"
 
 #. Send Confirmation Email
 msgid "send-confirmation-email"
-msgstr "Wyślij wiadomość e-mail z potwierdzeniem"
+msgstr "Wyślij e-mail z potwierdzeniem"
 
 #. Send email notification to new users?
 msgid "send-email-notification-to-new-users"
@@ -8760,14 +8726,12 @@ msgid "send-order-email"
 msgstr "Send Order Email"
 
 #. Send shipping email to users?
-#, fuzzy
 msgid "send-shipping-email-to-users"
-msgstr "Send shipping email to users?"
+msgstr "Wysyłać wiadomośc o wysłaniu do użytkowników?"
 
 #. Send Shipping Email
-#, fuzzy
 msgid "send-shipping-email"
-msgstr "Send Shipping Email"
+msgstr "Wyślij e-mail o nadaniu"
 
 #. Send sitemap information to {0}preview{1}:
 #, fuzzy
@@ -8827,9 +8791,8 @@ msgid "set-background-image-properties"
 msgstr "Ustaw własności obrazu tła"
 
 #. Set the discount amount and the discount type. If the discount amount is 0.25 and the discount type is <i>Percentage</i>, then 25% is taken off the purchase price. If the discount type is <i>Actual</i>, then 25 cents is taken off the purchase price.
-#, fuzzy
 msgid "set-the-discount-amount-and-the-discount-type"
-msgstr "Set the discount amount and the discount type. If the discount amount is 0.25 and the discount type is <i>Percentage</i>, then 25% is taken off the purchase price. If the discount type is <i>Actual</i>, then 25 cents is taken off the purchase price."
+msgstr "Proszę ustawić kwotę i typ rabatu. Jeśli kwot rabatu to 0.25, a typ rabatu to <i>procent</i>, to od ceny zakupu odjęte zostanie 25%. Jeśli typ rabatu to <i>faktyczny</i>, to od ceny odjęte zostanie 25 centów."
 
 #. Set the display order of child pages.
 msgid "set-the-display-order-of-child-pages"
@@ -8840,9 +8803,8 @@ msgid "set-the-display-order-of-news-feeds"
 msgstr "Proszę ustalić kolejność wyświetlania kanałów wiadomości."
 
 #. Set the following values to filter emails associated with an email address to a folder.
-#, fuzzy
 msgid "set-the-following-values-to-filter-emails-associated-with-an-email-address-to-a-folder"
-msgstr "Set the following values to filter emails associated with an email address to a folder."
+msgstr "Proszę ustawić poniższe wartości, aby sortować wiadomości powiązane z danym adresem e-mail do odpowiednich folderów."
 
 #. Set your community tags.
 msgid "set-your-community-tags"
@@ -8877,23 +8839,20 @@ msgid "shipping-address"
 msgstr "Adres dostawy"
 
 #. Shipping Calculation
-#, fuzzy
 msgid "shipping-calculation"
-msgstr "Shipping Calculation"
+msgstr "Obliczenie kosztów wysyłki"
 
 #. Shipping Email
-#, fuzzy
 msgid "shipping-email"
-msgstr "Shipping Email"
+msgstr "E-mail o nadaniu towaru"
 
 #. Shipping
 msgid "shipping"
 msgstr "Dostawa"
 
 #. Shopping Cart
-#, fuzzy
 msgid "shopping-cart"
-msgstr "Shopping Cart"
+msgstr "Koszyk"
 
 #. Shopping
 msgid "shopping"
@@ -8925,9 +8884,8 @@ msgid "should-users-forward-to-the-cart-page-when-adding-an-item-from-the-catego
 msgstr "Should users forward to the cart page when adding an item from the category page?"
 
 #. Show availability when viewing an item?
-#, fuzzy
 msgid "show-availability-when-viewing-an-item"
-msgstr "Show availability when viewing an item?"
+msgstr "Pokazywać dostępność artykułu przy jego oglądaniu?"
 
 #. Show Borders
 msgid "show-borders"
@@ -8959,19 +8917,16 @@ msgid "show-image"
 msgstr "Pokazuj obraz"
 
 #. Show item description when browsing a category?
-#, fuzzy
 msgid "show-item-description-when-browsing-a-category"
-msgstr "Show item description when browsing a category?"
+msgstr "Czy pokazywać opisy artykułów podczas przeglądania kategorii?"
 
 #. Show item prices when browsing a category?
-#, fuzzy
 msgid "show-item-prices-when-browsing-a-category"
-msgstr "Show item prices when browsing a category?"
+msgstr "Czy pokazywać ceny artykułów podczas przeglądania kategorii?"
 
 #. Show item properties when browsing a category?
-#, fuzzy
 msgid "show-item-properties-when-browsing-a-category"
-msgstr "Show item properties when browsing a category?"
+msgstr "Czy pokazywać właściwości artykułów podczas przeglądania kategorii?"
 
 #. Show Maps and Directions
 #, fuzzy
@@ -8991,19 +8946,16 @@ msgid "show-shopping"
 msgstr "Pokazuj zakupy"
 
 #. Show special item description when browsing a category?
-#, fuzzy
 msgid "show-special-item-description-when-browsing-a-category"
-msgstr "Show special item description when browsing a category?"
+msgstr "Czy pokazywać specjalny opis artykułu podczas przeglądania kategorii?"
 
 #. Show special items when browsing a category?
-#, fuzzy
 msgid "show-special-items-when-browsing-a-category"
-msgstr "Show special items when browsing a category?"
+msgstr "Czy pokazywać specjalne artykuły podczas przeglądania kategorii?"
 
 #. Show Special Items
-#, fuzzy
 msgid "show-special-items"
-msgstr "Show Special Items"
+msgstr "Pokazuj specjalne artykuły"
 
 #. Show Subfolders
 msgid "show-subfolders"
@@ -9088,14 +9040,12 @@ msgid "size"
 msgstr "Rozmiar"
 
 #. SKU
-#, fuzzy
 msgid "sku"
-msgstr "SKU"
+msgstr "Kod towaru"
 
 #. SKUs
-#, fuzzy
 msgid "skus"
-msgstr "SKUs"
+msgstr "Kody"
 
 #. Skype
 msgid "skype"
@@ -9160,15 +9110,15 @@ msgstr "Hiszpański"
 
 #. Specify a URL for a remote layout template, portlet, or theme.
 msgid "specify-a-URL-for-a-remote-layout-template,-portlet,-or-theme"
-msgstr "Określ URL dla zdalnego szablonu strony, portletu lub motywu."
+msgstr "Proszę podać adres URL dla zdalnego szablonu strony, portletu lub motywu."
 
 #. Specify an optional context for deployment.
 msgid "specify-an-optional-context-for-deployment"
-msgstr "Określ opcjonalny kontekst wdrożenia."
+msgstr "Proszę podać opcjonalny kontekst wdrożenia."
 
 #. Specify the file to import:
 msgid "specify-the-file-to-import"
-msgstr "Określ plik do zaimportowania:"
+msgstr "Proszę określić plik do zaimportowania:"
 
 #. Speed
 msgid "speed"
@@ -9274,14 +9224,12 @@ msgid "step-x-of-x"
 msgstr "Krok {0} z {1}."
 
 #. Stock Quantity
-#, fuzzy
 msgid "stock-quantity"
-msgstr "Stock Quantity"
+msgstr "Ilość w magazynie"
 
 #. Street Address
-#, fuzzy
 msgid "street-address"
-msgstr "Street Address"
+msgstr "Ulica"
 
 #. Street 1
 msgid "street1"
@@ -9348,9 +9296,8 @@ msgid "subscription-required"
 msgstr "Wymagana subskrypcja"
 
 #. Subtotal
-#, fuzzy
 msgid "subtotal"
-msgstr "Subtotal"
+msgstr "Podsuma"
 
 #. Suffix
 msgid "suffix"
@@ -9385,9 +9332,8 @@ msgid "symbols"
 msgstr "symbole"
 
 #. If this is checked, then the password is read for certain words and/or a certain length.
-#, fuzzy
 msgid "syntax-checking-enabled-help"
-msgstr "Jeżeli ta opcja jest zaznaczona użytkownik może zmieniać swoje hasło"
+msgstr "Jeżeli ta opcja jest zaznaczona, to sprawdzana jest treść i długość hasła."
 
 #. Syntax Checking Enabled
 msgid "syntax-checking-enabled"
@@ -9449,28 +9395,24 @@ msgid "tasks"
 msgstr "Zadania"
 
 #. Tax Free
-#, fuzzy
 msgid "tax-free"
-msgstr "Tax Free"
+msgstr "Bez podatku"
 
 #. Tax Rate
-#, fuzzy
 msgid "tax-rate"
-msgstr "Tax Rate"
+msgstr "Stawka podatku"
 
 #. Tax State
-#, fuzzy
 msgid "tax-state"
-msgstr "Tax State"
+msgstr "Stan dla podatku"
 
 #. Tax
 msgid "tax"
 msgstr "Podatek"
 
 #. Taxable
-#, fuzzy
 msgid "taxable"
-msgstr "Taxable"
+msgstr "Opodatkowany"
 
 #. Technical Support
 msgid "technical-support"
@@ -9509,14 +9451,12 @@ msgid "text-and-image"
 msgstr "Tekst i obraz"
 
 #. Text Area (HTML)
-#, fuzzy
 msgid "text-area"
-msgstr "Text Area (HTML)"
+msgstr "Pole tekstowe (HTML)"
 
 #. Text Box
-#, fuzzy
 msgid "text-box"
-msgstr "Text Box"
+msgstr "Pole tekstowe"
 
 #. Text Decoration
 msgid "text-decoration"
@@ -9622,7 +9562,7 @@ msgstr "Identyfikator firmy powiązanej z tym forum"
 
 #. The coupon could not be found.
 msgid "the-coupon-could-not-be-found"
-msgstr "Nie udało się odnaleźć kuponu."
+msgstr "Nie udało się odnaleźć bonu."
 
 #. The default preferences are invalid.
 msgid "the-default-preferences-are-invalid"
@@ -9699,9 +9639,8 @@ msgid "the-following-are-invalid-isbn-numbers"
 msgstr "Następujące numery ISBN są nieprawidłowe:"
 
 #. The following are invalid item SKUs:
-#, fuzzy
 msgid "the-following-are-invalid-item-skus"
-msgstr "The following are invalid item SKUs:"
+msgstr "Poniższe wartości są nieprawidłowymi kodami towaru:"
 
 #. The following are invalid symbols:
 msgid "the-following-are-invalid-symbols"
@@ -9769,14 +9708,12 @@ msgid "the-group-could-not-be-found"
 msgstr "Nie udało się odnaleźć grupy."
 
 #. The item could not be found.
-#, fuzzy
 msgid "the-item-could-not-be-found"
-msgstr "The item could not be found."
+msgstr "Nie można znaleźć artykułu."
 
 #. The item SKU you requested is already taken.
-#, fuzzy
 msgid "the-item-sku-you-requested-is-already-taken"
-msgstr "The item SKU you requested is already taken."
+msgstr "Żądany kod towaru jest już zajęty."
 
 #. Example</i> for your values.
 msgid "the-ldap-url-format-is"
@@ -9960,15 +9897,15 @@ msgstr "Plik źródłowy ma inne rozszerzenie niż oryginalny."
 
 #. The specified coupon is no longer available.
 msgid "the-specified-coupon-is-no-longer-available"
-msgstr "Wskazany kupon jest już niedostępny."
+msgstr "Wskazany bon jest już niedostępny."
 
 #. The specified coupon is no yet available.
 msgid "the-specified-coupon-is-no-yet-available"
-msgstr "Wskazany kupon nie jest jeszcze dostępny."
+msgstr "Wskazany bon nie jest jeszcze dostępny."
 
 #. The specified coupon is not active.
 msgid "the-specified-coupon-is-not-active"
-msgstr "Wskazany kupon jest nieaktywny."
+msgstr "Wskazany bon jest nieaktywny."
 
 #. The structure could not be found.
 msgid "the-structure-could-not-be-found"
@@ -10019,9 +9956,8 @@ msgid "the-user-who-added-the-message"
 msgstr "Użytkownik, który dodał wiadomość"
 
 #. The vacation message notifies others of your absence.
-#, fuzzy
 msgid "the-vacation-message-notifies-others-of-your-absence"
-msgstr "The vacation message notifies others of your absence."
+msgstr "Wiadomość ta ma na celu powiadomienie korespondentów o nieobecności użytkownika."
 
 #. The verse could not be found.
 #, fuzzy
@@ -10070,7 +10006,7 @@ msgstr "Brak kategorii."
 
 #. There are no coupons.
 msgid "there-are-no-coupons"
-msgstr "Brak kuponów."
+msgstr "Brak bonów."
 
 #. There are no entries for this category on {0}.
 msgid "there-are-no-entries-for-this-category-on"
@@ -10214,14 +10150,12 @@ msgid "this-change-will-only-be-shown-after-you-refresh-the-page"
 msgstr "Ta zmiana będzie widoczna dopiero po odświeżeniu aktualnej strony."
 
 #. This coupon only applies to items that are children of this comma delimited list of categories.
-#, fuzzy
 msgid "this-coupon-only-applies-to-items-that-are-children-of-this-comma-delimited-list-of-categories"
-msgstr "This coupon only applies to items that are children of this comma delimited list of categories."
+msgstr "Ten bon ważny jest tylko dla artykułów, które znajdują się w kategoriach z poniższej listy (kategoria rozdzielone przecinkami)."
 
 #. This coupon only applies to items with a SKU that corresponds to this comma delimited list of item SKUs.
-#, fuzzy
 msgid "this-coupon-only-applies-to-items-with-a-sku-that-corresponds-to-this-comma-delimited-list-of-item-skus"
-msgstr "This coupon only applies to items with a SKU that corresponds to this comma delimited list of item SKUs."
+msgstr "Ten bon ważny jest tylko dla artykułów, których kod znajduje się w poniższej liście (kategoria rozdzielone przecinkami)."
 
 #. This email address will also serve as your login.
 msgid "this-email-address-will-also-serve-as-your-login"
@@ -10429,9 +10363,8 @@ msgid "total-votes"
 msgstr "Całkowita liczba głosów"
 
 #. Total
-#, fuzzy
 msgid "total"
-msgstr "Total"
+msgstr "Suma"
 
 #. TXN ID
 #, fuzzy
@@ -10530,9 +10463,8 @@ msgid "unread-messages"
 msgstr "Wiadomości nie przeczytane"
 
 #. Unscramble
-#, fuzzy
 msgid "unscramble"
-msgstr "Unscramble"
+msgstr "Odszyfruj"
 
 #. Unsubscribe
 msgid "unsubscribe"
@@ -10552,9 +10484,8 @@ msgid "update-associations"
 msgstr "Aktualizuj powiązania"
 
 #. Update Cart
-#, fuzzy
 msgid "update-cart"
-msgstr "Update Cart"
+msgstr "Aktualizuj koszyk"
 
 #. Update Category
 msgid "update-category"
@@ -10720,9 +10651,8 @@ msgid "use-medium-image"
 msgstr "Użyj średniego obrazu"
 
 #. Use Shipping Formula
-#, fuzzy
 msgid "use-shipping-formula"
-msgstr "Use Shipping Formula"
+msgstr "Użyj wzoru na wysłkę"
 
 #. Use Small Image
 msgid "use-small-image"
@@ -10773,9 +10703,8 @@ msgid "users"
 msgstr "Użytkownicy"
 
 #. Vacation Message
-#, fuzzy
 msgid "vacation-message"
-msgstr "Vacation Message"
+msgstr "Autoresponder"
 
 #. Vacation
 msgid "vacation"
@@ -10811,7 +10740,7 @@ msgstr "Banner pionowy"
 
 #. Vertical Bar
 msgid "vertical-bar"
-msgstr "Pasek poziomy"
+msgstr "Słupkowy pionowy"
 
 #. View All
 msgid "view-all"
@@ -10948,9 +10877,8 @@ msgid "vnc"
 msgstr "VNC"
 
 #. Volume
-#, fuzzy
 msgid "volume"
-msgstr "Volume"
+msgstr "Objętość"
 
 #. Vote Date
 msgid "vote-date"
@@ -10962,7 +10890,7 @@ msgstr "Wyniki głosowania"
 
 #. Vote
 msgid "vote"
-msgstr "Głosuj"
+msgstr "Głos"
 
 #. Votes
 msgid "votes"
@@ -11035,7 +10963,6 @@ msgid "weekly"
 msgstr "Co tydzień"
 
 #. week(s) on:
-#, fuzzy
 msgid "weeks-on"
 msgstr "tydzień(tygodnie) w:"
 
@@ -11094,9 +11021,8 @@ msgid "within"
 msgstr "W granicach"
 
 #. Word Search
-#, fuzzy
 msgid "word-search"
-msgstr "Word Search"
+msgstr "Wyszukiwanie słów"
 
 #. Word Spacing
 msgid "word-spacing"
@@ -11246,11 +11172,11 @@ msgstr "YM"
 
 #. You are signed in as {0}.
 msgid "you-are-signed-in-as-x"
-msgstr "Jesteś zalogowany jako {0}."
+msgstr "Zalogowany jako {0}."
 
 #. You are using LDAP's password policy. Please change your LDAP password policy settings if you wish to use a local password policy.
 msgid "you-are-using-ldaps-password-policy"
-msgstr "W uzyciu jest polityka haseł LDAP. Aby używać lokalnej polityki haseł, należy zmienić ustawienia polityki haseł LDAP."
+msgstr "W uźyciu jest polityka haseł LDAP. Aby używać lokalnej polityki haseł, należy zmienić ustawienia polityki haseł LDAP."
 
 #. You can choose more than one.
 msgid "you-can-choose-more-than-one"
@@ -11258,7 +11184,7 @@ msgstr "Można wybrać więcej niż jeden."
 
 #. You can create a shortcut to any document that you have read access for. The permissions set on the shortcut enable others to access the original document through the shortcut.
 msgid "you-can-create-a-shortcut-to-any-document-that-you-have-read-access-for"
-msgstr "Możesz utworzyć skrót do każdego dokumentu, dla którego masz prawa odczytu. Uprawnienia ustawione dla skrótu umożliwiają innym dostęp do oryginalnego dokumentu poprze skrót."
+msgstr "Można utworzyć skrót do każdego dokumentu, dla którego są prawa odczytu. Uprawnienia ustawione dla skrótu umożliwiają innym dostęp do oryginalnego dokumentu poprze skrót."
 
 #. You can email users that have been manually added to the database. These users should all have {0} as their password. Launching users will reset those new users with a random password and will notify them of their new account status on the portal.
 #, fuzzy
@@ -11299,7 +11225,7 @@ msgstr "Nie można usunąć ani zdezaktywować domyślnej ceny."
 
 #. You cannot delete or deactivate yourself.
 msgid "you-cannot-delete-or-deactivate-yourself"
-msgstr "Nie możesz usunąć ani zdezaktywować samego(-ej) siebie."
+msgstr "Nie można usunąć ani zdezaktywować samego(-ej) siebie."
 
 #. You cannot delete organizations that have locations or users.
 msgid "you-cannot-delete-organizations-that-have-locations-or-users"
@@ -11332,23 +11258,23 @@ msgstr "You do not have an email address registered with this company."
 
 #. You do not have permission to create a shortcut to the selected document.
 msgid "you-do-not-have-permission-to-create-a-shortcut-to-the-selected-document"
-msgstr "Nie masz uprawnień, by utworzyć skrót do wybranego dokumentu."
+msgstr "Brak uprawnień do utworzenia skrótu do wybranego dokumentu."
 
 #. You do not have permission to view this page.
 msgid "you-do-not-have-permission-to-view-this-page"
-msgstr "Nie masz uprawnień do oglądania tej strony."
+msgstr "Brak uprawnień do oglądania tej strony."
 
 #. You do not have the required permissions.
 msgid "you-do-not-have-the-required-permissions"
-msgstr "Nie posiadasz wymaganych uprawnień"
+msgstr "Brak wymaganych uprawnień"
 
 #. You do not have the roles required to access this page.
 msgid "you-do-not-have-the-roles-required-to-access-this-page"
-msgstr "Nie posiadasz ról wymaganych do uzyskania dostępu do tej strony."
+msgstr "Brak ról wymaganych do uzyskania dostępu do tej strony."
 
 #. You do not have the roles required to access this portlet.
 msgid "you-do-not-have-the-roles-required-to-access-this-portlet"
-msgstr "Nie posiadasz roli wymaganych, aby uzyskać dostęp do tego portletu."
+msgstr "Brak ról wymaganych do uzyskania dostępu do tego portletu."
 
 #. You have attempted to access a section of the site that requires authentication.
 msgid "you-have-attempted-to-access-a-section-of-the-site-that-requires-authentication"
@@ -11369,7 +11295,7 @@ msgstr "Zostałeś(-aś) wylogowany(-a), ponieważ zalogowałeś(-aś) się na t
 
 #. You have entered invalid data. Please try again.
 msgid "you-have-entered-invalid-data"
-msgstr "Wprowadzono nieprawidłowe dane. Należy spróbować ponownie."
+msgstr "Nieprawidłowe dane. Proszę spróbować ponownie."
 
 #. You have no comics selected.
 msgid "you-have-no-comics-selected"
@@ -11622,7 +11548,7 @@ msgstr "Otrzymasz powiadomienie poprzez e-mail, kiedy każdy z odbiorców tej wi
 
 #. You will receive an email shortly with your order summary and further details.
 msgid "you-will-receive-an-email-shortly-with-your-order-summary-and-further-details"
-msgstr "Wkrótce otrzymasz wiadomość e-mail z podsumowaniem zamówienia i dalszymi szczegółami."
+msgstr "Wkrótce wysłana zostanie wiadomość e-mail z podsumowaniem zamówienia i dalszymi szczegółami."
 
 #. {0}, your account with login {1} has been deleted. Please contact the administrator for more help.
 msgid "your-account-with-login-x-has-been-deleted"
@@ -11718,9 +11644,8 @@ msgid "your-request-processed-successfully"
 msgstr "Żądanie przetworzone pomyślnie."
 
 #. Your Selections
-#, fuzzy
 msgid "your-selections"
-msgstr "Your Selections"
+msgstr "Wybór"
 
 #. Your settings could not be saved.
 msgid "your-settings-could-not-be-saved"
