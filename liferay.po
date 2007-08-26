@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-24 11:21+0100\n"
+"PO-Revision-Date: 2007-08-26 18:37+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -5730,9 +5730,8 @@ msgid "map-new-location"
 msgstr "Map New Location"
 
 #. Maps and Directions
-#, fuzzy
 msgid "maps-and-directions"
-msgstr "Maps and Directions"
+msgstr "Mapy i kierunki"
 
 #. Margin and Padding
 msgid "margin-and-padding"
@@ -5752,9 +5751,8 @@ msgid "max-qty"
 msgstr "Maksymalna ilość"
 
 #. Maximize Links
-#, fuzzy
 msgid "maximize-links"
-msgstr "Maximize Links"
+msgstr "Maksymalizuj odnośniki"
 
 #. Maximize
 msgid "maximize"
@@ -8928,7 +8926,6 @@ msgid "show-item-properties-when-browsing-a-category"
 msgstr "Czy pokazywać właściwości artykułów podczas przeglądania kategorii?"
 
 #. Show Maps and Directions
-#, fuzzy
 msgid "show-maps-and-directions"
 msgstr "Pokazuj mapy i kierunki"
 
@@ -9369,9 +9366,8 @@ msgid "talent"
 msgstr "Talent"
 
 #. Target
-#, fuzzy
 msgid "target"
-msgstr "Target"
+msgstr "Cel"
 
 #. Task ID
 msgid "task-id"
@@ -9841,14 +9837,12 @@ msgid "the-repository-could-not-be-found"
 msgstr "Nie udało się odnaleźć repozytorium."
 
 #. The resulting first page must be a portlet page.
-#, fuzzy
 msgid "the-resulting-first-page-must-be-a-portlet-page"
-msgstr "The resulting first page must be a portlet page."
+msgstr "Wynikowa pierwsza strona musi być stroną portletową."
 
 #. The resulting first page must not be hidden.
-#, fuzzy
 msgid "the-resulting-first-page-must-not-be-hidden"
-msgstr "The resulting first page must not be hidden."
+msgstr "Wynikowa pierwsza strona nie może być ukryta."
 
 #. The role could not be found.
 msgid "the-role-could-not-be-found"
@@ -10376,7 +10370,7 @@ msgstr "Przetłumacz"
 
 #. Trash
 msgid "trash"
-msgstr "Śmietnik"
+msgstr "Kosz"
 
 #. Travel
 msgid "travel"
@@ -10429,12 +10423,12 @@ msgstr "Usuń powiązanie"
 #. Unban Date
 #, fuzzy
 msgid "unban-date"
-msgstr "Data zbanowania"
+msgstr "Data odbanowania"
 
 #. Unban this User
 #, fuzzy
 msgid "unban-this-user"
-msgstr "Banuj tego użytkownika"
+msgstr "Odbanuj tego użytkownika"
 
 #. Unchecking this field will remove localized data for languages not shown in this view. Do you want to proceed?
 #, fuzzy
@@ -11202,7 +11196,6 @@ msgstr "You cannot add a template driven article if the article is associated wi
 
 # Czym jest {0}? Chyba "2 dni" czy cos takiego, ale... (marcoos)
 #. You cannot change your password yet. Please wait at least {0} before changing your password again.
-#, fuzzy
 msgid "you-cannot-change-your-password-yet-please-wait-at-least-x-before-changing-your-password-again"
 msgstr "Nie możesz jeszcze zmienić hasła. Ponowna zmiana hasła będzie możliwa dopiero za {0}."
 
@@ -11651,9 +11644,8 @@ msgid "your-settings-could-not-be-saved"
 msgstr "Nie udało się zapisać ustawień."
 
 #. Your trash folder is taking up a lot of space. Would you like to empty your trash now?
-#, fuzzy
 msgid "your-trash-folder-is-taking-up-a-lot-of-space"
-msgstr "Your trash folder is taking up a lot of space. Would you like to empty your trash now?"
+msgstr "Folder Kosza zajmuje dużo miejsca. Czy chcesz go teraz opróżnić?"
 
 #. Your type must allow children pages.
 #, fuzzy
