@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-08-30 21:02+0100\n"
-"Last-Translator: wadim dziedzic <nikdo@aviary.pl>\n"
+"PO-Revision-Date: 2007-09-02 14:27+0100\n"
+"Last-Translator: wadim dziedzic <wdziedzic@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -392,9 +392,8 @@ msgid "javax.portlet.title.91"
 msgstr "Zawartość Alfresco"
 
 #. Workflow
-#, fuzzy
 msgid "javax.portlet.title.93"
-msgstr "Workflow"
+msgstr "Proces prac"
 
 #. Google AdSense
 msgid "javax.portlet.title.94"
@@ -520,9 +519,8 @@ msgid "category.wiki"
 msgstr "Wiki"
 
 #. Workflow
-#, fuzzy
 msgid "category.workflow"
-msgstr "Workflow"
+msgstr "Proces prac"
 
 #. WSRP
 msgid "category.wsrp"
@@ -648,9 +646,8 @@ msgid "model.resource.com.liferay.portlet.softwarecatalog.model.SCLicense"
 msgstr "Licencja"
 
 #. Software Catalog Product Entry
-#, fuzzy
 msgid "model.resource.com.liferay.portlet.softwarecatalog.model.SCProductEntry"
-msgstr "Wpis "
+msgstr "Wpis produktu w katalogu oprogramowani"
 
 #. Software Catalog Product Version
 msgid "model.resource.com.liferay.portlet.softwarecatalog.model.SCProductVersion"
@@ -665,19 +662,16 @@ msgid "model.resource.com.liferay.portlet.wiki.model.WikiPage"
 msgstr "Strona wiki"
 
 #. Workflow Definition
-#, fuzzy
 msgid "model.resource.com.liferay.portlet.workflow.model.WorkflowDefinition"
-msgstr "Definicja workflow"
+msgstr "Definicja procesu prac"
 
 #. Workflow Instance
-#, fuzzy
 msgid "model.resource.com.liferay.portlet.workflow.model.WorkflowInstance"
-msgstr "Instancja workflow"
+msgstr "Instancja procesu prac"
 
 #. Workflow Task
-#, fuzzy
 msgid "model.resource.com.liferay.portlet.workflow.model.WorkflowTask"
-msgstr "Zadanie workflow"
+msgstr "Zadanie procesu prac"
 
 # #
 # # Action names
@@ -2272,7 +2266,7 @@ msgstr "Płatność rachunku"
 
 #. Billing Address
 msgid "billing-address"
-msgstr "Adres, na który wystawić rachunek"
+msgstr "Adres na rachunku"
 
 #. Billing
 msgid "billing"
@@ -3069,7 +3063,7 @@ msgstr "Inny kolor"
 
 #. Custom Message
 msgid "custom-message"
-msgstr "Niestandardowa wiadomość"
+msgstr "Dodatkowa wiadomość"
 
 #. Custom portlet.xml
 msgid "custom-portlet-xml"
@@ -3732,7 +3726,7 @@ msgstr "Edycja ustawień dla {0} w grupie:"
 
 #. Edit Stock Quantity
 msgid "edit-stock-quantity"
-msgstr "Edycja ilości w magazynie"
+msgstr "Zmień ilości w magazynie"
 
 #. Edit Structure
 msgid "edit-structure"
@@ -3807,9 +3801,8 @@ msgid "edit"
 msgstr "Edycja"
 
 #. Edit Guest
-#, fuzzy
 msgid "edit_guest"
-msgstr "Edytuj strony"
+msgstr "Edytuj konto gościa"
 
 #. Editor Type
 msgid "editor-type"
@@ -3974,7 +3967,7 @@ msgstr "Proszę podać adres e-mail PayPal, by przesłać wszystkie płatności 
 
 #. Enter Again
 msgid "enter-again"
-msgstr "Wpisz ponownie"
+msgstr "Powtórzenie hasła"
 
 #. Enter data
 msgid "enter-data"
@@ -4054,16 +4047,15 @@ msgstr "Proszę podać nazwę, obraz i priorytet w porządku malejącym. Wątki 
 
 #. Enter the public and private virtual host that will map to the public and private friendly URL.
 msgid "enter-the-public-and-private-virtual-host-that-will-map-to-the-public-and-private-friendly-url"
-msgstr "Proszę podać publiczne i prywatne wirtualne hosty, które będą mapowane do publicznego i prywatnego przyjaznego URL."
+msgstr "Proszę podać publiczne i prywatne wirtualne hosty, które będą mapowane do publicznego i prywatnego prostego adresu URL."
 
 #. Enter the search filter that will be used to test the validity of a user. The tokens @company_id@, @email_address@, and @user_id@ are replaced at runtime with the correct values.
 msgid "enter-the-search-filter-that-will-be-used-to-test-the-validity-of-a-user"
 msgstr "Proszę podać filtr przeszukiwania, który będzie służył do sprawdzenia użytkownika. Znaczniki @company_id@, @email_address@, i @user_id@ są zastępowane odpowiednimi wartościami podczas wykonywania zapytania."
 
 #. Enter the workflow definition below in XML format.
-#, fuzzy
 msgid "enter-the-workflow-definition-below-in-xml-format"
-msgstr "Enter the workflow definition below in XML format."
+msgstr "Proszę podać definicję procesu prac w formacie XML."
 
 #. Enter up to {0} email addresses of friends you would like to invite. Enter one email address per line.
 msgid "enter-up-to-x-email-addresses-of-friends-you-would-like-to-invite"
@@ -4279,14 +4271,12 @@ msgid "featured-items"
 msgstr "Polecane artykuły"
 
 #. Featured
-#, fuzzy
 msgid "featured"
-msgstr "Featured"
+msgstr "Polecany"
 
 #. Feedback
-#, fuzzy
 msgid "feedback"
-msgstr "Feedback"
+msgstr "Informacje zwrotne"
 
 #. Feet
 msgid "feet"
@@ -4634,9 +4624,8 @@ msgid "global-tags-are-injected-to-all-pages-that-you-visit"
 msgstr "Etykiety globalne są przypisywane do wszystkich odwiedzanych stron. Wykorzystuje się je do personalizacji treści, dzięki czemu etykietowana treść interesująca dla użytkownika jest pobierana automatycznie."
 
 #. Go to PayPal and set up IPN to post to {0}.
-#, fuzzy
 msgid "go-to-paypal-and-set-up-ipn-to-post-to-x"
-msgstr "Go to PayPal and set up IPN to post to {0}."
+msgstr "Proszę przejść do PayPal ustawić post IPN do {0}."
 
 #. Go
 msgid "go"
@@ -4936,14 +4925,12 @@ msgid "impersonate"
 msgstr "Przejmij tożsamość"
 
 #. Enable Journal data import.
-#, fuzzy
 msgid "import-15-data"
-msgstr "Post Date"
+msgstr "Włącz import danych dziennika"
 
 #. Enable Journal Content data import.
-#, fuzzy
 msgid "import-56-data"
-msgstr "Post Date"
+msgstr "Włącz import danych treści dziennika."
 
 #. Import a LAR file to overwrite the current pages.
 msgid "import-a-lar-file-to-overwrite-the-current-pages"
@@ -4986,9 +4973,8 @@ msgid "import"
 msgstr "Importuj"
 
 #. In Progress
-#, fuzzy
 msgid "in-progress"
-msgstr "In Progress"
+msgstr "W trakcie realizacji"
 
 #. In Stock
 msgid "in-stock"
@@ -5153,7 +5139,7 @@ msgstr "Portlet: {0} tymczasowo niedostępny."
 
 #. Is this article template driven?
 msgid "is-this-article-template-driven"
-msgstr "Czy ten artykuł jest oparty na wzorcach?"
+msgstr "Czy ten artykuł jest oparty na szablonach?"
 
 #. Is this template attached to a structure?
 msgid "is-this-template-attached-to-a-structure"
@@ -5232,9 +5218,8 @@ msgid "jboss-prefix"
 msgstr "Prefiks JBoss"
 
 #. Job Class
-#, fuzzy
 msgid "job-class"
-msgstr "Job Class"
+msgstr ""
 
 #. Job Title
 msgid "job-title"
@@ -5552,9 +5537,8 @@ msgid "loan-amount"
 msgstr "Kwota pożyczki"
 
 #. Locale
-#, fuzzy
 msgid "locale"
-msgstr "Locale"
+msgstr "Język"
 
 #. Localized
 msgid "localized"
@@ -5681,14 +5665,12 @@ msgid "male"
 msgstr "Mężczyzna"
 
 #. Manage Children
-#, fuzzy
 msgid "manage-children"
-msgstr "Manage Children"
+msgstr "Zarządzaj potomnymi"
 
 #. Manage List
-#, fuzzy
 msgid "manage-list"
-msgstr "Manage List"
+msgstr "Zarządzaj listą"
 
 #. Manage Task
 msgid "manage-task"
@@ -5700,7 +5682,7 @@ msgstr "Zarządzanie głównymi prywatnymi stronami dla"
 
 #. Manage Top Public Pages for
 msgid "manage-top-public-pages-for"
-msgstr "Zarządzaniegłównymi publicznymi stronami dla"
+msgstr "Zarządzanie głównymi publicznymi stronami dla"
 
 #. Manage
 msgid "manage"
@@ -6273,9 +6255,8 @@ msgid "no-documents-were-found-that-matched-the-keywords"
 msgstr "Nie znaleziono dokumentów odpowiadających podanym słowom"
 
 #. No Download
-#, fuzzy
 msgid "no-download"
-msgstr "No Download"
+msgstr "Bez pobierania"
 
 #. No Due Date
 msgid "no-due-date"
@@ -6615,9 +6596,8 @@ msgid "only-articles-associated-with-template-x-are-shown"
 msgstr "Wyświetlane są tylko artykuły powiązane z szablonem {0}."
 
 #. Only assign permissions to me
-#, fuzzy
 msgid "only-assign-permissions-to-me"
-msgstr "Only assign permissions to me"
+msgstr "Przypisuj uprawnienia tylko dla mnie"
 
 #. Only templates associated with structure {0} are shown.
 msgid "only-templates-associated-with-structure-x-are-shown"
@@ -6733,9 +6713,8 @@ msgid "outside-us"
 msgstr "Poza USA"
 
 #. Override Default Template
-#, fuzzy
 msgid "override-default-template"
-msgstr "Format Template"
+msgstr "Nadpisz domyślny szablon"
 
 #. Owner
 msgid "owner"
@@ -6746,9 +6725,8 @@ msgid "package"
 msgstr "Pakiet"
 
 #. Page Display Order
-#, fuzzy
 msgid "page-display-order"
-msgstr "Page Display Order"
+msgstr "Kolejność wyświetlania stron"
 
 #. Page History
 msgid "page-history"
@@ -6775,7 +6753,6 @@ msgid "page"
 msgstr "Strona"
 
 #. Pager
-#, fuzzy
 msgid "pager"
 msgstr "Pager"
 
@@ -6871,9 +6848,8 @@ msgid "payer-email-address"
 msgstr "Adres e-mail płatnika"
 
 #. Payment Gross
-#, fuzzy
 msgid "payment-gross"
-msgstr "Payment Gross"
+msgstr "Opłata brutto"
 
 #. Payment Settings
 msgid "payment-settings"
@@ -8017,7 +7993,7 @@ msgstr "Zwykłe przeglądarki"
 
 #. Regular
 msgid "regular"
-msgstr ""
+msgstr "Zwykła"
 
 #. Reject
 msgid "reject"
@@ -8210,7 +8186,7 @@ msgstr "Zarezerwowani użytkownicy"
 
 #. This determines the amount of time that a record of failed logins is kept for the user.
 msgid "reset-failure-count-help"
-msgstr ""
+msgstr "Ta wartość określa czas, przez który pamiętane będą nieudane próby logowania."
 
 #. Reset Failure Count
 msgid "reset-failure-count"
@@ -8344,9 +8320,8 @@ msgid "ru_en"
 msgstr "Rosyjski na angielski"
 
 #. Run the garbage collector to free up memory.
-#, fuzzy
 msgid "run-the-garbage-collector-to-free-up-memory"
-msgstr "Uruchom garbage collector by zwolnić pamięć."
+msgstr "Uruchom proces garbage collector by zwolnić pamięć."
 
 #. Russian
 msgid "russian"
@@ -8461,7 +8436,7 @@ msgstr "Szukaj w folderach"
 
 #. Search Items
 msgid "search-items"
-msgstr "Wyszuka elementy"
+msgstr "Wyszukaj elementy"
 
 #. Search Messages
 msgid "search-messages"
@@ -8541,14 +8516,12 @@ msgid "security"
 msgstr "Bezpieczeństwo"
 
 #. See Current Results
-#, fuzzy
 msgid "see-current-results"
-msgstr "See Current Results"
+msgstr "Wyświetl bieżące wyniki"
 
 #. See Large Photo
-#, fuzzy
 msgid "see-large-photo"
-msgstr "See Large Photo"
+msgstr "Wyświetl duże zdjęcie"
 
 #. See {0} for more information.
 msgid "see-x-for-more-information"
@@ -8571,9 +8544,8 @@ msgid "select-box"
 msgstr "Pole wyboru"
 
 #. Select Content
-#, fuzzy
 msgid "select-content"
-msgstr "Select Content"
+msgstr "Wybierz zawartość"
 
 #. Select Date
 msgid "select-date"
@@ -8664,7 +8636,6 @@ msgid "selected"
 msgstr "Wybrany"
 
 #. Selecting a new structure will change the available input fields and available templates? Do you want to proceed?
-#, fuzzy
 msgid "selecting-a-new-structure-will-change-the-available-input-fields-and-available-templates"
 msgstr "Wybranie nowej struktury spowoduje zmianę dostępnych pól i szablonów? Wykonać operację?"
 
@@ -8877,9 +8848,8 @@ msgid "show-borders"
 msgstr "Pokazuj ramki"
 
 #. Show Breadcrumbs
-#, fuzzy
 msgid "show-breadcrumbs"
-msgstr "Pokazuj ramki"
+msgstr "Pokazuj ścieżkę stron"
 
 #. Show Calendar
 msgid "show-calendar"
@@ -9107,9 +9077,8 @@ msgid "speed"
 msgstr "Prędkość"
 
 #. Spell
-#, fuzzy
 msgid "spell"
-msgstr "Spell"
+msgstr "Pisownia"
 
 #. Sports Event
 msgid "sports-event"
@@ -9173,7 +9142,6 @@ msgid "start-time"
 msgstr "Czas rozpoczęcia"
 
 #. Start
-#, fuzzy
 msgid "start"
 msgstr "Rozpocznij"
 
@@ -9323,7 +9291,7 @@ msgstr "Włącz sprawdzanie składni"
 
 #. System Properties
 msgid "system-properties"
-msgstr "Właściwości systemowe"
+msgstr "Właściwości systemu"
 
 #. Tab Menu
 #, fuzzy
@@ -9932,9 +9900,8 @@ msgid "the-vacation-message-notifies-others-of-your-absence"
 msgstr "Wiadomość ta ma na celu powiadomienie korespondentów o nieobecności użytkownika."
 
 #. The verse could not be found.
-#, fuzzy
 msgid "the-verse-could-not-be-found"
-msgstr "The verse could not be found."
+msgstr "Nie można odnaleźć linii."
 
 #. The
 msgid "the"
@@ -10156,7 +10123,7 @@ msgstr "Ta funkcja działa tylko gdy wysyłane są wiadomości e-mail z formatow
 
 #. This page displays the last {0} articles, structures, and templates that you accessed.
 msgid "this-page-displays-the-last-x-articles,-structures,-and-templates-that-you-accessed"
-msgstr "Na tej stronie wyświetlonych jest ostatnie {0} artykułów, struktur, i szablonów, które odczytałeś(-aś)."
+msgstr "Na tej stronie wyświetlonych jest ostatnie {0} artykułów, struktur, i szablonów, które odczytano."
 
 #. This page is part of an inactive portlet.
 msgid "this-page-is-part-of-an-inactive-portlet"
@@ -10236,9 +10203,8 @@ msgid "time"
 msgstr "Czas"
 
 #. Timestamp
-#, fuzzy
 msgid "timestamp"
-msgstr "Timestamp"
+msgstr "Znacznik czasu"
 
 #. Title
 msgid "title"
@@ -10303,14 +10269,12 @@ msgid "topic"
 msgstr "Temat"
 
 #. Topics require at least one read role.
-#, fuzzy
 msgid "topics-require-at-least-one-read-role"
-msgstr "Topics require at least one read role."
+msgstr "Tematy wymagają przynajmniej jednej roli pozwalającej na czytanie."
 
 #. Topics require at least one write role.
-#, fuzzy
 msgid "topics-require-at-least-one-write-role"
-msgstr "Topics require at least one write role."
+msgstr "Tematy wymagają przynajmniej jednej roli pozwalającej na zapis."
 
 #. Topics
 msgid "topics"
@@ -10337,9 +10301,8 @@ msgid "total"
 msgstr "Suma"
 
 #. TXN ID
-#, fuzzy
 msgid "transaction-id"
-msgstr "TXN ID"
+msgstr "ID transakcji"
 
 #. Translate
 msgid "translate"
@@ -10459,9 +10422,8 @@ msgid "update-category"
 msgstr "Uaktualnij kategorię"
 
 #. Update Content Settings
-#, fuzzy
 msgid "update-content-settings"
-msgstr "Update Content Settings"
+msgstr "Uaktualnij ustawienia treści"
 
 #. Update Display Order
 msgid "update-display-order"
@@ -10472,9 +10434,8 @@ msgid "update-folder"
 msgstr "Uaktualnij folder"
 
 #. Update From Chart
-#, fuzzy
 msgid "update-from-chart"
-msgstr "Update From Chart"
+msgstr "Uaktualnij z wykresu"
 
 #. Update From Custom
 #, fuzzy
@@ -10523,19 +10484,19 @@ msgstr "Prześlij obraz tła"
 
 #. Upload a GIF or JPEG that is {0} pixels tall and {1} pixels wide.
 msgid "upload-a-gif-or-jpeg-that-is-x-pixels-tall-and-x-pixels-wide"
-msgstr "Prześlij obraz w formacie GIF lub JPEG, o rozmiarach nie większych niż {0}x{1} pikseli (wysokość x szerokość)."
+msgstr "Proszę wysłać obraz w formacie GIF lub JPEG, o rozmiarach nie większych niż {0}x{1} pikseli (wysokość x szerokość)."
 
 #. Upload a logo for the private pages that will be used instead of the default enterprise logo.
 msgid "upload-a-logo-for-the-private-pages-that-will-be-used-instead-of-the-default-enterprise-logo"
-msgstr "Wyślij logo, które będzie używane na prywatnych stronach zamiast domyślnego logo firmy."
+msgstr "Proszę wysłać logo, które będzie używane na prywatnych stronach zamiast domyślnego logo firmy."
 
 #. Upload a logo for the public pages that will be used instead of the default enterprise logo.
 msgid "upload-a-logo-for-the-public-pages-that-will-be-used-instead-of-the-default-enterprise-logo"
-msgstr "Wyślij logo, które będzie używane na publicznych stronach zamiast domyślnego logo firmy."
+msgstr "Proszę wysłać logo, które będzie używane na publicznych stronach zamiast domyślnego logo firmy."
 
 #. Upload a WAR file to install a layout template, portlet, or theme.
 msgid "upload-a-war-file-to-install-a-layout-template,-portlet,-or-theme"
-msgstr "Prześlij plik WAR, by zainstalować szablon strony, portlet lub motyw."
+msgstr "Proszę wysłać plik WAR, by zainstalować szablon strony, portlet lub motyw."
 
 #. Upload Completed
 msgid "upload-completed"
@@ -10543,7 +10504,7 @@ msgstr "Przesyłanie ukończone"
 
 #. Upload documents no larger than {0}k.
 msgid "upload-documents-no-larger-than-x-k"
-msgstr "Prześlij dokumenty nie większe niż {0}k."
+msgstr "Proszę wysłać dokumenty nie większe niż {0}k."
 
 #. Upload File
 msgid "upload-file"
@@ -10555,7 +10516,7 @@ msgstr "Prześlij obraz"
 
 #. Upload images no larger than {0}k.
 msgid "upload-images-no-larger-than-x-k"
-msgstr "Prześlij obraz nie większy niż {0}k."
+msgstr "Proszę wysłać obraz nie większy niż {0}k."
 
 #. Upload New Version
 msgid "upload-new-version"
@@ -10818,7 +10779,6 @@ msgid "view-users"
 msgstr "Wyświetl użytkowników"
 
 #. View
-#, fuzzy
 msgid "view"
 msgstr "Widok"
 
@@ -10888,7 +10848,6 @@ msgid "warning-time"
 msgstr "Czas ostrzeżenia"
 
 #. Web ID
-#, fuzzy
 msgid "web-id"
 msgstr "Web ID"
 
@@ -11160,9 +11119,8 @@ msgid "you-can-now-check-for-new-messages-in-your-x"
 msgstr "Można teraz sprawdzić nowe wadomości w folderze: {0}."
 
 #. You cannot add a template driven article if the article is associated with a structure that has no templates. Please choose another structure or add a template to your selected structure.
-#, fuzzy
 msgid "you-cannot-add-a-template-driven-article-if-the-article-is-associated-with-a-structure-that-has-no-templates"
-msgstr "You cannot add a template driven article if the article is associated with a structure that has no templates. Please choose another structure or add a template to your selected structure."
+msgstr "Nie można dodać artykułu opartego na szablonach, jeśli artykuł ten powiązany jest ze strukturą, która nie posiada szablonów. Proszę wybrać inną strukturę lub dodać szablon do wybranej struktury."
 
 # Czym jest {0}? Chyba "2 dni" czy cos takiego, ale... (marcoos)
 #. You cannot change your password yet. Please wait at least {0} before changing your password again.
