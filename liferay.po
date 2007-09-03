@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-03 14:19+0100\n"
+"PO-Revision-Date: 2007-09-03 21:47+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -4590,7 +4590,6 @@ msgid "generate"
 msgstr "Generuj"
 
 #. Gerah
-#, fuzzy
 msgid "gerah"
 msgstr "Gerah"
 
@@ -4683,9 +4682,8 @@ msgid "guestbook"
 msgstr "Księga gości"
 
 #. Half Banner
-#, fuzzy
 msgid "half-banner"
-msgstr "Half Banner"
+msgstr "Półbaner"
 
 # Zgodnie z http://pl.wikipedia.org/wiki/%C4%86wier%C4%87_(miara) i http://en.wikipedia.org/wiki/Handbreadth
 #. Handbreath
@@ -6147,9 +6145,8 @@ msgid "new-name"
 msgstr "Nowa nazwa"
 
 #. New/Total
-#, fuzzy
 msgid "new-over-total"
-msgstr "New/Total"
+msgstr "Nowe/całkowite"
 
 #. New Page Name
 msgid "new-page-name"
@@ -10934,7 +10931,6 @@ msgid "wikis"
 msgstr "Wiki"
 
 #. Within
-#, fuzzy
 msgid "within"
 msgstr "W granicach"
 
