@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-02 14:27+0100\n"
-"Last-Translator: wadim dziedzic <wdziedzic@aviary.pl>\n"
+"PO-Revision-Date: 2007-09-03 14:19+0100\n"
+"Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3118,14 +3118,12 @@ msgid "date"
 msgstr "Data"
 
 #. Day High
-#, fuzzy
 msgid "day-high"
-msgstr "Day High"
+msgstr "Temperatura maksymalna"
 
 #. Day Low
-#, fuzzy
 msgid "day-low"
-msgstr "Day Low"
+msgstr "Temperatura minimalna"
 
 #. day(s)
 msgid "day-s"
@@ -3275,6 +3273,7 @@ msgstr "Oznacza grupę systemową"
 msgid "denotes-a-system-role"
 msgstr "Oznacza rolę systemową"
 
+# 'Katalog wdrożenia' czy 'Wdróż katalog'?
 #. Deploy Directory
 #, fuzzy
 msgid "deploy-directory"
@@ -3477,11 +3476,11 @@ msgstr "Liczba dokumentów na stronie"
 
 #. Documents require at least one read role.
 msgid "documents-require-at-least-one-read-role"
-msgstr "Dokumenty wymagają przynajmniej jednej roli pozwalającej na czytanie."
+msgstr "Dokumenty wymagają przynajmniej jednej roli odczytu."
 
 #. Documents require at least one write role.
 msgid "documents-require-at-least-one-write-role"
-msgstr "Dokumenty wymagają przynajmniej jednej roli pozwalającej na zapisywanie."
+msgstr "Dokumenty wymagają przynajmniej jednej roli zapisu."
 
 #. Documents
 msgid "documents"
@@ -4688,10 +4687,10 @@ msgstr "Księga gości"
 msgid "half-banner"
 msgstr "Half Banner"
 
+# Zgodnie z http://pl.wikipedia.org/wiki/%C4%86wier%C4%87_(miara) i http://en.wikipedia.org/wiki/Handbreadth
 #. Handbreath
-#, fuzzy
 msgid "handbreath"
-msgstr "Handbreath"
+msgstr "Ćwierć"
 
 #. Hangman Word List
 msgid "hangman-word-list"
@@ -4702,7 +4701,6 @@ msgid "hangman"
 msgstr "Wisielec"
 
 #. Happy Hour
-#, fuzzy
 msgid "happy-hour"
 msgstr "Happy Hour"
 
@@ -5894,7 +5892,6 @@ msgid "min-qty"
 msgstr "Minimalna ilość"
 
 #. Mina
-#, fuzzy
 msgid "mina"
 msgstr "Mina"
 
@@ -6571,9 +6568,8 @@ msgid "older-version-installed"
 msgstr "Nieaktualny"
 
 #. On Hold
-#, fuzzy
 msgid "on-hold"
-msgstr "On Hold"
+msgstr "Wstrzymano"
 
 #. On
 msgid "on"
@@ -7899,9 +7895,8 @@ msgid "read-more"
 msgstr "Czytaj więcej"
 
 #. Read Roles
-#, fuzzy
 msgid "read-roles"
-msgstr "Read Roles"
+msgstr "Role odczytu"
 
 #. Receiver Email Address
 msgid "receiver-email-address"
@@ -8110,11 +8105,11 @@ msgstr "W odpowiedzi na"
 
 #. Repositories require at least one read role.
 msgid "repositories-require-at-least-one-read-role"
-msgstr "Repozytoria wymagają przynajmiej jednej roli do odczytu."
+msgstr "Repozytoria wymagają przynajmiej jednej roli odczytu."
 
 #. Repositories require at least one write role.
 msgid "repositories-require-at-least-one-write-role"
-msgstr "Repozytoria wymagają przynajmiej jednej roli do zapisu."
+msgstr "Repozytoria wymagają przynajmiej jednej roli zapisu."
 
 #. Repositories
 msgid "repositories"
@@ -9315,7 +9310,6 @@ msgid "tags"
 msgstr "Etykiety"
 
 #. Talent
-#, fuzzy
 msgid "talent"
 msgstr "Talent"
 
@@ -10270,11 +10264,11 @@ msgstr "Temat"
 
 #. Topics require at least one read role.
 msgid "topics-require-at-least-one-read-role"
-msgstr "Tematy wymagają przynajmniej jednej roli pozwalającej na czytanie."
+msgstr "Tematy wymagają przynajmniej jednej roli odczytu."
 
 #. Topics require at least one write role.
 msgid "topics-require-at-least-one-write-role"
-msgstr "Tematy wymagają przynajmniej jednej roli pozwalającej na zapis."
+msgstr "Tematy wymagają przynajmniej jednej roli zapisu."
 
 #. Topics
 msgid "topics"
@@ -10924,9 +10918,8 @@ msgid "wide-column"
 msgstr "Szeroka kolumna"
 
 #. Wide Skyscraper
-#, fuzzy
 msgid "wide-skyscraper"
-msgstr "Wide Skyscraper"
+msgstr "Szeroki skyscraper"
 
 #. Wide
 msgid "wide"
@@ -10963,9 +10956,8 @@ msgid "would-you-like-to-save-the-changes-made-to-this-language"
 msgstr "Czy zapisać zmiany wykonane dla tego języka?"
 
 #. Write Roles
-#, fuzzy
 msgid "write-roles"
-msgstr "Write Roles"
+msgstr "Role zapisu"
 
 #. Markup Endpoint
 #, fuzzy
