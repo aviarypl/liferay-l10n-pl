@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-04 17:39+0100\n"
+"PO-Revision-Date: 2007-09-04 21:54+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -4899,9 +4899,8 @@ msgid "image-position-from-the-top"
 msgstr "Pozycja obrazu od góry"
 
 #. Image Search Key
-#, fuzzy
 msgid "image-search-key"
-msgstr "Image Search Key"
+msgstr "Klucz przeszukiwania obrazków"
 
 #. Image
 msgid "image"
@@ -5036,9 +5035,8 @@ msgid "insert-custom-css-that-will-loaded-after-the-theme"
 msgstr "Własny kod CSS, który zostanie załadowany po kodzie motywu."
 
 #. Inserted in
-#, fuzzy
 msgid "inserted-in"
-msgstr "Inserted in"
+msgstr "Wstawione w"
 
 #. Install More Layout Templates
 msgid "install-more-layout-templates"
@@ -5749,9 +5747,8 @@ msgid "maximum-failure-help"
 msgstr "Określa, ile maksymalnie razy użytkownik może próbować zalogować się przy użyciu nieprawidłowego hasła."
 
 #. Maximum Failure
-#, fuzzy
 msgid "maximum-failure"
-msgstr "Maximum"
+msgstr "Maks. liczba niepowodzeń"
 
 #. Maximum Memory
 msgid "maximum-memory"
@@ -6764,10 +6761,10 @@ msgstr "Kategoria nadrzędna"
 msgid "parent-folder"
 msgstr "Folder nadrzędny"
 
+# Chyba nie "rodzic", nie?
 #. Parent
-#, fuzzy
 msgid "parent"
-msgstr "Parent"
+msgstr "Nadrzędny"
 
 #. Party
 msgid "party"
@@ -8657,12 +8654,12 @@ msgstr "Wyślij nowe hasło"
 #. Send order email to users?
 #, fuzzy
 msgid "send-order-email-to-users"
-msgstr "Send order email to users?"
+msgstr "Wysłać użytkownikom potwierdzenie zamówienia?"
 
 #. Send Order Email
 #, fuzzy
 msgid "send-order-email"
-msgstr "Send Order Email"
+msgstr "Wyślij potwierdzenie zamówienia"
 
 #. Send shipping email to users?
 msgid "send-shipping-email-to-users"
@@ -9027,9 +9024,8 @@ msgid "source-address"
 msgstr "Adres źródła"
 
 #. Source Input Enabled
-#, fuzzy
 msgid "source-input-enabled"
-msgstr "Source Input Enabled"
+msgstr "Wejście żródła włączone"
 
 #. Source URL
 msgid "source-url"
@@ -10933,9 +10929,8 @@ msgid "word-spacing"
 msgstr "Odstęp między wyrazami"
 
 #. Worm
-#, fuzzy
 msgid "worm"
-msgstr "Worm"
+msgstr "Robak"
 
 #. Would you like to save the changes made to this language?
 msgid "would-you-like-to-save-the-changes-made-to-this-language"
