@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-04 15:11+0100\n"
+"PO-Revision-Date: 2007-09-04 15:36+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -9105,6 +9105,7 @@ msgstr "Milimetr kwadratowy"
 msgid "square-yard"
 msgstr "Jard kwadratowy"
 
+# A może 'Plac'?
 #. Square
 #, fuzzy
 msgid "square"
@@ -10814,9 +10815,8 @@ msgid "voting-is-disabled-because-this-poll-expired-on-x"
 msgstr "Głosowanie jest wyłączone ponieważ ankieta wygasła dnia {0}."
 
 #. Waiting on sibling tokens to complete
-#, fuzzy
 msgid "waiting-on-sibling-tokens-to-complete"
-msgstr "Waiting on sibling tokens to complete"
+msgstr "Oczekiwanie na ukończenie zadań przez równorzędne tokeny"
 
 #. Warning! Due to inactivity, your session has expired.
 msgid "warning-due-to-inactivity-your-session-has-expired"
