@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-04 14:26+0100\n"
+"PO-Revision-Date: 2007-09-04 14:50+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -8238,9 +8238,8 @@ msgid "reunion"
 msgstr "Reunion"
 
 #. Rev
-#, fuzzy
 msgid "rev"
-msgstr "Rev"
+msgstr "Rew."
 
 #. Revert
 msgid "revert"
