@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-04 15:36+0100\n"
+"PO-Revision-Date: 2007-09-04 15:57+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -2539,7 +2539,7 @@ msgstr "Wymagana zmiana"
 
 #. Change
 msgid "change"
-msgstr "Zmień"
+msgstr "Zmiana"
 
 #. If this is checked, then the user can change their password.
 msgid "changeable-help"
@@ -3119,11 +3119,11 @@ msgstr "Data"
 
 #. Day High
 msgid "day-high"
-msgstr "Temperatura maksymalna"
+msgstr "Maks."
 
 #. Day Low
 msgid "day-low"
-msgstr "Temperatura minimalna"
+msgstr "Min."
 
 #. day(s)
 msgid "day-s"
@@ -5330,9 +5330,8 @@ msgid "last-thread"
 msgstr "Ostatni wątek"
 
 #. Last Trade
-#, fuzzy
 msgid "last-trade"
-msgstr "Last Trade"
+msgstr "Ostatni kurs"
 
 #. Last Update Date
 msgid "last-update-date"
@@ -6613,7 +6612,7 @@ msgstr "Open Source"
 
 #. Open
 msgid "open"
-msgstr "Otwarta"
+msgstr "Otwarcie"
 
 #. Optional
 msgid "optional"
@@ -10792,7 +10791,7 @@ msgstr "VNC"
 
 #. Volume
 msgid "volume"
-msgstr "Objętość"
+msgstr "Wolumen"
 
 #. Vote Date
 msgid "vote-date"
