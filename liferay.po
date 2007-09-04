@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-04 15:59+0100\n"
+"PO-Revision-Date: 2007-09-04 16:07+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -4503,7 +4503,7 @@ msgstr "Adres przekazywania"
 
 #. Forward
 msgid "forward"
-msgstr "Forward"
+msgstr "Przekaż"
 
 #. Fourth
 msgid "fourth"
@@ -4768,7 +4768,7 @@ msgstr "w"
 
 #. Historical Charts
 msgid "historical-charts"
-msgstr "Wykresy historyczne"
+msgstr "Wykresy historii zmian"
 
 #. This determines the number of previous passwords to keep in the history.
 msgid "history-count-help"
