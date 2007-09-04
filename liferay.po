@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-04 14:50+0100\n"
+"PO-Revision-Date: 2007-09-04 14:57+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -10954,37 +10954,32 @@ msgid "write-roles"
 msgstr "Role zapisu"
 
 #. Markup Endpoint
-#, fuzzy
 msgid "wsrp-markup-endpoint"
-msgstr "Markup Endpoint"
+msgstr "Punkt końcowy znakowania"
 
 #. Portlet Management Endpoint
-#, fuzzy
 msgid "wsrp-portlet-management-endpoint"
-msgstr "Portlet Management Endpoint"
+msgstr "Punkt końcowy zarządzania portletami"
 
 #. Portlet
 msgid "wsrp-portlet"
 msgstr "Portlet"
 
 #. Registration Endpoint
-#, fuzzy
 msgid "wsrp-registration-endpoint"
-msgstr "Registration Endpoint"
+msgstr "Punkt końcowy rejestracji"
 
 #. Service Description Endpoint
-#, fuzzy
 msgid "wsrp-service-description-endpoint"
-msgstr "Service Description Endpoint"
+msgstr "Punkt końcowy opisu usługi"
 
 #. WSRP Service URL
 msgid "wsrp-service-url"
 msgstr "Adres URL usługi WSRP"
 
 #. Your service URL or endpoints are unreachable. Please verify your settings.
-#, fuzzy
 msgid "wsrp-your-service-url-or-endpoints-are-unreachable"
-msgstr "Your service URL or endpoints are unreachable. Please verify your settings."
+msgstr "Adresy URL usług lub ich punkty końcowe nie są dostępne. Należy sprawdzić poprawność ustawień."
 
 #. {0} disables the minimum order requirement.
 msgid "x-disables-the-minimum-order-requirement"
