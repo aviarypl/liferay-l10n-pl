@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-04 15:02+0100\n"
+"PO-Revision-Date: 2007-09-04 15:11+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -4639,7 +4639,7 @@ msgstr "Rząd"
 
 #. This determines the number of times a user can login after their password has expired, before they are required to enter a new password.
 msgid "grace-limit-help"
-msgstr ""
+msgstr "Określa, ile razy użytkownik może się zalogować po tym, jak jego hasło utraciło ważność, zanim będzie musiał wprowadzić nowe hasło."
 
 #. Grace Limit
 msgid "grace-limit"
@@ -5215,7 +5215,7 @@ msgstr "Prefiks JBoss"
 
 #. Job Class
 msgid "job-class"
-msgstr ""
+msgstr "Klasa zadania"
 
 #. Job Title
 msgid "job-title"
@@ -5407,9 +5407,8 @@ msgid "leave-a-copy-of-the-forwarded-message"
 msgstr "Pozostawiać kopię przekazanej wiadomości?"
 
 #. Leave Edit Preferences
-#, fuzzy
 msgid "leave-edit-preferences"
-msgstr "Leave Edit Preferences"
+msgstr "Opuść edycję preferencji"
 
 #. * Leave the user name and password fields blank to use your current login information.
 msgid "leave-the-user-name-and-password-fields-blank-to-use-your-current-login-information"
