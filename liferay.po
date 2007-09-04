@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-04 14:57+0100\n"
+"PO-Revision-Date: 2007-09-04 15:02+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -5399,9 +5399,8 @@ msgid "ldap"
 msgstr "LDAP"
 
 #. Leaderboard
-#, fuzzy
 msgid "leaderboard"
-msgstr "Leaderboard"
+msgstr "Długi baner"
 
 #. Leave a copy of the forwarded message?
 msgid "leave-a-copy-of-the-forwarded-message"
@@ -5486,7 +5485,7 @@ msgstr "Liniowy"
 
 #. Link Portlet URLs to Page
 msgid "link-portlet-urls-to-page"
-msgstr ""
+msgstr "link-portlet-urls-to-page"
 
 #. Link to Page
 msgid "link-to-layout"
