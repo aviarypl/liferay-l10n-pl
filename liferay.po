@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-07 14:10+0100\n"
+"PO-Revision-Date: 2007-09-07 14:17+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -4638,7 +4638,6 @@ msgid "grace-limit-help"
 msgstr "Określa, ile razy użytkownik może się zalogować po tym, jak jego hasło utraciło ważność, zanim będzie musiał wprowadzić nowe hasło."
 
 #. Grace Limit
-#, fuzzy
 msgid "grace-limit"
 msgstr "Limit łaski"
 
@@ -8190,9 +8189,8 @@ msgid "resources"
 msgstr "Zasoby"
 
 #. restart
-#, fuzzy
 msgid "restart"
-msgstr "restart"
+msgstr "ponowne uruchomienie"
 
 #. Restore
 msgid "restore"
