@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-07 13:58+0100\n"
+"PO-Revision-Date: 2007-09-07 14:10+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -2117,7 +2117,6 @@ msgstr "Autor"
 
 # Za długie?
 #. Auto Deploy
-#, fuzzy
 msgid "auto-deploy"
 msgstr "Automatyczne wdrożenie"
 
@@ -3337,14 +3336,12 @@ msgid "direct-install"
 msgstr "Instalacja bezpośrednia"
 
 #. Directions Address
-#, fuzzy
 msgid "directions-address"
-msgstr "Directions Address"
+msgstr "Adres dla kierunków"
 
 #. Directions Input Enabled
-#, fuzzy
 msgid "directions-input-enabled"
-msgstr "Directions Input Enabled"
+msgstr "Wprowadzanie kierunków włączone"
 
 #. Directory
 msgid "directory"
@@ -4641,8 +4638,9 @@ msgid "grace-limit-help"
 msgstr "Określa, ile razy użytkownik może się zalogować po tym, jak jego hasło utraciło ważność, zanim będzie musiał wprowadzić nowe hasło."
 
 #. Grace Limit
+#, fuzzy
 msgid "grace-limit"
-msgstr ""
+msgstr "Limit łaski"
 
 #. Graduation
 msgid "graduation"
@@ -4805,10 +4803,10 @@ msgstr "Słupkowy poziomy"
 msgid "horizontal-separator"
 msgstr "Separator poziomy"
 
+# Za http://209.85.129.104/search?q=cache:9FK_Zw1jtlwJ:ftp://ftp.helion.pl/online/j2rapi/j2rapi-12.pdf+gor%C4%85ce+wdro%C5%BCenie+hot+deploy&hl=pl&ct=clnk&cd=1&gl=pl&client=firefox-a
 #. Hot Deploy
-#, fuzzy
 msgid "hot-deploy"
-msgstr "Hot Deploy"
+msgstr "Wdrożenie na gorąco"
 
 #. Hours
 msgid "hour"
@@ -5687,18 +5685,16 @@ msgid "maori"
 msgstr "Maoryski"
 
 #. Map Address
-#, fuzzy
 msgid "map-address"
-msgstr "Map Address"
+msgstr "Mapuj adres"
 
 #. Map Input Enabled
 msgid "map-input-enabled"
 msgstr "Wejście mapy włączone"
 
 #. Map New Location
-#, fuzzy
 msgid "map-new-location"
-msgstr "Map New Location"
+msgstr "Mapuj nowe położenie"
 
 #. Maps and Directions
 msgid "maps-and-directions"
@@ -6749,9 +6745,8 @@ msgid "paginate-if-there-are-two-or-more-articles"
 msgstr "Stronicuj, jeśli jest więcej niż jeden artykuł."
 
 #. Paint
-#, fuzzy
 msgid "paint"
-msgstr "Paint"
+msgstr "Maluj"
 
 #. Parent Category
 msgid "parent-category"
@@ -11020,15 +11015,15 @@ msgstr "Jard"
 msgid "year-abbreviation"
 msgstr "y"
 
+# Dokładniej powinno być: "rok/lat(a)", ale...
 #. year(s)
-#, fuzzy
 msgid "year-s"
-msgstr "rok(lata)"
+msgstr "lat(a)"
 
+# Albo: "Wynik narastająco od początku roku (YTD)", jeśli jest miejsce...
 #. Year to Date
-#, fuzzy
 msgid "year-to-date"
-msgstr "Year to Date"
+msgstr "Narastająco (YTD)"
 
 #. Year
 msgid "year"
