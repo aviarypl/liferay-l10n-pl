@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-06 19:03+0100\n"
+"PO-Revision-Date: 2007-09-07 13:58+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -2115,10 +2115,11 @@ msgstr "Uwierzytelnianie"
 msgid "author"
 msgstr "Autor"
 
+# Za długie?
 #. Auto Deploy
 #, fuzzy
 msgid "auto-deploy"
-msgstr "Auto Deploy"
+msgstr "Automatyczne wdrożenie"
 
 #. Auto
 msgid "auto"
@@ -3277,7 +3278,7 @@ msgstr "Oznacza rolę systemową"
 #. Deploy Directory
 #, fuzzy
 msgid "deploy-directory"
-msgstr "Katalog deploy"
+msgstr "Katalog wdrożenia"
 
 #. Deploy
 msgid "deploy"
@@ -4076,9 +4077,8 @@ msgid "entries"
 msgstr "Wpisy"
 
 #. Entry Information
-#, fuzzy
 msgid "entry-information"
-msgstr "Entry Information"
+msgstr "Informacje o wpisie"
 
 #. Entry
 msgid "entry"
@@ -4386,7 +4386,7 @@ msgstr "Pierwszy wątek"
 
 #. First
 msgid "first"
-msgstr "Pierwsza"
+msgstr "Pierwszy"
 
 #. Flash Attributes
 msgid "flash-attributes"
@@ -5692,9 +5692,8 @@ msgid "map-address"
 msgstr "Map Address"
 
 #. Map Input Enabled
-#, fuzzy
 msgid "map-input-enabled"
-msgstr "Map Input Enabled"
+msgstr "Wejście mapy włączone"
 
 #. Map New Location
 #, fuzzy
@@ -6591,10 +6590,11 @@ msgstr "Wyświetlane są tylko szablony powiązane ze strukturą {0}."
 msgid "open-document"
 msgstr "Otwórz dokument"
 
+# ...czy "Otwarty wpis"?
 #. Open Entry
 #, fuzzy
 msgid "open-entry"
-msgstr "Open Entry"
+msgstr "Otwórz wpis"
 
 #. OpenID
 msgid "open-id"
@@ -7583,9 +7583,8 @@ msgid "post-as-anonymous"
 msgstr "Wyślij anonimowo"
 
 #. Post Date
-#, fuzzy
 msgid "post-date"
-msgstr "Post Date"
+msgstr "Data wysłania"
 
 #. Post New Message
 msgid "post-new-message"
@@ -8284,10 +8283,10 @@ msgstr "Strona główna"
 msgid "root-theme"
 msgstr "Motyw główny"
 
+# Raczej nie "root" w sensie administrator, prawda?
 #. Root
-#, fuzzy
 msgid "root"
-msgstr "Root"
+msgstr "Główny"
 
 #. Rounded Edges
 msgid "rounded-edges"
@@ -8482,9 +8481,8 @@ msgid "searched-the-web-for"
 msgstr "W sieci WWW wyszukano"
 
 #. Second
-#, fuzzy
 msgid "second"
-msgstr "Druga(-i)"
+msgstr "Drugi"
 
 #. Seconds
 msgid "seconds"
@@ -8651,12 +8649,10 @@ msgid "send-new-password"
 msgstr "Wyślij nowe hasło"
 
 #. Send order email to users?
-#, fuzzy
 msgid "send-order-email-to-users"
 msgstr "Wysłać użytkownikom potwierdzenie zamówienia?"
 
 #. Send Order Email
-#, fuzzy
 msgid "send-order-email"
 msgstr "Wyślij potwierdzenie zamówienia"
 
@@ -8669,9 +8665,8 @@ msgid "send-shipping-email"
 msgstr "Wyślij e-mail o nadaniu"
 
 #. Send sitemap information to {0}preview{1}:
-#, fuzzy
 msgid "send-sitemap-information-to-preview"
-msgstr "Item Information"
+msgstr "Wyślij informacje o mapie witryny do {0}podglądu{1}:"
 
 #. Send Text Message
 msgid "send-text-message"
@@ -9275,7 +9270,7 @@ msgstr "Właściwości systemu"
 #. Tab Menu
 #, fuzzy
 msgid "tab-menu"
-msgstr "Tab Menu"
+msgstr "Menu karty"
 
 #. Tag Value
 msgid "tag-value"
@@ -10046,9 +10041,8 @@ msgid "thesaurus"
 msgstr "Słownik wyrazów bliskoznacznych"
 
 #. Third
-#, fuzzy
 msgid "third"
-msgstr "Trzecia(-i)"
+msgstr "Trzeci"
 
 #. This account has been locked. Please contact an administrator to have this account unlocked.
 msgid "this-account-has-been-locked"
@@ -10166,7 +10160,7 @@ msgstr "Symbol giełdowy"
 #. Tile
 #, fuzzy
 msgid "tile"
-msgstr "Tile"
+msgstr "Sąsiadująco"
 
 #. Time Zone Sensitive
 msgid "time-zone-sensitive"
@@ -10415,9 +10409,8 @@ msgid "update-from-chart"
 msgstr "Uaktualnij z wykresu"
 
 #. Update From Custom
-#, fuzzy
 msgid "update-from-custom"
-msgstr "Update From Custom"
+msgstr "Uaktualnij z własnego"
 
 #. Update Group
 msgid "update-group"
