@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-07 14:17+0100\n"
+"PO-Revision-Date: 2007-09-07 14:18+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -8802,9 +8802,8 @@ msgid "shorter"
 msgstr "Krótszy"
 
 #. Should users forward to the cart page when adding an item from the category page?
-#, fuzzy
 msgid "should-users-forward-to-the-cart-page-when-adding-an-item-from-the-category-page"
-msgstr "Should users forward to the cart page when adding an item from the category page?"
+msgstr "Czy użytkownicy powinni być przekierowywani do strony koszyka po dodaniu elementu ze strony kategorii?"
 
 #. Show availability when viewing an item?
 msgid "show-availability-when-viewing-an-item"
