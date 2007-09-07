@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-07 14:18+0100\n"
+"PO-Revision-Date: 2007-09-07 14:19+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -10368,7 +10368,6 @@ msgid "until-unlocked-by-an-administrator"
 msgstr "Do czasu odblokowania przed administratora"
 
 #. Up
-#, fuzzy
 msgid "up"
 msgstr "W górę"
 
