@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-07 14:28+0100\n"
+"PO-Revision-Date: 2007-09-12 23:10+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -3821,9 +3821,8 @@ msgid "email-body"
 msgstr "Treść wiadomości"
 
 #. Email Entry
-#, fuzzy
 msgid "email-entry"
-msgstr "Email Entry"
+msgstr ""
 
 #. Email From
 msgid "email-from"
@@ -6813,9 +6812,8 @@ msgid "password"
 msgstr "Hasło"
 
 #. Past
-#, fuzzy
 msgid "past"
-msgstr "Past"
+msgstr ""
 
 #. Pause
 msgid "pause"
@@ -6902,9 +6900,8 @@ msgid "pieces"
 msgstr "Sztuk"
 
 #. Pim
-#, fuzzy
 msgid "pim"
-msgstr "Pim"
+msgstr ""
 
 #. Plain Text
 msgid "plain-text"
@@ -7476,9 +7473,8 @@ msgid "polish"
 msgstr "Polski"
 
 #. Pool
-#, fuzzy
 msgid "pool"
-msgstr "Pool"
+msgstr ""
 
 #. POP Info
 msgid "pop-info"
@@ -7593,9 +7589,8 @@ msgid "post-reply"
 msgstr "Odpowiedz"
 
 #. Post
-#, fuzzy
 msgid "post"
-msgstr "Post"
+msgstr ""
 
 #. as a reply to {0}.
 msgid "posted-as-a-reply-to"
@@ -7698,9 +7693,8 @@ msgid "primary"
 msgstr "Podstawowy"
 
 #. Principal
-#, fuzzy
 msgid "principal"
-msgstr "Principal"
+msgstr ""
 
 #. Print
 msgid "print"
@@ -7779,9 +7773,8 @@ msgid "property"
 msgstr "Własność"
 
 #. Props
-#, fuzzy
 msgid "props"
-msgstr "Props"
+msgstr ""
 
 #. Proxy Authentication Domain
 msgid "proxy-authentication-domain"
@@ -10187,9 +10180,8 @@ msgid "to"
 msgstr "Do"
 
 #. Toad
-#, fuzzy
 msgid "toad"
-msgstr "Toad"
+msgstr ""
 
 #. Today
 msgid "today"
