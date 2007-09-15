@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-15 19:54+0100\n"
+"PO-Revision-Date: 2007-09-15 19:55+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -8318,6 +8318,7 @@ msgstr "Taki sam jak na rachunku"
 msgid "same-for-all"
 msgstr "Jednakowy"
 
+# wg J.N.: nie uzywane w programie
 #. Same Page
 msgid "same-page"
 msgstr "Ta sama strona"
