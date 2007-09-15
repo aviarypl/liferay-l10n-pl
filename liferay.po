@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-12 23:10+0100\n"
+"PO-Revision-Date: 2007-09-15 19:54+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -7692,9 +7692,11 @@ msgstr "Główny e-mail"
 msgid "primary"
 msgstr "Podstawowy"
 
+# Tlumaczenie wg J.N.
 #. Principal
+#, fuzzy
 msgid "principal"
-msgstr ""
+msgstr "Mocodawca"
 
 #. Print
 msgid "print"
@@ -7772,9 +7774,11 @@ msgstr "Własności"
 msgid "property"
 msgstr "Własność"
 
+# wg J.N.: nie uzywane w programie
 #. Props
+#, fuzzy
 msgid "props"
-msgstr ""
+msgstr "Props"
 
 #. Proxy Authentication Domain
 msgid "proxy-authentication-domain"
@@ -9075,6 +9079,7 @@ msgid "square-yard"
 msgstr "Jard kwadratowy"
 
 # A może 'Plac'?
+# wg J.N.: nie uzywane w programie
 #. Square
 #, fuzzy
 msgid "square"
@@ -10179,9 +10184,11 @@ msgstr "Do tego położenia"
 msgid "to"
 msgstr "Do"
 
+# wg J.N.: nie uzywane w programie
 #. Toad
+#, fuzzy
 msgid "toad"
-msgstr ""
+msgstr "Toad"
 
 #. Today
 msgid "today"
