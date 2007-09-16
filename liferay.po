@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-16 12:45+0100\n"
+"PO-Revision-Date: 2007-09-16 12:48+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -222,6 +222,7 @@ msgstr "Administracja lokalizacjami"
 msgid "javax.portlet.title.41"
 msgstr "Zadania"
 
+# fr: Canalisation; de: Rohrleitung, es: Salas De Reunion, it: Pipeline
 #. Pipeline
 msgid "javax.portlet.title.42"
 msgstr ""
@@ -6903,6 +6904,7 @@ msgid "pieces"
 msgstr "Sztuk"
 
 # Zakładam, że to jednak jest PIM, czyli 'organizer'
+# de: pim
 #. Pim
 #, fuzzy
 msgid "pim"
@@ -7594,6 +7596,7 @@ msgstr "Rozpocznij nowy wątek"
 msgid "post-reply"
 msgstr "Odpowiedz"
 
+# de: post=Nachricht
 #. Post
 msgid "post"
 msgstr ""
