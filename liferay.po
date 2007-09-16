@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-15 19:55+0100\n"
+"PO-Revision-Date: 2007-09-16 12:45+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -3821,8 +3821,9 @@ msgid "email-body"
 msgstr "Treść wiadomości"
 
 #. Email Entry
+#, fuzzy
 msgid "email-entry"
-msgstr ""
+msgstr "Prześlij wpis"
 
 #. Email From
 msgid "email-from"
@@ -6811,9 +6812,11 @@ msgstr "Sprawdzanie składni hasła"
 msgid "password"
 msgstr "Hasło"
 
+# Dalem 'przeszlosc', bo dalej mamy 'future'  (ms)
 #. Past
+#, fuzzy
 msgid "past"
-msgstr ""
+msgstr "Przeszłość"
 
 #. Pause
 msgid "pause"
@@ -6899,9 +6902,11 @@ msgstr "Kołowy"
 msgid "pieces"
 msgstr "Sztuk"
 
+# Zakładam, że to jednak jest PIM, czyli 'organizer'
 #. Pim
+#, fuzzy
 msgid "pim"
-msgstr ""
+msgstr "Organizer"
 
 #. Plain Text
 msgid "plain-text"
@@ -7473,8 +7478,9 @@ msgid "polish"
 msgstr "Polski"
 
 #. Pool
+#, fuzzy
 msgid "pool"
-msgstr ""
+msgstr "Pula"
 
 #. POP Info
 msgid "pop-info"
@@ -7778,7 +7784,7 @@ msgstr "Własność"
 #. Props
 #, fuzzy
 msgid "props"
-msgstr "Props"
+msgstr "Właśc."
 
 #. Proxy Authentication Domain
 msgid "proxy-authentication-domain"
