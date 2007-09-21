@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-20 14:31+0100\n"
-"Last-Translator: Stanisław Małolepszy <smalolepszy@aviary.pl>\n"
+"PO-Revision-Date: 2007-09-21 14:51+0100\n"
+"Last-Translator: wadim dziedzic <wdziedzic@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -811,7 +811,7 @@ msgstr "Dodaj użytkownika"
 
 #. Add User Group
 msgid "action.ADD_USER_GROUP"
-msgstr "Dodaj grupę uzytkowników"
+msgstr "Dodaj grupę użytkowników"
 
 #. Add Vote
 msgid "action.ADD_VOTE"
@@ -1678,7 +1678,7 @@ msgstr "Wystąpił niespodziewany błąd logowania."
 
 #. An unexpected system error occurred.
 msgid "an-unexpected-system-error-occurred"
-msgstr "Wystąpił niespodziewany bład systemowy."
+msgstr "Wystąpił niespodziewany błąd systemowy."
 
 #. And
 msgid "and"
@@ -1782,7 +1782,7 @@ msgstr "Czy na pewno usunąć wybrane artykuły?"
 
 #. Are you sure you want to delete the selected category and all its items?
 msgid "are-you-sure-you-want-to-delete-the-selected-category-and-all-its-items"
-msgstr "Czy na pewno usunać wybraną kategorię i jej artykuły?"
+msgstr "Czy na pewno usunąć wybraną kategorię i jej artykuły?"
 
 #. Are you sure you want to delete the selected coupons.
 msgid "are-you-sure-you-want-to-delete-the-selected-coupons"
@@ -1830,7 +1830,7 @@ msgstr "Czy na pewno usunąć wybraną stronę?"
 
 #. Are you sure you want to delete the selected role?
 msgid "are-you-sure-you-want-to-delete-the-selected-role"
-msgstr "Czy na pewno usunąć wybranę rolę?"
+msgstr "Czy na pewno usunąć wybraną rolę?"
 
 #. Are you sure you want to delete the selected structures?
 msgid "are-you-sure-you-want-to-delete-the-selected-structures"
@@ -1942,7 +1942,7 @@ msgstr "Czy na pewno opróżnić kosz?"
 
 #. Are you sure you want to expire the selected articles?
 msgid "are-you-sure-you-want-to-expire-the-selected-articles"
-msgstr "Czy na pewno przeterminotwać wybrany artykuł?"
+msgstr "Czy na pewno przeterminować wybrany artykuł?"
 
 #. Are you sure you want to move selected messages to
 msgid "are-you-sure-you-want-to-move-selected-messages-to"
@@ -1966,7 +1966,7 @@ msgstr "Czy na pewno usunąć wybrany komponent?"
 
 #. Are you sure you want to switch the language view? Changes made to this language will not be saved.
 msgid "are-you-sure-you-want-to-switch-the-languages-view"
-msgstr "Czy na pewno zmienić widok języka? Zmiany dokanane w tym języku nie zostaną zapisane."
+msgstr "Czy na pewno zmienić widok języka? Zmiany dokonane w tym języku nie zostaną zapisane."
 
 #. Are you sure you want to update this order?
 msgid "are-you-sure-you-want-to-update-this-order"
@@ -2255,7 +2255,7 @@ msgstr "Beka"
 
 #. Below is the XML representation of the default preferences for this portlet.
 msgid "below-is-the-xml-representation-of-the-default-preferences-for-this-portlet"
-msgstr "Poniżej znajduje się reprezentacja XML-owa domyślnych preferencji tego porteltu."
+msgstr "Poniżej znajduje się reprezentacja XML-owa domyślnych preferencji tego portletu."
 
 #. Beta
 msgid "beta"
@@ -2508,7 +2508,7 @@ msgstr "Komórka"
 
 #. Celsius
 msgid "celsius"
-msgstr "Celcjusza"
+msgstr "Celsjusza"
 
 #. Centimeter
 msgid "centimeter"
@@ -2592,7 +2592,7 @@ msgstr "Sprawdź pocztę"
 
 #. Checkout Latest
 msgid "checkout-latest"
-msgstr "Checkout Latest"
+msgstr "Pobierz najnowsze"
 
 #. Checkout
 msgid "checkout"
@@ -2616,7 +2616,7 @@ msgstr "Opcje"
 
 #. Choose a color for each layer type. Be sure to click {0} when you are done.
 msgid "choose-a-color-for-each-layer-type"
-msgstr "Proszę wybrąć kolor dla każdej warstwy. Po wybraniu proszę nacisnąć {0}."
+msgstr "Proszę wybrać kolor dla każdej warstwy. Po wybraniu proszę nacisnąć {0}."
 
 #. Choose a color theme or create your own {0}custom theme{1}.
 msgid "choose-a-color-theme-or-create-your-own-custom-theme"
@@ -3281,7 +3281,7 @@ msgstr "Katalog wdrożenia"
 
 #. Deploy
 msgid "deploy"
-msgstr "Deploy"
+msgstr "Wdrożenie"
 
 #. Descending
 msgid "descending"
@@ -3442,7 +3442,7 @@ msgstr "Nie wysyłaj przypomnienia"
 
 #. Document extensions does not match.
 msgid "document-extensions-does-not-match"
-msgstr "Rozszerzenie dokumentu jest niedopowiednie."
+msgstr "Rozszerzenie dokumentu jest nieodpowiednie."
 
 #. Document name
 msgid "document-name"
@@ -3554,7 +3554,7 @@ msgstr "Holenderski"
 
 #. Edit Article
 msgid "edit-article"
-msgstr "Edycja artukułu"
+msgstr "Edycja artykułu"
 
 #. Edit Assignments for Community
 msgid "edit-assignments-for-community"
@@ -3662,7 +3662,7 @@ msgstr "Edycja stron"
 
 #. Edit Permissions for
 msgid "edit-permissions-for"
-msgstr "Edycja uprawnienień dla:"
+msgstr "Edycja uprawnień dla:"
 
 #. Edit Permissions
 msgid "edit-permissions"
@@ -3952,7 +3952,7 @@ msgstr "Wyczyszczenie pola spowoduje wyłączenie przekazywania e-maili."
 
 #. Enter a blank PayPal email address to disable PayPal. Select the accepted credit cards to record payments using credit cards. Payments will not be required if PayPal is disabled and there are no accepted credit cards.
 msgid "enter-a-blank-paypal-email-address-to-disable-paypal"
-msgstr "Proszę podać pusty ades e-mail PayPal, aby wyłączyć PayPal. Aby zapisać płatności za pomocą kart kredytowych, należy wybrać zaakceptowane karty kredytowe. Płatności nie będą wymagane jeśli PayPal jest wyłączony i nie ma zaakceptowanych kart kredytowych."
+msgstr "Proszę podać pusty adres e-mail PayPal, aby wyłączyć PayPal. Aby zapisać płatności za pomocą kart kredytowych, należy wybrać zaakceptowane karty kredytowe. Płatności nie będą wymagane jeśli PayPal jest wyłączony i nie ma zaakceptowanych kart kredytowych."
 
 #. Enter a name
 msgid "enter-a-name"
@@ -4040,7 +4040,7 @@ msgstr "Proszę podać przyjazny URL, który będzie używany zarówno przez pub
 
 #. Enter the name, image, and priority level in descending order. Threads with a higher priority are displayed before threads with a lower priority. The name is the display name of the priority. The image is the display image of the priority and can be a complete URL or a path relative to the theme.
 msgid "enter-the-name,-image,-and-priority-level-in-descending-order"
-msgstr "Proszę podać nazwę, obraz i priorytet w porządku malejącym. Wątki z wyższym priorytetem wyświetlane sa przed wątkami z niższym priorytetem. Nazwa określa nazwę priorytetu, obraz to obraz dla priorytetu - może być on podany jako pełen adres URL lub jako ścieżka względem położenia motywu."
+msgstr "Proszę podać nazwę, obraz i priorytet w porządku malejącym. Wątki z wyższym priorytetem wyświetlane są przed wątkami z niższym priorytetem. Nazwa określa nazwę priorytetu, obraz to obraz dla priorytetu - może być on podany jako pełen adres URL lub jako ścieżka względem położenia motywu."
 
 #. Enter the public and private virtual host that will map to the public and private friendly URL.
 msgid "enter-the-public-and-private-virtual-host-that-will-map-to-the-public-and-private-friendly-url"
@@ -4216,7 +4216,7 @@ msgstr "Nieudane próby logowania:"
 
 #. Failed to bind to the LDAP server with given values.
 msgid "failed-to-bind-to-the-ldap-server-with-given-values"
-msgstr "Nie udało się połączyć z serwerm LDAP przy użyciu podanych wartości."
+msgstr "Nie udało się połączyć z serwerem LDAP przy użyciu podanych danych."
 
 #. False
 msgid "false"
@@ -4292,7 +4292,7 @@ msgstr "Pole"
 
 #. Fields are added if you need to distinguish items based on criteria chosen by the user. For example, if you are selling t-shirts, you may want to add a field with the name <i>Size</i> and the values <i>S, M, L, XL</i>. Enter the values as a list of comma delimited options.
 msgid "fields-are-added-if-you-need-to-distinguish-items-based-on-criteria-chosen-by-the-user"
-msgstr "Pola dodawane sa jeśli jest potrzeba rozróżnienia artykułów na podstawie kryteriów użytkowników. Np. w przypadku sprzedawania t-shirtów można dodać pole o nazwie <i>Rozmiar</i> i wartościach <i>S, M, L, XL</i>. Wartości podaje się jako listę rozdzielona przecinkami."
+msgstr "Pola dodawane są jeśli jest potrzeba rozróżnienia artykułów na podstawie kryteriów użytkowników. Np. w przypadku sprzedawania t-shirtów można dodać pole o nazwie <i>Rozmiar</i> i wartościach <i>S, M, L, XL</i>. Wartości podaje się jako listę rozdzielona przecinkami."
 
 #. Fields
 msgid "fields"
@@ -4769,15 +4769,15 @@ msgstr "Wykresy historii zmian"
 
 #. This determines the number of previous passwords to keep in the history.
 msgid "history-count-help"
-msgstr "Ta wartość określa liczbę poprzednich haseł, które będa przechowywane w historii."
+msgstr "Ta wartość określa liczbę poprzednich haseł, które będą przechowywane w historii."
 
 #. History Count
 msgid "history-count"
-msgstr "Liczba haseł w hostorii"
+msgstr "Liczba haseł w historii"
 
 #. If this is checked, the portal keeps a history of the user's previous passwords and prevents them from reusing an old password.
 msgid "history-enabled-help"
-msgstr "Jeżeli ta opcja jest zaznaczona, poprzednie hasła użytkownika sa zapisywane, co zapobiega korzystaniu ze starych haseł."
+msgstr "Jeżeli ta opcja jest zaznaczona, poprzednie hasła użytkownika są zapisywane, co zapobiega korzystaniu ze starych haseł."
 
 #. History Enabled
 msgid "history-enabled"
@@ -4878,7 +4878,7 @@ msgstr "Jeśli typ rabatu to <i>darmowa wysyłka</i>, to opłaty za wysyłkę s�
 
 #. If the user is valid and the user exists in the LDAP server but not in Liferay, the user will be synchronized from the LDAP server to Liferay. Below is a mapping of Liferay attributes and the pair name used to populate the Liferay field from LDAP.
 msgid "if-the-user-is-valid-and-the-user-exists-in-the-ldap-server-but-not-in-liferay"
-msgstr "Jeżeli użytkownik zostanie uwierzytelniony na serwerze LDAP, ale nie istnieje w systemie Liferay, to lista użytkowników zostanie zsynchronizowana (LDAPa do Liferay). Poniżej podano mapowanie pomiędzy atrybutami używanymi przez Liferay, a polami z LDAP."
+msgstr "Jeżeli użytkownik zostanie uwierzytelniony na serwerze LDAP, ale nie istnieje w systemie Liferay, to lista użytkowników zostanie zsynchronizowana (LDAP do Liferay). Poniżej podano mapowanie pomiędzy atrybutami używanymi przez Liferay, a polami z LDAP."
 
 #. If you are not {0}, logout and try again.
 msgid "if-you-are-not-x-logout-and-try-again"
