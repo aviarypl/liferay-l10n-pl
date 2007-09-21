@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-21 14:51+0100\n"
+"PO-Revision-Date: 2007-09-21 14:53+0100\n"
 "Last-Translator: wadim dziedzic <wdziedzic@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -11398,7 +11398,7 @@ msgstr "Należy się uwierzytelnić, aby móc używać tego portletu."
 
 #. You must have at least one page.
 msgid "you-must-have-at-least-one-page"
-msgstr "Wymagane jest posiadanie przynajmniej jednej stronę."
+msgstr "Wymagane jest posiadanie przynajmniej jednej strony."
 
 #. You now have a lock on this document. No one else can edit this document until you unlock it. This lock will automatically expire in {0}.
 msgid "you-now-have-a-lock-on-this-document"
