@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-16 12:48+0100\n"
+"PO-Revision-Date: 2007-09-21 11:48+0100\n"
 "Last-Translator: Marek Stępień <mstepien@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -3821,6 +3821,7 @@ msgstr "Adresy e-mail"
 msgid "email-body"
 msgstr "Treść wiadomości"
 
+# de: Email Eintragung
 #. Email Entry
 #, fuzzy
 msgid "email-entry"
@@ -6586,9 +6587,8 @@ msgstr "Wyświetlane są tylko szablony powiązane ze strukturą {0}."
 msgid "open-document"
 msgstr "Otwórz dokument"
 
-# ...czy "Otwarty wpis"?
+# de: Eintrag öffnen
 #. Open Entry
-#, fuzzy
 msgid "open-entry"
 msgstr "Otwórz wpis"
 
@@ -7480,7 +7480,6 @@ msgid "polish"
 msgstr "Polski"
 
 #. Pool
-#, fuzzy
 msgid "pool"
 msgstr "Pula"
 
@@ -7599,7 +7598,7 @@ msgstr "Odpowiedz"
 # de: post=Nachricht
 #. Post
 msgid "post"
-msgstr ""
+msgstr "Wiadomość"
 
 #. as a reply to {0}.
 msgid "posted-as-a-reply-to"
@@ -7784,6 +7783,7 @@ msgid "property"
 msgstr "Własność"
 
 # wg J.N.: nie uzywane w programie
+# de: props=Requisiten
 #. Props
 #, fuzzy
 msgid "props"
@@ -9268,9 +9268,8 @@ msgid "system-properties"
 msgstr "Właściwości systemu"
 
 #. Tab Menu
-#, fuzzy
 msgid "tab-menu"
-msgstr "Menu karty"
+msgstr "Menu kart"
 
 #. Tag Value
 msgid "tag-value"
@@ -10158,7 +10157,6 @@ msgid "ticker-symbol"
 msgstr "Symbol giełdowy"
 
 #. Tile
-#, fuzzy
 msgid "tile"
 msgstr "Sąsiadująco"
 
@@ -10195,10 +10193,10 @@ msgid "to"
 msgstr "Do"
 
 # wg J.N.: nie uzywane w programie
+# de: "TOAD" (duzymi, dlatego u nas tez tak dalem - ms)
 #. Toad
-#, fuzzy
 msgid "toad"
-msgstr "Toad"
+msgstr "TOAD"
 
 #. Today
 msgid "today"
