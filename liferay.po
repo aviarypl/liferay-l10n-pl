@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LifeRay\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-07-19 14:54+0200\n"
-"PO-Revision-Date: 2007-09-20 12:20+0100\n"
+"PO-Revision-Date: 2007-09-20 14:31+0100\n"
 "Last-Translator: Stanisław Małolepszy <smalolepszy@aviary.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -3823,9 +3823,8 @@ msgstr "Treść wiadomości"
 # de: Email Eintragung
 # fr: Entrée de l'email (to nic nie znaczy)
 #. Email Entry
-#, fuzzy
 msgid "email-entry"
-msgstr "Prześlij wpis"
+msgstr "Wpis wiadomości"
 
 #. Email From
 msgid "email-from"
